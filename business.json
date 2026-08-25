@@ -2398,5 +2398,389 @@
     "vietnamese": "doanh nghiệp tư nhân",
     "example": "He runs a sole proprietorship.",
     "difficulty": 3
+  },
+  {
+    "english": "bootstrapping",
+    "vietnamese": "tự thân khởi nghiệp không vốn ngoài",
+    "example": "Bootstrapping forced them to be profitable from day one.",
+    "difficulty": 2
+  },
+  {
+    "english": "cap table",
+    "vietnamese": "bảng phân bổ cổ phần (capitalization table)",
+    "example": "The cap table shows the founders still own 60%.",
+    "difficulty": 3
+  },
+  {
+    "english": "clawback",
+    "vietnamese": "điều khoản thu hồi tiền thưởng/cổ phiếu",
+    "example": "The clawback clause lets the company reclaim bonuses if fraud is found.",
+    "difficulty": 3
+  },
+  {
+    "english": "covenant",
+    "vietnamese": "điều khoản ràng buộc trong hợp đồng vay",
+    "example": "The loan covenant requires us to maintain a 2:1 current ratio.",
+    "difficulty": 3
+  },
+  {
+    "english": "debenture",
+    "vietnamese": "trái phiếu không có tài sản đảm bảo",
+    "example": "The company issued debentures to raise long-term capital.",
+    "difficulty": 3
+  },
+  {
+    "english": "factoring",
+    "vietnamese": "bán khoản phải thu cho bên thứ ba lấy tiền ngay",
+    "example": "Invoice factoring helps small businesses manage cash flow gaps.",
+    "difficulty": 3
+  },
+  {
+    "english": "impairment",
+    "vietnamese": "suy giảm giá trị tài sản",
+    "example": "The asset impairment charge dragged down quarterly earnings.",
+    "difficulty": 3
+  },
+  {
+    "english": "indemnity",
+    "vietnamese": "bồi thường thiệt hại theo hợp đồng",
+    "example": "The contract includes an indemnity clause protecting both parties.",
+    "difficulty": 3
+  },
+  {
+    "english": "lock-up period",
+    "vietnamese": "thời gian cấm bán cổ phiếu sau IPO",
+    "example": "Insiders can't sell during the 180-day lock-up period.",
+    "difficulty": 3
+  },
+  {
+    "english": "poison pill",
+    "vietnamese": "biện pháp chống thâu tóm thù địch",
+    "example": "The board adopted a poison pill to fend off the hostile takeover.",
+    "difficulty": 3
+  },
+  {
+    "english": "prospectus",
+    "vietnamese": "bản cáo bạch chào bán chứng khoán",
+    "example": "Read the prospectus carefully before investing.",
+    "difficulty": 2
+  },
+  {
+    "english": "reconciliation",
+    "vietnamese": "đối chiếu sổ sách kế toán",
+    "example": "The month-end reconciliation caught three missing entries.",
+    "difficulty": 2
+  },
+  {
+    "english": "retainer fee",
+    "vietnamese": "phí duy trì hàng tháng (luật sư, tư vấn)",
+    "example": "We pay the law firm a monthly retainer fee of $2000.",
+    "difficulty": 2
+  },
+  {
+    "english": "rights issue",
+    "vietnamese": "phát hành quyền mua cổ phiếu cho cổ đông hiện hữu",
+    "example": "The rights issue lets existing shareholders buy at a discount.",
+    "difficulty": 3
+  },
+  {
+    "english": "warrant",
+    "vietnamese": "chứng quyền mua cổ phiếu",
+    "example": "The investment came with warrants exercisable at $10 per share.",
+    "difficulty": 3
+  },
+  {
+    "english": "underwriter",
+    "vietnamese": "tổ chức bảo lãnh phát hành chứng khoán",
+    "example": "Goldman Sachs acted as the lead underwriter for the IPO.",
+    "difficulty": 2
+  },
+  {
+    "english": "material adverse change",
+    "vietnamese": "thay đổi bất lợi trọng yếu (MAC clause)",
+    "example": "The buyer walked, citing a material adverse change clause.",
+    "difficulty": 3
+  },
+  {
+    "english": "force majeure",
+    "vietnamese": "điều khoản bất khả kháng",
+    "example": "The supplier invoked force majeure after the factory fire.",
+    "difficulty": 3
+  },
+  {
+    "english": "whistleblower",
+    "vietnamese": "người tố giác sai phạm trong tổ chức",
+    "example": "The whistleblower's report triggered an SEC investigation.",
+    "difficulty": 2
+  },
+  {
+    "english": "whistleblowing",
+    "vietnamese": "hành động tố giác sai phạm nội bộ",
+    "example": "The company has a whistleblowing hotline for anonymous reports.",
+    "difficulty": 2
+  },
+  {
+    "english": "upskill",
+    "vietnamese": "nâng cao kỹ năng cho nhân viên",
+    "example": "The company is investing heavily in upskilling its workforce.",
+    "difficulty": 2
+  },
+  {
+    "english": "reskill",
+    "vietnamese": "đào tạo lại kỹ năng mới",
+    "example": "Automation means we need to reskill half the factory staff.",
+    "difficulty": 2
+  },
+  {
+    "english": "run rate",
+    "vietnamese": "tốc độ doanh thu/chi tiêu (ngoại suy theo năm)",
+    "example": "Our current run rate puts us on track for $2M this year.",
+    "difficulty": 2
+  },
+  {
+    "english": "OKR",
+    "vietnamese": "Mục tiêu và Kết quả then chốt (Objectives and Key Results)",
+    "example": "The team's OKRs are aligned with the company's annual goals.",
+    "difficulty": 2
+  },
+  {
+    "english": "KPIs",
+    "vietnamese": "Chỉ số đo lường hiệu suất chính (Key Performance Indicators)",
+    "example": "Our main KPIs are revenue growth and customer satisfaction.",
+    "difficulty": 1
+  },
+  {
+    "english": "ROI",
+    "vietnamese": "Lợi tức đầu tư (Return on Investment)",
+    "example": "What's the expected ROI on this marketing campaign?",
+    "difficulty": 1
+  },
+  {
+    "english": "LTV",
+    "vietnamese": "Giá trị trọn đời khách hàng (Lifetime Value)",
+    "example": "A high LTV justifies spending more on customer acquisition.",
+    "difficulty": 2
+  },
+  {
+    "english": "CAC",
+    "vietnamese": "Chi phí thu hút khách hàng (Customer Acquisition Cost)",
+    "example": "If CAC exceeds LTV, the business model is broken.",
+    "difficulty": 2
+  },
+  {
+    "english": "MRR",
+    "vietnamese": "Doanh thu định kỳ hàng tháng (Monthly Recurring Revenue)",
+    "example": "We hit $50K MRR this month for the first time.",
+    "difficulty": 2
+  },
+  {
+    "english": "ARR",
+    "vietnamese": "Doanh thu định kỳ hàng năm (Annual Recurring Revenue)",
+    "example": "Crossing $1M ARR is a major milestone for any SaaS company.",
+    "difficulty": 2
+  },
+  {
+    "english": "NPS",
+    "vietnamese": "Chỉ số hài lòng khách hàng (Net Promoter Score)",
+    "example": "Our NPS jumped from 30 to 45 after the redesign.",
+    "difficulty": 2
+  },
+  {
+    "english": "vertical",
+    "vietnamese": "ngành dọc, lĩnh vực chuyên biệt",
+    "example": "We focus on the healthcare vertical.",
+    "difficulty": 1
+  },
+  {
+    "english": "horizontal",
+    "vietnamese": "ngành ngang, sản phẩm phục vụ nhiều ngành",
+    "example": "Slack is a horizontal product — every industry uses it.",
+    "difficulty": 1
+  },
+  {
+    "english": "moat",
+    "vietnamese": "lợi thế cạnh tranh bền vững",
+    "example": "Their patent portfolio is a deep moat against competitors.",
+    "difficulty": 2
+  },
+  {
+    "english": "first-mover advantage",
+    "vietnamese": "lợi thế người tiên phong",
+    "example": "Amazon's first-mover advantage in e-commerce is hard to beat.",
+    "difficulty": 2
+  },
+  {
+    "english": "low-hanging fruit",
+    "vietnamese": "việc dễ làm trước, cơ hội dễ nắm bắt",
+    "example": "Let's tackle the low-hanging fruit before the complex problems.",
+    "difficulty": 2
+  },
+  {
+    "english": "boil the ocean",
+    "vietnamese": "làm việc quá tham lam, không khả thi",
+    "example": "Don't try to boil the ocean — start with one market.",
+    "difficulty": 3
+  },
+  {
+    "english": "move the needle",
+    "vietnamese": "tạo ra thay đổi đáng kể",
+    "example": "This feature alone won't move the needle on revenue.",
+    "difficulty": 2
+  },
+  {
+    "english": "circle the wagons",
+    "vietnamese": "tập hợp lại phòng thủ khi gặp khó",
+    "example": "When the lawsuit hit, management circled the wagons.",
+    "difficulty": 3
+  },
+  {
+    "english": "bleeding edge",
+    "vietnamese": "công nghệ quá mới, còn nhiều rủi ro",
+    "example": "Their stack is bleeding edge — powerful but unstable.",
+    "difficulty": 2
+  },
+  {
+    "english": "drink the Kool-Aid",
+    "vietnamese": "tin mù quáng vào văn hóa/tầm nhìn công ty",
+    "example": "He drank the Kool-Aid and now recites the mission statement in his sleep.",
+    "difficulty": 3
+  },
+  {
+    "english": "dogfood",
+    "vietnamese": "tự dùng sản phẩm của mình (eat your own dog food)",
+    "example": "We dogfood every new feature before shipping to customers.",
+    "difficulty": 2
+  },
+  {
+    "english": "stand-up",
+    "vietnamese": "họp nhanh đứng hàng ngày (agile)",
+    "example": "Our daily stand-up is at 9:15 sharp.",
+    "difficulty": 1
+  },
+  {
+    "english": "sprint",
+    "vietnamese": "chu kỳ làm việc ngắn (thường 2 tuần, agile)",
+    "example": "We're wrapping up sprint three and planning sprint four.",
+    "difficulty": 1
+  },
+  {
+    "english": "retrospective",
+    "vietnamese": "họp rút kinh nghiệm sau sprint/dự án",
+    "example": "The retrospective surfaced three process improvements.",
+    "difficulty": 2
+  },
+  {
+    "english": "all-hands",
+    "vietnamese": "họp toàn công ty",
+    "example": "The CEO will announce the new strategy at the all-hands.",
+    "difficulty": 2
+  },
+  {
+    "english": "town hall",
+    "vietnamese": "họp mở, hỏi đáp toàn công ty",
+    "example": "Employees can ask anything at the quarterly town hall.",
+    "difficulty": 2
+  },
+  {
+    "english": "one-on-one",
+    "vietnamese": "họp riêng giữa quản lý và nhân viên",
+    "example": "My weekly one-on-one with my manager is on Wednesday.",
+    "difficulty": 1
+  },
+  {
+    "english": "skip-level",
+    "vietnamese": "họp với sếp của sếp mình",
+    "example": "The VP scheduled skip-level meetings with every engineer.",
+    "difficulty": 2
+  },
+  {
+    "english": "cross-functional",
+    "vietnamese": "liên phòng ban, đa chức năng",
+    "example": "We formed a cross-functional team to tackle the redesign.",
+    "difficulty": 2
+  },
+  {
+    "english": "silo",
+    "vietnamese": "phòng ban biệt lập, không chia sẻ thông tin",
+    "example": "Breaking down silos between departments is a top priority.",
+    "difficulty": 2
+  },
+  {
+    "english": "bandwidth",
+    "vietnamese": "khả năng xử lý công việc",
+    "example": "I don't have the bandwidth to take on another project right now.",
+    "difficulty": 2
+  },
+  {
+    "english": "iterate",
+    "vietnamese": "cải tiến dần qua nhiều vòng",
+    "example": "We iterate on the design every week based on user feedback.",
+    "difficulty": 1
+  },
+  {
+    "english": "ship",
+    "vietnamese": "phát hành sản phẩm/tính năng",
+    "example": "We need to ship this update before the conference.",
+    "difficulty": 1
+  },
+  {
+    "english": "sign-off",
+    "vietnamese": "phê duyệt cuối cùng",
+    "example": "We're waiting for legal sign-off on the contract.",
+    "difficulty": 1
+  },
+  {
+    "english": "red tape",
+    "vietnamese": "thủ tục hành chính rườm rà",
+    "example": "The project got tangled in government red tape.",
+    "difficulty": 2
+  },
+  {
+    "english": "offboarding",
+    "vietnamese": "quy trình cho nhân viên nghỉ việc",
+    "example": "Offboarding includes an exit interview and equipment return.",
+    "difficulty": 2
+  },
+  {
+    "english": "turnaround",
+    "vietnamese": "thời gian hoàn thành; xoay chuyển tình thế",
+    "example": "They promised a 24-hour turnaround on all orders.",
+    "difficulty": 2
+  },
+  {
+    "english": "write-off",
+    "vietnamese": "xóa sổ khoản không thu hồi được",
+    "example": "The bad debt was written off as a loss.",
+    "difficulty": 2
+  },
+  {
+    "english": "accrual",
+    "vietnamese": "kế toán dồn tích (ghi nhận khi phát sinh)",
+    "example": "We use accrual accounting, not cash basis.",
+    "difficulty": 3
+  },
+  {
+    "english": "amortization",
+    "vietnamese": "khấu hao tài sản vô hình",
+    "example": "The patent is amortized over its 20-year life.",
+    "difficulty": 3
+  },
+  {
+    "english": "accounts receivable",
+    "vietnamese": "khoản phải thu từ khách hàng",
+    "example": "Our accounts receivable are piling up — we need to chase payments.",
+    "difficulty": 2
+  },
+  {
+    "english": "accounts payable",
+    "vietnamese": "khoản phải trả cho nhà cung cấp",
+    "example": "Accounts payable are due within 30 days.",
+    "difficulty": 2
+  },
+  {
+    "english": "scalability",
+    "vietnamese": "khả năng mở rộng",
+    "example": "The platform's scalability is its biggest selling point.",
+    "difficulty": 2
   }
 ]

@@ -126,12 +126,6 @@
     "difficulty": 1
   },
   {
-    "english": "patronize",
-    "vietnamese": "đối xử trịch thượng",
-    "example": "Don't patronize me — I know what I'm doing.",
-    "difficulty": 3
-  },
-  {
     "english": "persuade",
     "vietnamese": "thuyết phục",
     "example": "She persuaded the client to sign the contract.",
@@ -153,12 +147,6 @@
     "english": "sensitive",
     "vietnamese": "nhạy cảm, tế nhị",
     "example": "Be sensitive when discussing personal matters.",
-    "difficulty": 1
-  },
-  {
-    "english": "small talk",
-    "vietnamese": "nói chuyện xã giao",
-    "example": "I'm terrible at small talk at parties.",
     "difficulty": 1
   },
   {
@@ -516,12 +504,6 @@
     "difficulty": 2
   },
   {
-    "english": "talk behind one's back",
-    "vietnamese": "nói xấu sau lưng",
-    "example": "I hate it when people talk behind my back.",
-    "difficulty": 2
-  },
-  {
     "english": "thoughtful",
     "vietnamese": "chu đáo, ân cần",
     "example": "It was thoughtful of him to bring you soup when you were sick.",
@@ -615,12 +597,6 @@
     "english": "articulate",
     "vietnamese": "diễn đạt rõ ràng",
     "example": "She articulated her concerns clearly during the meeting.",
-    "difficulty": 2
-  },
-  {
-    "english": "banter",
-    "vietnamese": "trêu đùa qua lại",
-    "example": "Their light banter made the group feel relaxed.",
     "difficulty": 2
   },
   {
@@ -760,12 +736,6 @@
     "vietnamese": "vô điều kiện",
     "example": "A parent's love is often unconditional.",
     "difficulty": 2
-  },
-  {
-    "english": "verbose",
-    "vietnamese": "dài dòng, rườm rà",
-    "example": "His verbose explanation lost everyone's attention.",
-    "difficulty": 3
   },
   {
     "english": "affable",
@@ -1512,12 +1482,6 @@
     "difficulty": 3
   },
   {
-    "english": "retort",
-    "vietnamese": "đáp trả gay gắt",
-    "example": "His sharp retort ended the argument.",
-    "difficulty": 3
-  },
-  {
     "english": "scorn",
     "vietnamese": "khinh bỉ, coi thường",
     "example": "He poured scorn on the whole idea.",
@@ -1726,12 +1690,6 @@
     "vietnamese": "độc thoại",
     "example": "He launched into a long monologue.",
     "difficulty": 3
-  },
-  {
-    "english": "icebreaker",
-    "vietnamese": "câu phá băng, mở đầu",
-    "example": "A joke is a good icebreaker.",
-    "difficulty": 2
   },
   {
     "english": "chat",
@@ -2392,5 +2350,431 @@
     "vietnamese": "nói ngọng âm s",
     "example": "She has a slight lisp.",
     "difficulty": 3
+  },
+  {
+    "english": "code-switching",
+    "vietnamese": "chuyển đổi ngôn ngữ/phong cách nói theo ngữ cảnh",
+    "example": "She's fluent in code-switching between formal meetings and casual chats.",
+    "difficulty": 3
+  },
+  {
+    "english": "deadpan",
+    "vietnamese": "nói tỉnh bơ, mặt lạnh",
+    "example": "He delivered the joke deadpan and nobody knew if he was serious.",
+    "difficulty": 2
+  },
+  {
+    "english": "inflection",
+    "vietnamese": "sự biến đổi giọng nói",
+    "example": "Her voice inflection made the question sound like an accusation.",
+    "difficulty": 2
+  },
+  {
+    "english": "quip",
+    "vietnamese": "câu nói hóm hỉnh nhanh",
+    "example": "Her quip about the long meeting got a laugh from everyone.",
+    "difficulty": 2
+  },
+  {
+    "english": "witticism",
+    "vietnamese": "câu nói dí dỏm thông minh",
+    "example": "The dinner was filled with witticisms from the host.",
+    "difficulty": 3
+  },
+  {
+    "english": "ramble",
+    "vietnamese": "nói lan man dài dòng",
+    "example": "He rambled for ten minutes before getting to the point.",
+    "difficulty": 1
+  },
+  {
+    "english": "digress",
+    "vietnamese": "lạc đề, nói sang chuyện khác",
+    "example": "I digress — let's get back to the main topic.",
+    "difficulty": 2
+  },
+  {
+    "english": "terse",
+    "vietnamese": "cộc lốc, ngắn gọn đến mức thô",
+    "example": "His terse reply made it clear he was unhappy.",
+    "difficulty": 2
+  },
+  {
+    "english": "ramble on",
+    "vietnamese": "lải nhải không dứt",
+    "example": "She rambled on about her vacation for half an hour.",
+    "difficulty": 1
+  },
+  {
+    "english": "overshare",
+    "vietnamese": "chia sẻ quá nhiều thông tin cá nhân",
+    "example": "He tends to overshare with strangers — it makes people uncomfortable.",
+    "difficulty": 1
+  },
+  {
+    "english": "undersell",
+    "vietnamese": "nói giảm, trình bày kém thuyết phục",
+    "example": "Don't undersell yourself in the interview — own your achievements.",
+    "difficulty": 2
+  },
+  {
+    "english": "overstate",
+    "vietnamese": "nói quá, phóng đại",
+    "example": "The report overstated the benefits and ignored the risks.",
+    "difficulty": 1
+  },
+  {
+    "english": "downplay",
+    "vietnamese": "hạ thấp, coi nhẹ",
+    "example": "He downplayed the incident but everyone knew it was serious.",
+    "difficulty": 1
+  },
+  {
+    "english": "sugarcoat",
+    "vietnamese": "nói giảm nói tránh, bọc đường",
+    "example": "Don't sugarcoat the feedback — I need to hear the truth.",
+    "difficulty": 2
+  },
+  {
+    "english": "backpedal",
+    "vietnamese": "rút lại lời, nói đỡ",
+    "example": "He tried to backpedal after realizing his comment offended everyone.",
+    "difficulty": 2
+  },
+  {
+    "english": "deflect",
+    "vietnamese": "lảng tránh câu hỏi/chủ đề",
+    "example": "She deflected the question with a joke.",
+    "difficulty": 2
+  },
+  {
+    "english": "stonewall",
+    "vietnamese": "im lặng cố tình, từ chối trả lời",
+    "example": "The witness stonewalled every question from the lawyer.",
+    "difficulty": 2
+  },
+  {
+    "english": "gaslight",
+    "vietnamese": "thao túng tâm lý khiến người khác nghi ngờ chính mình",
+    "example": "He tried to gaslight her into thinking she'd agreed to it.",
+    "difficulty": 3
+  },
+  {
+    "english": "talk over",
+    "vietnamese": "nói át, nói đè lên người khác",
+    "example": "He constantly talks over people in meetings.",
+    "difficulty": 1
+  },
+  {
+    "english": "chime in",
+    "vietnamese": "chen vào góp ý",
+    "example": "Feel free to chime in if you have something to add.",
+    "difficulty": 1
+  },
+  {
+    "english": "butt in",
+    "vietnamese": "xen ngang, cắt lời thô lỗ",
+    "example": "Sorry to butt in, but I think we're missing the point.",
+    "difficulty": 1
+  },
+  {
+    "english": "cut off",
+    "vietnamese": "cắt ngang lời",
+    "example": "She cut him off mid-sentence to correct his numbers.",
+    "difficulty": 1
+  },
+  {
+    "english": "talk shop",
+    "vietnamese": "nói chuyện công việc ngoài giờ",
+    "example": "We promised not to talk shop at the dinner party.",
+    "difficulty": 1
+  },
+  {
+    "english": "touch base",
+    "vietnamese": "liên lạc nhanh để cập nhật",
+    "example": "Let's touch base on Friday to align before the pitch.",
+    "difficulty": 1
+  },
+  {
+    "english": "circle back",
+    "vietnamese": "quay lại chủ đề sau",
+    "example": "We'll circle back to the budget question at the end.",
+    "difficulty": 1
+  },
+  {
+    "english": "ping",
+    "vietnamese": "nhắn tin ngắn để nhắc/nhận phản hồi",
+    "example": "I'll ping you when the draft is ready for review.",
+    "difficulty": 1
+  },
+  {
+    "english": "loop in",
+    "vietnamese": "thêm ai vào vòng trao đổi",
+    "example": "Can you loop in the legal team on this thread?",
+    "difficulty": 1
+  },
+  {
+    "english": "follow up",
+    "vietnamese": "theo dõi tiếp sau cuộc họp/trao đổi",
+    "example": "I'll follow up with an email summarizing our discussion.",
+    "difficulty": 1
+  },
+  {
+    "english": "run by",
+    "vietnamese": "trình bày nhanh để xin ý kiến",
+    "example": "Let me run this idea by you before I take it to the client.",
+    "difficulty": 1
+  },
+  {
+    "english": "talk down to",
+    "vietnamese": "nói kiểu trịch thượng",
+    "example": "Nobody likes a manager who talks down to the team.",
+    "difficulty": 1
+  },
+  {
+    "english": "talk up",
+    "vietnamese": "ca ngợi, đề cao",
+    "example": "She talked up the new product until the room was sold.",
+    "difficulty": 1
+  },
+  {
+    "english": "talk through",
+    "vietnamese": "thảo luận kỹ lưỡng",
+    "example": "Let's talk through the proposal step by step.",
+    "difficulty": 1
+  },
+  {
+    "english": "read the room",
+    "vietnamese": "cảm nhận bầu không khí để điều chỉnh cách nói",
+    "example": "He failed to read the room and told a joke at a funeral.",
+    "difficulty": 2
+  },
+  {
+    "english": "hold forth",
+    "vietnamese": "thao thao bất tuyệt, diễn thuyết",
+    "example": "He held forth on climate policy for an hour.",
+    "difficulty": 2
+  },
+  {
+    "english": "hold back",
+    "vietnamese": "kìm nén, không nói hết",
+    "example": "She held back her real opinion to avoid conflict.",
+    "difficulty": 1
+  },
+  {
+    "english": "speak up",
+    "vietnamese": "lên tiếng, nói to hơn",
+    "example": "If you disagree, speak up — your voice matters.",
+    "difficulty": 1
+  },
+  {
+    "english": "speak out",
+    "vietnamese": "công khai lên tiếng phản đối",
+    "example": "She spoke out against the policy change at the town hall.",
+    "difficulty": 1
+  },
+  {
+    "english": "weigh in",
+    "vietnamese": "đưa ra ý kiến",
+    "example": "The CEO weighed in on the debate with a decisive call.",
+    "difficulty": 1
+  },
+  {
+    "english": "water down",
+    "vietnamese": "làm nhẹ đi, pha loãng thông điệp",
+    "example": "Don't water down your message — be direct.",
+    "difficulty": 1
+  },
+  {
+    "english": "call out",
+    "vietnamese": "chỉ trích công khai, vạch trần",
+    "example": "She called out her colleague for taking credit on her work.",
+    "difficulty": 1
+  },
+  {
+    "english": "call in",
+    "vietnamese": "gọi điện tham gia (gọi vào show, meeting)",
+    "example": "The senator called in to the radio show to clarify.",
+    "difficulty": 1
+  },
+  {
+    "english": "sit down",
+    "vietnamese": "ngồi lại nói chuyện nghiêm túc",
+    "example": "We need to sit down and have an honest conversation.",
+    "difficulty": 1
+  },
+  {
+    "english": "level with",
+    "vietnamese": "nói thật, thẳng thắn với ai",
+    "example": "Let me level with you — the project is in trouble.",
+    "difficulty": 1
+  },
+  {
+    "english": "come clean",
+    "vietnamese": "thú nhận, nói thật sau khi giấu",
+    "example": "He finally came clean about why he missed the deadline.",
+    "difficulty": 2
+  },
+  {
+    "english": "open up",
+    "vietnamese": "mở lòng, chia sẻ cảm xúc",
+    "example": "It took years for him to open up about his childhood.",
+    "difficulty": 1
+  },
+  {
+    "english": "clam up",
+    "vietnamese": "im bặt vì lo lắng/sợ hãi",
+    "example": "He clammed up the moment his boss entered the room.",
+    "difficulty": 2
+  },
+  {
+    "english": "blurt out",
+    "vietnamese": "buột miệng nói ra",
+    "example": "She blurted out the surprise before the party even started.",
+    "difficulty": 1
+  },
+  {
+    "english": "snap back",
+    "vietnamese": "đáp trả gay gắt",
+    "example": "He snapped back at the criticism before thinking.",
+    "difficulty": 1
+  },
+  {
+    "english": "mouth off",
+    "vietnamese": "nói hỗn, trả treo",
+    "example": "The teenager mouthed off to the teacher and got detention.",
+    "difficulty": 2
+  },
+  {
+    "english": "bad-mouth",
+    "vietnamese": "nói xấu sau lưng",
+    "example": "She spent the lunch break bad-mouthing the new manager.",
+    "difficulty": 1
+  },
+  {
+    "english": "echo chamber",
+    "vietnamese": "môi trường chỉ nghe ý kiến giống mình",
+    "example": "Social media can become an echo chamber if you only follow like-minded people.",
+    "difficulty": 3
+  },
+  {
+    "english": "straw man",
+    "vietnamese": "lập luận bù nhìn (bóp méo ý đối phương)",
+    "example": "That's a straw man — I never said we should cancel the project.",
+    "difficulty": 3
+  },
+  {
+    "english": "loaded language",
+    "vietnamese": "ngôn từ mang nặng cảm xúc để thao túng",
+    "example": "The ad used loaded language to sway voters with fear.",
+    "difficulty": 3
+  },
+  {
+    "english": "spin",
+    "vietnamese": "trình bày sự việc theo hướng có lợi",
+    "example": "The PR team put a positive spin on the quarterly loss.",
+    "difficulty": 2
+  },
+  {
+    "english": "double entendre",
+    "vietnamese": "câu nói hai nghĩa, một nghĩa tục",
+    "example": "The comedian's double entendre went over the kids' heads.",
+    "difficulty": 3
+  },
+  {
+    "english": "innuendo",
+    "vietnamese": "ám chỉ gián tiếp, bóng gió",
+    "example": "The article was full of innuendo without any hard evidence.",
+    "difficulty": 3
+  },
+  {
+    "english": "euphemism",
+    "vietnamese": "uyển ngữ, nói tránh",
+    "example": "He used the euphemism 'restructuring' instead of 'layoffs'.",
+    "difficulty": 2
+  },
+  {
+    "english": "dog whistle",
+    "vietnamese": "ám hiệu chính trị (nói một đằng, nhóm mục tiêu hiểu một nẻo)",
+    "example": "Critics accused the speech of containing a dog whistle.",
+    "difficulty": 3
+  },
+  {
+    "english": "goad",
+    "vietnamese": "khiêu khích, chọc tức để phản ứng",
+    "example": "He goaded her into an argument she later regretted.",
+    "difficulty": 2
+  },
+  {
+    "english": "tease",
+    "vietnamese": "trêu chọc vui",
+    "example": "His friends tease him about his cooking but they always eat everything.",
+    "difficulty": 1
+  },
+  {
+    "english": "heckle",
+    "vietnamese": "la ó, chọc phá người đang nói",
+    "example": "The comedian handled the heckler with a quick comeback.",
+    "difficulty": 2
+  },
+  {
+    "english": "telegraph",
+    "vietnamese": "biểu lộ vô tình qua cử chỉ/nét mặt (telegraph emotions)",
+    "example": "His crossed arms telegraphed his disagreement before he said a word.",
+    "difficulty": 2
+  },
+  {
+    "english": "project",
+    "vietnamese": "phóng chiếu cảm xúc của mình lên người khác",
+    "example": "You're projecting your own insecurity onto me.",
+    "difficulty": 2
+  },
+  {
+    "english": "triangulate",
+    "vietnamese": "lôi kéo người thứ ba vào xung đột thay vì nói thẳng",
+    "example": "Instead of telling me directly, she triangulated through our mutual friend.",
+    "difficulty": 3
+  },
+  {
+    "english": "patronize",
+    "vietnamese": "đối xử trịch thượng",
+    "example": "Don't patronize me — I know what I'm doing.",
+    "difficulty": 3
+  },
+  {
+    "english": "small talk",
+    "vietnamese": "nói chuyện xã giao",
+    "example": "I'm terrible at small talk at parties.",
+    "difficulty": 1
+  },
+  {
+    "english": "talk behind one's back",
+    "vietnamese": "nói xấu sau lưng",
+    "example": "I hate it when people talk behind my back.",
+    "difficulty": 2
+  },
+  {
+    "english": "banter",
+    "vietnamese": "trêu đùa qua lại",
+    "example": "Their light banter made the group feel relaxed.",
+    "difficulty": 2
+  },
+  {
+    "english": "verbose",
+    "vietnamese": "dài dòng, rườm rà",
+    "example": "His verbose explanation lost everyone's attention.",
+    "difficulty": 3
+  },
+  {
+    "english": "retort",
+    "vietnamese": "đáp trả gay gắt",
+    "example": "His sharp retort ended the argument.",
+    "difficulty": 3
+  },
+  {
+    "english": "icebreaker",
+    "vietnamese": "câu phá băng, mở đầu",
+    "example": "A joke is a good icebreaker.",
+    "difficulty": 2
   }
 ]

@@ -2518,5 +2518,299 @@
     "vietnamese": "khu nghỉ dưỡng yoga",
     "example": "The yoga retreat was deeply relaxing.",
     "difficulty": 2
+  },
+  {
+    "english": "e-visa",
+    "vietnamese": "visa điện tử",
+    "example": "Apply for an e-visa online at least three days before departure.",
+    "difficulty": 1
+  },
+  {
+    "english": "transit visa",
+    "vietnamese": "visa quá cảnh",
+    "example": "You don't need a transit visa if you stay in the airport.",
+    "difficulty": 2
+  },
+  {
+    "english": "vaccination card",
+    "vietnamese": "sổ tiêm chủng",
+    "example": "Some countries still require a yellow fever vaccination card.",
+    "difficulty": 2
+  },
+  {
+    "english": "yellow card",
+    "vietnamese": "sổ tiêm chủng vàng da",
+    "example": "The border officer asked to see my yellow card.",
+    "difficulty": 2
+  },
+  {
+    "english": "malaria prophylaxis",
+    "vietnamese": "thuốc phòng sốt rét",
+    "example": "Start malaria prophylaxis two weeks before traveling to the jungle.",
+    "difficulty": 3
+  },
+  {
+    "english": "traveler's diarrhea",
+    "vietnamese": "tiêu chảy du lịch",
+    "example": "Avoid tap water and street ice to prevent traveler's diarrhea.",
+    "difficulty": 2
+  },
+  {
+    "english": "pharmacy",
+    "vietnamese": "hiệu thuốc, nhà thuốc",
+    "example": "There's a 24-hour pharmacy two blocks from the hotel.",
+    "difficulty": 1
+  },
+  {
+    "english": "prescription",
+    "vietnamese": "đơn thuốc",
+    "example": "Bring your prescriptions in their original bottles.",
+    "difficulty": 1
+  },
+  {
+    "english": "over-the-counter",
+    "vietnamese": "thuốc không cần kê đơn",
+    "example": "You can get painkillers over-the-counter at any pharmacy.",
+    "difficulty": 2
+  },
+  {
+    "english": "rehydration salts",
+    "vietnamese": "muối bù nước",
+    "example": "Pack rehydration salts in case of food poisoning.",
+    "difficulty": 2
+  },
+  {
+    "english": "mosquito repellent",
+    "vietnamese": "thuốc chống muỗi",
+    "example": "DEET-based mosquito repellent works best in tropical regions.",
+    "difficulty": 1
+  },
+  {
+    "english": "sunblock",
+    "vietnamese": "kem chống nắng",
+    "example": "Reapply sunblock every two hours at the beach.",
+    "difficulty": 1
+  },
+  {
+    "english": "after-sun",
+    "vietnamese": "kem dưỡng sau khi phơi nắng",
+    "example": "Apply after-sun lotion to soothe sunburned skin.",
+    "difficulty": 2
+  },
+  {
+    "english": "power adapter",
+    "vietnamese": "bộ chuyển đổi điện",
+    "example": "You need a power adapter, their outlets are type C.",
+    "difficulty": 1
+  },
+  {
+    "english": "voltage converter",
+    "vietnamese": "bộ chuyển đổi điện áp",
+    "example": "A voltage converter is necessary for 110V devices in 220V countries.",
+    "difficulty": 2
+  },
+  {
+    "english": "universal adapter",
+    "vietnamese": "bộ chuyển đổi đa năng",
+    "example": "A universal adapter saves you from carrying three different plugs.",
+    "difficulty": 1
+  },
+  {
+    "english": "eSIM",
+    "vietnamese": "SIM điện tử",
+    "example": "eSIM is convenient, no need to swap physical cards.",
+    "difficulty": 2
+  },
+  {
+    "english": "Wi-Fi hotspot",
+    "vietnamese": "điểm phát Wi-Fi",
+    "example": "The cafe has a free Wi-Fi hotspot for customers.",
+    "difficulty": 1
+  },
+  {
+    "english": "luggage scale",
+    "vietnamese": "cân hành lý",
+    "example": "A portable luggage scale saves you from overweight fees at check-in.",
+    "difficulty": 1
+  },
+  {
+    "english": "packing cubes",
+    "vietnamese": "túi phân chia đồ trong vali",
+    "example": "Packing cubes keep your suitcase organized for the whole trip.",
+    "difficulty": 2
+  },
+  {
+    "english": "travel wallet",
+    "vietnamese": "ví du lịch (đựng passport, thẻ)",
+    "example": "Keep your travel wallet in your front pocket to deter pickpockets.",
+    "difficulty": 1
+  },
+  {
+    "english": "money belt",
+    "vietnamese": "túi đeo bụng giấu tiền",
+    "example": "A money belt under your shirt is safer than a wallet.",
+    "difficulty": 1
+  },
+  {
+    "english": "daypack",
+    "vietnamese": "ba lô nhỏ đi trong ngày",
+    "example": "Leave the big bag at the hotel and explore with a daypack.",
+    "difficulty": 1
+  },
+  {
+    "english": "dry bag",
+    "vietnamese": "túi chống nước",
+    "example": "Put your phone in a dry bag before the boat ride.",
+    "difficulty": 2
+  },
+  {
+    "english": "sleeping bag liner",
+    "vietnamese": "túi lót trong túi ngủ",
+    "example": "A silk sleeping bag liner adds warmth and keeps the sleeping bag clean.",
+    "difficulty": 2
+  },
+  {
+    "english": "travel pillow",
+    "vietnamese": "gối du lịch",
+    "example": "A good travel pillow makes a 12-hour flight bearable.",
+    "difficulty": 1
+  },
+  {
+    "english": "eye mask",
+    "vietnamese": "bịt mắt ngủ",
+    "example": "An eye mask and earplugs are essential for hostel stays.",
+    "difficulty": 1
+  },
+  {
+    "english": "compression socks",
+    "vietnamese": "tất áp lực (chống sưng chân khi bay)",
+    "example": "Compression socks prevent swollen ankles on long-haul flights.",
+    "difficulty": 2
+  },
+  {
+    "english": "travel-sized",
+    "vietnamese": "kích cỡ du lịch (dưới 100ml)",
+    "example": "Buy travel-sized toiletries or use refillable bottles.",
+    "difficulty": 1
+  },
+  {
+    "english": "refillable bottle",
+    "vietnamese": "chai có thể đổ lại",
+    "example": "A refillable bottle saves money and plastic waste.",
+    "difficulty": 1
+  },
+  {
+    "english": "sleep mask",
+    "vietnamese": "mặt nạ ngủ",
+    "example": "The hotel provides a sleep mask for daytime sleepers.",
+    "difficulty": 1
+  },
+  {
+    "english": "noise-canceling headphones",
+    "vietnamese": "tai nghe chống ồn",
+    "example": "Noise-canceling headphones are a lifesaver on noisy flights.",
+    "difficulty": 1
+  },
+  {
+    "english": "check-in kiosk",
+    "vietnamese": "máy tự làm thủ tục",
+    "example": "Skip the line by using the check-in kiosk.",
+    "difficulty": 1
+  },
+  {
+    "english": "self-service",
+    "vietnamese": "tự phục vụ",
+    "example": "The self-service machines at the airport save a lot of time.",
+    "difficulty": 1
+  },
+  {
+    "english": "mobile boarding pass",
+    "vietnamese": "thẻ lên máy bay điện tử",
+    "example": "Show your mobile boarding pass, no need to print anything.",
+    "difficulty": 1
+  },
+  {
+    "english": "security checkpoint",
+    "vietnamese": "trạm kiểm tra an ninh",
+    "example": "The security checkpoint line was surprisingly short at 5 AM.",
+    "difficulty": 1
+  },
+  {
+    "english": "body scanner",
+    "vietnamese": "máy quét toàn thân",
+    "example": "You go through a body scanner at the security checkpoint.",
+    "difficulty": 1
+  },
+  {
+    "english": "pat-down",
+    "vietnamese": "khám người bằng tay",
+    "example": "I was selected for a random pat-down after the alarm went off.",
+    "difficulty": 2
+  },
+  {
+    "english": "liquids rule",
+    "vietnamese": "quy định chất lỏng (3-1-1)",
+    "example": "Follow the 3-1-1 liquids rule: 100ml bottles in a quart-sized bag.",
+    "difficulty": 2
+  },
+  {
+    "english": "carry-on only",
+    "vietnamese": "chỉ mang hành lý xách tay",
+    "example": "Traveling carry-on only saves time and baggage fees.",
+    "difficulty": 1
+  },
+  {
+    "english": "TSA lock",
+    "vietnamese": "khóa được TSA mở kiểm tra",
+    "example": "Use a TSA lock so security can inspect your bag without breaking it.",
+    "difficulty": 2
+  },
+  {
+    "english": "priority boarding",
+    "vietnamese": "lên máy bay ưu tiên",
+    "example": "Priority boarding means you get overhead bin space guaranteed.",
+    "difficulty": 1
+  },
+  {
+    "english": "seat selection",
+    "vietnamese": "chọn chỗ ngồi",
+    "example": "Free seat selection opens 24 hours before departure.",
+    "difficulty": 1
+  },
+  {
+    "english": "bulkhead seat",
+    "vietnamese": "ghế hàng đầu khoang",
+    "example": "Bulkhead seats have extra legroom but no under-seat storage.",
+    "difficulty": 2
+  },
+  {
+    "english": "exit row",
+    "vietnamese": "hàng ghế thoát hiểm",
+    "example": "Exit row seats have the most legroom on the plane.",
+    "difficulty": 1
+  },
+  {
+    "english": "open-jaw ticket",
+    "vietnamese": "vé bay đến một nơi, về từ nơi khác",
+    "example": "An open-jaw ticket lets you fly into Paris and return from Rome.",
+    "difficulty": 3
+  },
+  {
+    "english": "multi-city",
+    "vietnamese": "vé nhiều thành phố",
+    "example": "Book a multi-city ticket instead of separate one-ways.",
+    "difficulty": 2
+  },
+  {
+    "english": "mileage run",
+    "vietnamese": "bay để tích dặm đạt hạng",
+    "example": "He did a weekend mileage run just to keep his platinum status.",
+    "difficulty": 3
+  },
+  {
+    "english": "travel hacking",
+    "vietnamese": "săn vé rẻ, tận dụng điểm thưởng",
+    "example": "Travel hacking can get you first-class tickets for economy prices.",
+    "difficulty": 3
   }
 ]
