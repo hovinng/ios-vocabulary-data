@@ -2776,5 +2776,3245 @@
     "vietnamese": "câu phá băng, mở đầu",
     "example": "A joke is a good icebreaker.",
     "difficulty": 2
+  },
+  {
+    "english": "gaze",
+    "vietnamese": "ánh nhìn, cái nhìn chăm chú",
+    "example": "Her steady gaze made him uneasy — she was reading him.",
+    "difficulty": 1
+  },
+  {
+    "english": "kinesics",
+    "vietnamese": "khoa học về cử chỉ cơ thể",
+    "example": "Kinesics studies how hand movements communicate meaning.",
+    "difficulty": 3
+  },
+  {
+    "english": "posture",
+    "vietnamese": "tư thế, dáng đứng/ngồi",
+    "example": "Good posture projects confidence before you say a word.",
+    "difficulty": 1
+  },
+  {
+    "english": "microexpression",
+    "vietnamese": "biểu cảm vi mô (thoáng qua <1 giây)",
+    "example": "A microexpression of disgust flashed across her face before she smiled.",
+    "difficulty": 3
+  },
+  {
+    "english": "poker face",
+    "vietnamese": "mặt lạnh không biểu lộ cảm xúc",
+    "example": "He kept a poker face during the negotiation.",
+    "difficulty": 2
+  },
+  {
+    "english": "tell",
+    "vietnamese": "dấu hiệu vô tình tiết lộ (trong poker/giao tiếp)",
+    "example": "Rubbing his nose was his tell — he was lying.",
+    "difficulty": 2
+  },
+  {
+    "english": "fidget",
+    "vietnamese": "cựa quậy, ngọ nguậy (dấu hiệu lo lắng)",
+    "example": "He fidgeted with his pen throughout the interview.",
+    "difficulty": 1
+  },
+  {
+    "english": "mirroring",
+    "vietnamese": "bắt chước vô thức cử chỉ người đối diện",
+    "example": "Mirroring builds rapport — people like those who move like them.",
+    "difficulty": 2
+  },
+  {
+    "english": "personal space",
+    "vietnamese": "không gian cá nhân",
+    "example": "He stood too close — invading her personal space.",
+    "difficulty": 1
+  },
+  {
+    "english": "proxemics",
+    "vietnamese": "khoa học về khoảng cách giao tiếp",
+    "example": "Proxemics explains why crowded elevators feel uncomfortable.",
+    "difficulty": 3
+  },
+  {
+    "english": "paralanguage",
+    "vietnamese": "yếu tố phi ngôn từ của giọng nói (cao độ, tốc độ, âm lượng)",
+    "example": "Her paralanguage — the sigh before answering — said more than her words.",
+    "difficulty": 3
+  },
+  {
+    "english": "stage fright",
+    "vietnamese": "sợ sân khấu, hồi hộp khi nói trước đám đông",
+    "example": "Even experienced speakers get stage fright.",
+    "difficulty": 1
+  },
+  {
+    "english": "keynote",
+    "vietnamese": "bài phát biểu chính",
+    "example": "She delivered the keynote at the annual conference.",
+    "difficulty": 2
+  },
+  {
+    "english": "anecdote",
+    "vietnamese": "giai thoại ngắn, chuyện kể minh họa",
+    "example": "He opened with a funny anecdote to warm up the audience.",
+    "difficulty": 2
+  },
+  {
+    "english": "rhetorical question",
+    "vietnamese": "câu hỏi tu từ",
+    "example": "He used a rhetorical question to make the audience think.",
+    "difficulty": 2
+  },
+  {
+    "english": "call to action",
+    "vietnamese": "lời kêu gọi hành động (kết thúc bài nói)",
+    "example": "Every great speech ends with a clear call to action.",
+    "difficulty": 2
+  },
+  {
+    "english": "cadence",
+    "vietnamese": "nhịp điệu lời nói",
+    "example": "A varied cadence keeps the audience engaged.",
+    "difficulty": 2
+  },
+  {
+    "english": "voice projection",
+    "vietnamese": "phóng giọng cho cả phòng nghe",
+    "example": "Her voice projection filled the auditorium without a microphone.",
+    "difficulty": 2
+  },
+  {
+    "english": "diction",
+    "vietnamese": "cách phát âm, chọn từ",
+    "example": "Clear diction is more important than a big vocabulary.",
+    "difficulty": 2
+  },
+  {
+    "english": "filler word",
+    "vietnamese": "từ đệm (um, uh, like, you know)",
+    "example": "Cut filler words — every um erodes your credibility.",
+    "difficulty": 1
+  },
+  {
+    "english": "impromptu",
+    "vietnamese": "ứng khẩu, không chuẩn bị trước",
+    "example": "He gave an impromptu toast that brought the room to tears.",
+    "difficulty": 2
+  },
+  {
+    "english": "elocution",
+    "vietnamese": "nghệ thuật nói trước công chúng",
+    "example": "Elocution lessons transformed his mumble into a commanding voice.",
+    "difficulty": 3
+  },
+  {
+    "english": "conciseness",
+    "vietnamese": "sự súc tích, ngắn gọn",
+    "example": "Conciseness is kindness in business writing.",
+    "difficulty": 2
+  },
+  {
+    "english": "proofread",
+    "vietnamese": "đọc soát lỗi",
+    "example": "Always proofread before hitting send.",
+    "difficulty": 1
+  },
+  {
+    "english": "subject line",
+    "vietnamese": "tiêu đề email",
+    "example": "A clear subject line gets your email opened.",
+    "difficulty": 1
+  },
+  {
+    "english": "CC",
+    "vietnamese": "gửi bản sao (Carbon Copy)",
+    "example": "CC your manager so she is in the loop.",
+    "difficulty": 1
+  },
+  {
+    "english": "BCC",
+    "vietnamese": "gửi bản sao ẩn (Blind Carbon Copy)",
+    "example": "BCC everyone so the recipient list stays private.",
+    "difficulty": 1
+  },
+  {
+    "english": "reply all",
+    "vietnamese": "trả lời tất cả",
+    "example": "Do not reply all unless everyone needs to see your response.",
+    "difficulty": 1
+  },
+  {
+    "english": "forward",
+    "vietnamese": "chuyển tiếp email",
+    "example": "Can you forward me the contract?",
+    "difficulty": 1
+  },
+  {
+    "english": "thread",
+    "vietnamese": "chuỗi email",
+    "example": "I lost the thread — can you resend the last message?",
+    "difficulty": 1
+  },
+  {
+    "english": "TL;DR",
+    "vietnamese": "tóm tắt cho lười đọc (Too Long; Did not Read)",
+    "example": "Add a TL;DR at the top of long emails.",
+    "difficulty": 2
+  },
+  {
+    "english": "action item",
+    "vietnamese": "việc cần làm (sau cuộc họp)",
+    "example": "The meeting ended with three clear action items.",
+    "difficulty": 1
+  },
+  {
+    "english": "minutes",
+    "vietnamese": "biên bản cuộc họp",
+    "example": "She took minutes during the board meeting.",
+    "difficulty": 2
+  },
+  {
+    "english": "memo",
+    "vietnamese": "bản ghi nhớ nội bộ",
+    "example": "The CEO sent a memo about the new remote work policy.",
+    "difficulty": 2
+  },
+  {
+    "english": "brief",
+    "vietnamese": "bản tóm tắt, báo cáo ngắn",
+    "example": "Give me a one-page brief before the client meeting.",
+    "difficulty": 2
+  },
+  {
+    "english": "white paper",
+    "vietnamese": "báo cáo chuyên sâu về một vấn đề",
+    "example": "The company published a white paper on AI ethics.",
+    "difficulty": 2
+  },
+  {
+    "english": "boilerplate",
+    "vietnamese": "đoạn văn bản mẫu dùng lặp lại",
+    "example": "The contract is mostly boilerplate — focus on sections 4 and 7.",
+    "difficulty": 3
+  },
+  {
+    "english": "ghostwriter",
+    "vietnamese": "người viết thuê (không đứng tên)",
+    "example": "A ghostwriter wrote the CEO's bestselling memoir.",
+    "difficulty": 2
+  },
+  {
+    "english": "plagiarism",
+    "vietnamese": "đạo văn",
+    "example": "Plagiarism will get you expelled — cite your sources.",
+    "difficulty": 2
+  },
+  {
+    "english": "de-escalate",
+    "vietnamese": "hạ nhiệt xung đột",
+    "example": "A good manager knows how to de-escalate arguments.",
+    "difficulty": 2
+  },
+  {
+    "english": "diffuse",
+    "vietnamese": "xoa dịu tình huống căng thẳng",
+    "example": "A well-timed joke diffused the tension in the room.",
+    "difficulty": 2
+  },
+  {
+    "english": "confrontation",
+    "vietnamese": "đối đầu trực diện",
+    "example": "Avoiding confrontation only makes problems fester.",
+    "difficulty": 2
+  },
+  {
+    "english": "constructive criticism",
+    "vietnamese": "phê bình mang tính xây dựng",
+    "example": "Constructive criticism focuses on the work, not the person.",
+    "difficulty": 1
+  },
+  {
+    "english": "sandwich method",
+    "vietnamese": "phương pháp khen-chê-khen",
+    "example": "The sandwich method softens negative feedback.",
+    "difficulty": 2
+  },
+  {
+    "english": "I-statement",
+    "vietnamese": "câu nói bắt đầu bằng Tôi (không đổ lỗi)",
+    "example": "Use I-statements: I feel frustrated instead of You always mess up.",
+    "difficulty": 2
+  },
+  {
+    "english": "active listening",
+    "vietnamese": "lắng nghe chủ động (phản hồi lại ý người nói)",
+    "example": "Active listening means paraphrasing what you heard before responding.",
+    "difficulty": 1
+  },
+  {
+    "english": "own up",
+    "vietnamese": "nhận trách nhiệm về lỗi",
+    "example": "He owned up to the error instead of blaming the team.",
+    "difficulty": 1
+  },
+  {
+    "english": "make amends",
+    "vietnamese": "sửa sai, đền bù",
+    "example": "She tried to make amends by apologizing publicly.",
+    "difficulty": 2
+  },
+  {
+    "english": "bury the hatchet",
+    "vietnamese": "giảng hòa, chấm dứt thù địch",
+    "example": "After years of silence, they buried the hatchet.",
+    "difficulty": 2
+  },
+  {
+    "english": "clear the air",
+    "vietnamese": "nói thẳng để xóa hiểu lầm",
+    "example": "Let us have a meeting to clear the air.",
+    "difficulty": 2
+  },
+  {
+    "english": "agree to disagree",
+    "vietnamese": "đồng ý là không đồng ý",
+    "example": "We agreed to disagree on politics and kept the friendship.",
+    "difficulty": 1
+  },
+  {
+    "english": "meet halfway",
+    "vietnamese": "thỏa hiệp, gặp nhau ở giữa",
+    "example": "Neither side got everything — we met halfway.",
+    "difficulty": 1
+  },
+  {
+    "english": "give in",
+    "vietnamese": "nhượng bộ, chịu thua",
+    "example": "She refused to give in — the argument lasted hours.",
+    "difficulty": 1
+  },
+  {
+    "english": "stand your ground",
+    "vietnamese": "giữ vững lập trường",
+    "example": "He stood his ground even when everyone pushed back.",
+    "difficulty": 2
+  },
+  {
+    "english": "pick your battles",
+    "vietnamese": "chọn việc đáng tranh luận, bỏ qua việc nhỏ",
+    "example": "Not every disagreement is worth fighting — pick your battles.",
+    "difficulty": 2
+  },
+  {
+    "english": "cajole",
+    "vietnamese": "nịnh nọt để đạt được điều mình muốn",
+    "example": "He cajoled his boss into giving him Friday off.",
+    "difficulty": 3
+  },
+  {
+    "english": "sway",
+    "vietnamese": "làm lung lay ý kiến",
+    "example": "The testimony swayed the jury toward acquittal.",
+    "difficulty": 2
+  },
+  {
+    "english": "win over",
+    "vietnamese": "thu phục, giành được sự ủng hộ",
+    "example": "His honesty won over the skeptical audience.",
+    "difficulty": 1
+  },
+  {
+    "english": "bring around",
+    "vietnamese": "thuyết phục ai thay đổi ý kiến",
+    "example": "It took months to bring him around to the new strategy.",
+    "difficulty": 2
+  },
+  {
+    "english": "hard sell",
+    "vietnamese": "thuyết phục mạnh tay, ép mua",
+    "example": "Nobody likes a hard sell — let the product speak.",
+    "difficulty": 2
+  },
+  {
+    "english": "soft sell",
+    "vietnamese": "thuyết phục nhẹ nhàng, tư vấn",
+    "example": "A soft sell approach builds long-term trust.",
+    "difficulty": 2
+  },
+  {
+    "english": "elevator pitch",
+    "vietnamese": "bài giới thiệu ngắn 30 giây",
+    "example": "Perfect your elevator pitch — you never know who you will meet.",
+    "difficulty": 2
+  },
+  {
+    "english": "hook",
+    "vietnamese": "câu mở đầu thu hút",
+    "example": "Start with a hook that grabs attention in the first sentence.",
+    "difficulty": 1
+  },
+  {
+    "english": "bandwagon",
+    "vietnamese": "kêu gọi chạy theo đám đông",
+    "example": "The bandwagon appeal: everyone is switching — do not get left behind.",
+    "difficulty": 2
+  },
+  {
+    "english": "social proof",
+    "vietnamese": "bằng chứng xã hội (người khác đã dùng/làm)",
+    "example": "Testimonials are social proof that your product works.",
+    "difficulty": 2
+  },
+  {
+    "english": "scarcity",
+    "vietnamese": "tạo cảm giác khan hiếm",
+    "example": "Scarcity is a persuasion tactic: only 3 left at this price.",
+    "difficulty": 2
+  },
+  {
+    "english": "foot-in-the-door",
+    "vietnamese": "kỹ thuật nhờ việc nhỏ trước, lớn sau",
+    "example": "The foot-in-the-door technique: ask for a small favor first.",
+    "difficulty": 3
+  },
+  {
+    "english": "door-in-the-face",
+    "vietnamese": "kỹ thuật nhờ việc lớn trước để việc nhỏ dễ được đồng ý",
+    "example": "Door-in-the-face: ask for 100 dollars, then 20 feels reasonable.",
+    "difficulty": 3
+  },
+  {
+    "english": "cross-cultural",
+    "vietnamese": "giao tiếp xuyên văn hóa",
+    "example": "Cross-cultural training is essential for global teams.",
+    "difficulty": 2
+  },
+  {
+    "english": "cultural nuance",
+    "vietnamese": "sắc thái văn hóa tinh tế",
+    "example": "A bow in Japan has cultural nuances — angle matters.",
+    "difficulty": 2
+  },
+  {
+    "english": "taboo",
+    "vietnamese": "điều cấm kỵ",
+    "example": "Talking about salary is taboo in some cultures.",
+    "difficulty": 2
+  },
+  {
+    "english": "lost in translation",
+    "vietnamese": "mất nghĩa khi dịch, hiểu sai văn hóa",
+    "example": "The joke was lost in translation — nobody laughed.",
+    "difficulty": 2
+  },
+  {
+    "english": "lingua franca",
+    "vietnamese": "ngôn ngữ chung (thường là tiếng Anh)",
+    "example": "English is the lingua franca of international business.",
+    "difficulty": 3
+  },
+  {
+    "english": "interpreter",
+    "vietnamese": "phiên dịch viên (dịch nói)",
+    "example": "The interpreter translated the speech simultaneously.",
+    "difficulty": 2
+  },
+  {
+    "english": "translator",
+    "vietnamese": "biên dịch viên (dịch viết)",
+    "example": "The translator worked on the legal documents for a week.",
+    "difficulty": 1
+  },
+  {
+    "english": "devil's advocate",
+    "vietnamese": "người cố tình phản biện để kiểm tra lập luận",
+    "example": "Let me play devils advocate — what if the market crashes?",
+    "difficulty": 2
+  },
+  {
+    "english": "ad hominem",
+    "vietnamese": "công kích cá nhân thay vì lập luận",
+    "example": "That is an ad hominem — attack the argument, not the person.",
+    "difficulty": 3
+  },
+  {
+    "english": "false dichotomy",
+    "vietnamese": "lập luận nhị nguyên sai (chỉ đưa ra 2 lựa chọn)",
+    "example": "It is a false dichotomy — there are more than two options.",
+    "difficulty": 3
+  },
+  {
+    "english": "slippery slope",
+    "vietnamese": "lập luận dốc trượt (nếu A thì chắc chắn dẫn đến Z)",
+    "example": "That is a slippery slope — one mistake does not guarantee total failure.",
+    "difficulty": 3
+  },
+  {
+    "english": "red herring",
+    "vietnamese": "đánh lạc hướng khỏi vấn đề chính",
+    "example": "Bringing up his past is a red herring — stick to the issue.",
+    "difficulty": 3
+  },
+  {
+    "english": "moving the goalposts",
+    "vietnamese": "liên tục thay đổi tiêu chí để đối phương không thể thắng",
+    "example": "Every time I meet your standard, you move the goalposts.",
+    "difficulty": 3
+  },
+  {
+    "english": "burden of proof",
+    "vietnamese": "trách nhiệm chứng minh",
+    "example": "The burden of proof is on the person making the claim.",
+    "difficulty": 2
+  },
+  {
+    "english": "rebuttal",
+    "vietnamese": "lời phản bác có lý lẽ",
+    "example": "Her rebuttal dismantled every point he made.",
+    "difficulty": 3
+  },
+  {
+    "english": "concede",
+    "vietnamese": "nhượng bộ một điểm trong tranh luận",
+    "example": "I concede that data point — but the overall trend disagrees with you.",
+    "difficulty": 2
+  },
+  {
+    "english": "concession",
+    "vietnamese": "sự nhượng bộ trong tranh luận",
+    "example": "His concession on pricing opened the door to a deal.",
+    "difficulty": 2
+  },
+  {
+    "english": "counterargument",
+    "vietnamese": "lập luận phản biện",
+    "example": "A strong essay addresses counterarguments before the conclusion.",
+    "difficulty": 2
+  },
+  {
+    "english": "networking",
+    "vietnamese": "xây dựng mạng lưới quan hệ",
+    "example": "Networking is not about collecting cards — it is about building relationships.",
+    "difficulty": 1
+  },
+  {
+    "english": "schmooze",
+    "vietnamese": "nịnh nọt, xã giao để tạo quan hệ",
+    "example": "He spent the conference schmoozing with investors.",
+    "difficulty": 2
+  },
+  {
+    "english": "mingle",
+    "vietnamese": "hòa vào đám đông, giao lưu",
+    "example": "Do not stand in the corner — go mingle.",
+    "difficulty": 1
+  },
+  {
+    "english": "name-drop",
+    "vietnamese": "nhắc tên người nổi tiếng/quan trọng để gây ấn tượng",
+    "example": "He name-dropped the CEO three times in one conversation.",
+    "difficulty": 2
+  },
+  {
+    "english": "elevator speech",
+    "vietnamese": "bài giới thiệu bản thân ngắn gọn",
+    "example": "Your elevator speech should answer: who are you and what do you do?",
+    "difficulty": 1
+  },
+  {
+    "english": "storytelling",
+    "vietnamese": "kể chuyện, nghệ thuật kể chuyện",
+    "example": "Great leaders use storytelling to make data memorable.",
+    "difficulty": 1
+  },
+  {
+    "english": "narrative",
+    "vietnamese": "câu chuyện, mạch kể",
+    "example": "Control the narrative before someone else does.",
+    "difficulty": 2
+  },
+  {
+    "english": "cliffhanger",
+    "vietnamese": "tình tiết gay cấn chưa có hồi kết",
+    "example": "He ended the presentation on a cliffhanger to build anticipation.",
+    "difficulty": 2
+  },
+  {
+    "english": "punchline",
+    "vietnamese": "câu kết hài, điểm nhấn của chuyện cười",
+    "example": "He ruined the punchline by laughing before finishing the joke.",
+    "difficulty": 2
+  },
+  {
+    "english": "setup",
+    "vietnamese": "phần dẫn dắt trước câu đùa",
+    "example": "The setup was too long — the audience lost interest.",
+    "difficulty": 1
+  },
+  {
+    "english": "build suspense",
+    "vietnamese": "xây dựng hồi hộp, tạo kịch tính",
+    "example": "She knows how to build suspense in a simple anecdote.",
+    "difficulty": 2
+  },
+  {
+    "english": "vivid",
+    "vietnamese": "sống động, rõ nét",
+    "example": "His vivid description made me feel like I was there.",
+    "difficulty": 1
+  },
+  {
+    "english": "paint a picture",
+    "vietnamese": "mô tả sinh động để người nghe hình dung",
+    "example": "Paint a picture with words, do not just state facts.",
+    "difficulty": 1
+  },
+  {
+    "english": "relatable",
+    "vietnamese": "dễ đồng cảm, gần gũi",
+    "example": "The best speakers are relatable, they share their struggles.",
+    "difficulty": 1
+  },
+  {
+    "english": "captivate",
+    "vietnamese": "thu hút, làm say mê",
+    "example": "She captivated the room with her origin story.",
+    "difficulty": 2
+  },
+  {
+    "english": "selective hearing",
+    "vietnamese": "nghe có chọn lọc (chỉ nghe điều mình muốn)",
+    "example": "He has selective hearing — he only hears compliments.",
+    "difficulty": 2
+  },
+  {
+    "english": "tune out",
+    "vietnamese": "ngừng chú ý, lơ đễnh",
+    "example": "I tuned out during the boring part of the lecture.",
+    "difficulty": 1
+  },
+  {
+    "english": "zone out",
+    "vietnamese": "mơ màng, không tập trung",
+    "example": "She zoned out halfway through the meeting.",
+    "difficulty": 1
+  },
+  {
+    "english": "prejudge",
+    "vietnamese": "phán xét trước khi nghe hết",
+    "example": "Do not prejudge — hear them out completely first.",
+    "difficulty": 2
+  },
+  {
+    "english": "mind reading",
+    "vietnamese": "đoán suy nghĩ người khác (lỗi giao tiếp)",
+    "example": "Mind reading causes fights — ask, do not guess.",
+    "difficulty": 2
+  },
+  {
+    "english": "hearing vs listening",
+    "vietnamese": "phân biệt nghe thấy và lắng nghe",
+    "example": "Hearing is passive; listening is active and intentional.",
+    "difficulty": 2
+  },
+  {
+    "english": "distraction",
+    "vietnamese": "sự xao nhãng, mất tập trung",
+    "example": "Put your phone away — distractions kill conversations.",
+    "difficulty": 1
+  },
+  {
+    "english": "rumor mill",
+    "vietnamese": "guồng tin đồn, nơi lan truyền tin đồn",
+    "example": "The rumor mill is already spinning about the layoffs.",
+    "difficulty": 2
+  },
+  {
+    "english": "spill the tea",
+    "vietnamese": "kể chuyện giật gân, hóng drama",
+    "example": "She called me immediately to spill the tea about the breakup.",
+    "difficulty": 2
+  },
+  {
+    "english": "let slip",
+    "vietnamese": "lỡ lời tiết lộ bí mật",
+    "example": "He let slip the promotion before HR announced it.",
+    "difficulty": 1
+  },
+  {
+    "english": "confide in",
+    "vietnamese": "tâm sự, thổ lộ với người tin cậy",
+    "example": "She confided in me about her marriage problems.",
+    "difficulty": 2
+  },
+  {
+    "english": "swear to secrecy",
+    "vietnamese": "thề giữ bí mật",
+    "example": "I swore her to secrecy before revealing the surprise.",
+    "difficulty": 2
+  },
+  {
+    "english": "hush-hush",
+    "vietnamese": "bí mật, kín tiếng",
+    "example": "The merger talks were very hush-hush until last week.",
+    "difficulty": 2
+  },
+  {
+    "english": "off the record",
+    "vietnamese": "không chính thức, không được trích dẫn",
+    "example": "He told me off the record that the deal was falling through.",
+    "difficulty": 2
+  },
+  {
+    "english": "on background",
+    "vietnamese": "có thể dùng thông tin nhưng không nêu tên nguồn",
+    "example": "A senior official spoke on background about the negotiations.",
+    "difficulty": 3
+  },
+  {
+    "english": "leak",
+    "vietnamese": "rò rỉ thông tin",
+    "example": "Someone leaked the memo to the press.",
+    "difficulty": 1
+  },
+  {
+    "english": "whistleblow",
+    "vietnamese": "tố giác sai phạm ra công chúng",
+    "example": "He decided to whistleblow on the illegal practices.",
+    "difficulty": 2
+  },
+  {
+    "english": "make up for",
+    "vietnamese": "đền bù, bù đắp cho lỗi lầm",
+    "example": "He tried to make up for missing her birthday with a weekend trip.",
+    "difficulty": 1
+  },
+  {
+    "english": "non-apology",
+    "vietnamese": "lời xin lỗi giả (không nhận trách nhiệm thật)",
+    "example": "Sorry you feel that way is a non-apology.",
+    "difficulty": 2
+  },
+  {
+    "english": "take responsibility",
+    "vietnamese": "nhận trách nhiệm",
+    "example": "A real leader takes responsibility instead of pointing fingers.",
+    "difficulty": 1
+  },
+  {
+    "english": "hold a grudge",
+    "vietnamese": "ôm hận, giữ mối thù",
+    "example": "She still holds a grudge from ten years ago.",
+    "difficulty": 2
+  },
+  {
+    "english": "backhanded compliment",
+    "vietnamese": "khen đểu, khen nhưng hàm ý chê",
+    "example": "You are pretty smart for a lawyer is a backhanded compliment.",
+    "difficulty": 3
+  },
+  {
+    "english": "commend",
+    "vietnamese": "khen ngợi chính thức, biểu dương",
+    "example": "The CEO commended her for handling the crisis.",
+    "difficulty": 2
+  },
+  {
+    "english": "instruct",
+    "vietnamese": "hướng dẫn, chỉ dẫn",
+    "example": "Instruct clearly — assume nothing is obvious.",
+    "difficulty": 1
+  },
+  {
+    "english": "step-by-step",
+    "vietnamese": "từng bước một",
+    "example": "Give step-by-step instructions for complex tasks.",
+    "difficulty": 1
+  },
+  {
+    "english": "walk through",
+    "vietnamese": "hướng dẫn tỉ mỉ từng phần",
+    "example": "Let me walk you through the setup process.",
+    "difficulty": 1
+  },
+  {
+    "english": "double-check",
+    "vietnamese": "kiểm tra lại lần nữa",
+    "example": "Double-check that they understood before moving on.",
+    "difficulty": 1
+  },
+  {
+    "english": "on the same page",
+    "vietnamese": "cùng hiểu, đồng nhất về thông tin",
+    "example": "Let us recap to make sure we are on the same page.",
+    "difficulty": 1
+  },
+  {
+    "english": "get the wrong end of the stick",
+    "vietnamese": "hiểu sai hoàn toàn vấn đề",
+    "example": "He got the wrong end of the stick and thought he was fired.",
+    "difficulty": 3
+  },
+  {
+    "english": "interviewer",
+    "vietnamese": "người phỏng vấn",
+    "example": "The interviewer asked about my biggest failure.",
+    "difficulty": 1
+  },
+  {
+    "english": "interviewee",
+    "vietnamese": "người được phỏng vấn",
+    "example": "The interviewee answered every question with confidence.",
+    "difficulty": 2
+  },
+  {
+    "english": "panel interview",
+    "vietnamese": "phỏng vấn hội đồng",
+    "example": "A panel interview means facing three people at once.",
+    "difficulty": 2
+  },
+  {
+    "english": "behavioral question",
+    "vietnamese": "câu hỏi tình huống (Tell me about a time when...)",
+    "example": "Behavioral questions test how you handled real situations.",
+    "difficulty": 2
+  },
+  {
+    "english": "STAR method",
+    "vietnamese": "phương pháp trả lời: Situation-Task-Action-Result",
+    "example": "Use the STAR method for behavioral interview questions.",
+    "difficulty": 2
+  },
+  {
+    "english": "follow-up question",
+    "vietnamese": "câu hỏi tiếp nối, đào sâu",
+    "example": "Her follow-up question revealed the real issue.",
+    "difficulty": 1
+  },
+  {
+    "english": "probing",
+    "vietnamese": "thăm dò, đào sâu bằng câu hỏi",
+    "example": "Probing questions uncover motivations behind surface answers.",
+    "difficulty": 2
+  },
+  {
+    "english": "video call",
+    "vietnamese": "gọi video",
+    "example": "A video call feels more personal than a phone call.",
+    "difficulty": 1
+  },
+  {
+    "english": "conference call",
+    "vietnamese": "gọi hội nghị nhiều người",
+    "example": "The conference call had twelve people — it was chaos.",
+    "difficulty": 1
+  },
+  {
+    "english": "screen share",
+    "vietnamese": "chia sẻ màn hình",
+    "example": "Let me screen share the presentation.",
+    "difficulty": 1
+  },
+  {
+    "english": "mute",
+    "vietnamese": "tắt tiếng mic",
+    "example": "Please mute yourself when you are not speaking.",
+    "difficulty": 1
+  },
+  {
+    "english": "unmute",
+    "vietnamese": "bật tiếng mic",
+    "example": "You are on mute — we cannot hear you, unmute yourself.",
+    "difficulty": 1
+  },
+  {
+    "english": "lag",
+    "vietnamese": "độ trễ, giật hình khi gọi video",
+    "example": "There is a lag — your audio is out of sync.",
+    "difficulty": 1
+  },
+  {
+    "english": "freeze",
+    "vietnamese": "đứng hình khi gọi video",
+    "example": "You froze for a second — can you repeat that?",
+    "difficulty": 1
+  },
+  {
+    "english": "drop off",
+    "vietnamese": "mất kết nối giữa chừng",
+    "example": "She dropped off the call — probably a connection issue.",
+    "difficulty": 1
+  },
+  {
+    "english": "dial in",
+    "vietnamese": "gọi vào cuộc họp (bằng số điện thoại)",
+    "example": "If the app crashes, dial in using the phone number.",
+    "difficulty": 1
+  },
+  {
+    "english": "virtual background",
+    "vietnamese": "phông nền ảo",
+    "example": "He used a beach virtual background during the serious board meeting.",
+    "difficulty": 1
+  },
+  {
+    "english": "camera-ready",
+    "vietnamese": "sẵn sàng trước camera, ăn mặc chỉnh tề",
+    "example": "Be camera-ready — remote meetings are still professional settings.",
+    "difficulty": 2
+  },
+  {
+    "english": "groupthink",
+    "vietnamese": "tâm lý đám đông (ai cũng đồng ý vì sợ khác biệt)",
+    "example": "Groupthink kills innovation — encourage dissenting voices.",
+    "difficulty": 3
+  },
+  {
+    "english": "brainstorm",
+    "vietnamese": "động não, nảy ý tưởng tập thể",
+    "example": "Let us brainstorm solutions without judging any idea yet.",
+    "difficulty": 1
+  },
+  {
+    "english": "facilitate",
+    "vietnamese": "điều phối cuộc thảo luận",
+    "example": "She facilitated the workshop so well that everyone contributed.",
+    "difficulty": 2
+  },
+  {
+    "english": "moderate",
+    "vietnamese": "dẫn dắt, điều tiết cuộc tranh luận",
+    "example": "A good moderator keeps the debate fair and on track.",
+    "difficulty": 2
+  },
+  {
+    "english": "hijack",
+    "vietnamese": "chiếm quyền nói, lái sang chủ đề khác",
+    "example": "He hijacked the meeting with his personal agenda.",
+    "difficulty": 1
+  },
+  {
+    "english": "dominate",
+    "vietnamese": "áp đảo, lấn át cuộc trò chuyện",
+    "example": "Do not dominate the discussion — make space for quieter voices.",
+    "difficulty": 1
+  },
+  {
+    "english": "dissent",
+    "vietnamese": "ý kiến bất đồng, phản đối",
+    "example": "Dissent is healthy — it means people are thinking critically.",
+    "difficulty": 2
+  },
+  {
+    "english": "roundtable",
+    "vietnamese": "thảo luận bàn tròn (mọi người bình đẳng)",
+    "example": "We hold a weekly roundtable where everyone gets equal time.",
+    "difficulty": 2
+  },
+  {
+    "english": "async",
+    "vietnamese": "giao tiếp không đồng bộ (không cần trả lời ngay)",
+    "example": "Async communication respects different time zones.",
+    "difficulty": 2
+  },
+  {
+    "english": "synchronous",
+    "vietnamese": "giao tiếp đồng bộ, thời gian thực",
+    "example": "Synchronous meetings should be reserved for decisions, not updates.",
+    "difficulty": 2
+  },
+  {
+    "english": "status update",
+    "vietnamese": "cập nhật tiến độ",
+    "example": "Send a written status update instead of holding another meeting.",
+    "difficulty": 1
+  },
+  {
+    "english": "availability",
+    "vietnamese": "thời gian rảnh, khả năng có mặt",
+    "example": "Check their availability before scheduling the call.",
+    "difficulty": 1
+  },
+  {
+    "english": "time zone",
+    "vietnamese": "múi giờ",
+    "example": "We have team members across five time zones.",
+    "difficulty": 1
+  },
+  {
+    "english": "hash out",
+    "vietnamese": "tranh luận đến khi giải quyết xong",
+    "example": "Let us hash out the details before presenting to the client.",
+    "difficulty": 2
+  },
+  {
+    "english": "iron out",
+    "vietnamese": "giải quyết vấn đề nhỏ, làm mịn",
+    "example": "We need to iron out a few bugs before launch.",
+    "difficulty": 2
+  },
+  {
+    "english": "mull over",
+    "vietnamese": "suy nghĩ kỹ, cân nhắc",
+    "example": "Let me mull over your proposal and get back to you tomorrow.",
+    "difficulty": 2
+  },
+  {
+    "english": "sound out",
+    "vietnamese": "thăm dò ý kiến",
+    "example": "I will sound out the team before committing to a deadline.",
+    "difficulty": 2
+  },
+  {
+    "english": "talk around",
+    "vietnamese": "nói vòng vo tránh vấn đề chính",
+    "example": "Stop talking around the issue — just say what you mean.",
+    "difficulty": 2
+  },
+  {
+    "english": "hammer out",
+    "vietnamese": "đàm phán đến khi đạt thỏa thuận",
+    "example": "We hammered out the contract terms after a long night.",
+    "difficulty": 2
+  },
+  {
+    "english": "thrash out",
+    "vietnamese": "tranh luận kỹ lưỡng để giải quyết",
+    "example": "The board thrashed out the budget for six hours.",
+    "difficulty": 3
+  },
+  {
+    "english": "boil down to",
+    "vietnamese": "tóm lại là, cốt lõi là",
+    "example": "It all boils down to trust — without it, communication fails.",
+    "difficulty": 2
+  },
+  {
+    "english": "emotional intelligence",
+    "vietnamese": "trí tuệ cảm xúc (EQ)",
+    "example": "Emotional intelligence matters more than IQ in leadership.",
+    "difficulty": 2
+  },
+  {
+    "english": "self-awareness",
+    "vietnamese": "tự nhận thức về bản thân",
+    "example": "Self-awareness is the foundation of emotional intelligence.",
+    "difficulty": 2
+  },
+  {
+    "english": "self-regulation",
+    "vietnamese": "tự điều chỉnh cảm xúc",
+    "example": "Self-regulation means not lashing out when you are angry.",
+    "difficulty": 2
+  },
+  {
+    "english": "social awareness",
+    "vietnamese": "nhận thức xã hội, đọc được cảm xúc người khác",
+    "example": "Social awareness lets you sense when someone is uncomfortable.",
+    "difficulty": 2
+  },
+  {
+    "english": "emotional trigger",
+    "vietnamese": "điểm kích hoạt cảm xúc mạnh",
+    "example": "Criticism is an emotional trigger for him — he shuts down.",
+    "difficulty": 2
+  },
+  {
+    "english": "emotional regulation",
+    "vietnamese": "điều tiết cảm xúc",
+    "example": "Emotional regulation keeps you calm under pressure.",
+    "difficulty": 2
+  },
+  {
+    "english": "vulnerability",
+    "vietnamese": "sự dễ bị tổn thương, cởi mở về yếu đuối",
+    "example": "Vulnerability in communication builds deeper trust.",
+    "difficulty": 2
+  },
+  {
+    "english": "emotional labor",
+    "vietnamese": "lao động cảm xúc (phải tỏ ra vui vẻ dù không muốn)",
+    "example": "Customer service involves emotional labor — smiling through abuse.",
+    "difficulty": 3
+  },
+  {
+    "english": "guilt-trip",
+    "vietnamese": "làm người khác cảm thấy tội lỗi để thao túng",
+    "example": "She guilt-tripped him into lending her money again.",
+    "difficulty": 2
+  },
+  {
+    "english": "love bombing",
+    "vietnamese": "tấn công tình cảm (quan tâm quá mức để thao túng)",
+    "example": "Love bombing at the start of a relationship is a major red flag.",
+    "difficulty": 3
+  },
+  {
+    "english": "negging",
+    "vietnamese": "chê khéo để hạ thấp tự tin người khác",
+    "example": "Negging is a pickup technique disguised as a compliment.",
+    "difficulty": 3
+  },
+  {
+    "english": "silent treatment",
+    "vietnamese": "chiến tranh lạnh, im lặng để trừng phạt",
+    "example": "The silent treatment is emotional abuse, not communication.",
+    "difficulty": 2
+  },
+  {
+    "english": "DARVO",
+    "vietnamese": "chiến thuật Deny-Attack-Reverse Victim and Offender",
+    "example": "DARVO is when the abuser flips the script and claims to be the real victim.",
+    "difficulty": 3
+  },
+  {
+    "english": "breadcrumbing",
+    "vietnamese": "cho chút ít hy vọng để giữ người khác theo đuổi",
+    "example": "Breadcrumbing is sending just enough messages to keep you hooked.",
+    "difficulty": 3
+  },
+  {
+    "english": "future faking",
+    "vietnamese": "hứa hẹn tương lai giả để thao túng hiện tại",
+    "example": "Future faking promises a life together that never materializes.",
+    "difficulty": 3
+  },
+  {
+    "english": "semantics",
+    "vietnamese": "ngữ nghĩa học",
+    "example": "The semantics of that phrase changed completely in context.",
+    "difficulty": 3
+  },
+  {
+    "english": "syntax",
+    "vietnamese": "cú pháp (cấu trúc câu)",
+    "example": "Good syntax makes writing clear; bad syntax confuses readers.",
+    "difficulty": 2
+  },
+  {
+    "english": "colloquial",
+    "vietnamese": "thông tục, ngôn ngữ đời thường",
+    "example": "Colloquial expressions like gonna and wanna are fine in casual speech.",
+    "difficulty": 2
+  },
+  {
+    "english": "vernacular",
+    "vietnamese": "tiếng địa phương, ngôn ngữ bản địa",
+    "example": "He switched to the local vernacular when talking to villagers.",
+    "difficulty": 3
+  },
+  {
+    "english": "neologism",
+    "vietnamese": "từ mới được tạo ra",
+    "example": "Selfie was a neologism that became a dictionary word.",
+    "difficulty": 3
+  },
+  {
+    "english": "cliché",
+    "vietnamese": "câu nói sáo rỗng, rập khuôn",
+    "example": "Avoid clichés in your speech — they weaken your message.",
+    "difficulty": 2
+  },
+  {
+    "english": "idiom",
+    "vietnamese": "thành ngữ",
+    "example": "It is raining cats and dogs is an idiom, not literal.",
+    "difficulty": 1
+  },
+  {
+    "english": "metaphor",
+    "vietnamese": "ẩn dụ",
+    "example": "Time is a thief is a metaphor — time is not literally stealing.",
+    "difficulty": 2
+  },
+  {
+    "english": "simile",
+    "vietnamese": "so sánh (dùng like/as)",
+    "example": "Her voice was like velvet — that is a simile.",
+    "difficulty": 2
+  },
+  {
+    "english": "speech act",
+    "vietnamese": "hành động lời nói (nói là làm)",
+    "example": "Saying I apologize is a speech act — it performs the apology.",
+    "difficulty": 3
+  },
+  {
+    "english": "declaration",
+    "vietnamese": "tuyên bố (nói ra là thành sự thật)",
+    "example": "I now pronounce you married is a declaration.",
+    "difficulty": 2
+  },
+  {
+    "english": "request",
+    "vietnamese": "yêu cầu, lời thỉnh cầu",
+    "example": "A polite request gets better results than a demand.",
+    "difficulty": 1
+  },
+  {
+    "english": "refusal",
+    "vietnamese": "lời từ chối",
+    "example": "A graceful refusal maintains the relationship.",
+    "difficulty": 1
+  },
+  {
+    "english": "invitation",
+    "vietnamese": "lời mời",
+    "example": "An invitation phrased warmly is hard to decline.",
+    "difficulty": 1
+  },
+  {
+    "english": "offer",
+    "vietnamese": "đề nghị giúp đỡ",
+    "example": "An offer of help should be specific, not just let me know.",
+    "difficulty": 1
+  },
+  {
+    "english": "complaint",
+    "vietnamese": "lời than phiền, khiếu nại",
+    "example": "A complaint delivered calmly is more likely to be resolved.",
+    "difficulty": 1
+  },
+  {
+    "english": "promise",
+    "vietnamese": "lời hứa",
+    "example": "A broken promise damages trust more than a declined request.",
+    "difficulty": 1
+  },
+  {
+    "english": "threat",
+    "vietnamese": "lời đe dọa",
+    "example": "Veiled threats create a toxic communication environment.",
+    "difficulty": 1
+  },
+  {
+    "english": "warning",
+    "vietnamese": "lời cảnh báo",
+    "example": "A warning is meant to protect, a threat is meant to control.",
+    "difficulty": 1
+  },
+  {
+    "english": "suggestion",
+    "vietnamese": "lời gợi ý, đề xuất",
+    "example": "Frame it as a suggestion, not a command, to avoid pushback.",
+    "difficulty": 1
+  },
+  {
+    "english": "aphasia",
+    "vietnamese": "mất khả năng ngôn ngữ (do tổn thương não)",
+    "example": "After the stroke, he had aphasia and could not form sentences.",
+    "difficulty": 3
+  },
+  {
+    "english": "selective mutism",
+    "vietnamese": "chứng im lặng chọn lọc (không nói trong tình huống nhất định)",
+    "example": "Selective mutism means she speaks at home but freezes at school.",
+    "difficulty": 3
+  },
+  {
+    "english": "social anxiety",
+    "vietnamese": "lo âu xã hội",
+    "example": "Social anxiety makes everyday conversations feel terrifying.",
+    "difficulty": 2
+  },
+  {
+    "english": "speech impediment",
+    "vietnamese": "tật về lời nói",
+    "example": "A speech impediment is nothing to be ashamed of.",
+    "difficulty": 2
+  },
+  {
+    "english": "parent-child communication",
+    "vietnamese": "giao tiếp cha mẹ - con cái",
+    "example": "Open parent-child communication reduces teenage rebellion.",
+    "difficulty": 2
+  },
+  {
+    "english": "active ignoring",
+    "vietnamese": "phớt lờ có chủ đích (kỹ thuật dạy con)",
+    "example": "Active ignoring works for attention-seeking misbehavior.",
+    "difficulty": 3
+  },
+  {
+    "english": "time-out",
+    "vietnamese": "phạt đứng góc (kỹ thuật dạy con)",
+    "example": "A time-out gives both parent and child a moment to cool down.",
+    "difficulty": 1
+  },
+  {
+    "english": "positive reinforcement",
+    "vietnamese": "củng cố tích cực (khen thưởng hành vi tốt)",
+    "example": "Positive reinforcement works better than punishment.",
+    "difficulty": 2
+  },
+  {
+    "english": "set boundaries",
+    "vietnamese": "đặt ranh giới",
+    "example": "Set boundaries with family — love does not mean unlimited access.",
+    "difficulty": 1
+  },
+  {
+    "english": "generational gap",
+    "vietnamese": "khoảng cách thế hệ",
+    "example": "The generational gap in communication styles causes misunderstandings.",
+    "difficulty": 2
+  },
+  {
+    "english": "nuclear family",
+    "vietnamese": "gia đình hạt nhân (cha mẹ + con cái)",
+    "example": "The nuclear family model is not the only healthy family structure.",
+    "difficulty": 2
+  },
+  {
+    "english": "extended family",
+    "vietnamese": "đại gia đình (ông bà, cô chú, họ hàng)",
+    "example": "Extended family communication has different dynamics than nuclear family.",
+    "difficulty": 1
+  },
+  {
+    "english": "family meeting",
+    "vietnamese": "họp gia đình",
+    "example": "Weekly family meetings give everyone a voice.",
+    "difficulty": 1
+  },
+  {
+    "english": "nag",
+    "vietnamese": "cằn nhằn, mè nheo",
+    "example": "Nagging makes people tune out — say it once clearly.",
+    "difficulty": 1
+  },
+  {
+    "english": "drift apart",
+    "vietnamese": "xa cách dần theo thời gian",
+    "example": "They drifted apart after college — it happens.",
+    "difficulty": 1
+  },
+  {
+    "english": "reconnect",
+    "vietnamese": "nối lại liên lạc",
+    "example": "It took one honest conversation to reconnect after years of silence.",
+    "difficulty": 1
+  },
+  {
+    "english": "growing apart",
+    "vietnamese": "phát triển theo hướng khác, xa cách tự nhiên",
+    "example": "Growing apart is not always anyone's fault.",
+    "difficulty": 2
+  },
+  {
+    "english": "fair-weather friend",
+    "vietnamese": "bạn chỉ chơi lúc vui, bỏ lúc khó",
+    "example": "A fair-weather friend disappears when you actually need help.",
+    "difficulty": 2
+  },
+  {
+    "english": "ride-or-die",
+    "vietnamese": "bạn sống chết có nhau",
+    "example": "She is my ride-or-die — she has never let me down.",
+    "difficulty": 2
+  },
+  {
+    "english": "platonic",
+    "vietnamese": "thuần khiết, không tình dục",
+    "example": "Their relationship is purely platonic — best friends for life.",
+    "difficulty": 2
+  },
+  {
+    "english": "fall out",
+    "vietnamese": "cãi nhau, bất hòa",
+    "example": "They fell out over money and have not spoken since.",
+    "difficulty": 1
+  },
+  {
+    "english": "make up",
+    "vietnamese": "làm lành, giảng hòa",
+    "example": "They made up after a week of not talking.",
+    "difficulty": 1
+  },
+  {
+    "english": "patch up",
+    "vietnamese": "hàn gắn mối quan hệ",
+    "example": "They patched things up over coffee.",
+    "difficulty": 1
+  },
+  {
+    "english": "pickup line",
+    "vietnamese": "câu thả thính, câu tán tỉnh",
+    "example": "That pickup line was so cheesy it actually worked.",
+    "difficulty": 2
+  },
+  {
+    "english": "ghosting",
+    "vietnamese": "biến mất đột ngột, cắt liên lạc không lý do",
+    "example": "Ghosting is the most cowardly way to end a relationship.",
+    "difficulty": 2
+  },
+  {
+    "english": "benching",
+    "vietnamese": "giữ người dự phòng, không tiến cũng không cho đi",
+    "example": "Benching keeps someone on the roster without committing.",
+    "difficulty": 3
+  },
+  {
+    "english": "orbiting",
+    "vietnamese": "biến mất nhưng vẫn theo dõi, thả tim trên mạng",
+    "example": "He ghosted me but is still orbiting my Instagram stories.",
+    "difficulty": 3
+  },
+  {
+    "english": "situationship",
+    "vietnamese": "mối quan hệ mập mờ không rõ ràng",
+    "example": "A situationship has all the stress of a relationship without the commitment.",
+    "difficulty": 3
+  },
+  {
+    "english": "commitment issues",
+    "vietnamese": "sợ cam kết, sợ ràng buộc",
+    "example": "His commitment issues are not your problem to fix.",
+    "difficulty": 2
+  },
+  {
+    "english": "red flag",
+    "vietnamese": "dấu hiệu cảnh báo (trong mối quan hệ)",
+    "example": "Controlling who you see is a massive red flag.",
+    "difficulty": 1
+  },
+  {
+    "english": "green flag",
+    "vietnamese": "dấu hiệu tích cực (trong mối quan hệ)",
+    "example": "Respecting your boundaries is a green flag.",
+    "difficulty": 1
+  },
+  {
+    "english": "mixed signals",
+    "vietnamese": "tín hiệu lẫn lộn, lúc nóng lúc lạnh",
+    "example": "Mixed signals are a signal — they are not that interested.",
+    "difficulty": 2
+  },
+  {
+    "english": "lead on",
+    "vietnamese": "dẫn dụ, cho hy vọng giả",
+    "example": "He led her on for months knowing he was moving away.",
+    "difficulty": 2
+  },
+  {
+    "english": "open relationship",
+    "vietnamese": "mối quan hệ mở",
+    "example": "An open relationship requires more communication, not less.",
+    "difficulty": 2
+  },
+  {
+    "english": "spokesperson",
+    "vietnamese": "người phát ngôn",
+    "example": "The spokesperson addressed the media after the incident.",
+    "difficulty": 2
+  },
+  {
+    "english": "liaison",
+    "vietnamese": "người liên lạc, cầu nối giữa các bên",
+    "example": "She acts as a liaison between engineering and marketing.",
+    "difficulty": 2
+  },
+  {
+    "english": "mediator",
+    "vietnamese": "người hòa giải",
+    "example": "A mediator helps both sides find common ground.",
+    "difficulty": 2
+  },
+  {
+    "english": "negotiator",
+    "vietnamese": "người đàm phán",
+    "example": "A skilled negotiator makes both sides feel they won.",
+    "difficulty": 2
+  },
+  {
+    "english": "copywriter",
+    "vietnamese": "người viết quảng cáo, viết nội dung",
+    "example": "A copywriter crafts words that sell.",
+    "difficulty": 2
+  },
+  {
+    "english": "speechwriter",
+    "vietnamese": "người viết diễn văn",
+    "example": "The speechwriter captured the president's voice perfectly.",
+    "difficulty": 2
+  },
+  {
+    "english": "publicist",
+    "vietnamese": "người phụ trách quan hệ công chúng",
+    "example": "Her publicist managed the scandal with carefully worded statements.",
+    "difficulty": 2
+  },
+  {
+    "english": "aggressive",
+    "vietnamese": "hung hăng, áp đảo trong giao tiếp",
+    "example": "Aggressive communicators bulldoze over others.",
+    "difficulty": 1
+  },
+  {
+    "english": "direct",
+    "vietnamese": "trực tiếp, thẳng thắn",
+    "example": "Direct communicators say what they mean — no guesswork.",
+    "difficulty": 1
+  },
+  {
+    "english": "indirect",
+    "vietnamese": "vòng vo, gián tiếp",
+    "example": "Indirect communicators hint at what they want instead of asking.",
+    "difficulty": 1
+  },
+  {
+    "english": "high-context",
+    "vietnamese": "giao tiếp ngữ cảnh cao (ý nghĩa nằm ở bối cảnh)",
+    "example": "Japan is a high-context culture — silence can mean more than words.",
+    "difficulty": 3
+  },
+  {
+    "english": "low-context",
+    "vietnamese": "giao tiếp ngữ cảnh thấp (ý nghĩa nằm ở lời nói)",
+    "example": "The US is a low-context culture — everything is spelled out explicitly.",
+    "difficulty": 3
+  },
+  {
+    "english": "power dynamic",
+    "vietnamese": "động lực quyền lực trong giao tiếp",
+    "example": "The boss-employee power dynamic makes honest feedback difficult.",
+    "difficulty": 2
+  },
+  {
+    "english": "talking down",
+    "vietnamese": "nói kiểu bề trên, hạ thấp người khác",
+    "example": "He was talking down to the junior staff without realizing it.",
+    "difficulty": 1
+  },
+  {
+    "english": "tone policing",
+    "vietnamese": "chỉ trích cách nói thay vì nội dung",
+    "example": "Tone policing dismisses valid anger by calling it too emotional.",
+    "difficulty": 3
+  },
+  {
+    "english": "sealioning",
+    "vietnamese": "giả vờ hỏi lịch sự nhưng thực chất là quấy rối",
+    "example": "Sealioning bombards you with fake polite questions to exhaust you.",
+    "difficulty": 3
+  },
+  {
+    "english": "gaslighting",
+    "vietnamese": "thao túng khiến người khác nghi ngờ thực tại của mình",
+    "example": "Gaslighting makes you question your own memory and sanity.",
+    "difficulty": 3
+  },
+  {
+    "english": "bedside manner",
+    "vietnamese": "cách giao tiếp của bác sĩ với bệnh nhân",
+    "example": "A good bedside manner makes patients feel heard and safe.",
+    "difficulty": 2
+  },
+  {
+    "english": "diagnosis",
+    "vietnamese": "chẩn đoán (truyền đạt kết quả bệnh)",
+    "example": "Delivering a serious diagnosis requires compassion and clarity.",
+    "difficulty": 2
+  },
+  {
+    "english": "informed consent",
+    "vietnamese": "đồng ý sau khi được giải thích đầy đủ",
+    "example": "Informed consent means the patient understands risks before agreeing.",
+    "difficulty": 3
+  },
+  {
+    "english": "breaking bad news",
+    "vietnamese": "truyền đạt tin xấu",
+    "example": "Breaking bad news is one of the hardest communication tasks.",
+    "difficulty": 2
+  },
+  {
+    "english": "patient history",
+    "vietnamese": "bệnh sử, tiền sử bệnh nhân",
+    "example": "Taking a patient history requires asking sensitive questions tactfully.",
+    "difficulty": 2
+  },
+  {
+    "english": "medical jargon",
+    "vietnamese": "biệt ngữ y khoa",
+    "example": "Doctors should translate medical jargon into plain language.",
+    "difficulty": 2
+  },
+  {
+    "english": "compliance",
+    "vietnamese": "tuân thủ điều trị",
+    "example": "Poor communication leads to low compliance with medication.",
+    "difficulty": 2
+  },
+  {
+    "english": "therapeutic communication",
+    "vietnamese": "giao tiếp trị liệu",
+    "example": "Therapeutic communication helps patients process trauma safely.",
+    "difficulty": 3
+  },
+  {
+    "english": "unconditional positive regard",
+    "vietnamese": "chấp nhận vô điều kiện (kỹ thuật trị liệu)",
+    "example": "Unconditional positive regard means accepting the client without judgment.",
+    "difficulty": 3
+  },
+  {
+    "english": "open-ended question",
+    "vietnamese": "câu hỏi mở (không trả lời có/không)",
+    "example": "Open-ended questions invite deeper responses than yes/no questions.",
+    "difficulty": 2
+  },
+  {
+    "english": "closed question",
+    "vietnamese": "câu hỏi đóng (chỉ cần có/không)",
+    "example": "Closed questions are useful for confirming facts quickly.",
+    "difficulty": 1
+  },
+  {
+    "english": "reflective listening",
+    "vietnamese": "lắng nghe phản chiếu (nhắc lại cảm xúc của người nói)",
+    "example": "Reflective listening sounds like: It seems like you feel frustrated.",
+    "difficulty": 2
+  },
+  {
+    "english": "reframe",
+    "vietnamese": "định hình lại vấn đề theo hướng tích cực hơn",
+    "example": "A good therapist helps you reframe failure as a learning opportunity.",
+    "difficulty": 2
+  },
+  {
+    "english": "catharsis",
+    "vietnamese": "sự giải tỏa cảm xúc",
+    "example": "Crying was a catharsis — she felt lighter after letting it out.",
+    "difficulty": 3
+  },
+  {
+    "english": "crisis communication",
+    "vietnamese": "truyền thông khủng hoảng",
+    "example": "Crisis communication must be fast, honest, and consistent.",
+    "difficulty": 2
+  },
+  {
+    "english": "damage control",
+    "vietnamese": "kiểm soát thiệt hại sau khủng hoảng",
+    "example": "The PR team went into damage control mode after the leak.",
+    "difficulty": 2
+  },
+  {
+    "english": "press release",
+    "vietnamese": "thông cáo báo chí",
+    "example": "They issued a press release denying the allegations.",
+    "difficulty": 2
+  },
+  {
+    "english": "holding statement",
+    "vietnamese": "tuyên bố tạm thời khi chưa có đầy đủ thông tin",
+    "example": "A holding statement buys time while the facts are gathered.",
+    "difficulty": 3
+  },
+  {
+    "english": "no comment",
+    "vietnamese": "miễn bình luận",
+    "example": "No comment sounds guilty — at least explain why you cannot answer.",
+    "difficulty": 1
+  },
+  {
+    "english": "transparency",
+    "vietnamese": "minh bạch trong truyền thông",
+    "example": "Transparency builds trust even when the news is bad.",
+    "difficulty": 2
+  },
+  {
+    "english": "spin doctor",
+    "vietnamese": "chuyên gia xoay chiều dư luận",
+    "example": "The spin doctor framed the failure as a bold attempt at innovation.",
+    "difficulty": 3
+  },
+  {
+    "english": "scaffolding",
+    "vietnamese": "kỹ thuật giảng dạy từng bước, hỗ trợ giảm dần",
+    "example": "Scaffolding breaks complex ideas into manageable steps.",
+    "difficulty": 3
+  },
+  {
+    "english": "Socratic method",
+    "vietnamese": "phương pháp hỏi đáp Socrates",
+    "example": "The Socratic method teaches through questions, not lectures.",
+    "difficulty": 3
+  },
+  {
+    "english": "lecture",
+    "vietnamese": "bài giảng, thuyết trình dài",
+    "example": "A lecture should be interactive — not just a monologue.",
+    "difficulty": 1
+  },
+  {
+    "english": "tutorial",
+    "vietnamese": "buổi hướng dẫn nhóm nhỏ",
+    "example": "The tutorial gives students a chance to ask questions.",
+    "difficulty": 1
+  },
+  {
+    "english": "mentor",
+    "vietnamese": "người cố vấn, hướng dẫn",
+    "example": "A mentor communicates wisdom, not just information.",
+    "difficulty": 1
+  },
+  {
+    "english": "mentee",
+    "vietnamese": "người được cố vấn",
+    "example": "A good mentee listens actively and asks thoughtful questions.",
+    "difficulty": 2
+  },
+  {
+    "english": "office hours",
+    "vietnamese": "giờ tiếp sinh viên",
+    "example": "Go to office hours — that is where real learning happens.",
+    "difficulty": 2
+  },
+  {
+    "english": "syllabus",
+    "vietnamese": "đề cương môn học",
+    "example": "The syllabus communicates expectations for the entire semester.",
+    "difficulty": 2
+  },
+  {
+    "english": "Miranda rights",
+    "vietnamese": "quyền Miranda (quyền giữ im lặng, quyền có luật sư)",
+    "example": "The officer read him his Miranda rights before questioning.",
+    "difficulty": 3
+  },
+  {
+    "english": "interrogation",
+    "vietnamese": "thẩm vấn, tra hỏi",
+    "example": "An interrogation is designed to extract information under pressure.",
+    "difficulty": 2
+  },
+  {
+    "english": "cross-examination",
+    "vietnamese": "thẩm vấn chéo tại tòa",
+    "example": "Cross-examination tests the credibility of the witness.",
+    "difficulty": 3
+  },
+  {
+    "english": "opening statement",
+    "vietnamese": "lời phát biểu mở đầu phiên tòa",
+    "example": "The opening statement sets the narrative for the entire trial.",
+    "difficulty": 2
+  },
+  {
+    "english": "closing argument",
+    "vietnamese": "lời tranh luận cuối cùng tại tòa",
+    "example": "The closing argument is the lawyer's last chance to sway the jury.",
+    "difficulty": 2
+  },
+  {
+    "english": "objection",
+    "vietnamese": "phản đối tại tòa",
+    "example": "The lawyer shouted Objection! before the witness could answer.",
+    "difficulty": 2
+  },
+  {
+    "english": "plead the fifth",
+    "vietnamese": "viện dẫn tu chánh án thứ năm (từ chối trả lời để tránh tự buộc tội)",
+    "example": "He pled the fifth when asked about the missing funds.",
+    "difficulty": 3
+  },
+  {
+    "english": "cold call",
+    "vietnamese": "gọi điện chào hàng không quen biết trước",
+    "example": "Cold calling is brutal — you face rejection a hundred times a day.",
+    "difficulty": 2
+  },
+  {
+    "english": "warm lead",
+    "vietnamese": "khách hàng tiềm năng đã có quan tâm",
+    "example": "A warm lead is easier to convert than a cold call.",
+    "difficulty": 2
+  },
+  {
+    "english": "upsell",
+    "vietnamese": "bán thêm sản phẩm cao cấp hơn",
+    "example": "The waiter tried to upsell us on the expensive wine.",
+    "difficulty": 1
+  },
+  {
+    "english": "cross-sell",
+    "vietnamese": "bán kèm sản phẩm liên quan",
+    "example": "Amazon's cross-sell shows you what other customers bought.",
+    "difficulty": 2
+  },
+  {
+    "english": "objection handling",
+    "vietnamese": "xử lý phản đối của khách hàng",
+    "example": "Objection handling is the core skill of any salesperson.",
+    "difficulty": 2
+  },
+  {
+    "english": "closing",
+    "vietnamese": "chốt sale, kết thúc giao dịch",
+    "example": "The closing is when you ask for the sale directly.",
+    "difficulty": 1
+  },
+  {
+    "english": "customer journey",
+    "vietnamese": "hành trình khách hàng từ biết đến mua",
+    "example": "Map the customer journey to improve communication at each touchpoint.",
+    "difficulty": 2
+  },
+  {
+    "english": "de-escalation",
+    "vietnamese": "hạ nhiệt khách hàng đang giận dữ",
+    "example": "De-escalation training teaches you to handle irate customers calmly.",
+    "difficulty": 2
+  },
+  {
+    "english": "service recovery",
+    "vietnamese": "khắc phục sau khi làm khách thất vọng",
+    "example": "A sincere apology plus a discount is effective service recovery.",
+    "difficulty": 2
+  },
+  {
+    "english": "vision statement",
+    "vietnamese": "tuyên bố tầm nhìn",
+    "example": "A compelling vision statement inspires people to follow.",
+    "difficulty": 2
+  },
+  {
+    "english": "mission statement",
+    "vietnamese": "tuyên bố sứ mệnh",
+    "example": "The mission statement explains why the company exists.",
+    "difficulty": 1
+  },
+  {
+    "english": "town hall meeting",
+    "vietnamese": "họp toàn thể công ty kiểu hỏi đáp",
+    "example": "The CEO answered tough questions at the town hall meeting.",
+    "difficulty": 2
+  },
+  {
+    "english": "rally the troops",
+    "vietnamese": "truyền lửa, động viên đội ngũ",
+    "example": "She rallied the troops with an inspiring speech before the launch.",
+    "difficulty": 2
+  },
+  {
+    "english": "lead by example",
+    "vietnamese": "lãnh đạo bằng hành động, không chỉ lời nói",
+    "example": "Lead by example — your team watches what you do, not what you say.",
+    "difficulty": 1
+  },
+  {
+    "english": "delegate",
+    "vietnamese": "giao việc, ủy quyền",
+    "example": "Delegating is not dumping — it is communicating clear expectations.",
+    "difficulty": 1
+  },
+  {
+    "english": "digital body language",
+    "vietnamese": "ngôn ngữ cơ thể kỹ thuật số (dấu chấm câu, thời gian trả lời)",
+    "example": "Digital body language — like using periods — affects how messages feel.",
+    "difficulty": 2
+  },
+  {
+    "english": "typing indicator",
+    "vietnamese": "dấu hiệu đang nhập (ba chấm nhấp nháy)",
+    "example": "The typing indicator appeared and disappeared three times.",
+    "difficulty": 2
+  },
+  {
+    "english": "read receipt",
+    "vietnamese": "xác nhận đã xem tin nhắn",
+    "example": "Read receipts create anxiety — turn them off for peace.",
+    "difficulty": 2
+  },
+  {
+    "english": "left on read",
+    "vietnamese": "bị xem tin nhưng không trả lời",
+    "example": "Being left on read feels worse than a direct rejection.",
+    "difficulty": 2
+  },
+  {
+    "english": "voice note",
+    "vietnamese": "tin nhắn thoại",
+    "example": "A voice note carries tone that text loses.",
+    "difficulty": 1
+  },
+  {
+    "english": "emoji",
+    "vietnamese": "biểu tượng cảm xúc",
+    "example": "An emoji can soften a message that would otherwise sound cold.",
+    "difficulty": 1
+  },
+  {
+    "english": "GIF",
+    "vietnamese": "ảnh động ngắn (Graphics Interchange Format)",
+    "example": "A well-timed GIF says more than a paragraph.",
+    "difficulty": 1
+  },
+  {
+    "english": "meme",
+    "vietnamese": "ảnh chế hài hước lan truyền",
+    "example": "Memes have become a universal language of internet culture.",
+    "difficulty": 1
+  },
+  {
+    "english": "subtext",
+    "vietnamese": "ẩn ý, ý nghĩa ngầm dưới câu chữ",
+    "example": "Her message was polite but the subtext was clear: back off.",
+    "difficulty": 2
+  },
+  {
+    "english": "flame",
+    "vietnamese": "gây sự, chửi bới trên mạng",
+    "example": "Online discussions quickly turn into flame wars.",
+    "difficulty": 2
+  },
+  {
+    "english": "troll",
+    "vietnamese": "kẻ khiêu khích, quấy phá trên mạng",
+    "example": "Do not feed the trolls — they thrive on reactions.",
+    "difficulty": 1
+  },
+  {
+    "english": "block",
+    "vietnamese": "chặn người dùng trên mạng xã hội",
+    "example": "Blocking is not rude — it is protecting your peace.",
+    "difficulty": 1
+  },
+  {
+    "english": "unfollow",
+    "vietnamese": "bỏ theo dõi",
+    "example": "Unfollow accounts that make you feel bad about yourself.",
+    "difficulty": 1
+  },
+  {
+    "english": "love language",
+    "vietnamese": "ngôn ngữ tình yêu (cách thể hiện/nhận tình cảm)",
+    "example": "Her love language is acts of service, not words of affirmation.",
+    "difficulty": 2
+  },
+  {
+    "english": "stonewalling",
+    "vietnamese": "tự đóng băng, từ chối giao tiếp trong xung đột",
+    "example": "Stonewalling during arguments predicts divorce, research shows.",
+    "difficulty": 2
+  },
+  {
+    "english": "defensiveness",
+    "vietnamese": "thái độ phòng thủ, không chịu nhận lỗi",
+    "example": "Defensiveness blocks resolution — own your part first.",
+    "difficulty": 1
+  },
+  {
+    "english": "the Four Horsemen",
+    "vietnamese": "bốn kỵ sĩ (4 dấu hiệu báo hiệu ly hôn)",
+    "example": "The Four Horsemen are criticism, contempt, defensiveness, and stonewalling.",
+    "difficulty": 3
+  },
+  {
+    "english": "soft startup",
+    "vietnamese": "mở đầu nhẹ nhàng khi góp ý với bạn đời",
+    "example": "A soft startup sounds like: I feel lonely when we do not eat together.",
+    "difficulty": 2
+  },
+  {
+    "english": "repair attempt",
+    "vietnamese": "nỗ lực hàn gắn giữa lúc cãi nhau",
+    "example": "A repair attempt — like a joke or apology — can stop an argument from escalating.",
+    "difficulty": 2
+  },
+  {
+    "english": "charisma",
+    "vietnamese": "sức hút cá nhân trong giao tiếp",
+    "example": "Charisma is making everyone feel like the most important person in the room.",
+    "difficulty": 2
+  },
+  {
+    "english": "presence",
+    "vietnamese": "sự hiện diện, sức nặng khi giao tiếp",
+    "example": "Executive presence commands attention without raising your voice.",
+    "difficulty": 2
+  },
+  {
+    "english": "gravitas",
+    "vietnamese": "sự uy nghiêm, đĩnh đạc trong lời nói",
+    "example": "A leader with gravitas speaks rarely but every word lands.",
+    "difficulty": 3
+  },
+  {
+    "english": "banal",
+    "vietnamese": "nhạt nhẽo, sáo mòn",
+    "example": "Banal small talk about the weather kills conversations.",
+    "difficulty": 2
+  },
+  {
+    "english": "profound",
+    "vietnamese": "sâu sắc, thâm thúy",
+    "example": "A profound question can change the direction of a relationship.",
+    "difficulty": 2
+  },
+  {
+    "english": "glib",
+    "vietnamese": "lém lỉnh nhưng hời hợt",
+    "example": "His glib answers made it clear he was not taking this seriously.",
+    "difficulty": 2
+  },
+  {
+    "english": "facetious",
+    "vietnamese": "đùa cợt không đúng lúc",
+    "example": "His facetious comment during the serious meeting angered everyone.",
+    "difficulty": 3
+  },
+  {
+    "english": "wry",
+    "vietnamese": "hài hước chua chát, mỉa mai khô khan",
+    "example": "His wry observations about office politics always got a chuckle.",
+    "difficulty": 2
+  },
+  {
+    "english": "self-deprecating",
+    "vietnamese": "tự giễu, tự trào",
+    "example": "Self-deprecating humor makes you relatable — use it sparingly.",
+    "difficulty": 2
+  },
+  {
+    "english": "tongue-in-cheek",
+    "vietnamese": "nói đùa kiểu nghiêm túc",
+    "example": "His tongue-in-cheek proposal was so deadpan half the room believed him.",
+    "difficulty": 3
+  },
+  {
+    "english": "hyperbole",
+    "vietnamese": "phép ngoa dụ, phóng đại",
+    "example": "I have told you a million times is hyperbole.",
+    "difficulty": 2
+  },
+  {
+    "english": "understatement",
+    "vietnamese": "nói giảm, nói nhẹ đi",
+    "example": "It is a bit chilly is an understatement when it is minus 20.",
+    "difficulty": 2
+  },
+  {
+    "english": "infer",
+    "vietnamese": "suy ra, suy luận từ điều đã nghe",
+    "example": "I inferred from her tone that she was unhappy.",
+    "difficulty": 2
+  },
+  {
+    "english": "read between the lines",
+    "vietnamese": "đọc hiểu ẩn ý",
+    "example": "He said he was fine, but reading between the lines, he was devastated.",
+    "difficulty": 1
+  },
+  {
+    "english": "dry humor",
+    "vietnamese": "hài khô (tỉnh bơ nói điều hài hước)",
+    "example": "His dry humor goes over most people's heads.",
+    "difficulty": 2
+  },
+  {
+    "english": "slapstick",
+    "vietnamese": "hài hình thể, hài va đập",
+    "example": "Slapstick comedy relies on physical humor, not clever words.",
+    "difficulty": 2
+  },
+  {
+    "english": "dark humor",
+    "vietnamese": "hài đen, hài về chủ đề nghiêm trọng",
+    "example": "Dark humor is how some people cope with trauma.",
+    "difficulty": 2
+  },
+  {
+    "english": "dad joke",
+    "vietnamese": "câu đùa ngây ngô kiểu người cha",
+    "example": "His dad jokes are so bad they actually become funny.",
+    "difficulty": 1
+  },
+  {
+    "english": "running gag",
+    "vietnamese": "câu đùa lặp đi lặp lại xuyên suốt",
+    "example": "The running gag about his coffee addiction never got old.",
+    "difficulty": 2
+  },
+  {
+    "english": "inside joke",
+    "vietnamese": "câu đùa chỉ người trong nhóm hiểu",
+    "example": "Every friend group has inside jokes no one else gets.",
+    "difficulty": 1
+  },
+  {
+    "english": "roast",
+    "vietnamese": "chế giễu công khai kiểu hài hước",
+    "example": "The comedy roast was brutal but everyone laughed.",
+    "difficulty": 2
+  },
+  {
+    "english": "satire",
+    "vietnamese": "châm biếm, trào phúng",
+    "example": "Satire uses humor to criticize society and politics.",
+    "difficulty": 2
+  },
+  {
+    "english": "parody",
+    "vietnamese": "nhái lại, bắt chước để gây cười",
+    "example": "The parody of the news broadcast was spot-on.",
+    "difficulty": 2
+  },
+  {
+    "english": "irony",
+    "vietnamese": "trớ trêu, mỉa mai (nói ngược với ý thật)",
+    "example": "The irony: the communication professor could not express his own feelings.",
+    "difficulty": 2
+  },
+  {
+    "english": "monotone",
+    "vietnamese": "giọng đều đều, không lên xuống",
+    "example": "A monotone voice puts audiences to sleep.",
+    "difficulty": 1
+  },
+  {
+    "english": "raspy",
+    "vietnamese": "giọng khàn, rè",
+    "example": "His voice was raspy after yelling at the concert.",
+    "difficulty": 1
+  },
+  {
+    "english": "nasal",
+    "vietnamese": "giọng mũi",
+    "example": "A nasal voice can make you sound whiny even when you are not.",
+    "difficulty": 2
+  },
+  {
+    "english": "breathy",
+    "vietnamese": "giọng thở, nhẹ nhàng như thở ra",
+    "example": "A breathy voice can sound intimate or lacking confidence.",
+    "difficulty": 2
+  },
+  {
+    "english": "booming",
+    "vietnamese": "giọng vang, oang oang",
+    "example": "His booming voice filled the hall without a microphone.",
+    "difficulty": 1
+  },
+  {
+    "english": "gravelly",
+    "vietnamese": "giọng khàn đặc trầm",
+    "example": "His gravelly voice gave him an air of authority.",
+    "difficulty": 2
+  },
+  {
+    "english": "shrill",
+    "vietnamese": "giọng the thé, chói tai",
+    "example": "Her shrill complaint could be heard three offices away.",
+    "difficulty": 2
+  },
+  {
+    "english": "kickoff meeting",
+    "vietnamese": "họp khởi động dự án",
+    "example": "The kickoff meeting sets the tone for the entire project.",
+    "difficulty": 1
+  },
+  {
+    "english": "debrief",
+    "vietnamese": "họp rút kinh nghiệm sau sự kiện",
+    "example": "The debrief after the event revealed three major improvements.",
+    "difficulty": 2
+  },
+  {
+    "english": "huddle",
+    "vietnamese": "họp nhanh, túm lại bàn việc",
+    "example": "Quick huddle before the client arrives — any concerns?",
+    "difficulty": 1
+  },
+  {
+    "english": "war room",
+    "vietnamese": "phòng họp khẩn cấp, tập trung xử lý khủng hoảng",
+    "example": "The war room was set up to handle the data breach.",
+    "difficulty": 2
+  },
+  {
+    "english": "offsite",
+    "vietnamese": "họp dã ngoại, họp ngoài văn phòng",
+    "example": "The annual offsite combines strategy sessions with team building.",
+    "difficulty": 2
+  },
+  {
+    "english": "sound bite",
+    "vietnamese": "trích đoạn ngắn gây ấn tượng (trên TV/radio)",
+    "example": "Politicians craft sound bites for the evening news.",
+    "difficulty": 3
+  },
+  {
+    "english": "talking head",
+    "vietnamese": "chuyên gia nói trước camera (tin tức)",
+    "example": "The news was just talking heads debating without substance.",
+    "difficulty": 2
+  },
+  {
+    "english": "byline",
+    "vietnamese": "tên tác giả bài báo",
+    "example": "She finally got her byline on the front page.",
+    "difficulty": 2
+  },
+  {
+    "english": "headline",
+    "vietnamese": "tiêu đề bài báo",
+    "example": "A headline should hook the reader in under five words.",
+    "difficulty": 1
+  },
+  {
+    "english": "editorial",
+    "vietnamese": "bài xã luận, bài quan điểm",
+    "example": "The editorial criticized the government's communication strategy.",
+    "difficulty": 2
+  },
+  {
+    "english": "op-ed",
+    "vietnamese": "bài báo quan điểm đối lập (opposite editorial)",
+    "example": "She wrote an op-ed arguing for free speech on campus.",
+    "difficulty": 2
+  },
+  {
+    "english": "column",
+    "vietnamese": "chuyên mục báo định kỳ",
+    "example": "His weekly column on communication reaches millions.",
+    "difficulty": 1
+  },
+  {
+    "english": "breaking news",
+    "vietnamese": "tin nóng, tin vừa xảy ra",
+    "example": "Breaking news interrupted the regular broadcast.",
+    "difficulty": 1
+  },
+  {
+    "english": "exclusive",
+    "vietnamese": "tin độc quyền",
+    "example": "The newspaper landed an exclusive interview with the whistleblower.",
+    "difficulty": 2
+  },
+  {
+    "english": "peer review",
+    "vietnamese": "bình duyệt đồng cấp (đánh giá nghiên cứu)",
+    "example": "Peer review is how science polices its own communication.",
+    "difficulty": 2
+  },
+  {
+    "english": "abstract",
+    "vietnamese": "tóm tắt nghiên cứu",
+    "example": "The abstract should communicate the key findings in 200 words.",
+    "difficulty": 2
+  },
+  {
+    "english": "hypothesis",
+    "vietnamese": "giả thuyết khoa học",
+    "example": "A hypothesis must be communicated clearly enough to be tested.",
+    "difficulty": 2
+  },
+  {
+    "english": "peer-reviewed",
+    "vietnamese": "đã được bình duyệt đồng cấp",
+    "example": "Only peer-reviewed studies should be cited as evidence.",
+    "difficulty": 2
+  },
+  {
+    "english": "sign language",
+    "vietnamese": "ngôn ngữ ký hiệu",
+    "example": "Sign language is a fully grammatical language, not just gestures.",
+    "difficulty": 1
+  },
+  {
+    "english": "ASL",
+    "vietnamese": "Ngôn ngữ ký hiệu Mỹ (American Sign Language)",
+    "example": "ASL has its own syntax — it is not signed English.",
+    "difficulty": 2
+  },
+  {
+    "english": "Braille",
+    "vietnamese": "chữ nổi Braille",
+    "example": "Braille enables blind people to read through touch.",
+    "difficulty": 2
+  },
+  {
+    "english": "closed caption",
+    "vietnamese": "phụ đề dành cho người khiếm thính",
+    "example": "Closed captions help not just the deaf but anyone in a noisy room.",
+    "difficulty": 2
+  },
+  {
+    "english": "alt text",
+    "vietnamese": "văn bản thay thế cho hình ảnh (cho người khiếm thị)",
+    "example": "Alt text describes images for screen reader users.",
+    "difficulty": 2
+  },
+  {
+    "english": "screen reader",
+    "vietnamese": "phần mềm đọc màn hình cho người khiếm thị",
+    "example": "A screen reader converts text to speech or Braille.",
+    "difficulty": 2
+  },
+  {
+    "english": "chain of command",
+    "vietnamese": "chuỗi chỉ huy (cấp trên - cấp dưới)",
+    "example": "Military communication follows the chain of command strictly.",
+    "difficulty": 2
+  },
+  {
+    "english": "briefing",
+    "vietnamese": "cuộc họp giao nhiệm vụ ngắn",
+    "example": "The morning briefing covered all operational details.",
+    "difficulty": 1
+  },
+  {
+    "english": "debriefing",
+    "vietnamese": "họp báo cáo sau nhiệm vụ",
+    "example": "The debriefing after the mission revealed critical intelligence.",
+    "difficulty": 2
+  },
+  {
+    "english": "radio protocol",
+    "vietnamese": "quy tắc giao tiếp qua radio",
+    "example": "Radio protocol uses words like over and roger for clarity.",
+    "difficulty": 2
+  },
+  {
+    "english": "over and out",
+    "vietnamese": "hết lượt nói và kết thúc (radio)",
+    "example": "Over means your turn; out means transmission ends.",
+    "difficulty": 2
+  },
+  {
+    "english": "mayday",
+    "vietnamese": "tín hiệu cấp cứu khẩn cấp",
+    "example": "The pilot radioed mayday three times before the crash.",
+    "difficulty": 2
+  },
+  {
+    "english": "SOS",
+    "vietnamese": "tín hiệu cầu cứu quốc tế (...---...)",
+    "example": "SOS in Morse code is universally recognized.",
+    "difficulty": 1
+  },
+  {
+    "english": "diplomatic language",
+    "vietnamese": "ngôn ngữ ngoại giao (nói vòng vo lịch sự)",
+    "example": "Diplomatic language says we have concerns instead of we are angry.",
+    "difficulty": 2
+  },
+  {
+    "english": "sermon",
+    "vietnamese": "bài giảng đạo",
+    "example": "The sermon was more about kindness than doctrine.",
+    "difficulty": 2
+  },
+  {
+    "english": "blessing",
+    "vietnamese": "lời chúc phước, ban phước",
+    "example": "He gave his blessing to the marriage.",
+    "difficulty": 1
+  },
+  {
+    "english": "prayer",
+    "vietnamese": "lời cầu nguyện",
+    "example": "Prayer is a form of communication with the divine.",
+    "difficulty": 1
+  },
+  {
+    "english": "word of mouth",
+    "vietnamese": "truyền miệng",
+    "example": "Word of mouth is still the most powerful form of marketing.",
+    "difficulty": 1
+  },
+  {
+    "english": "discourse",
+    "vietnamese": "diễn ngôn, cuộc thảo luận có hệ thống",
+    "example": "Academic discourse can be impenetrable to outsiders.",
+    "difficulty": 3
+  },
+  {
+    "english": "pillow talk",
+    "vietnamese": "chuyện tâm sự trên giường sau khi thân mật",
+    "example": "Pillow talk is when the deepest truths slip out.",
+    "difficulty": 2
+  },
+  {
+    "english": "sweet talk",
+    "vietnamese": "nói ngọt, đường mật",
+    "example": "His sweet talk convinced her to lend him money again.",
+    "difficulty": 1
+  },
+  {
+    "english": "smooth talker",
+    "vietnamese": "người nói ngọt, dẻo miệng",
+    "example": "He is a smooth talker — charming but untrustworthy.",
+    "difficulty": 2
+  },
+  {
+    "english": "fast talker",
+    "vietnamese": "người nói nhanh (thường để lừa)",
+    "example": "The fast talker sold him a fake watch before he could think.",
+    "difficulty": 2
+  },
+  {
+    "english": "silver tongue",
+    "vietnamese": "tài ăn nói, miệng lưỡi vàng",
+    "example": "His silver tongue got the company out of every crisis.",
+    "difficulty": 2
+  },
+  {
+    "english": "verbal diarrhea",
+    "vietnamese": "nói không ngừng, không kiểm soát",
+    "example": "His verbal diarrhea during the interview cost him the job.",
+    "difficulty": 2
+  },
+  {
+    "english": "foot in mouth",
+    "vietnamese": "lỡ lời, nói điều đáng xấu hổ",
+    "example": "He put his foot in his mouth by asking about her ex-husband.",
+    "difficulty": 2
+  },
+  {
+    "english": "eat your words",
+    "vietnamese": "rút lại lời, nuốt lời",
+    "example": "He said she would fail — now he has to eat his words.",
+    "difficulty": 2
+  },
+  {
+    "english": "bite your tongue",
+    "vietnamese": "cắn lưỡi, nhịn không nói",
+    "example": "I had to bite my tongue when my boss took credit for my work.",
+    "difficulty": 2
+  },
+  {
+    "english": "loose cannon",
+    "vietnamese": "người nói năng bộp chộp khó kiểm soát",
+    "example": "He is a loose cannon in interviews — you never know what he will say.",
+    "difficulty": 2
+  },
+  {
+    "english": "blab",
+    "vietnamese": "tiết lộ bí mật, hớ hênh",
+    "example": "She blabbed the surprise party to the birthday girl.",
+    "difficulty": 1
+  },
+  {
+    "english": "yammer",
+    "vietnamese": "lải nhải không ngừng",
+    "example": "He yammered on about his car for the entire lunch.",
+    "difficulty": 2
+  },
+  {
+    "english": "prattle",
+    "vietnamese": "nói chuyện vô nghĩa, bi bô",
+    "example": "The toddler prattled happily about her day at preschool.",
+    "difficulty": 2
+  },
+  {
+    "english": "rant",
+    "vietnamese": "nói giận dữ, tuôn trào",
+    "example": "His rant about customer service went viral.",
+    "difficulty": 1
+  },
+  {
+    "english": "rave",
+    "vietnamese": "nói huyên thuyên đầy phấn khích",
+    "example": "She raved about the restaurant so much I had to try it.",
+    "difficulty": 1
+  },
+  {
+    "english": "gush",
+    "vietnamese": "tuôn ra đầy cảm xúc (thường là khen)",
+    "example": "She gushed about her new boyfriend for twenty minutes.",
+    "difficulty": 1
+  },
+  {
+    "english": "recount",
+    "vietnamese": "kể lại, thuật lại",
+    "example": "He recounted the accident in excruciating detail.",
+    "difficulty": 1
+  },
+  {
+    "english": "recap",
+    "vietnamese": "tóm tắt lại",
+    "example": "Let me recap the main points before we wrap up.",
+    "difficulty": 1
+  },
+  {
+    "english": "beat around the bush",
+    "vietnamese": "nói vòng vo, không vào thẳng vấn đề",
+    "example": "Stop beating around the bush — tell me what you really want.",
+    "difficulty": 2
+  },
+  {
+    "english": "get straight to the point",
+    "vietnamese": "đi thẳng vào vấn đề",
+    "example": "Let me get straight to the point: we need to cut costs.",
+    "difficulty": 1
+  },
+  {
+    "english": "mince words",
+    "vietnamese": "nói giảm nói tránh, uyển ngữ",
+    "example": "She does not mince words — she tells you exactly what she thinks.",
+    "difficulty": 2
+  },
+  {
+    "english": "not mince words",
+    "vietnamese": "không vòng vo, nói thẳng",
+    "example": "He did not mince words: this is the worst quarter we have ever had.",
+    "difficulty": 2
+  },
+  {
+    "english": "lay it on the line",
+    "vietnamese": "nói thẳng, nói rõ ràng",
+    "example": "Let me lay it on the line — if we miss this target, we close.",
+    "difficulty": 2
+  },
+  {
+    "english": "pull no punches",
+    "vietnamese": "không giảm nhẹ, nói thẳng sự thật",
+    "example": "The report pulls no punches about the company's failures.",
+    "difficulty": 2
+  },
+  {
+    "english": "shoot the breeze",
+    "vietnamese": "tán gẫu vô thưởng vô phạt",
+    "example": "We sat on the porch shooting the breeze until sunset.",
+    "difficulty": 2
+  },
+  {
+    "english": "chew the fat",
+    "vietnamese": "tán gẫu lâu, tám chuyện",
+    "example": "The old friends chewed the fat for hours at the bar.",
+    "difficulty": 2
+  },
+  {
+    "english": "talk a blue streak",
+    "vietnamese": "nói liên tục không ngừng",
+    "example": "She talked a blue streak about her trip to Tokyo.",
+    "difficulty": 3
+  },
+  {
+    "english": "talk until blue in the face",
+    "vietnamese": "nói đến mệt lử mà vẫn không thay đổi được gì",
+    "example": "You can talk until you are blue in the face — he will not listen.",
+    "difficulty": 3
+  },
+  {
+    "english": "run off at the mouth",
+    "vietnamese": "nói quá nhiều, hớ hênh",
+    "example": "He ran off at the mouth and revealed the secret plan.",
+    "difficulty": 2
+  },
+  {
+    "english": "shoot from the hip",
+    "vietnamese": "nói thẳng không suy nghĩ trước",
+    "example": "He shoots from the hip — refreshing but sometimes reckless.",
+    "difficulty": 2
+  },
+  {
+    "english": "off the cuff",
+    "vietnamese": "ứng khẩu, không chuẩn bị trước",
+    "example": "His off-the-cuff remarks were more honest than his prepared speech.",
+    "difficulty": 2
+  },
+  {
+    "english": "off the top of one's head",
+    "vietnamese": "nói ngay không cần suy nghĩ",
+    "example": "Off the top of my head, I would say the budget is about fifty thousand.",
+    "difficulty": 2
+  },
+  {
+    "english": "wing it",
+    "vietnamese": "ứng biến, làm mà không chuẩn bị",
+    "example": "I forgot my notes so I had to wing the presentation.",
+    "difficulty": 1
+  },
+  {
+    "english": "ad-lib",
+    "vietnamese": "ứng khẩu, bịa lời ngay tại chỗ",
+    "example": "When the teleprompter broke, she ad-libbed for ten minutes.",
+    "difficulty": 2
+  },
+  {
+    "english": "extemporaneous",
+    "vietnamese": "ứng khẩu có chuẩn bị sơ",
+    "example": "His extemporaneous speech was better than the scripted one.",
+    "difficulty": 3
+  },
+  {
+    "english": "spar",
+    "vietnamese": "đấu khẩu, tranh luận qua lại",
+    "example": "The candidates sparred over healthcare policy.",
+    "difficulty": 2
+  },
+  {
+    "english": "spat",
+    "vietnamese": "cãi vặt, tranh cãi nhỏ",
+    "example": "Their little spat was forgotten by dinner.",
+    "difficulty": 1
+  },
+  {
+    "english": "squabble",
+    "vietnamese": "cãi nhau vặt vãnh",
+    "example": "The kids squabbled over who got the last cookie.",
+    "difficulty": 1
+  },
+  {
+    "english": "bicker",
+    "vietnamese": "cãi nhau lặt vặt liên tục",
+    "example": "They bicker constantly but still love each other.",
+    "difficulty": 1
+  },
+  {
+    "english": "argue",
+    "vietnamese": "tranh luận, cãi nhau",
+    "example": "They argued about politics for hours without resolution.",
+    "difficulty": 1
+  },
+  {
+    "english": "dispute",
+    "vietnamese": "tranh chấp, bất đồng chính thức",
+    "example": "The two companies are in a legal dispute over the patent.",
+    "difficulty": 2
+  },
+  {
+    "english": "feud",
+    "vietnamese": "thù địch lâu dài giữa hai bên",
+    "example": "The family feud has lasted three generations.",
+    "difficulty": 2
+  },
+  {
+    "english": "lament",
+    "vietnamese": "than vãn, tiếc nuối",
+    "example": "He lamented the loss of face-to-face communication.",
+    "difficulty": 2
+  },
+  {
+    "english": "bemoan",
+    "vietnamese": "than phiền, rên rỉ về điều gì đó",
+    "example": "She bemoaned the lack of deep conversation in modern dating.",
+    "difficulty": 2
+  },
+  {
+    "english": "rehash",
+    "vietnamese": "lặp lại cuộc tranh luận cũ",
+    "example": "Let us not rehash the same argument — we have been here before.",
+    "difficulty": 2
+  },
+  {
+    "english": "pry",
+    "vietnamese": "tọc mạch, hỏi chuyện riêng tư",
+    "example": "Stop prying into my personal life.",
+    "difficulty": 1
+  },
+  {
+    "english": "probe",
+    "vietnamese": "thăm dò, đào sâu",
+    "example": "The journalist probed into the politician's past.",
+    "difficulty": 2
+  },
+  {
+    "english": "grill",
+    "vietnamese": "tra hỏi, hỏi dồn dập",
+    "example": "The panel grilled the candidate for an hour.",
+    "difficulty": 2
+  },
+  {
+    "english": "field questions",
+    "vietnamese": "trả lời câu hỏi từ khán giả",
+    "example": "The CEO fielded questions from shareholders for two hours.",
+    "difficulty": 2
+  },
+  {
+    "english": "equivocate",
+    "vietnamese": "nói nước đôi, mập mờ",
+    "example": "He equivocated instead of giving a straight answer.",
+    "difficulty": 3
+  },
+  {
+    "english": "hedge",
+    "vietnamese": "nói lấp lửng để bảo vệ mình",
+    "example": "She hedged her answer with maybe and it depends.",
+    "difficulty": 2
+  },
+  {
+    "english": "non-answer",
+    "vietnamese": "câu trả lời không trả lời gì cả",
+    "example": "That was a non-answer — you said a lot but told me nothing.",
+    "difficulty": 2
+  },
+  {
+    "english": "cop out",
+    "vietnamese": "lẩn tránh trách nhiệm, trả lời cho có",
+    "example": "Saying I do not know is a cop out — go find out.",
+    "difficulty": 2
+  },
+  {
+    "english": "put into words",
+    "vietnamese": "diễn đạt thành lời",
+    "example": "I cannot put into words how grateful I am.",
+    "difficulty": 1
+  },
+  {
+    "english": "find the words",
+    "vietnamese": "tìm ra cách diễn đạt phù hợp",
+    "example": "She could not find the words to express her grief.",
+    "difficulty": 1
+  },
+  {
+    "english": "lost for words",
+    "vietnamese": "không nói nên lời",
+    "example": "When he proposed, I was completely lost for words.",
+    "difficulty": 2
+  },
+  {
+    "english": "speechless",
+    "vietnamese": "cứng họng, không biết nói gì",
+    "example": "The surprise left her speechless for a full minute.",
+    "difficulty": 1
+  },
+  {
+    "english": "at a loss for words",
+    "vietnamese": "bối rối không biết nói gì",
+    "example": "I am at a loss for words — that was incredibly generous.",
+    "difficulty": 2
+  },
+  {
+    "english": "dumbfounded",
+    "vietnamese": "chết lặng, sững sờ",
+    "example": "He was dumbfounded by the accusation.",
+    "difficulty": 2
+  },
+  {
+    "english": "flabbergasted",
+    "vietnamese": "kinh ngạc đến không nói nên lời",
+    "example": "I was flabbergasted when she announced she was leaving.",
+    "difficulty": 2
+  },
+  {
+    "english": "taken aback",
+    "vietnamese": "sửng sốt, bất ngờ đến đứng hình",
+    "example": "He was taken aback by her blunt honesty.",
+    "difficulty": 2
+  },
+  {
+    "english": "render speechless",
+    "vietnamese": "làm ai đó câm lặng",
+    "example": "The beauty of the view rendered us all speechless.",
+    "difficulty": 2
+  },
+  {
+    "english": "choke up",
+    "vietnamese": "nghẹn giọng vì xúc động",
+    "example": "He choked up during his farewell speech.",
+    "difficulty": 2
+  },
+  {
+    "english": "get choked up",
+    "vietnamese": "bị nghẹn giọng vì cảm xúc",
+    "example": "I always get choked up at weddings.",
+    "difficulty": 1
+  },
+  {
+    "english": "hold back tears",
+    "vietnamese": "kìm nước mắt",
+    "example": "She held back tears as she delivered the eulogy.",
+    "difficulty": 1
+  },
+  {
+    "english": "break down",
+    "vietnamese": "sụp đổ cảm xúc, khóc òa",
+    "example": "He broke down in tears during the interview.",
+    "difficulty": 1
+  },
+  {
+    "english": "compose oneself",
+    "vietnamese": "trấn tĩnh lại",
+    "example": "Take a moment to compose yourself before speaking.",
+    "difficulty": 2
+  },
+  {
+    "english": "keep it together",
+    "vietnamese": "giữ bình tĩnh, không mất kiểm soát",
+    "example": "I barely kept it together during the meeting.",
+    "difficulty": 1
+  },
+  {
+    "english": "pregnant pause",
+    "vietnamese": "khoảng lặng đầy ý nghĩa",
+    "example": "After his question, there was a pregnant pause before she answered.",
+    "difficulty": 3
+  },
+  {
+    "english": "awkward silence",
+    "vietnamese": "im lặng ngượng ngùng",
+    "example": "An awkward silence filled the room after his inappropriate joke.",
+    "difficulty": 1
+  },
+  {
+    "english": "comfortable silence",
+    "vietnamese": "im lặng thoải mái giữa những người thân",
+    "example": "Comfortable silence is a sign of a strong relationship.",
+    "difficulty": 2
+  },
+  {
+    "english": "pause for effect",
+    "vietnamese": "ngừng để tạo hiệu ứng kịch tính",
+    "example": "He paused for effect before revealing the winner.",
+    "difficulty": 2
+  },
+  {
+    "english": "let it sink in",
+    "vietnamese": "để thông tin thấm vào người nghe",
+    "example": "I told him the truth and let it sink in before speaking again.",
+    "difficulty": 2
+  },
+  {
+    "english": "murmur",
+    "vietnamese": "thì thầm, nói khe khẽ",
+    "example": "She murmured a quiet thank you as she left the room.",
+    "difficulty": 1
+  },
+  {
+    "english": "mutter",
+    "vietnamese": "lẩm bẩm càu nhàu",
+    "example": "He muttered complaints about the weather the entire walk.",
+    "difficulty": 1
+  },
+  {
+    "english": "hiss",
+    "vietnamese": "nói giọng rít giận dữ",
+    "example": "Get out, she hissed through clenched teeth.",
+    "difficulty": 2
+  },
+  {
+    "english": "snarl",
+    "vietnamese": "gầm gừ, nói giọng hung dữ",
+    "example": "He snarled at the reporter who asked about the scandal.",
+    "difficulty": 2
+  },
+  {
+    "english": "bark",
+    "vietnamese": "quát, nói giọng ra lệnh gắt gỏng",
+    "example": "The sergeant barked orders at the recruits.",
+    "difficulty": 1
+  },
+  {
+    "english": "drawl",
+    "vietnamese": "nói kéo dài giọng chậm rãi",
+    "example": "His southern drawl made even insults sound friendly.",
+    "difficulty": 2
+  },
+  {
+    "english": "lilt",
+    "vietnamese": "giọng lên xuống nhịp nhàng vui tươi",
+    "example": "The Irish lilt in her voice made every story sound magical.",
+    "difficulty": 2
+  },
+  {
+    "english": "falter",
+    "vietnamese": "ngập ngừng, giọng run",
+    "example": "Her voice faltered when she mentioned his name.",
+    "difficulty": 2
+  },
+  {
+    "english": "trail off",
+    "vietnamese": "nói nhỏ dần rồi im",
+    "example": "His sentence trailed off as he realized no one was listening.",
+    "difficulty": 1
+  },
+  {
+    "english": "interject",
+    "vietnamese": "chen vào, xen lời",
+    "example": "He interjected with a correction before she could finish.",
+    "difficulty": 2
+  },
+  {
+    "english": "slip out",
+    "vietnamese": "lỡ lời, tuôn ra ngoài ý muốn",
+    "example": "The secret slipped out before I could stop myself.",
+    "difficulty": 1
+  },
+  {
+    "english": "let on",
+    "vietnamese": "tiết lộ, để lộ",
+    "example": "She did not let on that she knew about the surprise.",
+    "difficulty": 2
+  },
+  {
+    "english": "give away",
+    "vietnamese": "tiết lộ bí mật, để lộ",
+    "example": "His nervous smile gave away the surprise.",
+    "difficulty": 1
+  },
+  {
+    "english": "spill",
+    "vietnamese": "tiết lộ hết, khai ra",
+    "example": "Under pressure, he spilled everything to the investigators.",
+    "difficulty": 1
+  },
+  {
+    "english": "fess up",
+    "vietnamese": "thú nhận",
+    "example": "Just fess up — the truth will come out anyway.",
+    "difficulty": 2
+  },
+  {
+    "english": "come out with",
+    "vietnamese": "thốt ra, nói ra điều bất ngờ",
+    "example": "He came out with the most ridiculous excuse I have ever heard.",
+    "difficulty": 1
+  },
+  {
+    "english": "shoot down",
+    "vietnamese": "bác bỏ thẳng thừng",
+    "example": "She shot down every suggestion without consideration.",
+    "difficulty": 2
+  },
+  {
+    "english": "brush off",
+    "vietnamese": "gạt đi, phớt lờ",
+    "example": "He brushed off my concerns as if they were nothing.",
+    "difficulty": 1
+  },
+  {
+    "english": "laugh off",
+    "vietnamese": "cười trừ, coi nhẹ",
+    "example": "She laughed off the criticism but you could tell it stung.",
+    "difficulty": 1
+  },
+  {
+    "english": "play down",
+    "vietnamese": "hạ thấp tầm quan trọng",
+    "example": "The government tried to play down the severity of the crisis.",
+    "difficulty": 1
+  },
+  {
+    "english": "talk into",
+    "vietnamese": "thuyết phục ai làm gì",
+    "example": "She talked me into going to the party even though I was tired.",
+    "difficulty": 1
+  },
+  {
+    "english": "talk out of",
+    "vietnamese": "thuyết phục ai đừng làm gì",
+    "example": "I tried to talk him out of quitting but his mind was made up.",
+    "difficulty": 1
+  },
+  {
+    "english": "responsive",
+    "vietnamese": "phản hồi nhanh, đáp ứng",
+    "example": "A responsive partner makes conversation feel effortless.",
+    "difficulty": 1
+  },
+  {
+    "english": "unresponsive",
+    "vietnamese": "không phản hồi, lờ đi",
+    "example": "He was unresponsive to my texts for three days.",
+    "difficulty": 1
+  },
+  {
+    "english": "evasive",
+    "vietnamese": "lảng tránh, không trả lời thẳng",
+    "example": "His evasive answers made me more suspicious.",
+    "difficulty": 2
+  },
+  {
+    "english": "forthcoming",
+    "vietnamese": "cởi mở, sẵn sàng chia sẻ thông tin",
+    "example": "She was not forthcoming about her past.",
+    "difficulty": 2
+  },
+  {
+    "english": "forthright",
+    "vietnamese": "thẳng thắn, không vòng vo",
+    "example": "Her forthright manner ruffles feathers but earns respect.",
+    "difficulty": 2
+  },
+  {
+    "english": "guarded",
+    "vietnamese": "dè dặt, thận trọng trong lời nói",
+    "example": "He was guarded about his personal life at work.",
+    "difficulty": 2
+  },
+  {
+    "english": "vocal",
+    "vietnamese": "lên tiếng mạnh mẽ, có chính kiến",
+    "example": "She has been vocal about the need for change.",
+    "difficulty": 1
+  },
+  {
+    "english": "tight-lipped",
+    "vietnamese": "kín miệng, không hé lộ",
+    "example": "He remained tight-lipped about the merger negotiations.",
+    "difficulty": 2
+  },
+  {
+    "english": "close-mouthed",
+    "vietnamese": "kín tiếng, ít nói",
+    "example": "She was close-mouthed about her family background.",
+    "difficulty": 2
+  },
+  {
+    "english": "grunt",
+    "vietnamese": "ừ hử, nói cộc lốc, ra tiếng không thành lời",
+    "example": "He just grunted in response — I could not tell if he agreed.",
+    "difficulty": 1
+  },
+  {
+    "english": "groan",
+    "vietnamese": "rên rỉ vì khó chịu",
+    "example": "The class groaned when the teacher announced a pop quiz.",
+    "difficulty": 1
+  },
+  {
+    "english": "gasp",
+    "vietnamese": "há hốc, thở gấp vì sốc",
+    "example": "The audience gasped when the winner was announced.",
+    "difficulty": 1
+  },
+  {
+    "english": "shriek",
+    "vietnamese": "hét the thé",
+    "example": "She shrieked with delight when she saw the puppy.",
+    "difficulty": 1
+  },
+  {
+    "english": "squeal",
+    "vietnamese": "rít lên vì phấn khích",
+    "example": "The kids squealed when the clown appeared.",
+    "difficulty": 1
+  },
+  {
+    "english": "whimper",
+    "vietnamese": "rên rỉ yếu ớt, thút thít",
+    "example": "The dog whimpered at the door, wanting to go out.",
+    "difficulty": 1
+  },
+  {
+    "english": "wail",
+    "vietnamese": "khóc than, gào lên",
+    "example": "She wailed when she heard the terrible news.",
+    "difficulty": 1
+  },
+  {
+    "english": "sob",
+    "vietnamese": "nấc lên, khóc nức nở",
+    "example": "He sobbed through his apology.",
+    "difficulty": 1
+  },
+  {
+    "english": "bawl",
+    "vietnamese": "khóc to, gào khóc",
+    "example": "The baby bawled all night.",
+    "difficulty": 1
+  },
+  {
+    "english": "yell",
+    "vietnamese": "la hét, quát tháo",
+    "example": "Do not yell at me — I am standing right here.",
+    "difficulty": 1
+  },
+  {
+    "english": "scream",
+    "vietnamese": "hét lên, la hét",
+    "example": "She screamed for help when she saw the fire.",
+    "difficulty": 1
+  },
+  {
+    "english": "roar",
+    "vietnamese": "gầm lên, rống lên",
+    "example": "The crowd roared when the goal was scored.",
+    "difficulty": 1
+  },
+  {
+    "english": "howl",
+    "vietnamese": "rú lên, hú lên",
+    "example": "He howled with laughter at the comedian's joke.",
+    "difficulty": 1
+  },
+  {
+    "english": "cheer",
+    "vietnamese": "cổ vũ, reo hò",
+    "example": "The fans cheered when their team took the field.",
+    "difficulty": 1
+  },
+  {
+    "english": "jeer",
+    "vietnamese": "la ó, chế nhạo",
+    "example": "The crowd jeered the politician off the stage.",
+    "difficulty": 1
+  },
+  {
+    "english": "boo",
+    "vietnamese": "la ó phản đối",
+    "example": "The audience booed when the referee made a bad call.",
+    "difficulty": 1
+  },
+  {
+    "english": "catcall",
+    "vietnamese": "huýt sáo, trêu ghẹo trên phố",
+    "example": "Catcalling is harassment, not a compliment.",
+    "difficulty": 2
+  },
+  {
+    "english": "wolf whistle",
+    "vietnamese": "huýt sáo tán tỉnh",
+    "example": "The wolf whistle from the construction site made her uncomfortable.",
+    "difficulty": 2
+  },
+  {
+    "english": "hoot",
+    "vietnamese": "la hét, cười ầm lên",
+    "example": "The audience hooted with laughter.",
+    "difficulty": 1
+  },
+  {
+    "english": "scoff",
+    "vietnamese": "cười khinh bỉ, coi thường",
+    "example": "He scoffed at the idea that the earth is flat.",
+    "difficulty": 1
+  },
+  {
+    "english": "snort",
+    "vietnamese": "khịt mũi (cười hoặc coi thường)",
+    "example": "She snorted with laughter at his ridiculous excuse.",
+    "difficulty": 1
+  },
+  {
+    "english": "cackle",
+    "vietnamese": "cười the thé, cười như phù thủy",
+    "example": "She cackled with delight at her own evil plan.",
+    "difficulty": 2
+  },
+  {
+    "english": "chortle",
+    "vietnamese": "cười khoái trá",
+    "example": "He chortled with glee when his rival's plan failed.",
+    "difficulty": 2
+  },
+  {
+    "english": "titter",
+    "vietnamese": "cười rúc rích (ngượng ngùng)",
+    "example": "A nervous titter ran through the audience at the inappropriate joke.",
+    "difficulty": 3
+  },
+  {
+    "english": "dead air",
+    "vietnamese": "khoảng lặng chết chóc trên radio/TV",
+    "example": "The host panicked during the dead air and started rambling.",
+    "difficulty": 2
+  },
+  {
+    "english": "hot mic",
+    "vietnamese": "mic vô tình bật thu lén",
+    "example": "The politician was caught on a hot mic insulting his colleague.",
+    "difficulty": 2
+  },
+  {
+    "english": "teleprompter",
+    "vietnamese": "máy nhắc chữ trước ống kính",
+    "example": "When the teleprompter failed, she had to speak from memory.",
+    "difficulty": 2
+  },
+  {
+    "english": "cue card",
+    "vietnamese": "bảng nhắc chữ",
+    "example": "The host glanced at the cue cards between segments.",
+    "difficulty": 2
+  },
+  {
+    "english": "prompter",
+    "vietnamese": "người nhắc lời",
+    "example": "The prompter whispered her forgotten line from the wings.",
+    "difficulty": 2
+  },
+  {
+    "english": "aside",
+    "vietnamese": "lời nói riêng với khán giả (trên sân khấu)",
+    "example": "In an aside to the audience, the actor revealed his true plan.",
+    "difficulty": 2
+  },
+  {
+    "english": "soliloquy",
+    "vietnamese": "độc thoại nội tâm (trên sân khấu)",
+    "example": "Hamlet's soliloquy begins with To be or not to be.",
+    "difficulty": 3
+  },
+  {
+    "english": "voiceover",
+    "vietnamese": "lời thuyết minh ngoài hình",
+    "example": "The documentary used voiceover narration to guide the story.",
+    "difficulty": 2
+  },
+  {
+    "english": "dub",
+    "vietnamese": "lồng tiếng",
+    "example": "The film was dubbed into six languages.",
+    "difficulty": 1
+  },
+  {
+    "english": "subtitle",
+    "vietnamese": "phụ đề",
+    "example": "I prefer subtitles over dubbing — you hear the original performance.",
+    "difficulty": 1
+  },
+  {
+    "english": "live captioning",
+    "vietnamese": "phụ đề trực tiếp cho sự kiện",
+    "example": "Live captioning makes conferences accessible to deaf attendees.",
+    "difficulty": 2
+  },
+  {
+    "english": "transcribe",
+    "vietnamese": "chép lại lời nói thành văn bản",
+    "example": "The assistant transcribed the meeting recording.",
+    "difficulty": 2
+  },
+  {
+    "english": "transcript",
+    "vietnamese": "bản chép lại lời nói",
+    "example": "The court transcript captured every word of the testimony.",
+    "difficulty": 1
+  },
+  {
+    "english": "mouthpiece",
+    "vietnamese": "người phát ngôn, cái loa của ai đó",
+    "example": "He is just a mouthpiece for the corporation, not an independent voice.",
+    "difficulty": 2
+  },
+  {
+    "english": "surrogate",
+    "vietnamese": "người thay mặt nói (trên TV, chính trị)",
+    "example": "She appeared as a surrogate speaking on behalf of the campaign.",
+    "difficulty": 2
+  },
+  {
+    "english": "filibuster",
+    "vietnamese": "đọc diễn văn kéo dài để câu giờ lập pháp",
+    "example": "The senator threatened a filibuster to block the vote.",
+    "difficulty": 3
+  },
+  {
+    "english": "eulogy",
+    "vietnamese": "điếu văn, lời điếu",
+    "example": "He delivered a moving eulogy at his father's funeral.",
+    "difficulty": 2
+  },
+  {
+    "english": "toast",
+    "vietnamese": "lời chúc mừng nâng ly",
+    "example": "He gave a short toast to the newlyweds.",
+    "difficulty": 1
+  },
+  {
+    "english": "valediction",
+    "vietnamese": "lời từ biệt (cuối thư/phát biểu)",
+    "example": "The letter ended with a formal valediction: Yours faithfully.",
+    "difficulty": 3
   }
 ]
