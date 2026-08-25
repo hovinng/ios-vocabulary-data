@@ -1210,5 +1210,725 @@
     "vietnamese": "trợ cấp thôi việc",
     "example": "They offered three months of severance pay.",
     "difficulty": 3
+  },
+  {
+    "english": "appraisal",
+    "vietnamese": "đánh giá, thẩm định",
+    "example": "The annual appraisal reviews performance.",
+    "difficulty": 2
+  },
+  {
+    "english": "arbitration",
+    "vietnamese": "trọng tài, hòa giải",
+    "example": "The dispute went to arbitration.",
+    "difficulty": 3
+  },
+  {
+    "english": "bid",
+    "vietnamese": "đấu thầu, đặt giá",
+    "example": "Three firms bid for the contract.",
+    "difficulty": 1
+  },
+  {
+    "english": "blueprint",
+    "vietnamese": "bản kế hoạch chi tiết",
+    "example": "The report is a blueprint for growth.",
+    "difficulty": 2
+  },
+  {
+    "english": "board of directors",
+    "vietnamese": "hội đồng quản trị",
+    "example": "The board approved the new CEO.",
+    "difficulty": 2
+  },
+  {
+    "english": "bonus",
+    "vietnamese": "tiền thưởng",
+    "example": "Employees got a year-end bonus.",
+    "difficulty": 1
+  },
+  {
+    "english": "bottom line",
+    "vietnamese": "lợi nhuận ròng, điều cốt lõi",
+    "example": "The bottom line is we need more sales.",
+    "difficulty": 2
+  },
+  {
+    "english": "business plan",
+    "vietnamese": "kế hoạch kinh doanh",
+    "example": "A solid business plan attracts investors.",
+    "difficulty": 2
+  },
+  {
+    "english": "CEO",
+    "vietnamese": "giám đốc điều hành",
+    "example": "The CEO announced the new strategy.",
+    "difficulty": 1
+  },
+  {
+    "english": "CFO",
+    "vietnamese": "giám đốc tài chính",
+    "example": "The CFO manages the company's finances.",
+    "difficulty": 1
+  },
+  {
+    "english": "client",
+    "vietnamese": "khách hàng",
+    "example": "A happy client is a repeat client.",
+    "difficulty": 1
+  },
+  {
+    "english": "competitor",
+    "vietnamese": "đối thủ cạnh tranh",
+    "example": "Our main competitor just cut prices.",
+    "difficulty": 1
+  },
+  {
+    "english": "contract",
+    "vietnamese": "hợp đồng",
+    "example": "They signed a two-year contract.",
+    "difficulty": 1
+  },
+  {
+    "english": "core business",
+    "vietnamese": "hoạt động kinh doanh cốt lõi",
+    "example": "Retail is our core business.",
+    "difficulty": 2
+  },
+  {
+    "english": "corporate",
+    "vietnamese": "thuộc tập đoàn",
+    "example": "Corporate policy forbids gifts.",
+    "difficulty": 2
+  },
+  {
+    "english": "cut costs",
+    "vietnamese": "cắt giảm chi phí",
+    "example": "We cut costs by going paperless.",
+    "difficulty": 1
+  },
+  {
+    "english": "deal",
+    "vietnamese": "thương vụ, thỏa thuận",
+    "example": "They closed a multimillion-dollar deal.",
+    "difficulty": 1
+  },
+  {
+    "english": "department",
+    "vietnamese": "phòng ban",
+    "example": "The sales department meets weekly.",
+    "difficulty": 1
+  },
+  {
+    "english": "e-commerce",
+    "vietnamese": "thương mại điện tử",
+    "example": "E-commerce sales surged this year.",
+    "difficulty": 1
+  },
+  {
+    "english": "employee",
+    "vietnamese": "nhân viên",
+    "example": "Happy employees do better work.",
+    "difficulty": 1
+  },
+  {
+    "english": "employer",
+    "vietnamese": "nhà tuyển dụng",
+    "example": "The employer offers flexible hours.",
+    "difficulty": 1
+  },
+  {
+    "english": "executive",
+    "vietnamese": "điều hành, cấp cao",
+    "example": "She's a senior executive here.",
+    "difficulty": 2
+  },
+  {
+    "english": "expand",
+    "vietnamese": "mở rộng",
+    "example": "We plan to expand into Europe.",
+    "difficulty": 1
+  },
+  {
+    "english": "franchisee",
+    "vietnamese": "bên nhận nhượng quyền",
+    "example": "The franchisee runs two locations.",
+    "difficulty": 3
+  },
+  {
+    "english": "funding",
+    "vietnamese": "nguồn vốn, tài trợ",
+    "example": "The startup secured new funding.",
+    "difficulty": 2
+  },
+  {
+    "english": "goal",
+    "vietnamese": "mục tiêu",
+    "example": "Set clear goals for the quarter.",
+    "difficulty": 1
+  },
+  {
+    "english": "headquarters",
+    "vietnamese": "trụ sở chính",
+    "example": "The headquarters is in New York.",
+    "difficulty": 2
+  },
+  {
+    "english": "hire",
+    "vietnamese": "thuê, tuyển dụng",
+    "example": "We're hiring three engineers.",
+    "difficulty": 1
+  },
+  {
+    "english": "industry",
+    "vietnamese": "ngành, lĩnh vực",
+    "example": "The tech industry is competitive.",
+    "difficulty": 1
+  },
+  {
+    "english": "internal",
+    "vietnamese": "nội bộ",
+    "example": "This is an internal memo.",
+    "difficulty": 1
+  },
+  {
+    "english": "invest",
+    "vietnamese": "đầu tư",
+    "example": "We invest heavily in R&D.",
+    "difficulty": 1
+  },
+  {
+    "english": "investment",
+    "vietnamese": "khoản đầu tư",
+    "example": "The investment paid off within a year.",
+    "difficulty": 1
+  },
+  {
+    "english": "launch",
+    "vietnamese": "ra mắt, tung ra",
+    "example": "We launched the product in March.",
+    "difficulty": 1
+  },
+  {
+    "english": "leadership",
+    "vietnamese": "năng lực lãnh đạo",
+    "example": "The team needed strong leadership.",
+    "difficulty": 2
+  },
+  {
+    "english": "manufacturing",
+    "vietnamese": "sản xuất",
+    "example": "Manufacturing moved overseas.",
+    "difficulty": 2
+  },
+  {
+    "english": "marketing",
+    "vietnamese": "tiếp thị",
+    "example": "Marketing drives brand awareness.",
+    "difficulty": 1
+  },
+  {
+    "english": "meeting",
+    "vietnamese": "cuộc họp",
+    "example": "The meeting starts at ten.",
+    "difficulty": 1
+  },
+  {
+    "english": "merchandise",
+    "vietnamese": "hàng hóa bày bán",
+    "example": "The store displays new merchandise weekly.",
+    "difficulty": 2
+  },
+  {
+    "english": "objective",
+    "vietnamese": "mục tiêu",
+    "example": "Our objective is to double sales.",
+    "difficulty": 1
+  },
+  {
+    "english": "operate",
+    "vietnamese": "vận hành",
+    "example": "The plant operates 24/7.",
+    "difficulty": 2
+  },
+  {
+    "english": "outsourcing",
+    "vietnamese": "thuê ngoài",
+    "example": "Outsourcing cut our labor costs.",
+    "difficulty": 2
+  },
+  {
+    "english": "partner",
+    "vietnamese": "đối tác",
+    "example": "We found a reliable partner in Asia.",
+    "difficulty": 1
+  },
+  {
+    "english": "portfolio",
+    "vietnamese": "danh mục đầu tư",
+    "example": "Diversify your investment portfolio.",
+    "difficulty": 2
+  },
+  {
+    "english": "profit margin",
+    "vietnamese": "biên lợi nhuận",
+    "example": "Our profit margin is razor thin.",
+    "difficulty": 2
+  },
+  {
+    "english": "public relations",
+    "vietnamese": "quan hệ công chúng",
+    "example": "PR handled the crisis messaging.",
+    "difficulty": 2
+  },
+  {
+    "english": "purchase",
+    "vietnamese": "mua, thu mua",
+    "example": "We purchased new equipment.",
+    "difficulty": 1
+  },
+  {
+    "english": "quarterly",
+    "vietnamese": "theo quý",
+    "example": "We review results quarterly.",
+    "difficulty": 1
+  },
+  {
+    "english": "recruitment",
+    "vietnamese": "tuyển dụng",
+    "example": "Recruitment is slow in December.",
+    "difficulty": 2
+  },
+  {
+    "english": "salary",
+    "vietnamese": "lương",
+    "example": "The salary is negotiable.",
+    "difficulty": 1
+  },
+  {
+    "english": "sale",
+    "vietnamese": "đợt giảm giá, bán hàng",
+    "example": "The store is having a big sale.",
+    "difficulty": 1
+  },
+  {
+    "english": "schedule",
+    "vietnamese": "lịch trình",
+    "example": "Check my schedule before booking.",
+    "difficulty": 1
+  },
+  {
+    "english": "strategy",
+    "vietnamese": "chiến lược",
+    "example": "Our strategy is to go premium.",
+    "difficulty": 2
+  },
+  {
+    "english": "supplier",
+    "vietnamese": "nhà cung cấp",
+    "example": "We switched suppliers to save money.",
+    "difficulty": 1
+  },
+  {
+    "english": "teamwork",
+    "vietnamese": "làm việc nhóm",
+    "example": "Teamwork is essential in this project.",
+    "difficulty": 1
+  },
+  {
+    "english": "trade",
+    "vietnamese": "thương mại, giao dịch",
+    "example": "Global trade slowed this year.",
+    "difficulty": 1
+  },
+  {
+    "english": "trend",
+    "vietnamese": "xu hướng",
+    "example": "The trend is toward remote work.",
+    "difficulty": 1
+  },
+  {
+    "english": "wholesaler",
+    "vietnamese": "nhà bán buôn",
+    "example": "The wholesaler supplies local shops.",
+    "difficulty": 2
+  },
+  {
+    "english": "wire transfer",
+    "vietnamese": "chuyển khoản quốc tế",
+    "example": "Pay the invoice by wire transfer.",
+    "difficulty": 2
+  },
+  {
+    "english": "working capital",
+    "vietnamese": "vốn lưu động",
+    "example": "We need working capital for inventory.",
+    "difficulty": 3
+  },
+  {
+    "english": "synergy",
+    "vietnamese": "sự hiệp lực cộng hưởng",
+    "example": "The merger created real synergy.",
+    "difficulty": 3
+  },
+  {
+    "english": "market cap",
+    "vietnamese": "vốn hóa thị trường",
+    "example": "Its market cap passed $1 trillion.",
+    "difficulty": 2
+  },
+  {
+    "english": "stock market",
+    "vietnamese": "thị trường chứng khoán",
+    "example": "The stock market rallied today.",
+    "difficulty": 1
+  },
+  {
+    "english": "share price",
+    "vietnamese": "giá cổ phiếu",
+    "example": "The share price dropped 5%.",
+    "difficulty": 1
+  },
+  {
+    "english": "stock exchange",
+    "vietnamese": "sàn giao dịch chứng khoán",
+    "example": "The company listed on the stock exchange.",
+    "difficulty": 2
+  },
+  {
+    "english": "initial capital",
+    "vietnamese": "vốn ban đầu",
+    "example": "They raised initial capital from friends.",
+    "difficulty": 2
+  },
+  {
+    "english": "annual turnover",
+    "vietnamese": "doanh thu hàng năm",
+    "example": "Annual turnover exceeded $10 million.",
+    "difficulty": 2
+  },
+  {
+    "english": "gross profit",
+    "vietnamese": "lợi nhuận gộp",
+    "example": "Gross profit improved after renegotiation.",
+    "difficulty": 1
+  },
+  {
+    "english": "financial year",
+    "vietnamese": "năm tài chính",
+    "example": "Our financial year starts in April.",
+    "difficulty": 2
+  },
+  {
+    "english": "balance",
+    "vietnamese": "số dư, cân đối",
+    "example": "Check your account balance.",
+    "difficulty": 1
+  },
+  {
+    "english": "interest rate",
+    "vietnamese": "lãi suất",
+    "example": "Interest rates are rising.",
+    "difficulty": 1
+  },
+  {
+    "english": "loan",
+    "vietnamese": "khoản vay",
+    "example": "They took a loan to expand.",
+    "difficulty": 1
+  },
+  {
+    "english": "mortgage",
+    "vietnamese": "thế chấp nhà cửa",
+    "example": "The mortgage is paid monthly.",
+    "difficulty": 2
+  },
+  {
+    "english": "tax",
+    "vietnamese": "thuế",
+    "example": "File your taxes before the deadline.",
+    "difficulty": 1
+  },
+  {
+    "english": "tax deduction",
+    "vietnamese": "khoản khấu trừ thuế",
+    "example": "Business expenses are tax-deductible.",
+    "difficulty": 2
+  },
+  {
+    "english": "auditor",
+    "vietnamese": "kiểm toán viên",
+    "example": "The auditor reviewed the ledgers.",
+    "difficulty": 2
+  },
+  {
+    "english": "bookkeeping",
+    "vietnamese": "ghi sổ kế toán",
+    "example": "Good bookkeeping keeps you compliant.",
+    "difficulty": 2
+  },
+  {
+    "english": "accountant",
+    "vietnamese": "kế toán viên",
+    "example": "The accountant handles our payroll.",
+    "difficulty": 1
+  },
+  {
+    "english": "breakdown",
+    "vietnamese": "bảng phân tích chi tiết",
+    "example": "Send me a cost breakdown.",
+    "difficulty": 1
+  },
+  {
+    "english": "estimate",
+    "vietnamese": "ước tính, báo giá",
+    "example": "The estimate came in under budget.",
+    "difficulty": 1
+  },
+  {
+    "english": "expense",
+    "vietnamese": "chi phí",
+    "example": "Travel is a major expense.",
+    "difficulty": 1
+  },
+  {
+    "english": "income",
+    "vietnamese": "thu nhập",
+    "example": "Her income doubled last year.",
+    "difficulty": 1
+  },
+  {
+    "english": "receipt",
+    "vietnamese": "biên lai",
+    "example": "Keep the receipt for your records.",
+    "difficulty": 1
+  },
+  {
+    "english": "revenue stream",
+    "vietnamese": "nguồn doanh thu",
+    "example": "We added a new revenue stream.",
+    "difficulty": 2
+  },
+  {
+    "english": "subscription",
+    "vietnamese": "đăng ký định kỳ",
+    "example": "The app runs on a subscription model.",
+    "difficulty": 1
+  },
+  {
+    "english": "freemium",
+    "vietnamese": "miễn phí có trả phí nâng cấp",
+    "example": "Freemium apps upsell premium features.",
+    "difficulty": 3
+  },
+  {
+    "english": "monetize",
+    "vietnamese": "kiếm tiền từ",
+    "example": "How will you monetize the platform?",
+    "difficulty": 3
+  },
+  {
+    "english": "market research",
+    "vietnamese": "nghiên cứu thị trường",
+    "example": "Market research revealed strong demand.",
+    "difficulty": 2
+  },
+  {
+    "english": "focus group",
+    "vietnamese": "nhóm khảo sát",
+    "example": "The focus group liked the new design.",
+    "difficulty": 2
+  },
+  {
+    "english": "survey",
+    "vietnamese": "khảo sát",
+    "example": "We ran a survey of our users.",
+    "difficulty": 1
+  },
+  {
+    "english": "feedback loop",
+    "vietnamese": "vòng phản hồi",
+    "example": "A short feedback loop speeds iteration.",
+    "difficulty": 2
+  },
+  {
+    "english": "scale up",
+    "vietnamese": "mở rộng quy mô",
+    "example": "We're ready to scale up production.",
+    "difficulty": 2
+  },
+  {
+    "english": "early adopter",
+    "vietnamese": "người dùng đầu tiên",
+    "example": "Early adopters gave valuable feedback.",
+    "difficulty": 3
+  },
+  {
+    "english": "minimum viable product",
+    "vietnamese": "sản phẩm khả dụng tối thiểu (MVP)",
+    "example": "Ship an MVP and iterate fast.",
+    "difficulty": 3
+  },
+  {
+    "english": "product-market fit",
+    "vietnamese": "sự phù hợp sản phẩm - thị trường",
+    "example": "Finding product-market fit takes time.",
+    "difficulty": 3
+  },
+  {
+    "english": "growth hacking",
+    "vietnamese": "tăng trưởng nhanh phi truyền thống",
+    "example": "Growth hacking drove viral adoption.",
+    "difficulty": 3
+  },
+  {
+    "english": "viral",
+    "vietnamese": "lan truyền nhanh",
+    "example": "The campaign went viral overnight.",
+    "difficulty": 2
+  },
+  {
+    "english": "engagement",
+    "vietnamese": "mức độ tương tác",
+    "example": "High engagement means loyal users.",
+    "difficulty": 2
+  },
+  {
+    "english": "user base",
+    "vietnamese": "lượng người dùng",
+    "example": "Our user base is growing fast.",
+    "difficulty": 2
+  },
+  {
+    "english": "slogan",
+    "vietnamese": "khẩu hiệu",
+    "example": "The slogan captures our value.",
+    "difficulty": 1
+  },
+  {
+    "english": "logo",
+    "vietnamese": "biểu tượng thương hiệu",
+    "example": "The new logo is minimal and clean.",
+    "difficulty": 1
+  },
+  {
+    "english": "trademark",
+    "vietnamese": "nhãn hiệu đã đăng ký",
+    "example": "They trademarked the brand name.",
+    "difficulty": 3
+  },
+  {
+    "english": "copyright",
+    "vietnamese": "bản quyền",
+    "example": "The song is protected by copyright.",
+    "difficulty": 2
+  },
+  {
+    "english": "royalty-free",
+    "vietnamese": "miễn phí bản quyền",
+    "example": "Use royalty-free stock photos.",
+    "difficulty": 2
+  },
+  {
+    "english": "distribution",
+    "vietnamese": "phân phối",
+    "example": "Distribution channels matter for reach.",
+    "difficulty": 2
+  },
+  {
+    "english": "wholesale price",
+    "vietnamese": "giá bán buôn",
+    "example": "The wholesale price is 40% lower.",
+    "difficulty": 2
+  },
+  {
+    "english": "retail price",
+    "vietnamese": "giá bán lẻ",
+    "example": "The retail price includes markup.",
+    "difficulty": 1
+  },
+  {
+    "english": "markup",
+    "vietnamese": "mức chênh lệch giá",
+    "example": "The markup on luxury goods is high.",
+    "difficulty": 2
+  },
+  {
+    "english": "discount",
+    "vietnamese": "giảm giá",
+    "example": "Regular customers get a discount.",
+    "difficulty": 1
+  },
+  {
+    "english": "clearance sale",
+    "vietnamese": "bán xả hàng",
+    "example": "The clearance sale cleared old stock.",
+    "difficulty": 2
+  },
+  {
+    "english": "inventory turnover",
+    "vietnamese": "vòng quay hàng tồn kho",
+    "example": "High inventory turnover means healthy sales.",
+    "difficulty": 3
+  },
+  {
+    "english": "just-in-time",
+    "vietnamese": "đúng lúc, tồn kho tối thiểu",
+    "example": "Just-in-time reduces storage costs.",
+    "difficulty": 3
+  },
+  {
+    "english": "lead time",
+    "vietnamese": "thời gian chờ giao hàng",
+    "example": "The lead time is two weeks.",
+    "difficulty": 2
+  },
+  {
+    "english": "backorder",
+    "vietnamese": "đặt hàng trước khi có",
+    "example": "The item is on backorder until June.",
+    "difficulty": 3
+  },
+  {
+    "english": "customer service",
+    "vietnamese": "dịch vụ khách hàng",
+    "example": "Great customer service builds trust.",
+    "difficulty": 1
+  },
+  {
+    "english": "complaint",
+    "vietnamese": "khiếu nại",
+    "example": "We resolved the complaint quickly.",
+    "difficulty": 1
+  },
+  {
+    "english": "satisfaction",
+    "vietnamese": "sự hài lòng",
+    "example": "Customer satisfaction is our priority.",
+    "difficulty": 1
+  },
+  {
+    "english": "retention rate",
+    "vietnamese": "tỷ lệ giữ chân",
+    "example": "Our retention rate is above 90%.",
+    "difficulty": 2
+  },
+  {
+    "english": "repeat customer",
+    "vietnamese": "khách quay lại",
+    "example": "Rewards turn buyers into repeat customers.",
+    "difficulty": 2
+  },
+  {
+    "english": "referral",
+    "vietnamese": "giới thiệu khách",
+    "example": "Most of our growth comes from referrals.",
+    "difficulty": 2
+  },
+  {
+    "english": "word of mouth",
+    "vietnamese": "truyền miệng",
+    "example": "Word of mouth is our best marketing.",
+    "difficulty": 2
   }
 ]

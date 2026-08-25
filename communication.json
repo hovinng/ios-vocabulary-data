@@ -1204,5 +1204,611 @@
     "vietnamese": "biệt ngữ chuyên ngành",
     "example": "Legal jargon is hard for laypeople to follow.",
     "difficulty": 3
+  },
+  {
+    "english": "admonish",
+    "vietnamese": "khiển trách, cảnh cáo",
+    "example": "The teacher admonished the student for lying.",
+    "difficulty": 3
+  },
+  {
+    "english": "adore",
+    "vietnamese": "yêu mến, quý mến",
+    "example": "She adores her little nephew.",
+    "difficulty": 1
+  },
+  {
+    "english": "affectionate",
+    "vietnamese": "trìu mến, âu yếm",
+    "example": "He gave her an affectionate hug.",
+    "difficulty": 2
+  },
+  {
+    "english": "aggravate",
+    "vietnamese": "làm trầm trọng, chọc tức",
+    "example": "Don't aggravate the situation by shouting.",
+    "difficulty": 3
+  },
+  {
+    "english": "alienate",
+    "vietnamese": "làm xa lánh, cô lập",
+    "example": "His rude remarks alienated his friends.",
+    "difficulty": 3
+  },
+  {
+    "english": "aloof",
+    "vietnamese": "xa cách, lãnh đạm",
+    "example": "She remained aloof from the group.",
+    "difficulty": 3
+  },
+  {
+    "english": "amiable",
+    "vietnamese": "dễ mến, hòa nhã",
+    "example": "He was an amiable host throughout the evening.",
+    "difficulty": 3
+  },
+  {
+    "english": "antagonize",
+    "vietnamese": "gây thù địch, chọc giận",
+    "example": "Try not to antagonize your colleagues.",
+    "difficulty": 3
+  },
+  {
+    "english": "appease",
+    "vietnamese": "xoa dịu, làm nguôi",
+    "example": "They offered a refund to appease the customer.",
+    "difficulty": 3
+  },
+  {
+    "english": "boast",
+    "vietnamese": "khoe khoang",
+    "example": "He loves to boast about his wealth.",
+    "difficulty": 1
+  },
+  {
+    "english": "brag",
+    "vietnamese": "khoe khoang, huênh hoang",
+    "example": "Stop bragging about your grades.",
+    "difficulty": 1
+  },
+  {
+    "english": "charm",
+    "vietnamese": "sự quyến rũ, duyên",
+    "example": "She used her charm to win them over.",
+    "difficulty": 1
+  },
+  {
+    "english": "charismatic",
+    "vietnamese": "có sức hút, lôi cuốn",
+    "example": "He is a charismatic public speaker.",
+    "difficulty": 3
+  },
+  {
+    "english": "condemn",
+    "vietnamese": "lên án, chỉ trích mạnh",
+    "example": "Leaders condemned the attack publicly.",
+    "difficulty": 2
+  },
+  {
+    "english": "console",
+    "vietnamese": "an ủi",
+    "example": "She consoled her friend after the loss.",
+    "difficulty": 2
+  },
+  {
+    "english": "contempt",
+    "vietnamese": "sự khinh thường",
+    "example": "He looked at me with contempt.",
+    "difficulty": 3
+  },
+  {
+    "english": "coax",
+    "vietnamese": "dỗ dành, thuyết phục",
+    "example": "She coaxed the child into eating vegetables.",
+    "difficulty": 3
+  },
+  {
+    "english": "demeanor",
+    "vietnamese": "thái độ, phong thái",
+    "example": "Her calm demeanor reassured the team.",
+    "difficulty": 3
+  },
+  {
+    "english": "denounce",
+    "vietnamese": "tố cáo, lên án",
+    "example": "She denounced the unfair policy.",
+    "difficulty": 3
+  },
+  {
+    "english": "derogatory",
+    "vietnamese": "miệt thị, khinh miệt",
+    "example": "Don't use derogatory terms about others.",
+    "difficulty": 3
+  },
+  {
+    "english": "disclose",
+    "vietnamese": "tiết lộ, công bố",
+    "example": "He refused to disclose his source.",
+    "difficulty": 2
+  },
+  {
+    "english": "disheartened",
+    "vietnamese": "chán nản, mất tinh thần",
+    "example": "She felt disheartened by the rejection.",
+    "difficulty": 2
+  },
+  {
+    "english": "energetic",
+    "vietnamese": "tràn đầy năng lượng",
+    "example": "She gave an energetic presentation.",
+    "difficulty": 1
+  },
+  {
+    "english": "enthusiastic",
+    "vietnamese": "nhiệt tình, hào hứng",
+    "example": "He is enthusiastic about the new project.",
+    "difficulty": 1
+  },
+  {
+    "english": "extrovert",
+    "vietnamese": "người hướng ngoại",
+    "example": "As an extrovert, she thrives in crowds.",
+    "difficulty": 2
+  },
+  {
+    "english": "friendly",
+    "vietnamese": "thân thiện",
+    "example": "The staff were friendly and helpful.",
+    "difficulty": 1
+  },
+  {
+    "english": "gloat",
+    "vietnamese": "hí hửng, đắc chí khoe",
+    "example": "Don't gloat over their failure.",
+    "difficulty": 3
+  },
+  {
+    "english": "gracious",
+    "vietnamese": "tử tế, lịch thiệp",
+    "example": "She was gracious even in defeat.",
+    "difficulty": 2
+  },
+  {
+    "english": "hesitant",
+    "vietnamese": "do dự, ngập ngừng",
+    "example": "She was hesitant to join the discussion.",
+    "difficulty": 2
+  },
+  {
+    "english": "hypocrite",
+    "vietnamese": "kẻ đạo đức giả",
+    "example": "He criticizes others but does the same - a hypocrite.",
+    "difficulty": 3
+  },
+  {
+    "english": "ignorant",
+    "vietnamese": "thiếu hiểu biết, dốt nát",
+    "example": "It was ignorant of him to assume that.",
+    "difficulty": 2
+  },
+  {
+    "english": "impulsive",
+    "vietnamese": "bốc đồng, hấp tấp",
+    "example": "Her impulsive decision came back to haunt her.",
+    "difficulty": 3
+  },
+  {
+    "english": "insensitive",
+    "vietnamese": "vô tâm, thiếu nhạy cảm",
+    "example": "That comment was insensitive to her situation.",
+    "difficulty": 2
+  },
+  {
+    "english": "introvert",
+    "vietnamese": "người hướng nội",
+    "example": "Introverts recharge by being alone.",
+    "difficulty": 2
+  },
+  {
+    "english": "jovial",
+    "vietnamese": "vui vẻ, vui tính",
+    "example": "His jovial mood lifted the whole room.",
+    "difficulty": 3
+  },
+  {
+    "english": "kindred",
+    "vietnamese": "cùng chí hướng, đồng điệu",
+    "example": "They found kindred spirits in each other.",
+    "difficulty": 3
+  },
+  {
+    "english": "lenient",
+    "vietnamese": "khoan hồng, dễ dãi",
+    "example": "The teacher was lenient with late homework.",
+    "difficulty": 3
+  },
+  {
+    "english": "loquacious",
+    "vietnamese": "lắm lời, ba hoa",
+    "example": "He's too loquacious for a quiet meeting.",
+    "difficulty": 3
+  },
+  {
+    "english": "mumble",
+    "vietnamese": "lẩm bẩm, nói lí nhí",
+    "example": "Don't mumble - speak clearly.",
+    "difficulty": 1
+  },
+  {
+    "english": "nurture",
+    "vietnamese": "nuôi dưỡng, vun đắp",
+    "example": "Good teachers nurture curiosity.",
+    "difficulty": 2
+  },
+  {
+    "english": "overbearing",
+    "vietnamese": "độc đoán, áp đặt",
+    "example": "His overbearing manner drove people away.",
+    "difficulty": 3
+  },
+  {
+    "english": "patience",
+    "vietnamese": "sự kiên nhẫn",
+    "example": "Patience is key when teaching children.",
+    "difficulty": 1
+  },
+  {
+    "english": "perceptive",
+    "vietnamese": "nhạy bén, sắc sảo",
+    "example": "She's perceptive about people's motives.",
+    "difficulty": 3
+  },
+  {
+    "english": "persistent",
+    "vietnamese": "kiên trì, bền bỉ",
+    "example": "Be persistent - the answer is out there.",
+    "difficulty": 2
+  },
+  {
+    "english": "poised",
+    "vietnamese": "điềm tĩnh, tự tin",
+    "example": "She remained poised during the interview.",
+    "difficulty": 3
+  },
+  {
+    "english": "pretentious",
+    "vietnamese": "kiêu kỳ, màu mè",
+    "example": "He's pretentious about his education.",
+    "difficulty": 3
+  },
+  {
+    "english": "quarrel",
+    "vietnamese": "cãi nhau",
+    "example": "They quarreled over a trivial matter.",
+    "difficulty": 1
+  },
+  {
+    "english": "rage",
+    "vietnamese": "cơn thịnh nộ",
+    "example": "He flew into a rage at the news.",
+    "difficulty": 1
+  },
+  {
+    "english": "rapport",
+    "vietnamese": "sự hòa hợp, ăn ý",
+    "example": "She built instant rapport with her clients.",
+    "difficulty": 3
+  },
+  {
+    "english": "refute",
+    "vietnamese": "bác bỏ",
+    "example": "The lawyer refuted the evidence.",
+    "difficulty": 3
+  },
+  {
+    "english": "reprimand",
+    "vietnamese": "khiển trách",
+    "example": "The manager reprimanded the late employee.",
+    "difficulty": 3
+  },
+  {
+    "english": "retort",
+    "vietnamese": "đáp trả gay gắt",
+    "example": "His sharp retort ended the argument.",
+    "difficulty": 3
+  },
+  {
+    "english": "scorn",
+    "vietnamese": "khinh bỉ, coi thường",
+    "example": "He poured scorn on the whole idea.",
+    "difficulty": 3
+  },
+  {
+    "english": "sedate",
+    "vietnamese": "điềm đạm, điềm tĩnh",
+    "example": "She has a sedate and calming presence.",
+    "difficulty": 3
+  },
+  {
+    "english": "snub",
+    "vietnamese": "phớt lờ, làm ngơ",
+    "example": "She snubbed him at the party.",
+    "difficulty": 2
+  },
+  {
+    "english": "solemn",
+    "vietnamese": "trang nghiêm, nghiêm túc",
+    "example": "He made a solemn promise to return.",
+    "difficulty": 2
+  },
+  {
+    "english": "spontaneous",
+    "vietnamese": "tự phát, ngẫu hứng",
+    "example": "They made a spontaneous trip to the beach.",
+    "difficulty": 2
+  },
+  {
+    "english": "sullen",
+    "vietnamese": "hờn dỗi, cau có",
+    "example": "He was sullen after being scolded.",
+    "difficulty": 3
+  },
+  {
+    "english": "tactless",
+    "vietnamese": "thiếu tế nhị, thẳng quá",
+    "example": "It was tactless to mention her age.",
+    "difficulty": 3
+  },
+  {
+    "english": "temperament",
+    "vietnamese": "tính khí, khí chất",
+    "example": "She has an even temperament.",
+    "difficulty": 2
+  },
+  {
+    "english": "yearn",
+    "vietnamese": "khát khao, mong mỏi",
+    "example": "He yearned for a quiet life.",
+    "difficulty": 3
+  },
+  {
+    "english": "chuckle",
+    "vietnamese": "cười khúc khích",
+    "example": "He chuckled at the funny remark.",
+    "difficulty": 2
+  },
+  {
+    "english": "giggle",
+    "vietnamese": "cười khúc khích",
+    "example": "The girls giggled behind their hands.",
+    "difficulty": 1
+  },
+  {
+    "english": "guffaw",
+    "vietnamese": "cười ha hả",
+    "example": "His loud guffaw filled the room.",
+    "difficulty": 3
+  },
+  {
+    "english": "snicker",
+    "vietnamese": "cười thầm, cười khẩy",
+    "example": "They snickered at his old-fashioned clothes.",
+    "difficulty": 2
+  },
+  {
+    "english": "sigh",
+    "vietnamese": "thở dài",
+    "example": "She let out a long sigh of relief.",
+    "difficulty": 1
+  },
+  {
+    "english": "whisper",
+    "vietnamese": "thì thầm",
+    "example": "He whispered the secret in my ear.",
+    "difficulty": 1
+  },
+  {
+    "english": "shout",
+    "vietnamese": "la hét, hét to",
+    "example": "Don't shout - I can hear you.",
+    "difficulty": 1
+  },
+  {
+    "english": "stammer",
+    "vietnamese": "nói lắp",
+    "example": "He stammered nervously during the speech.",
+    "difficulty": 2
+  },
+  {
+    "english": "stutter",
+    "vietnamese": "nói lắp bắp",
+    "example": "He stutters when he gets excited.",
+    "difficulty": 2
+  },
+  {
+    "english": "enunciate",
+    "vietnamese": "phát âm rành rọt",
+    "example": "Please enunciate - I missed the last word.",
+    "difficulty": 3
+  },
+  {
+    "english": "pronounce",
+    "vietnamese": "phát âm",
+    "example": "How do you pronounce this word?",
+    "difficulty": 1
+  },
+  {
+    "english": "mispronounce",
+    "vietnamese": "phát âm sai",
+    "example": "Don't worry if you mispronounce a few words.",
+    "difficulty": 2
+  },
+  {
+    "english": "vocabulary",
+    "vietnamese": "vốn từ vựng",
+    "example": "Reading expands your vocabulary.",
+    "difficulty": 1
+  },
+  {
+    "english": "fluent",
+    "vietnamese": "trôi chảy, lưu loát",
+    "example": "She's fluent in three languages.",
+    "difficulty": 2
+  },
+  {
+    "english": "comprehend",
+    "vietnamese": "hiểu, lĩnh hội",
+    "example": "I can't comprehend why he did that.",
+    "difficulty": 2
+  },
+  {
+    "english": "interpret",
+    "vietnamese": "phiên dịch, diễn giải",
+    "example": "Can you interpret what she means?",
+    "difficulty": 2
+  },
+  {
+    "english": "translate",
+    "vietnamese": "dịch",
+    "example": "Translate this sentence into English.",
+    "difficulty": 1
+  },
+  {
+    "english": "bilingual",
+    "vietnamese": "song ngữ",
+    "example": "She grew up bilingual in English and French.",
+    "difficulty": 2
+  },
+  {
+    "english": "native speaker",
+    "vietnamese": "người bản ngữ",
+    "example": "He's a native speaker of Vietnamese.",
+    "difficulty": 1
+  },
+  {
+    "english": "conversation",
+    "vietnamese": "cuộc trò chuyện",
+    "example": "We had a long conversation over coffee.",
+    "difficulty": 1
+  },
+  {
+    "english": "discussion",
+    "vietnamese": "cuộc thảo luận",
+    "example": "The discussion turned heated quickly.",
+    "difficulty": 1
+  },
+  {
+    "english": "debate",
+    "vietnamese": "cuộc tranh luận",
+    "example": "The debate lasted two hours.",
+    "difficulty": 1
+  },
+  {
+    "english": "argument",
+    "vietnamese": "cuộc cãi vã",
+    "example": "Their argument woke the neighbors.",
+    "difficulty": 1
+  },
+  {
+    "english": "negotiation",
+    "vietnamese": "cuộc đàm phán",
+    "example": "The negotiation reached a deal at last.",
+    "difficulty": 2
+  },
+  {
+    "english": "dialogue",
+    "vietnamese": "đối thoại",
+    "example": "The film has sharp, witty dialogue.",
+    "difficulty": 2
+  },
+  {
+    "english": "monologue",
+    "vietnamese": "độc thoại",
+    "example": "He launched into a long monologue.",
+    "difficulty": 3
+  },
+  {
+    "english": "icebreaker",
+    "vietnamese": "câu phá băng, mở đầu",
+    "example": "A joke is a good icebreaker.",
+    "difficulty": 2
+  },
+  {
+    "english": "chat",
+    "vietnamese": "tán gẫu",
+    "example": "We chatted about movies all night.",
+    "difficulty": 1
+  },
+  {
+    "english": "converse",
+    "vietnamese": "trò chuyện",
+    "example": "They conversed in hushed tones.",
+    "difficulty": 2
+  },
+  {
+    "english": "chitchat",
+    "vietnamese": "chuyện phiếm",
+    "example": "We made chitchat while waiting.",
+    "difficulty": 1
+  },
+  {
+    "english": "interrogate",
+    "vietnamese": "thẩm vấn, tra hỏi",
+    "example": "The police interrogated the suspect.",
+    "difficulty": 3
+  },
+  {
+    "english": "interview",
+    "vietnamese": "phỏng vấn",
+    "example": "The interview lasted thirty minutes.",
+    "difficulty": 1
+  },
+  {
+    "english": "inquiry",
+    "vietnamese": "sự thắc mắc, điều tra",
+    "example": "She made an inquiry about the job.",
+    "difficulty": 2
+  },
+  {
+    "english": "query",
+    "vietnamese": "câu hỏi, thắc mắc",
+    "example": "Submit your query to the help desk.",
+    "difficulty": 2
+  },
+  {
+    "english": "respond",
+    "vietnamese": "đáp lại, phản hồi",
+    "example": "Please respond to my email.",
+    "difficulty": 1
+  },
+  {
+    "english": "reply",
+    "vietnamese": "trả lời",
+    "example": "He replied within minutes.",
+    "difficulty": 1
+  },
+  {
+    "english": "answer",
+    "vietnamese": "câu trả lời",
+    "example": "She gave a clear answer.",
+    "difficulty": 1
+  },
+  {
+    "english": "mention",
+    "vietnamese": "nhắc đến, đề cập",
+    "example": "He mentioned your name in the meeting.",
+    "difficulty": 1
+  },
+  {
+    "english": "refer",
+    "vietnamese": "nhắc đến, ám chỉ",
+    "example": "She referred to our earlier talk.",
+    "difficulty": 1
+  },
+  {
+    "english": "quote",
+    "vietnamese": "trích dẫn",
+    "example": "He quoted a famous poet.",
+    "difficulty": 1
   }
 ]

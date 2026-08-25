@@ -1210,5 +1210,701 @@
     "vietnamese": "phương tiện mặt đất",
     "example": "Ground transportation is on level 2.",
     "difficulty": 2
+  },
+  {
+    "english": "airfare",
+    "vietnamese": "giá vé máy bay",
+    "example": "Airfare spikes during holidays.",
+    "difficulty": 1
+  },
+  {
+    "english": "airline",
+    "vietnamese": "hãng hàng không",
+    "example": "Which airline did you fly with?",
+    "difficulty": 1
+  },
+  {
+    "english": "window seat",
+    "vietnamese": "ghế cạnh cửa sổ",
+    "example": "She loves a window seat for the view.",
+    "difficulty": 1
+  },
+  {
+    "english": "middle seat",
+    "vietnamese": "ghế ở giữa",
+    "example": "No one likes the middle seat.",
+    "difficulty": 1
+  },
+  {
+    "english": "legroom",
+    "vietnamese": "chỗ để chân",
+    "example": "Extra legroom costs a little more.",
+    "difficulty": 1
+  },
+  {
+    "english": "aisle",
+    "vietnamese": "lối đi giữa",
+    "example": "The aisle was narrow on the old plane.",
+    "difficulty": 1
+  },
+  {
+    "english": "seatbelt",
+    "vietnamese": "dây an toàn",
+    "example": "Fasten your seatbelt during takeoff.",
+    "difficulty": 1
+  },
+  {
+    "english": "tray table",
+    "vietnamese": "bàn gập trước ghế",
+    "example": "Put your tray table up for landing.",
+    "difficulty": 1
+  },
+  {
+    "english": "oxygen mask",
+    "vietnamese": "mặt nạ dưỡng khí",
+    "example": "Masks drop if cabin pressure falls.",
+    "difficulty": 2
+  },
+  {
+    "english": "life jacket",
+    "vietnamese": "áo phao",
+    "example": "The life jacket is under your seat.",
+    "difficulty": 1
+  },
+  {
+    "english": "pilot",
+    "vietnamese": "phi công",
+    "example": "The pilot announced our arrival.",
+    "difficulty": 1
+  },
+  {
+    "english": "crew",
+    "vietnamese": "phi hành đoàn",
+    "example": "The crew was friendly throughout.",
+    "difficulty": 1
+  },
+  {
+    "english": "captain",
+    "vietnamese": "cơ trưởng",
+    "example": "The captain welcomed us aboard.",
+    "difficulty": 1
+  },
+  {
+    "english": "cockpit",
+    "vietnamese": "buồng lái",
+    "example": "Passengers can't enter the cockpit.",
+    "difficulty": 2
+  },
+  {
+    "english": "altitude",
+    "vietnamese": "độ cao",
+    "example": "We cruised at high altitude.",
+    "difficulty": 2
+  },
+  {
+    "english": "cruising",
+    "vietnamese": "bay đều ở độ cao ổn định",
+    "example": "We're cruising at 35,000 feet.",
+    "difficulty": 2
+  },
+  {
+    "english": "descent",
+    "vietnamese": "hạ độ cao",
+    "example": "We began our descent into the airport.",
+    "difficulty": 2
+  },
+  {
+    "english": "ascent",
+    "vietnamese": "tăng độ cao",
+    "example": "The ascent was smooth.",
+    "difficulty": 2
+  },
+  {
+    "english": "airport shuttle",
+    "vietnamese": "xe đưa đón sân bay",
+    "example": "The airport shuttle runs every 15 minutes.",
+    "difficulty": 1
+  },
+  {
+    "english": "taxi stand",
+    "vietnamese": "điểm đón taxi",
+    "example": "The taxi stand is outside arrivals.",
+    "difficulty": 1
+  },
+  {
+    "english": "car rental",
+    "vietnamese": "dịch vụ thuê xe",
+    "example": "Car rental is cheapest at off-peak times.",
+    "difficulty": 1
+  },
+  {
+    "english": "bus stop",
+    "vietnamese": "trạm xe buýt",
+    "example": "The bus stop is across the street.",
+    "difficulty": 1
+  },
+  {
+    "english": "train station",
+    "vietnamese": "ga tàu hỏa",
+    "example": "The train station is downtown.",
+    "difficulty": 1
+  },
+  {
+    "english": "subway",
+    "vietnamese": "tàu điện ngầm",
+    "example": "The subway is the fastest way downtown.",
+    "difficulty": 1
+  },
+  {
+    "english": "metro",
+    "vietnamese": "tàu điện ngầm",
+    "example": "The metro runs until midnight.",
+    "difficulty": 1
+  },
+  {
+    "english": "tram",
+    "vietnamese": "tàu điện trên phố",
+    "example": "The tram circles the old town.",
+    "difficulty": 2
+  },
+  {
+    "english": "cable car",
+    "vietnamese": "cáp treo",
+    "example": "The cable car offers mountain views.",
+    "difficulty": 1
+  },
+  {
+    "english": "gondola",
+    "vietnamese": "thuyền gondola (Venice)",
+    "example": "They rode a gondola in Venice.",
+    "difficulty": 2
+  },
+  {
+    "english": "rickshaw",
+    "vietnamese": "xe kéo, xe xích lô",
+    "example": "We took a rickshaw through the market.",
+    "difficulty": 2
+  },
+  {
+    "english": "tuk-tuk",
+    "vietnamese": "xe tuk-tuk (ba bánh)",
+    "example": "A tuk-tuk is cheap for short rides.",
+    "difficulty": 2
+  },
+  {
+    "english": "pedestrian",
+    "vietnamese": "người đi bộ",
+    "example": "The city center is pedestrian-friendly.",
+    "difficulty": 2
+  },
+  {
+    "english": "crosswalk",
+    "vietnamese": "vạch sang đường",
+    "example": "Cross only at the crosswalk.",
+    "difficulty": 1
+  },
+  {
+    "english": "intersection",
+    "vietnamese": "ngã tư, giao lộ",
+    "example": "Turn left at the next intersection.",
+    "difficulty": 1
+  },
+  {
+    "english": "traffic jam",
+    "vietnamese": "tắc đường",
+    "example": "We got stuck in a traffic jam.",
+    "difficulty": 1
+  },
+  {
+    "english": "roundabout",
+    "vietnamese": "bùng binh, vòng xuyến",
+    "example": "Take the second exit at the roundabout.",
+    "difficulty": 2
+  },
+  {
+    "english": "toll road",
+    "vietnamese": "đường thu phí",
+    "example": "The toll road bypasses the city.",
+    "difficulty": 2
+  },
+  {
+    "english": "highway",
+    "vietnamese": "đường cao tốc",
+    "example": "The highway runs along the coast.",
+    "difficulty": 1
+  },
+  {
+    "english": "lane",
+    "vietnamese": "làn đường",
+    "example": "Stay in the right lane.",
+    "difficulty": 1
+  },
+  {
+    "english": "speed limit",
+    "vietnamese": "giới hạn tốc độ",
+    "example": "The speed limit here is 60 km/h.",
+    "difficulty": 1
+  },
+  {
+    "english": "parking lot",
+    "vietnamese": "bãi đỗ xe",
+    "example": "The parking lot is full today.",
+    "difficulty": 1
+  },
+  {
+    "english": "gas station",
+    "vietnamese": "trạm xăng",
+    "example": "We stopped at a gas station.",
+    "difficulty": 1
+  },
+  {
+    "english": "checkpoint",
+    "vietnamese": "trạm kiểm soát",
+    "example": "The border checkpoint was quick.",
+    "difficulty": 2
+  },
+  {
+    "english": "border",
+    "vietnamese": "biên giới",
+    "example": "We crossed the border at dawn.",
+    "difficulty": 1
+  },
+  {
+    "english": "border control",
+    "vietnamese": "kiểm soát biên giới",
+    "example": "Border control checked our documents.",
+    "difficulty": 1
+  },
+  {
+    "english": "exchange rate",
+    "vietnamese": "tỷ giá hối đoái",
+    "example": "The exchange rate favors the dollar now.",
+    "difficulty": 1
+  },
+  {
+    "english": "bureau de change",
+    "vietnamese": "quầy đổi tiền",
+    "example": "Find a bureau de change with fair rates.",
+    "difficulty": 3
+  },
+  {
+    "english": "ATM",
+    "vietnamese": "cây rút tiền tự động",
+    "example": "There's an ATM near the station.",
+    "difficulty": 1
+  },
+  {
+    "english": "credit card",
+    "vietnamese": "thẻ tín dụng",
+    "example": "Can I pay by credit card?",
+    "difficulty": 1
+  },
+  {
+    "english": "cash",
+    "vietnamese": "tiền mặt",
+    "example": "They only accept cash here.",
+    "difficulty": 1
+  },
+  {
+    "english": "coins",
+    "vietnamese": "tiền xu",
+    "example": "I need coins for the bus.",
+    "difficulty": 1
+  },
+  {
+    "english": "receipt",
+    "vietnamese": "biên lai",
+    "example": "Keep the receipt for the guarantee.",
+    "difficulty": 1
+  },
+  {
+    "english": "tourist visa",
+    "vietnamese": "thị thực du lịch",
+    "example": "He got a 30-day tourist visa.",
+    "difficulty": 1
+  },
+  {
+    "english": "work visa",
+    "vietnamese": "thị thực lao động",
+    "example": "A work visa requires sponsorship.",
+    "difficulty": 2
+  },
+  {
+    "english": "visa on arrival",
+    "vietnamese": "thị thực tại cửa khẩu",
+    "example": "Some countries offer visa on arrival.",
+    "difficulty": 2
+  },
+  {
+    "english": "expired passport",
+    "vietnamese": "hộ chiếu hết hạn",
+    "example": "You can't fly with an expired passport.",
+    "difficulty": 1
+  },
+  {
+    "english": "renew",
+    "vietnamese": "gia hạn",
+    "example": "I need to renew my passport.",
+    "difficulty": 1
+  },
+  {
+    "english": "duration of stay",
+    "vietnamese": "thời hạn lưu trú",
+    "example": "The duration of stay is 90 days.",
+    "difficulty": 2
+  },
+  {
+    "english": "entry stamp",
+    "vietnamese": "dấu nhập cảnh",
+    "example": "They put an entry stamp in my passport.",
+    "difficulty": 2
+  },
+  {
+    "english": "boarding gate",
+    "vietnamese": "cổng lên máy bay",
+    "example": "The boarding gate is at the far end.",
+    "difficulty": 1
+  },
+  {
+    "english": "flight delay",
+    "vietnamese": "chuyến bay bị hoãn",
+    "example": "The flight delay ruined our plans.",
+    "difficulty": 1
+  },
+  {
+    "english": "missed connection",
+    "vietnamese": "lỡ chuyến nối",
+    "example": "He missed his connection because of a delay.",
+    "difficulty": 2
+  },
+  {
+    "english": "cancellation",
+    "vietnamese": "sự hủy chuyến",
+    "example": "The airline announced a cancellation.",
+    "difficulty": 1
+  },
+  {
+    "english": "rebook",
+    "vietnamese": "đặt lại vé",
+    "example": "They rebooked us on the next flight.",
+    "difficulty": 1
+  },
+  {
+    "english": "lost luggage",
+    "vietnamese": "hành lý thất lạc",
+    "example": "She filed a claim for lost luggage.",
+    "difficulty": 2
+  },
+  {
+    "english": "baggage allowance",
+    "vietnamese": "mức hành lý cho phép",
+    "example": "The baggage allowance is 20kg.",
+    "difficulty": 2
+  },
+  {
+    "english": "carry-on limit",
+    "vietnamese": "giới hạn hành lý xách tay",
+    "example": "The carry-on limit is one bag.",
+    "difficulty": 2
+  },
+  {
+    "english": "security line",
+    "vietnamese": "hàng kiểm tra an ninh",
+    "example": "The security line was long.",
+    "difficulty": 1
+  },
+  {
+    "english": "metal detector",
+    "vietnamese": "máy dò kim loại",
+    "example": "Walk through the metal detector.",
+    "difficulty": 2
+  },
+  {
+    "english": "body scan",
+    "vietnamese": "quét toàn thân",
+    "example": "The body scan takes seconds.",
+    "difficulty": 2
+  },
+  {
+    "english": "arrivals hall",
+    "vietnamese": "khu vực đón",
+    "example": "Meet me in the arrivals hall.",
+    "difficulty": 1
+  },
+  {
+    "english": "visa free",
+    "vietnamese": "miễn thị thực",
+    "example": "Vietnam is visa free for some nations.",
+    "difficulty": 1
+  },
+  {
+    "english": "customs duty",
+    "vietnamese": "thuế hải quan",
+    "example": "You may owe customs duty on goods.",
+    "difficulty": 2
+  },
+  {
+    "english": "prohibited item",
+    "vietnamese": "vật phẩm bị cấm",
+    "example": "Liquids are prohibited items in carry-on.",
+    "difficulty": 2
+  },
+  {
+    "english": "declaration form",
+    "vietnamese": "mẫu khai báo",
+    "example": "Fill in the declaration form.",
+    "difficulty": 1
+  },
+  {
+    "english": "tourism",
+    "vietnamese": "ngành du lịch",
+    "example": "Tourism drives the local economy.",
+    "difficulty": 2
+  },
+  {
+    "english": "tourist attraction",
+    "vietnamese": "điểm thu hút khách du lịch",
+    "example": "The temple is a major tourist attraction.",
+    "difficulty": 1
+  },
+  {
+    "english": "travel agency",
+    "vietnamese": "công ty du lịch",
+    "example": "The travel agency booked everything.",
+    "difficulty": 1
+  },
+  {
+    "english": "travel agent",
+    "vietnamese": "nhân viên du lịch",
+    "example": "The travel agent found us a deal.",
+    "difficulty": 1
+  },
+  {
+    "english": "brochure",
+    "vietnamese": "tờ rơi giới thiệu",
+    "example": "They handed out brochures at the fair.",
+    "difficulty": 2
+  },
+  {
+    "english": "itinerary planner",
+    "vietnamese": "công cụ lập lịch trình",
+    "example": "The app is a handy itinerary planner.",
+    "difficulty": 2
+  },
+  {
+    "english": "booking confirmation",
+    "vietnamese": "xác nhận đặt chỗ",
+    "example": "Bring your booking confirmation.",
+    "difficulty": 1
+  },
+  {
+    "english": "voucher",
+    "vietnamese": "phiếu đổi dịch vụ",
+    "example": "Show your voucher at the desk.",
+    "difficulty": 2
+  },
+  {
+    "english": "resort fee",
+    "vietnamese": "phí nghỉ dưỡng",
+    "example": "The resort fee is charged daily.",
+    "difficulty": 2
+  },
+  {
+    "english": "deposit",
+    "vietnamese": "tiền đặt cọc",
+    "example": "They asked for a small deposit.",
+    "difficulty": 1
+  },
+  {
+    "english": "refundable",
+    "vietnamese": "được hoàn tiền",
+    "example": "This rate is fully refundable.",
+    "difficulty": 2
+  },
+  {
+    "english": "non-refundable",
+    "vietnamese": "không hoàn tiền",
+    "example": "The non-refundable fare is cheaper.",
+    "difficulty": 2
+  },
+  {
+    "english": "hotel reception",
+    "vietnamese": "lễ tân khách sạn",
+    "example": "Ask at the hotel reception for a map.",
+    "difficulty": 1
+  },
+  {
+    "english": "check-in desk",
+    "vietnamese": "quầy nhận phòng",
+    "example": "The check-in desk is in the lobby.",
+    "difficulty": 1
+  },
+  {
+    "english": "key card",
+    "vietnamese": "thẻ mở phòng",
+    "example": "Use your key card to access the room.",
+    "difficulty": 1
+  },
+  {
+    "english": "housekeeping",
+    "vietnamese": "dọn phòng",
+    "example": "Housekeeping comes daily.",
+    "difficulty": 2
+  },
+  {
+    "english": "minibar",
+    "vietnamese": "tủ minibar",
+    "example": "The minibar items are pricey.",
+    "difficulty": 2
+  },
+  {
+    "english": "room rate",
+    "vietnamese": "giá phòng",
+    "example": "The room rate includes breakfast.",
+    "difficulty": 1
+  },
+  {
+    "english": "late check-out",
+    "vietnamese": "trả phòng muộn",
+    "example": "We asked for a late check-out.",
+    "difficulty": 1
+  },
+  {
+    "english": "early check-in",
+    "vietnamese": "nhận phòng sớm",
+    "example": "They granted an early check-in.",
+    "difficulty": 2
+  },
+  {
+    "english": "front desk",
+    "vietnamese": "quầy tiếp tân",
+    "example": "Leave your key at the front desk.",
+    "difficulty": 1
+  },
+  {
+    "english": "lobby",
+    "vietnamese": "sảnh chờ",
+    "example": "We met in the hotel lobby.",
+    "difficulty": 1
+  },
+  {
+    "english": "bellhop",
+    "vietnamese": "nhân viên khuân hành lý",
+    "example": "The bellhop carried our bags up.",
+    "difficulty": 3
+  },
+  {
+    "english": "guest",
+    "vietnamese": "khách lưu trú",
+    "example": "Hotel guests get free breakfast.",
+    "difficulty": 1
+  },
+  {
+    "english": "reservation number",
+    "vietnamese": "mã đặt chỗ",
+    "example": "Quote your reservation number at check-in.",
+    "difficulty": 1
+  },
+  {
+    "english": "hostel dorm",
+    "vietnamese": "phòng tập thể nhà nghỉ",
+    "example": "A hostel dorm bed is very cheap.",
+    "difficulty": 2
+  },
+  {
+    "english": "breakfast buffet",
+    "vietnamese": "tiệc buffet sáng",
+    "example": "The breakfast buffet is plenty.",
+    "difficulty": 1
+  },
+  {
+    "english": "room with a view",
+    "vietnamese": "phòng có cảnh đẹp",
+    "example": "We booked a room with a view.",
+    "difficulty": 1
+  },
+  {
+    "english": "sea view",
+    "vietnamese": "hướng nhìn ra biển",
+    "example": "The sea view room costs more.",
+    "difficulty": 1
+  },
+  {
+    "english": "city view",
+    "vietnamese": "hướng nhìn ra thành phố",
+    "example": "Our room has a city view.",
+    "difficulty": 1
+  },
+  {
+    "english": "balcony",
+    "vietnamese": "ban công",
+    "example": "The room has a small balcony.",
+    "difficulty": 1
+  },
+  {
+    "english": "air conditioning",
+    "vietnamese": "điều hòa không khí",
+    "example": "The room has air conditioning.",
+    "difficulty": 1
+  },
+  {
+    "english": "heating",
+    "vietnamese": "máy sưởi, hệ thống sưởi",
+    "example": "The heating kept the room warm.",
+    "difficulty": 1
+  },
+  {
+    "english": "Wi-Fi",
+    "vietnamese": "mạng không dây",
+    "example": "Is Wi-Fi included in the room rate?",
+    "difficulty": 1
+  },
+  {
+    "english": "room key",
+    "vietnamese": "chìa khóa phòng",
+    "example": "Don't lose your room key.",
+    "difficulty": 1
+  },
+  {
+    "english": "safe deposit box",
+    "vietnamese": "két an toàn",
+    "example": "Store valuables in the safe deposit box.",
+    "difficulty": 2
+  },
+  {
+    "english": "concierge desk",
+    "vietnamese": "quầy hỗ trợ khách",
+    "example": "The concierge desk books tours for you.",
+    "difficulty": 2
+  },
+  {
+    "english": "stop-off",
+    "vietnamese": "điểm ghé nghỉ",
+    "example": "We made a stop-off in Bangkok.",
+    "difficulty": 2
+  },
+  {
+    "english": "pit stop",
+    "vietnamese": "điểm dừng ngắn",
+    "example": "We made a quick pit stop for fuel.",
+    "difficulty": 1
+  },
+  {
+    "english": "skyscraper",
+    "vietnamese": "tòa nhà chọc trời",
+    "example": "The city is full of skyscrapers.",
+    "difficulty": 2
+  },
+  {
+    "english": "cathedral",
+    "vietnamese": "nhà thờ lớn",
+    "example": "The cathedral dates back 500 years.",
+    "difficulty": 2
+  },
+  {
+    "english": "mosque",
+    "vietnamese": "thánh đường Hồi giáo",
+    "example": "The mosque welcomes visitors at noon.",
+    "difficulty": 2
   }
 ]
