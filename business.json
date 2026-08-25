@@ -2782,5 +2782,3245 @@
     "vietnamese": "khả năng mở rộng",
     "example": "The platform's scalability is its biggest selling point.",
     "difficulty": 2
+  },
+  {
+    "english": "bargaining",
+    "vietnamese": "mặc cả, thương lượng giá",
+    "example": "Bargaining is expected at the night market, not in a boardroom.",
+    "difficulty": 1
+  },
+  {
+    "english": "counteroffer",
+    "vietnamese": "đề nghị đối lại",
+    "example": "We rejected their first offer and made a counteroffer.",
+    "difficulty": 2
+  },
+  {
+    "english": "deadlock",
+    "vietnamese": "bế tắc trong đàm phán",
+    "example": "The talks reached a deadlock over pricing.",
+    "difficulty": 2
+  },
+  {
+    "english": "stalemate",
+    "vietnamese": "thế bế tắc, không bên nào nhượng",
+    "example": "After six hours, the negotiations were still at a stalemate.",
+    "difficulty": 2
+  },
+  {
+    "english": "win-win",
+    "vietnamese": "đôi bên cùng có lợi",
+    "example": "A win-win deal leaves both parties wanting to work together again.",
+    "difficulty": 1
+  },
+  {
+    "english": "BATNA",
+    "vietnamese": "Phương án thay thế tốt nhất nếu đàm phán thất bại",
+    "example": "Knowing your BATNA gives you leverage at the table.",
+    "difficulty": 3
+  },
+  {
+    "english": "walk away point",
+    "vietnamese": "giới hạn chấp nhận, điểm dừng đàm phán",
+    "example": "Set a walk-away point before entering any negotiation.",
+    "difficulty": 2
+  },
+  {
+    "english": "concessions",
+    "vietnamese": "nhượng bộ trong đàm phán",
+    "example": "Trade concessions — give up small points to win big ones.",
+    "difficulty": 2
+  },
+  {
+    "english": "haggle",
+    "vietnamese": "mặc cả, kỳ kèo giá",
+    "example": "She haggled the vendor down from fifty to thirty dollars.",
+    "difficulty": 1
+  },
+  {
+    "english": "lowball",
+    "vietnamese": "đưa giá thấp bất hợp lý",
+    "example": "They lowballed the offer, hoping we were desperate to sell.",
+    "difficulty": 2
+  },
+  {
+    "english": "highball",
+    "vietnamese": "đưa giá cao bất hợp lý",
+    "example": "He highballed the asking price, expecting to negotiate down.",
+    "difficulty": 2
+  },
+  {
+    "english": "sweeten the deal",
+    "vietnamese": "thêm ưu đãi để chốt giao dịch",
+    "example": "We sweetened the deal with a six-month warranty.",
+    "difficulty": 2
+  },
+  {
+    "english": "close the deal",
+    "vietnamese": "chốt giao dịch",
+    "example": "It took three meetings to finally close the deal.",
+    "difficulty": 1
+  },
+  {
+    "english": "in good faith",
+    "vietnamese": "thiện chí, thành thật trong đàm phán",
+    "example": "We entered the talks in good faith, trusting their word.",
+    "difficulty": 2
+  },
+  {
+    "english": "bad faith",
+    "vietnamese": "không thiện chí, gian dối trong đàm phán",
+    "example": "Negotiating in bad faith destroys future deals.",
+    "difficulty": 2
+  },
+  {
+    "english": "checkout",
+    "vietnamese": "thanh toán (quy trình đặt hàng online)",
+    "example": "The checkout process should be under three clicks.",
+    "difficulty": 1
+  },
+  {
+    "english": "shopping cart",
+    "vietnamese": "giỏ hàng",
+    "example": "Most customers abandon their shopping cart before buying.",
+    "difficulty": 1
+  },
+  {
+    "english": "cart abandonment",
+    "vietnamese": "bỏ giỏ hàng không mua",
+    "example": "Cart abandonment rates average around seventy percent.",
+    "difficulty": 2
+  },
+  {
+    "english": "refund",
+    "vietnamese": "hoàn tiền",
+    "example": "The store issued a full refund after the item arrived damaged.",
+    "difficulty": 1
+  },
+  {
+    "english": "return policy",
+    "vietnamese": "chính sách đổi trả",
+    "example": "A generous return policy builds customer trust.",
+    "difficulty": 1
+  },
+  {
+    "english": "dropshipping",
+    "vietnamese": "bán hàng không cần tồn kho (nhà cung cấp gửi trực tiếp)",
+    "example": "Dropshipping lets you sell without ever holding inventory.",
+    "difficulty": 2
+  },
+  {
+    "english": "affiliate marketing",
+    "vietnamese": "tiếp thị liên kết (ăn hoa hồng khi giới thiệu)",
+    "example": "Affiliate marketing pays a commission for each referral sale.",
+    "difficulty": 2
+  },
+  {
+    "english": "marketplace",
+    "vietnamese": "sàn thương mại điện tử",
+    "example": "Amazon is a marketplace where third-party sellers compete.",
+    "difficulty": 1
+  },
+  {
+    "english": "flash sale",
+    "vietnamese": "chương trình giảm giá chớp nhoáng",
+    "example": "The flash sale crashed the website within minutes.",
+    "difficulty": 1
+  },
+  {
+    "english": "SKU",
+    "vietnamese": "mã hàng hóa (Stock Keeping Unit)",
+    "example": "Each product variant gets a unique SKU for tracking.",
+    "difficulty": 2
+  },
+  {
+    "english": "fulfillment",
+    "vietnamese": "hoàn tất đơn hàng (đóng gói, giao hàng)",
+    "example": "They outsourced fulfillment to a third-party warehouse.",
+    "difficulty": 2
+  },
+  {
+    "english": "inventory level",
+    "vietnamese": "mức tồn kho",
+    "example": "Monitor inventory levels to avoid running out of bestsellers.",
+    "difficulty": 1
+  },
+  {
+    "english": "overdraft",
+    "vietnamese": "thấu chi, chi tiêu quá số dư",
+    "example": "The overdraft fee was thirty dollars for a five dollar purchase.",
+    "difficulty": 2
+  },
+  {
+    "english": "deposit",
+    "vietnamese": "tiền gửi, đặt cọc",
+    "example": "We require a twenty percent deposit to hold the item.",
+    "difficulty": 1
+  },
+  {
+    "english": "withdrawal",
+    "vietnamese": "rút tiền",
+    "example": "A withdrawal from the account takes one business day.",
+    "difficulty": 1
+  },
+  {
+    "english": "standing order",
+    "vietnamese": "lệnh chuyển tiền định kỳ cố định",
+    "example": "A standing order pays the rent automatically each month.",
+    "difficulty": 2
+  },
+  {
+    "english": "direct debit",
+    "vietnamese": "ủy nhiệm thu (công ty tự trừ tiền)",
+    "example": "Set up a direct debit so bills are paid automatically.",
+    "difficulty": 2
+  },
+  {
+    "english": "credit score",
+    "vietnamese": "điểm tín dụng",
+    "example": "A high credit score gets you better loan rates.",
+    "difficulty": 2
+  },
+  {
+    "english": "credit rating",
+    "vietnamese": "xếp hạng tín dụng (công ty/quốc gia)",
+    "example": "The credit rating downgrade raised borrowing costs.",
+    "difficulty": 2
+  },
+  {
+    "english": "checking account",
+    "vietnamese": "tài khoản thanh toán (Mỹ)",
+    "example": "Pay bills from your checking account, not your savings.",
+    "difficulty": 2
+  },
+  {
+    "english": "savings account",
+    "vietnamese": "tài khoản tiết kiệm",
+    "example": "A savings account earns interest but low rates.",
+    "difficulty": 1
+  },
+  {
+    "english": "compound interest",
+    "vietnamese": "lãi kép",
+    "example": "Compound interest is the eighth wonder of the world.",
+    "difficulty": 2
+  },
+  {
+    "english": "APR",
+    "vietnamese": "Lãi suất phần trăm hàng năm (Annual Percentage Rate)",
+    "example": "The credit card's APR is eighteen percent.",
+    "difficulty": 2
+  },
+  {
+    "english": "ATM",
+    "vietnamese": "máy rút tiền tự động",
+    "example": "The ATM charged a three dollar fee for out-of-network use.",
+    "difficulty": 1
+  },
+  {
+    "english": "bank statement",
+    "vietnamese": "sao kê ngân hàng",
+    "example": "Review your bank statement monthly for errors.",
+    "difficulty": 1
+  },
+  {
+    "english": "tax evasion",
+    "vietnamese": "trốn thuế (phạm pháp)",
+    "example": "Tax evasion leads to criminal charges.",
+    "difficulty": 2
+  },
+  {
+    "english": "tax avoidance",
+    "vietnamese": "lách thuế (hợp pháp)",
+    "example": "Tax avoidance uses legal loopholes to reduce the bill.",
+    "difficulty": 2
+  },
+  {
+    "english": "tax haven",
+    "vietnamese": "thiên đường thuế",
+    "example": "The company parked profits in a tax haven offshore.",
+    "difficulty": 2
+  },
+  {
+    "english": "tax bracket",
+    "vietnamese": "khung thuế, bậc thuế",
+    "example": "A raise pushed him into a higher tax bracket.",
+    "difficulty": 2
+  },
+  {
+    "english": "filing",
+    "vietnamese": "nộp hồ sơ thuế",
+    "example": "The tax filing deadline is April 15th.",
+    "difficulty": 1
+  },
+  {
+    "english": "withholding",
+    "vietnamese": "khấu trừ thuế tại nguồn",
+    "example": "The employer withholds income tax from each paycheck.",
+    "difficulty": 2
+  },
+  {
+    "english": "audit trail",
+    "vietnamese": "dấu vết ghi chép để truy vết",
+    "example": "Keep an audit trail of all expenses for the tax return.",
+    "difficulty": 2
+  },
+  {
+    "english": "tax credit",
+    "vietnamese": "khoản giảm trừ thuế trực tiếp",
+    "example": "A tax credit reduces your bill dollar for dollar.",
+    "difficulty": 2
+  },
+  {
+    "english": "premium",
+    "vietnamese": "phí bảo hiểm",
+    "example": "His health insurance premium went up after the policy renewal.",
+    "difficulty": 2
+  },
+  {
+    "english": "coverage",
+    "vietnamese": "phạm vi bảo hiểm",
+    "example": "Check your coverage before filing a claim.",
+    "difficulty": 1
+  },
+  {
+    "english": "insurance claim",
+    "vietnamese": "yêu cầu bồi thường bảo hiểm",
+    "example": "The insurance claim was approved within a week.",
+    "difficulty": 1
+  },
+  {
+    "english": "deductible",
+    "vietnamese": "mức khấu trừ người mua tự trả",
+    "example": "A higher deductible lowers your monthly premium.",
+    "difficulty": 2
+  },
+  {
+    "english": "policyholder",
+    "vietnamese": "chủ sở hữu hợp đồng bảo hiểm",
+    "example": "The policyholder is responsible for reporting changes.",
+    "difficulty": 2
+  },
+  {
+    "english": "actuary",
+    "vietnamese": "chuyên gia tính toán rủi ro bảo hiểm",
+    "example": "Actuaries use statistics to price insurance products.",
+    "difficulty": 3
+  },
+  {
+    "english": "life insurance",
+    "vietnamese": "bảo hiểm nhân thọ",
+    "example": "Life insurance protects your family's financial future.",
+    "difficulty": 1
+  },
+  {
+    "english": "reinsurance",
+    "vietnamese": "bảo hiểm cho công ty bảo hiểm",
+    "example": "Insurance companies buy reinsurance to spread catastrophic risk.",
+    "difficulty": 3
+  },
+  {
+    "english": "property",
+    "vietnamese": "bất động sản, tài sản",
+    "example": "The property doubled in value over five years.",
+    "difficulty": 1
+  },
+  {
+    "english": "landlord",
+    "vietnamese": "chủ nhà cho thuê",
+    "example": "The landlord raised the rent when the lease expired.",
+    "difficulty": 1
+  },
+  {
+    "english": "tenant",
+    "vietnamese": "người thuê nhà",
+    "example": "The tenant pays rent on the first of each month.",
+    "difficulty": 1
+  },
+  {
+    "english": "leasehold",
+    "vietnamese": "quyền thuê sử dụng dài hạn",
+    "example": "The property is leasehold, not freehold.",
+    "difficulty": 2
+  },
+  {
+    "english": "freehold",
+    "vietnamese": "quyền sở hữu vĩnh viễn",
+    "example": "Freehold means you own the land outright.",
+    "difficulty": 2
+  },
+  {
+    "english": "escrow",
+    "vietnamese": "tài khoản ký quỹ giữ hộ tiền",
+    "example": "The deposit is held in escrow until closing.",
+    "difficulty": 2
+  },
+  {
+    "english": "foreclosure",
+    "vietnamese": "tịch thu nhà do không trả nợ",
+    "example": "The bank began foreclosure after three missed payments.",
+    "difficulty": 2
+  },
+  {
+    "english": "zoning",
+    "vietnamese": "quy hoạch phân khu sử dụng đất",
+    "example": "The zoning laws prevent building a factory in a residential area.",
+    "difficulty": 2
+  },
+  {
+    "english": "commercial property",
+    "vietnamese": "bất động sản thương mại",
+    "example": "Commercial property rents by square footage.",
+    "difficulty": 1
+  },
+  {
+    "english": "import",
+    "vietnamese": "nhập khẩu",
+    "example": "The country imports most of its electronics.",
+    "difficulty": 1
+  },
+  {
+    "english": "export",
+    "vietnamese": "xuất khẩu",
+    "example": "Coffee is the nation's largest export.",
+    "difficulty": 1
+  },
+  {
+    "english": "customs duty",
+    "vietnamese": "thuế hải quan",
+    "example": "Customs duty applies to goods over a certain value.",
+    "difficulty": 2
+  },
+  {
+    "english": "embargo",
+    "vietnamese": "lệnh cấm vận thương mại",
+    "example": "The trade embargo blocked all imports from the region.",
+    "difficulty": 2
+  },
+  {
+    "english": "exchange rate",
+    "vietnamese": "tỷ giá hối đoái",
+    "example": "The exchange rate makes imports more expensive.",
+    "difficulty": 1
+  },
+  {
+    "english": "incoterms",
+    "vietnamese": "điều kiện giao hàng quốc tế",
+    "example": "Incoterms define who pays for shipping and insurance.",
+    "difficulty": 3
+  },
+  {
+    "english": "bill of lading",
+    "vietnamese": "vận đơn đường biển",
+    "example": "The bill of lading proves ownership of the shipped goods.",
+    "difficulty": 3
+  },
+  {
+    "english": "letter of credit",
+    "vietnamese": "thư tín dụng (thanh toán quốc tế)",
+    "example": "A letter of credit guarantees payment once conditions are met.",
+    "difficulty": 3
+  },
+  {
+    "english": "trade deficit",
+    "vietnamese": "thâm hụt thương mại",
+    "example": "A trade deficit means imports exceed exports.",
+    "difficulty": 2
+  },
+  {
+    "english": "trade surplus",
+    "vietnamese": "thặng dư thương mại",
+    "example": "A trade surplus means the country exports more than it imports.",
+    "difficulty": 2
+  },
+  {
+    "english": "free trade",
+    "vietnamese": "thương mại tự do không rào cản",
+    "example": "Free trade agreements lower tariffs between member countries.",
+    "difficulty": 2
+  },
+  {
+    "english": "protectionism",
+    "vietnamese": "chủ nghĩa bảo hộ thương mại",
+    "example": "Protectionism shields local industry but raises consumer prices.",
+    "difficulty": 3
+  },
+  {
+    "english": "bribery",
+    "vietnamese": "hối lộ, đưa hối lộ",
+    "example": "Bribery is illegal even when it is common practice locally.",
+    "difficulty": 2
+  },
+  {
+    "english": "corruption",
+    "vietnamese": "tham nhũng",
+    "example": "Corruption undermines fair competition and trust in institutions.",
+    "difficulty": 2
+  },
+  {
+    "english": "conflict of interest",
+    "vietnamese": "xung đột lợi ích",
+    "example": "A conflict of interest arises when a manager hires family.",
+    "difficulty": 2
+  },
+  {
+    "english": "nepotism",
+    "vietnamese": "ưu ái người thân, gia đình trị",
+    "example": "Nepotism breeds resentment among capable employees.",
+    "difficulty": 2
+  },
+  {
+    "english": "discrimination",
+    "vietnamese": "phân biệt đối xử",
+    "example": "Discrimination in hiring is illegal and bad for business.",
+    "difficulty": 1
+  },
+  {
+    "english": "embezzlement",
+    "vietnamese": "biển thủ, tham ô",
+    "example": "He was jailed for embezzlement of company funds.",
+    "difficulty": 3
+  },
+  {
+    "english": "price fixing",
+    "vietnamese": "thông đồng ấn định giá",
+    "example": "Price fixing among competitors violates antitrust law.",
+    "difficulty": 3
+  },
+  {
+    "english": "insider dealing",
+    "vietnamese": "giao dịch nội gián (Anh)",
+    "example": "Insider dealing uses confidential information to profit on stocks.",
+    "difficulty": 3
+  },
+  {
+    "english": "money laundering",
+    "vietnamese": "rửa tiền",
+    "example": "The shell companies were used for money laundering.",
+    "difficulty": 2
+  },
+  {
+    "english": "fraud",
+    "vietnamese": "lừa đảo, gian lận",
+    "example": "Accounting fraud can destroy a company overnight.",
+    "difficulty": 1
+  },
+  {
+    "english": "code of conduct",
+    "vietnamese": "bộ quy tắc ứng xử",
+    "example": "Every employee must sign the code of conduct.",
+    "difficulty": 2
+  },
+  {
+    "english": "corporate social responsibility",
+    "vietnamese": "trách nhiệm xã hội doanh nghiệp (CSR)",
+    "example": "CSR programs build goodwill that profits cannot buy.",
+    "difficulty": 2
+  },
+  {
+    "english": "ethical dilemma",
+    "vietnamese": "tình huống khó xử về đạo đức",
+    "example": "Laying off loyal staff is an ethical dilemma.",
+    "difficulty": 2
+  },
+  {
+    "english": "supply and demand",
+    "vietnamese": "cung và cầu",
+    "example": "Prices are driven by supply and demand.",
+    "difficulty": 1
+  },
+  {
+    "english": "elasticity",
+    "vietnamese": "độ co giãn (kinh tế)",
+    "example": "Price elasticity measures how demand reacts to price changes.",
+    "difficulty": 3
+  },
+  {
+    "english": "oligopoly",
+    "vietnamese": "thị trường độc quyền nhóm (vài người thống trị)",
+    "example": "The airline industry is an oligopoly controlled by a few carriers.",
+    "difficulty": 3
+  },
+  {
+    "english": "duopoly",
+    "vietnamese": "thị trường hai người thống trị",
+    "example": "Coca-Cola and Pepsi form a duopoly in soft drinks.",
+    "difficulty": 3
+  },
+  {
+    "english": "perfect competition",
+    "vietnamese": "cạnh tranh hoàn hảo",
+    "example": "Perfect competition is a theoretical ideal, not a reality.",
+    "difficulty": 3
+  },
+  {
+    "english": "opportunity cost",
+    "vietnamese": "chi phí cơ hội",
+    "example": "The opportunity cost of college is the salary you could have earned.",
+    "difficulty": 2
+  },
+  {
+    "english": "sunk cost",
+    "vietnamese": "chi phí chìm (không thể thu hồi)",
+    "example": "Do not let sunk costs trap you in a failing project.",
+    "difficulty": 2
+  },
+  {
+    "english": "marginal cost",
+    "vietnamese": "chi phí biên (chi phí thêm 1 đơn vị)",
+    "example": "Marginal cost drops as production scales up.",
+    "difficulty": 2
+  },
+  {
+    "english": "monetary policy",
+    "vietnamese": "chính sách tiền tệ",
+    "example": "The central bank tightened monetary policy to fight inflation.",
+    "difficulty": 2
+  },
+  {
+    "english": "fiscal policy",
+    "vietnamese": "chính sách tài khóa",
+    "example": "Fiscal policy uses taxes and spending to steer the economy.",
+    "difficulty": 2
+  },
+  {
+    "english": "quantitative easing",
+    "vietnamese": "nới lỏng định lượng",
+    "example": "Quantitative easing injects money into the banking system.",
+    "difficulty": 3
+  },
+  {
+    "english": "stagflation",
+    "vietnamese": "lạm phát đình trệ",
+    "example": "Stagflation combines high inflation with high unemployment.",
+    "difficulty": 3
+  },
+  {
+    "english": "depression",
+    "vietnamese": "đại suy thoái, khủng hoảng kinh tế sâu",
+    "example": "The Great Depression lasted a decade.",
+    "difficulty": 2
+  },
+  {
+    "english": "inflation rate",
+    "vietnamese": "tỷ lệ lạm phát",
+    "example": "The inflation rate hit nine percent last year.",
+    "difficulty": 1
+  },
+  {
+    "english": "deflation",
+    "vietnamese": "giảm phát",
+    "example": "Deflation sounds good but stalls consumer spending.",
+    "difficulty": 2
+  },
+  {
+    "english": "GDP per capita",
+    "vietnamese": "GDP bình quân đầu người",
+    "example": "GDP per capita measures average living standards.",
+    "difficulty": 2
+  },
+  {
+    "english": "GNP",
+    "vietnamese": "Tổng sản phẩm quốc dân",
+    "example": "GNP includes income earned abroad by residents.",
+    "difficulty": 2
+  },
+  {
+    "english": "headhunter",
+    "vietnamese": "người săn nhân tài cấp cao",
+    "example": "A headhunter approached her for a CEO role.",
+    "difficulty": 2
+  },
+  {
+    "english": "talent acquisition",
+    "vietnamese": "thu hút nhân tài",
+    "example": "Talent acquisition is proactive — it builds a pipeline before roles open.",
+    "difficulty": 2
+  },
+  {
+    "english": "onboarding process",
+    "vietnamese": "quy trình đào tạo nhân viên mới",
+    "example": "A strong onboarding process cuts early turnover.",
+    "difficulty": 2
+  },
+  {
+    "english": "redundancy",
+    "vietnamese": "cắt giảm nhân sự do dôi dư (Anh)",
+    "example": "The merger resulted in hundreds of redundancies.",
+    "difficulty": 2
+  },
+  {
+    "english": "garden leave",
+    "vietnamese": "thời gian nghỉ có lương trước khi nghỉ hẳn (Anh)",
+    "example": "He was put on garden leave after resigning.",
+    "difficulty": 3
+  },
+  {
+    "english": "non-compete",
+    "vietnamese": "điều khoản cấm cạnh tranh sau nghỉ việc",
+    "example": "The non-compete bars him from joining a rival for a year.",
+    "difficulty": 3
+  },
+  {
+    "english": "probation",
+    "vietnamese": "thời gian thử việc",
+    "example": "She is on a six-month probation before the offer is confirmed.",
+    "difficulty": 1
+  },
+  {
+    "english": "reference check",
+    "vietnamese": "kiểm tra người tham chiếu",
+    "example": "The reference check confirmed her strong track record.",
+    "difficulty": 2
+  },
+  {
+    "english": "background check",
+    "vietnamese": "kiểm tra lý lịch",
+    "example": "A background check surfaced a prior fraud conviction.",
+    "difficulty": 2
+  },
+  {
+    "english": "employee stock option",
+    "vietnamese": "quyền mua cổ phiếu cho nhân viên",
+    "example": "Startups lure talent with employee stock options.",
+    "difficulty": 2
+  },
+  {
+    "english": "401(k)",
+    "vietnamese": "chương trình hưu trí 401(k) (Mỹ)",
+    "example": "The company matches 401(k) contributions up to five percent.",
+    "difficulty": 2
+  },
+  {
+    "english": "perk",
+    "vietnamese": "phúc lợi thêm ngoài lương",
+    "example": "Free lunches are a nice perk but not a reason to stay.",
+    "difficulty": 1
+  },
+  {
+    "english": "fringe benefit",
+    "vietnamese": "phúc lợi phụ",
+    "example": "A company car is a fringe benefit for senior staff.",
+    "difficulty": 2
+  },
+  {
+    "english": "quality control",
+    "vietnamese": "kiểm soát chất lượng",
+    "example": "Quality control rejects any unit outside tolerance.",
+    "difficulty": 1
+  },
+  {
+    "english": "quality assurance",
+    "vietnamese": "đảm bảo chất lượng",
+    "example": "Quality assurance prevents defects rather than catching them.",
+    "difficulty": 2
+  },
+  {
+    "english": "Six Sigma",
+    "vietnamese": "phương pháp Six Sigma (giảm sai lỗi)",
+    "example": "Six Sigma aims for fewer than 3.4 defects per million.",
+    "difficulty": 3
+  },
+  {
+    "english": "lean",
+    "vietnamese": "tinh gọn (giảm lãng phí, Lean)",
+    "example": "Lean manufacturing eliminates waste at every step.",
+    "difficulty": 2
+  },
+  {
+    "english": "Kaizen",
+    "vietnamese": "Kaizen (cải tiến liên tục)",
+    "example": "Kaizen encourages small daily improvements from everyone.",
+    "difficulty": 3
+  },
+  {
+    "english": "throughput",
+    "vietnamese": "sản lượng, năng suất đầu ra",
+    "example": "Throughput doubled after automating the packaging line.",
+    "difficulty": 2
+  },
+  {
+    "english": "downtime",
+    "vietnamese": "thời gian dừng máy, ngừng hoạt động",
+    "example": "Unplanned downtime costs the factory thousands per hour.",
+    "difficulty": 1
+  },
+  {
+    "english": "capacity",
+    "vietnamese": "công suất, năng lực sản xuất",
+    "example": "The plant is running at full capacity for the holiday rush.",
+    "difficulty": 1
+  },
+  {
+    "english": "SOP",
+    "vietnamese": "quy trình chuẩn (Standard Operating Procedure)",
+    "example": "Follow the SOP exactly to ensure consistent output.",
+    "difficulty": 2
+  },
+  {
+    "english": "workflow",
+    "vietnamese": "luồng công việc, quy trình",
+    "example": "The new workflow cut approval time in half.",
+    "difficulty": 1
+  },
+  {
+    "english": "A/B testing",
+    "vietnamese": "thử nghiệm A/B so sánh hai phiên bản",
+    "example": "A/B testing the landing page lifted conversions.",
+    "difficulty": 2
+  },
+  {
+    "english": "SEO",
+    "vietnamese": "tối ưu công cụ tìm kiếm (Search Engine Optimization)",
+    "example": "Strong SEO brings free organic traffic.",
+    "difficulty": 1
+  },
+  {
+    "english": "SEM",
+    "vietnamese": "tiếp thị công cụ tìm kiếm trả phí",
+    "example": "SEM buys paid placement above organic results.",
+    "difficulty": 2
+  },
+  {
+    "english": "click-through rate",
+    "vietnamese": "tỷ lệ nhấp chuột (CTR)",
+    "example": "A compelling headline lifts the click-through rate.",
+    "difficulty": 2
+  },
+  {
+    "english": "bounce rate",
+    "vietnamese": "tỷ lệ thoát trang",
+    "example": "A high bounce rate signals the page is not relevant.",
+    "difficulty": 2
+  },
+  {
+    "english": "impression",
+    "vietnamese": "lượt hiển thị quảng cáo",
+    "example": "The ad got a million impressions but few clicks.",
+    "difficulty": 1
+  },
+  {
+    "english": "reach",
+    "vietnamese": "phạm vi tiếp cận (số người thấy)",
+    "example": "The campaign doubled its reach with influencer posts.",
+    "difficulty": 1
+  },
+  {
+    "english": "engagement rate",
+    "vietnamese": "tỷ lệ tương tác",
+    "example": "Video posts get a higher engagement rate than photos.",
+    "difficulty": 2
+  },
+  {
+    "english": "content marketing",
+    "vietnamese": "tiếp thị nội dung",
+    "example": "Content marketing educates customers instead of interrupting them.",
+    "difficulty": 2
+  },
+  {
+    "english": "inbound marketing",
+    "vietnamese": "tiếp thị kéo (khách tự tìm đến)",
+    "example": "Inbound marketing attracts customers with valuable content.",
+    "difficulty": 2
+  },
+  {
+    "english": "outbound marketing",
+    "vietnamese": "tiếp thị đẩy (chủ động tiếp cận)",
+    "example": "Outbound marketing pushes messages to an audience that did not ask.",
+    "difficulty": 2
+  },
+  {
+    "english": "brand equity",
+    "vietnamese": "giá trị thương hiệu",
+    "example": "Strong brand equity lets them charge a premium.",
+    "difficulty": 2
+  },
+  {
+    "english": "brand positioning",
+    "vietnamese": "định vị thương hiệu",
+    "example": "Brand positioning sets how customers perceive you versus rivals.",
+    "difficulty": 2
+  },
+  {
+    "english": "tagline",
+    "vietnamese": "khẩu hiệu ngắn của thương hiệu",
+    "example": "Just do it is one of the most famous taglines ever.",
+    "difficulty": 1
+  },
+  {
+    "english": "jingle",
+    "vietnamese": "nhạc quảng cáo ngắn",
+    "example": "A catchy jingle stays in your head for days.",
+    "difficulty": 1
+  },
+  {
+    "english": "press kit",
+    "vietnamese": "bộ tài liệu truyền thông",
+    "example": "The press kit includes logos, bios, and product photos.",
+    "difficulty": 2
+  },
+  {
+    "english": "earned media",
+    "vietnamese": "truyền thông đạt được tự nhiên (PR, báo chí)",
+    "example": "Earned media like press coverage costs nothing but trust.",
+    "difficulty": 2
+  },
+  {
+    "english": "owned media",
+    "vietnamese": "truyền thông sở hữu (website, blog)",
+    "example": "Owned media like your blog builds a long-term audience.",
+    "difficulty": 2
+  },
+  {
+    "english": "paid media",
+    "vietnamese": "truyền thông trả phí (quảng cáo)",
+    "example": "Paid media offers speed but stops the moment you stop paying.",
+    "difficulty": 2
+  },
+  {
+    "english": "COO",
+    "vietnamese": "Giám đốc vận hành (Chief Operating Officer)",
+    "example": "The COO oversees daily operations.",
+    "difficulty": 1
+  },
+  {
+    "english": "CMO",
+    "vietnamese": "Giám đốc tiếp thị (Chief Marketing Officer)",
+    "example": "The CMO owns the brand and messaging.",
+    "difficulty": 1
+  },
+  {
+    "english": "CTO",
+    "vietnamese": "Giám đốc công nghệ (Chief Technology Officer)",
+    "example": "The CTO leads the engineering team.",
+    "difficulty": 1
+  },
+  {
+    "english": "CHRO",
+    "vietnamese": "Giám đốc nhân sự (Chief Human Resources Officer)",
+    "example": "The CHRO drove the flexible work policy.",
+    "difficulty": 2
+  },
+  {
+    "english": "VP",
+    "vietnamese": "Phó chủ tịch (Vice President)",
+    "example": "The VP of sales reports to the CEO.",
+    "difficulty": 1
+  },
+  {
+    "english": "middle management",
+    "vietnamese": "quản lý cấp trung",
+    "example": "Middle management translates strategy into execution.",
+    "difficulty": 2
+  },
+  {
+    "english": "C-suite",
+    "vietnamese": "nhóm lãnh đạo cao cấp (CEO, CFO...)",
+    "example": "The C-suite approved the restructuring plan.",
+    "difficulty": 2
+  },
+  {
+    "english": "director",
+    "vietnamese": "giám đốc, thành viên hội đồng",
+    "example": "She was promoted from manager to director.",
+    "difficulty": 1
+  },
+  {
+    "english": "founder",
+    "vietnamese": "nhà sáng lập",
+    "example": "The founder still codes alongside the interns.",
+    "difficulty": 1
+  },
+  {
+    "english": "co-founder",
+    "vietnamese": "đồng sáng lập",
+    "example": "The two co-founders split decisions fifty-fifty.",
+    "difficulty": 1
+  },
+  {
+    "english": "succession planning",
+    "vietnamese": "lập kế hoạch kế nhiệm",
+    "example": "Succession planning ensures the company survives its founders.",
+    "difficulty": 2
+  },
+  {
+    "english": "organizational culture",
+    "vietnamese": "văn hóa tổ chức",
+    "example": "Organizational culture shapes how employees actually behave.",
+    "difficulty": 2
+  },
+  {
+    "english": "corporate governance",
+    "vietnamese": "quản trị doanh nghiệp",
+    "example": "Strong corporate governance protects shareholder interests.",
+    "difficulty": 2
+  },
+  {
+    "english": "pitch deck",
+    "vietnamese": "bản trình bày gọi vốn",
+    "example": "The pitch deck convinced investors in ten minutes.",
+    "difficulty": 2
+  },
+  {
+    "english": "demo day",
+    "vietnamese": "ngày trình diễn gọi vốn (accelerator)",
+    "example": "Startups pitch to investors on demo day.",
+    "difficulty": 2
+  },
+  {
+    "english": "unicorn",
+    "vietnamese": "startup trị giá trên 1 tỷ đô",
+    "example": "The startup became a unicorn three years after founding.",
+    "difficulty": 1
+  },
+  {
+    "english": "decacorn",
+    "vietnamese": "startup trị giá trên 10 tỷ đô",
+    "example": "Only a handful of startups reach decacorn status.",
+    "difficulty": 3
+  },
+  {
+    "english": "exit",
+    "vietnamese": "thoát vốn (bán công ty/IPO)",
+    "example": "Investors need an exit to realize their returns.",
+    "difficulty": 1
+  },
+  {
+    "english": "cash runway",
+    "vietnamese": "thời gian hoạt động trước khi hết tiền",
+    "example": "The cash runway is only six months.",
+    "difficulty": 2
+  },
+  {
+    "english": "dilution",
+    "vietnamese": "pha loãng cổ phần",
+    "example": "Each funding round causes dilution for early investors.",
+    "difficulty": 2
+  },
+  {
+    "english": "incubator",
+    "vietnamese": "vườn ươm khởi nghiệp",
+    "example": "The incubator provides mentorship and office space.",
+    "difficulty": 2
+  },
+  {
+    "english": "accelerator",
+    "vietnamese": "chương trình tăng tốc khởi nghiệp",
+    "example": "The accelerator program lasts three intensive months.",
+    "difficulty": 2
+  },
+  {
+    "english": "side hustle",
+    "vietnamese": "việc làm thêm ngoài công việc chính",
+    "example": "Her side hustle grew into a full-time business.",
+    "difficulty": 1
+  },
+  {
+    "english": "solopreneur",
+    "vietnamese": "doanh nhân một người",
+    "example": "As a solopreneur, she runs everything herself.",
+    "difficulty": 2
+  },
+  {
+    "english": "lifestyle business",
+    "vietnamese": "doanh nghiệp phục vụ lối sống (không nhắm tăng trưởng lớn)",
+    "example": "A lifestyle business prioritizes freedom over scale.",
+    "difficulty": 2
+  },
+  {
+    "english": "current ratio",
+    "vietnamese": "hệ số thanh khoản hiện hành",
+    "example": "A current ratio above two indicates healthy liquidity.",
+    "difficulty": 3
+  },
+  {
+    "english": "debt-to-equity",
+    "vietnamese": "tỷ lệ nợ/vốn chủ sở hữu",
+    "example": "A high debt-to-equity ratio worries lenders.",
+    "difficulty": 3
+  },
+  {
+    "english": "EBITDA",
+    "vietnamese": "lợi nhuận trước lãi, thuế, khấu hao",
+    "example": "EBITDA shows operating performance before non-cash items.",
+    "difficulty": 3
+  },
+  {
+    "english": "P/E ratio",
+    "vietnamese": "tỷ lệ giá/thu nhập cổ phiếu",
+    "example": "A low P/E ratio can signal an undervalued stock.",
+    "difficulty": 2
+  },
+  {
+    "english": "market order",
+    "vietnamese": "lệnh mua/bán theo giá thị trường",
+    "example": "A market order executes immediately at the current price.",
+    "difficulty": 2
+  },
+  {
+    "english": "limit order",
+    "vietnamese": "lệnh giới hạn giá",
+    "example": "A limit order only fills at your specified price or better.",
+    "difficulty": 2
+  },
+  {
+    "english": "stop-loss",
+    "vietnamese": "lệnh cắt lỗ tự động",
+    "example": "A stop-loss protects you from a sudden downturn.",
+    "difficulty": 2
+  },
+  {
+    "english": "diversification",
+    "vietnamese": "đa dạng hóa danh mục",
+    "example": "Diversification spreads risk across different assets.",
+    "difficulty": 2
+  },
+  {
+    "english": "bullish",
+    "vietnamese": "lạc quan, kỳ vọng giá tăng",
+    "example": "Analysts are bullish on the tech sector.",
+    "difficulty": 1
+  },
+  {
+    "english": "bearish",
+    "vietnamese": "bi quan, kỳ vọng giá giảm",
+    "example": "He turned bearish after the earnings miss.",
+    "difficulty": 2
+  },
+  {
+    "english": "volatility",
+    "vietnamese": "biến động giá",
+    "example": "High volatility makes the stock too risky for beginners.",
+    "difficulty": 2
+  },
+  {
+    "english": "yield curve",
+    "vietnamese": "đường cong lợi suất",
+    "example": "An inverted yield curve often predicts recession.",
+    "difficulty": 3
+  },
+  {
+    "english": "bond yield",
+    "vietnamese": "lợi suất trái phiếu",
+    "example": "Bond yields rose as investors priced in inflation.",
+    "difficulty": 2
+  },
+  {
+    "english": "coupon",
+    "vietnamese": "lãi suất phiếu trái phiếu",
+    "example": "The bond pays a five percent annual coupon.",
+    "difficulty": 2
+  },
+  {
+    "english": "derivative",
+    "vietnamese": "chứng khoán phái sinh",
+    "example": "Derivatives let you hedge against price swings.",
+    "difficulty": 3
+  },
+  {
+    "english": "hedging",
+    "vietnamese": "phòng hộ rủi ro",
+    "example": "Hedging with options protects against a market crash.",
+    "difficulty": 2
+  },
+  {
+    "english": "liquidity ratio",
+    "vietnamese": "tỷ số thanh khoản",
+    "example": "The liquidity ratio shows ability to meet short-term debt.",
+    "difficulty": 3
+  },
+  {
+    "english": "capital gains",
+    "vietnamese": "lãi vốn (lợi nhuận từ bán tài sản)",
+    "example": "Capital gains are taxed differently from salary income.",
+    "difficulty": 2
+  },
+  {
+    "english": "depreciation schedule",
+    "vietnamese": "lịch khấu hao tài sản",
+    "example": "The depreciation schedule spreads the cost over five years.",
+    "difficulty": 3
+  },
+  {
+    "english": "quarterly report",
+    "vietnamese": "báo cáo tài chính quý",
+    "example": "Investors scrutinize the quarterly report for surprises.",
+    "difficulty": 1
+  },
+  {
+    "english": "antitrust",
+    "vietnamese": "chống độc quyền",
+    "example": "Antitrust law prevents one company from dominating a market.",
+    "difficulty": 3
+  },
+  {
+    "english": "litigation",
+    "vietnamese": "tranh tụng, kiện tụng",
+    "example": "The litigation dragged on for three years.",
+    "difficulty": 2
+  },
+  {
+    "english": "settlement",
+    "vietnamese": "dàn xếp ngoài tòa",
+    "example": "They reached a settlement to avoid a costly trial.",
+    "difficulty": 2
+  },
+  {
+    "english": "injunction",
+    "vietnamese": "lệnh cấm của tòa án",
+    "example": "The injunction blocked the product launch.",
+    "difficulty": 3
+  },
+  {
+    "english": "breach of contract",
+    "vietnamese": "vi phạm hợp đồng",
+    "example": "Breach of contract exposes them to damages.",
+    "difficulty": 2
+  },
+  {
+    "english": "limited liability",
+    "vietnamese": "trách nhiệm hữu hạn",
+    "example": "Limited liability protects owners' personal assets.",
+    "difficulty": 2
+  },
+  {
+    "english": "liability waiver",
+    "vietnamese": "giấy miễn trừ trách nhiệm",
+    "example": "The gym requires a liability waiver before you join.",
+    "difficulty": 2
+  },
+  {
+    "english": "power of attorney",
+    "vietnamese": "giấy ủy quyền",
+    "example": "She signed a power of attorney for the business.",
+    "difficulty": 2
+  },
+  {
+    "english": "cease and desist",
+    "vietnamese": "lệnh ngừng hành vi vi phạm",
+    "example": "The cease and desist letter demanded they stop using the logo.",
+    "difficulty": 3
+  },
+  {
+    "english": "CRM",
+    "vietnamese": "phần mềm quản lý quan hệ khách hàng",
+    "example": "The CRM tracks every customer interaction.",
+    "difficulty": 1
+  },
+  {
+    "english": "ERP",
+    "vietnamese": "hệ thống hoạch định nguồn lực doanh nghiệp",
+    "example": "The ERP integrates finance, HR, and inventory.",
+    "difficulty": 2
+  },
+  {
+    "english": "spreadsheet",
+    "vietnamese": "bảng tính",
+    "example": "The whole budget lives in one spreadsheet.",
+    "difficulty": 1
+  },
+  {
+    "english": "dashboard",
+    "vietnamese": "bảng điều khiển số liệu",
+    "example": "The dashboard shows real-time sales numbers.",
+    "difficulty": 1
+  },
+  {
+    "english": "analytics",
+    "vietnamese": "phân tích dữ liệu",
+    "example": "Analytics reveal which products drive the most revenue.",
+    "difficulty": 1
+  },
+  {
+    "english": "cloud computing",
+    "vietnamese": "điện toán đám mây",
+    "example": "Cloud computing lets teams work from anywhere.",
+    "difficulty": 2
+  },
+  {
+    "english": "SaaS",
+    "vietnamese": "phần mềm dạng dịch vụ (Software as a Service)",
+    "example": "SaaS products charge a monthly subscription.",
+    "difficulty": 2
+  },
+  {
+    "english": "API",
+    "vietnamese": "giao diện lập trình ứng dụng",
+    "example": "The API lets partners access our data securely.",
+    "difficulty": 2
+  },
+  {
+    "english": "integration",
+    "vietnamese": "tích hợp hệ thống",
+    "example": "The integration syncs the two platforms automatically.",
+    "difficulty": 1
+  },
+  {
+    "english": "automate",
+    "vietnamese": "tự động hóa",
+    "example": "Automate repetitive tasks to free up your team.",
+    "difficulty": 1
+  },
+  {
+    "english": "workflow automation",
+    "vietnamese": "tự động hóa quy trình",
+    "example": "Workflow automation routes approvals without emails.",
+    "difficulty": 2
+  },
+  {
+    "english": "data-driven",
+    "vietnamese": "dựa trên dữ liệu",
+    "example": "Data-driven decisions beat gut instinct.",
+    "difficulty": 1
+  },
+  {
+    "english": "deck",
+    "vietnamese": "bản trình chiếu (slide)",
+    "example": "Send me the deck before the client meeting.",
+    "difficulty": 1
+  },
+  {
+    "english": "slide deck",
+    "vietnamese": "bộ slide trình bày",
+    "example": "The slide deck is too long — cut it to ten pages.",
+    "difficulty": 1
+  },
+  {
+    "english": "executive summary",
+    "vietnamese": "tóm tắt dành cho lãnh đạo",
+    "example": "The executive summary fits on one page.",
+    "difficulty": 2
+  },
+  {
+    "english": "findings",
+    "vietnamese": "kết quả phát hiện (báo cáo)",
+    "example": "The findings support a move into the Asian market.",
+    "difficulty": 1
+  },
+  {
+    "english": "insights",
+    "vietnamese": "hiểu biết sâu, thấu hiểu từ dữ liệu",
+    "example": "The survey surfaced surprising insights about our users.",
+    "difficulty": 1
+  },
+  {
+    "english": "takeaway",
+    "vietnamese": "điểm chính cần nhớ",
+    "example": "The main takeaway is to invest in customer service.",
+    "difficulty": 1
+  },
+  {
+    "english": "chart",
+    "vietnamese": "biểu đồ",
+    "example": "The chart shows sales climbing since March.",
+    "difficulty": 1
+  },
+  {
+    "english": "graph",
+    "vietnamese": "đồ thị",
+    "example": "A line graph best shows the upward trend.",
+    "difficulty": 1
+  },
+  {
+    "english": "pie chart",
+    "vietnamese": "biểu đồ tròn",
+    "example": "The pie chart breaks down revenue by region.",
+    "difficulty": 1
+  },
+  {
+    "english": "bar chart",
+    "vietnamese": "biểu đồ cột",
+    "example": "The bar chart compares quarterly performance.",
+    "difficulty": 1
+  },
+  {
+    "english": "infographic",
+    "vietnamese": "đồ họa thông tin",
+    "example": "The infographic makes complex data easy to grasp.",
+    "difficulty": 2
+  },
+  {
+    "english": "heatmap",
+    "vietnamese": "bản đồ nhiệt",
+    "example": "The heatmap shows where users click most.",
+    "difficulty": 2
+  },
+  {
+    "english": "Gantt chart",
+    "vietnamese": "biểu đồ Gantt (tiến độ dự án)",
+    "example": "The Gantt chart maps every task to a timeline.",
+    "difficulty": 2
+  },
+  {
+    "english": "critical path",
+    "vietnamese": "đường găng, chuỗi việc quyết định tiến độ",
+    "example": "Any delay on the critical path delays the whole project.",
+    "difficulty": 3
+  },
+  {
+    "english": "scope creep",
+    "vietnamese": "phạm vi dự án phình to ngoài kế hoạch",
+    "example": "Scope creep is why the project is three months late.",
+    "difficulty": 2
+  },
+  {
+    "english": "agile",
+    "vietnamese": "phương pháp phát triển linh hoạt",
+    "example": "Agile teams ship in short iterative cycles.",
+    "difficulty": 2
+  },
+  {
+    "english": "scrum",
+    "vietnamese": "khung làm việc Scrum",
+    "example": "Scrum uses daily stand-ups and sprints.",
+    "difficulty": 2
+  },
+  {
+    "english": "kanban",
+    "vietnamese": "bảng Kanban quản lý công việc",
+    "example": "The kanban board visualizes every task's status.",
+    "difficulty": 2
+  },
+  {
+    "english": "product owner",
+    "vietnamese": "người phụ trách sản phẩm (Scrum)",
+    "example": "The product owner prioritizes the backlog.",
+    "difficulty": 2
+  },
+  {
+    "english": "scrum master",
+    "vietnamese": "người điều phối Scrum",
+    "example": "The scrum master removes obstacles for the team.",
+    "difficulty": 2
+  },
+  {
+    "english": "sprint planning",
+    "vietnamese": "lập kế hoạch chu kỳ làm việc",
+    "example": "Sprint planning sets the goals for the next two weeks.",
+    "difficulty": 2
+  },
+  {
+    "english": "user story",
+    "vietnamese": "mô tả yêu cầu theo góc nhìn người dùng",
+    "example": "Each user story describes a feature from the user's view.",
+    "difficulty": 2
+  },
+  {
+    "english": "sprint review",
+    "vietnamese": "họp đánh giá cuối chu kỳ",
+    "example": "The sprint review demos completed work to stakeholders.",
+    "difficulty": 2
+  },
+  {
+    "english": "circular",
+    "vietnamese": "thông báo nội bộ",
+    "example": "A circular went out about the office move.",
+    "difficulty": 2
+  },
+  {
+    "english": "escalation",
+    "vietnamese": "đẩy vấn đề lên cấp cao hơn",
+    "example": "File an escalation if the issue is not resolved in 48 hours.",
+    "difficulty": 2
+  },
+  {
+    "english": "touchpoint",
+    "vietnamese": "điểm tương tác với khách hàng",
+    "example": "Map every touchpoint in the customer journey.",
+    "difficulty": 2
+  },
+  {
+    "english": "handoff",
+    "vietnamese": "bàn giao công việc",
+    "example": "Write clear notes for a smooth handoff.",
+    "difficulty": 1
+  },
+  {
+    "english": "alignment",
+    "vietnamese": "sự thống nhất, đồng bộ",
+    "example": "We need alignment between sales and marketing.",
+    "difficulty": 2
+  },
+  {
+    "english": "buy-in",
+    "vietnamese": "sự đồng thuận ủng hộ",
+    "example": "Get executive buy-in before launching the initiative.",
+    "difficulty": 2
+  },
+  {
+    "english": "stakeholder buy-in",
+    "vietnamese": "sự đồng thuận của các bên liên quan",
+    "example": "Stakeholder buy-in is essential for any major change.",
+    "difficulty": 2
+  },
+  {
+    "english": "red flag",
+    "vietnamese": "dấu hiệu cảnh báo rủi ro",
+    "example": "The missed payment is a red flag for the credit team.",
+    "difficulty": 1
+  },
+  {
+    "english": "velocity",
+    "vietnamese": "tốc độ hoàn thành công việc (agile)",
+    "example": "Team velocity has doubled since the reshuffle.",
+    "difficulty": 2
+  },
+  {
+    "english": "in the black",
+    "vietnamese": "có lãi, tài chính dương",
+    "example": "The company is finally in the black after years of losses.",
+    "difficulty": 2
+  },
+  {
+    "english": "in the red",
+    "vietnamese": "thua lỗ, tài chính âm",
+    "example": "Three consecutive quarters in the red worry investors.",
+    "difficulty": 2
+  },
+  {
+    "english": "cut corners",
+    "vietnamese": "làm tắt, cắt giảm chất lượng",
+    "example": "Cutting corners on safety will backfire eventually.",
+    "difficulty": 2
+  },
+  {
+    "english": "think outside the box",
+    "vietnamese": "suy nghĩ đột phá, sáng tạo",
+    "example": "We need to think outside the box to win this market.",
+    "difficulty": 1
+  },
+  {
+    "english": "get the ball rolling",
+    "vietnamese": "bắt đầu, khởi động",
+    "example": "Let us get the ball rolling with a quick intro call.",
+    "difficulty": 1
+  },
+  {
+    "english": "on the back burner",
+    "vietnamese": "gác lại, tạm hoãn",
+    "example": "The expansion plan is on the back burner for now.",
+    "difficulty": 2
+  },
+  {
+    "english": "up in the air",
+    "vietnamese": "chưa quyết, lơ lửng",
+    "example": "The merger is still up in the air.",
+    "difficulty": 1
+  },
+  {
+    "english": "take it offline",
+    "vietnamese": "trao đổi riêng sau cuộc họp",
+    "example": "Let us take this offline and revisit in the next meeting.",
+    "difficulty": 1
+  },
+  {
+    "english": "bandwidth to take on",
+    "vietnamese": "khả năng đảm nhận thêm việc",
+    "example": "I do not have the bandwidth to take on another client.",
+    "difficulty": 2
+  },
+  {
+    "english": "circle back",
+    "vietnamese": "quay lại chủ đề sau",
+    "example": "We will circle back to the budget discussion next week.",
+    "difficulty": 1
+  },
+  {
+    "english": "drill down",
+    "vietnamese": "đào sâu vào chi tiết",
+    "example": "Let us drill down into the numbers behind the trend.",
+    "difficulty": 2
+  },
+  {
+    "english": "hail mary",
+    "vietnamese": "nỗ lực tuyệt vọng cuối cùng",
+    "example": "The last-minute product change was a hail mary.",
+    "difficulty": 3
+  },
+  {
+    "english": "peeling back the onion",
+    "vietnamese": "bóc tách từng lớp vấn đề",
+    "example": "Peeling back the onion revealed deeper structural issues.",
+    "difficulty": 3
+  },
+  {
+    "english": "quick win",
+    "vietnamese": "thắng lợi nhanh, kết quả dễ đạt sớm",
+    "example": "Automating reports is a quick win that saves hours weekly.",
+    "difficulty": 2
+  },
+  {
+    "english": "table a discussion",
+    "vietnamese": "hoãn thảo luận sang lần sau",
+    "example": "Let us table this discussion until the data arrives.",
+    "difficulty": 2
+  },
+  {
+    "english": "double down",
+    "vietnamese": "đặt cược mạnh thêm, tăng cam kết",
+    "example": "They doubled down on the risky acquisition.",
+    "difficulty": 2
+  },
+  {
+    "english": "ledger",
+    "vietnamese": "sổ cái kế toán",
+    "example": "Every transaction is recorded in the general ledger.",
+    "difficulty": 2
+  },
+  {
+    "english": "journal entry",
+    "vietnamese": "bút toán nhật ký",
+    "example": "The accountant posted a journal entry to correct the error.",
+    "difficulty": 3
+  },
+  {
+    "english": "trial balance",
+    "vietnamese": "bảng cân đối thử",
+    "example": "The trial balance must balance before closing the books.",
+    "difficulty": 3
+  },
+  {
+    "english": "double-entry",
+    "vietnamese": "kế toán kép (ghi nợ-có)",
+    "example": "Double-entry bookkeeping records both sides of every transaction.",
+    "difficulty": 3
+  },
+  {
+    "english": "cash basis",
+    "vietnamese": "kế toán cơ sở tiền mặt",
+    "example": "Cash basis records income only when received.",
+    "difficulty": 2
+  },
+  {
+    "english": "accrual basis",
+    "vietnamese": "kế toán dồn tích",
+    "example": "Accrual basis records revenue when earned, not when paid.",
+    "difficulty": 3
+  },
+  {
+    "english": "accounts reconciliation",
+    "vietnamese": "đối chiếu tài khoản",
+    "example": "Monthly accounts reconciliation catches discrepancies early.",
+    "difficulty": 3
+  },
+  {
+    "english": "write-down",
+    "vietnamese": "ghi giảm giá trị tài sản",
+    "example": "The write-down reflected the asset's true market value.",
+    "difficulty": 2
+  },
+  {
+    "english": "cost of goods sold",
+    "vietnamese": "giá vốn hàng bán (COGS)",
+    "example": "Cost of goods sold is subtracted from revenue for gross profit.",
+    "difficulty": 2
+  },
+  {
+    "english": "net loss",
+    "vietnamese": "lỗ ròng",
+    "example": "The startup posted a net loss of two million this year.",
+    "difficulty": 1
+  },
+  {
+    "english": "gross revenue",
+    "vietnamese": "doanh thu gộp",
+    "example": "Gross revenue counts everything before expenses.",
+    "difficulty": 1
+  },
+  {
+    "english": "revenue recognition",
+    "vietnamese": "ghi nhận doanh thu",
+    "example": "Revenue recognition rules determine when sales count.",
+    "difficulty": 3
+  },
+  {
+    "english": "contingent liability",
+    "vietnamese": "khoản nợ tiềm tàng",
+    "example": "The lawsuit is a contingent liability on the books.",
+    "difficulty": 3
+  },
+  {
+    "english": "goodwill impairment",
+    "vietnamese": "suy giảm lợi thế thương mại",
+    "example": "The goodwill impairment wiped a billion off the balance sheet.",
+    "difficulty": 3
+  },
+  {
+    "english": "key account",
+    "vietnamese": "khách hàng chiến lược",
+    "example": "The key account brings in a third of revenue.",
+    "difficulty": 2
+  },
+  {
+    "english": "RFQ",
+    "vietnamese": "yêu cầu báo giá (Request for Quotation)",
+    "example": "The buyer issued an RFQ to three suppliers.",
+    "difficulty": 2
+  },
+  {
+    "english": "RFP",
+    "vietnamese": "yêu cầu đề xuất (Request for Proposal)",
+    "example": "The RFP details every requirement for the project.",
+    "difficulty": 2
+  },
+  {
+    "english": "sales cycle",
+    "vietnamese": "chu kỳ bán hàng",
+    "example": "Enterprise sales cycles can last six months.",
+    "difficulty": 2
+  },
+  {
+    "english": "sales pipeline",
+    "vietnamese": "đường ống cơ hội bán hàng",
+    "example": "The sales pipeline is healthy for next quarter.",
+    "difficulty": 2
+  },
+  {
+    "english": "win rate",
+    "vietnamese": "tỷ lệ chốt thành công",
+    "example": "A thirty percent win rate is strong for enterprise deals.",
+    "difficulty": 2
+  },
+  {
+    "english": "churn rate",
+    "vietnamese": "tỷ lệ khách hàng rời bỏ",
+    "example": "A low churn rate signals a sticky product.",
+    "difficulty": 2
+  },
+  {
+    "english": "contract renewal",
+    "vietnamese": "gia hạn hợp đồng",
+    "example": "The contract renewal is up for negotiation next month.",
+    "difficulty": 1
+  },
+  {
+    "english": "upselling",
+    "vietnamese": "bán thêm gói cao cấp",
+    "example": "Upselling existing customers is cheaper than acquiring new ones.",
+    "difficulty": 2
+  },
+  {
+    "english": "cross-selling",
+    "vietnamese": "bán kèm sản phẩm liên quan",
+    "example": "Cross-selling products boosts the average order value.",
+    "difficulty": 2
+  },
+  {
+    "english": "customer success",
+    "vietnamese": "bộ phận đảm bảo khách hàng thành công với sản phẩm",
+    "example": "Customer success focuses on retention, not just support.",
+    "difficulty": 2
+  },
+  {
+    "english": "churn prevention",
+    "vietnamese": "ngăn chặn khách hàng rời bỏ",
+    "example": "Churn prevention starts with proactive outreach.",
+    "difficulty": 2
+  },
+  {
+    "english": "net promoter score",
+    "vietnamese": "chỉ số NPS (sẵn sàng giới thiệu)",
+    "example": "Net promoter score measures customer loyalty.",
+    "difficulty": 2
+  },
+  {
+    "english": "onboarding specialist",
+    "vietnamese": "chuyên viên hướng dẫn khách mới",
+    "example": "The onboarding specialist set up the account in one call.",
+    "difficulty": 2
+  },
+  {
+    "english": "knowledge base",
+    "vietnamese": "cơ sở kiến thức tự phục vụ",
+    "example": "The knowledge base answers most questions without support.",
+    "difficulty": 2
+  },
+  {
+    "english": "ticket",
+    "vietnamese": "yêu cầu hỗ trợ (support ticket)",
+    "example": "Open a ticket and support will respond within a day.",
+    "difficulty": 1
+  },
+  {
+    "english": "SLA",
+    "vietnamese": "thỏa thuận mức dịch vụ",
+    "example": "The SLA guarantees 99.9 percent uptime.",
+    "difficulty": 2
+  },
+  {
+    "english": "escalation path",
+    "vietnamese": "lộ trình đẩy vấn đề lên",
+    "example": "Know the escalation path when a client is unhappy.",
+    "difficulty": 2
+  },
+  {
+    "english": "strategic planning",
+    "vietnamese": "hoạch định chiến lược",
+    "example": "Strategic planning sets the three-year direction.",
+    "difficulty": 2
+  },
+  {
+    "english": "SWOT analysis",
+    "vietnamese": "phân tích SWOT (điểm mạnh/yếu/cơ hội/nguy cơ)",
+    "example": "A SWOT analysis surfaced an unserved market gap.",
+    "difficulty": 2
+  },
+  {
+    "english": "competitive analysis",
+    "vietnamese": "phân tích cạnh tranh",
+    "example": "Competitive analysis revealed a pricing edge we could exploit.",
+    "difficulty": 2
+  },
+  {
+    "english": "blue ocean",
+    "vietnamese": "đại dương xanh (thị trường chưa cạnh tranh)",
+    "example": "Blue ocean strategy avoids fighting over an existing market.",
+    "difficulty": 3
+  },
+  {
+    "english": "red ocean",
+    "vietnamese": "đại dương đỏ (thị trường cạnh tranh khốc liệt)",
+    "example": "The red ocean of ride-hailing is a price war.",
+    "difficulty": 3
+  },
+  {
+    "english": "market positioning",
+    "vietnamese": "định vị thị trường",
+    "example": "Market positioning decides whether you are premium or budget.",
+    "difficulty": 2
+  },
+  {
+    "english": "product differentiation",
+    "vietnamese": "tạo khác biệt sản phẩm",
+    "example": "Product differentiation is hard to copy — service is not.",
+    "difficulty": 2
+  },
+  {
+    "english": "killer feature",
+    "vietnamese": "tính năng vượt trội quyết định",
+    "example": "The killer feature made the app go viral.",
+    "difficulty": 2
+  },
+  {
+    "english": "barriers to entry",
+    "vietnamese": "rào cản gia nhập thị trường",
+    "example": "High capital costs create barriers to entry.",
+    "difficulty": 3
+  },
+  {
+    "english": "switching cost",
+    "vietnamese": "chi phí chuyển đổi nhà cung cấp",
+    "example": "High switching costs lock customers into a platform.",
+    "difficulty": 2
+  },
+  {
+    "english": "network effect",
+    "vietnamese": "hiệu ứng mạng lưới",
+    "example": "Network effects make a platform more valuable as more people join.",
+    "difficulty": 2
+  },
+  {
+    "english": "flywheel",
+    "vietnamese": "đà tăng trưởng tự củng cố",
+    "example": "Happy customers attract more customers — that is the flywheel.",
+    "difficulty": 3
+  },
+  {
+    "english": "gross merchandise value",
+    "vietnamese": "tổng giá trị hàng hóa (GMV)",
+    "example": "The marketplace's GMV hit a billion this quarter.",
+    "difficulty": 3
+  },
+  {
+    "english": "acquisition cost",
+    "vietnamese": "chi phí thu hút khách hàng",
+    "example": "Rising acquisition cost squeezes margins.",
+    "difficulty": 2
+  },
+  {
+    "english": "lifetime value",
+    "vietnamese": "giá trị trọn đời khách hàng",
+    "example": "Lifetime value must exceed acquisition cost to be viable.",
+    "difficulty": 2
+  },
+  {
+    "english": "cohort analysis",
+    "vietnamese": "phân tích nhóm khách hàng theo thời gian",
+    "example": "Cohort analysis shows month-one retention.",
+    "difficulty": 3
+  },
+  {
+    "english": "retention curve",
+    "vietnamese": "đường cong giữ chân khách hàng",
+    "example": "The retention curve flattens after month three.",
+    "difficulty": 3
+  },
+  {
+    "english": "emotional intelligence",
+    "vietnamese": "trí tuệ cảm xúc trong công việc",
+    "example": "Emotional intelligence matters more than technical skill for managers.",
+    "difficulty": 2
+  },
+  {
+    "english": "coaching",
+    "vietnamese": "huấn luyện, kèm cặp nhân viên",
+    "example": "Coaching develops people instead of just correcting them.",
+    "difficulty": 1
+  },
+  {
+    "english": "mentorship",
+    "vietnamese": "cố vấn, kèm cặp dài hạn",
+    "example": "A mentorship program pairs juniors with senior leaders.",
+    "difficulty": 2
+  },
+  {
+    "english": "empower",
+    "vietnamese": "trao quyền, tạo điều kiện",
+    "example": "Empower your team to make decisions without fear.",
+    "difficulty": 2
+  },
+  {
+    "english": "micromanage",
+    "vietnamese": "quản lý quá sát sao từng chi tiết",
+    "example": "Micromanaging kills initiative and demoralizes the team.",
+    "difficulty": 1
+  },
+  {
+    "english": "delegate tasks",
+    "vietnamese": "ủy thác nhiệm vụ",
+    "example": "Learn to delegate tasks instead of doing everything yourself.",
+    "difficulty": 1
+  },
+  {
+    "english": "lead convincingly",
+    "vietnamese": "lãnh đạo thuyết phục",
+    "example": "She leads convincingly by pairing vision with evidence.",
+    "difficulty": 2
+  },
+  {
+    "english": "stakeholder management",
+    "vietnamese": "quản lý các bên liên quan",
+    "example": "Stakeholder management keeps everyone aligned and informed.",
+    "difficulty": 2
+  },
+  {
+    "english": "influence",
+    "vietnamese": "tầm ảnh hưởng trong tổ chức",
+    "example": "Influence, not authority, gets things done across teams.",
+    "difficulty": 1
+  },
+  {
+    "english": "negotiation skills",
+    "vietnamese": "kỹ năng đàm phán",
+    "example": "Negotiation skills are essential for closing deals.",
+    "difficulty": 1
+  },
+  {
+    "english": "conflict resolution",
+    "vietnamese": "giải quyết xung đột",
+    "example": "Conflict resolution keeps small disagreements from festering.",
+    "difficulty": 2
+  },
+  {
+    "english": "critical thinking",
+    "vietnamese": "tư duy phản biện",
+    "example": "Critical thinking separates signal from noise in data.",
+    "difficulty": 2
+  },
+  {
+    "english": "problem-solving",
+    "vietnamese": "giải quyết vấn đề",
+    "example": "Strong problem-solving skills turn obstacles into opportunities.",
+    "difficulty": 1
+  },
+  {
+    "english": "time management",
+    "vietnamese": "quản lý thời gian",
+    "example": "Time management is deciding what not to do.",
+    "difficulty": 1
+  },
+  {
+    "english": "prioritization",
+    "vietnamese": "xác định ưu tiên công việc",
+    "example": "Prioritization means saying no to good ideas to focus on great ones.",
+    "difficulty": 2
+  },
+  {
+    "english": "adaptability",
+    "vietnamese": "khả năng thích ứng",
+    "example": "Adaptability is the top skill employers now seek.",
+    "difficulty": 2
+  },
+  {
+    "english": "resilience",
+    "vietnamese": "sức bật, khả năng vượt nghịch cảnh",
+    "example": "Resilience helps teams recover from setbacks fast.",
+    "difficulty": 2
+  },
+  {
+    "english": "growth mindset",
+    "vietnamese": "tư duy cầu tiến",
+    "example": "A growth mindset sees failure as feedback, not verdict.",
+    "difficulty": 2
+  },
+  {
+    "english": "accountability partner",
+    "vietnamese": "người giúp bạn giữ trách nhiệm mục tiêu",
+    "example": "An accountability partner keeps you on track with goals.",
+    "difficulty": 2
+  },
+  {
+    "english": "emotional labor",
+    "vietnamese": "lao động cảm xúc (giữ thái độ chuyên nghiệp)",
+    "example": "Customer-facing roles involve heavy emotional labor.",
+    "difficulty": 3
+  },
+  {
+    "english": "burnout prevention",
+    "vietnamese": "phòng tránh kiệt sức",
+    "example": "Burnout prevention requires realistic workloads and breaks.",
+    "difficulty": 2
+  },
+  {
+    "english": "work-life balance",
+    "vietnamese": "cân bằng công việc - cuộc sống",
+    "example": "Work-life balance is a top priority for younger employees.",
+    "difficulty": 1
+  },
+  {
+    "english": "employee engagement",
+    "vietnamese": "mức độ gắn kết của nhân viên",
+    "example": "Employee engagement drives productivity and retention.",
+    "difficulty": 2
+  },
+  {
+    "english": "company culture",
+    "vietnamese": "văn hóa công ty",
+    "example": "A toxic company culture drives talent away.",
+    "difficulty": 1
+  },
+  {
+    "english": "remote work",
+    "vietnamese": "làm việc từ xa",
+    "example": "Remote work demands strong written communication.",
+    "difficulty": 1
+  },
+  {
+    "english": "hybrid work",
+    "vietnamese": "làm việc kết hợp tại văn phòng và từ xa",
+    "example": "Hybrid work splits the week between office and home.",
+    "difficulty": 1
+  },
+  {
+    "english": "four-day workweek",
+    "vietnamese": "tuần làm việc 4 ngày",
+    "example": "The four-day workweek boosted morale and output.",
+    "difficulty": 2
+  },
+  {
+    "english": "unlimited PTO",
+    "vietnamese": "nghỉ phép không giới hạn",
+    "example": "Unlimited PTO works only with a trust-based culture.",
+    "difficulty": 2
+  },
+  {
+    "english": "sabbatical",
+    "vietnamese": "nghỉ phép dài hạn (thường có lương)",
+    "example": "She took a six-month sabbatical to travel.",
+    "difficulty": 2
+  },
+  {
+    "english": "gig economy",
+    "vietnamese": "nền kinh tế việc làm tự do",
+    "example": "The gig economy offers flexibility but little security.",
+    "difficulty": 2
+  },
+  {
+    "english": "freelance platform",
+    "vietnamese": "nền tảng việc tự do",
+    "example": "Freelance platforms connect clients with independent workers.",
+    "difficulty": 2
+  },
+  {
+    "english": "consulting",
+    "vietnamese": "tư vấn doanh nghiệp",
+    "example": "Consulting firms charge premium rates for expert advice.",
+    "difficulty": 1
+  },
+  {
+    "english": "retainer model",
+    "vietnamese": "mô hình phí duy trì hàng tháng",
+    "example": "The retainer model guarantees predictable income.",
+    "difficulty": 2
+  },
+  {
+    "english": "compound annual growth rate",
+    "vietnamese": "tỷ lệ tăng trưởng kép hàng năm (CAGR)",
+    "example": "CAGR smooths growth into a single annual rate.",
+    "difficulty": 3
+  },
+  {
+    "english": "amortize",
+    "vietnamese": "khấu hao dần tài sản vô hình",
+    "example": "Amortize the patent cost over its useful life.",
+    "difficulty": 3
+  },
+  {
+    "english": "capital injection",
+    "vietnamese": "bơm vốn, tăng vốn",
+    "example": "The capital injection rescued the company from bankruptcy.",
+    "difficulty": 2
+  },
+  {
+    "english": "bridge financing",
+    "vietnamese": "vay ngắn hạn bắc cầu",
+    "example": "Bridge financing kept operations running until the Series A.",
+    "difficulty": 3
+  },
+  {
+    "english": "mezzanine financing",
+    "vietnamese": "tài trợ trung gian (nợ kết hợp vốn)",
+    "example": "Mezzanine financing bridges debt and equity.",
+    "difficulty": 3
+  },
+  {
+    "english": "convertible note",
+    "vietnamese": "trái phiếu chuyển đổi thành cổ phần",
+    "example": "A convertible note starts as debt and converts to equity.",
+    "difficulty": 3
+  },
+  {
+    "english": "equity stake",
+    "vietnamese": "phần vốn góp, cổ phần",
+    "example": "They took an equity stake of twenty percent.",
+    "difficulty": 2
+  },
+  {
+    "english": "seed round",
+    "vietnamese": "vòng gọi vốn hạt giống",
+    "example": "The seed round raised a modest two million.",
+    "difficulty": 2
+  },
+  {
+    "english": "Series A",
+    "vietnamese": "vòng gọi vốn Series A",
+    "example": "Series A funding scales a proven product.",
+    "difficulty": 2
+  },
+  {
+    "english": "Series B",
+    "vietnamese": "vòng gọi vốn Series B",
+    "example": "Series B funds aggressive expansion.",
+    "difficulty": 2
+  },
+  {
+    "english": "down round",
+    "vietnamese": "vòng gọi vốn định giá thấp hơn vòng trước",
+    "example": "A down round signals declining investor confidence.",
+    "difficulty": 3
+  },
+  {
+    "english": "pre-money valuation",
+    "vietnamese": "định giá trước khi nhận vốn",
+    "example": "The pre-money valuation was fifty million.",
+    "difficulty": 3
+  },
+  {
+    "english": "post-money valuation",
+    "vietnamese": "định giá sau khi nhận vốn",
+    "example": "Post-money valuation adds the new investment to pre-money.",
+    "difficulty": 3
+  },
+  {
+    "english": "cap table management",
+    "vietnamese": "quản lý bảng phân bổ cổ phần",
+    "example": "Cap table management tracks every share and option.",
+    "difficulty": 3
+  },
+  {
+    "english": "liquidation preference",
+    "vietnamese": "quyền ưu tiên thanh lý (nhà đầu tư)",
+    "example": "The liquidation preference guarantees investors recoup first.",
+    "difficulty": 3
+  },
+  {
+    "english": "vesting schedule",
+    "vietnamese": "lịch trình hưởng quyền cổ phiếu",
+    "example": "The vesting schedule releases shares over four years.",
+    "difficulty": 3
+  },
+  {
+    "english": "cliff",
+    "vietnamese": "mốc thời gian chốt quyền cổ phiếu",
+    "example": "The one-year cliff means no shares vest before twelve months.",
+    "difficulty": 3
+  },
+  {
+    "english": "equity compensation",
+    "vietnamese": "thù lao bằng cổ phần",
+    "example": "Equity compensation aligns employee and company incentives.",
+    "difficulty": 2
+  },
+  {
+    "english": "exit valuation",
+    "vietnamese": "định giá khi thoái vốn",
+    "example": "The exit valuation delivered a tenfold return.",
+    "difficulty": 2
+  },
+  {
+    "english": "run-rate revenue",
+    "vietnamese": "doanh thu ngoại suy theo năm",
+    "example": "Run-rate revenue annualizes the latest month.",
+    "difficulty": 2
+  },
+  {
+    "english": "gross burn",
+    "vietnamese": "mức đốt tiền gộp",
+    "example": "Gross burn tracks total monthly spending.",
+    "difficulty": 2
+  },
+  {
+    "english": "net burn",
+    "vietnamese": "mức đốt tiền ròng",
+    "example": "Net burn subtracts revenue from monthly expenses.",
+    "difficulty": 2
+  },
+  {
+    "english": "brand ambassador",
+    "vietnamese": "đại sứ thương hiệu",
+    "example": "Brand ambassadors spread the word organically.",
+    "difficulty": 2
+  },
+  {
+    "english": "influencer marketing",
+    "vietnamese": "tiếp thị qua người có ảnh hưởng",
+    "example": "Influencer marketing reaches audiences ads cannot.",
+    "difficulty": 2
+  },
+  {
+    "english": "user-generated content",
+    "vietnamese": "nội dung do người dùng tạo (UGC)",
+    "example": "User-generated content builds authentic trust.",
+    "difficulty": 2
+  },
+  {
+    "english": "guerrilla marketing",
+    "vietnamese": "tiếp thị du kích, phi truyền thống",
+    "example": "Guerrilla marketing grabs attention with surprise tactics.",
+    "difficulty": 3
+  },
+  {
+    "english": "viral marketing",
+    "vietnamese": "tiếp thị lan truyền",
+    "example": "Viral marketing spreads through shares, not ad spend.",
+    "difficulty": 2
+  },
+  {
+    "english": "word-of-mouth marketing",
+    "vietnamese": "tiếp thị truyền miệng",
+    "example": "Word-of-mouth marketing is the most trusted channel.",
+    "difficulty": 2
+  },
+  {
+    "english": "email campaign",
+    "vietnamese": "chiến dịch email",
+    "example": "The email campaign lifted opens by forty percent.",
+    "difficulty": 1
+  },
+  {
+    "english": "newsletter",
+    "vietnamese": "bản tin định kỳ",
+    "example": "A weekly newsletter keeps the audience engaged.",
+    "difficulty": 1
+  },
+  {
+    "english": "landing page",
+    "vietnamese": "trang đích (chuyển đổi khách truy cập)",
+    "example": "The landing page converts visitors into signups.",
+    "difficulty": 1
+  },
+  {
+    "english": "call to action",
+    "vietnamese": "nút/lời kêu gọi hành động",
+    "example": "A clear call to action lifts conversions.",
+    "difficulty": 1
+  },
+  {
+    "english": "lead magnet",
+    "vietnamese": "quà tặng để thu thập thông tin khách hàng",
+    "example": "The free ebook is the lead magnet for the campaign.",
+    "difficulty": 2
+  },
+  {
+    "english": "opt-in",
+    "vietnamese": "đăng ký nhận thông tin (tự nguyện)",
+    "example": "An opt-in ensures the contact wants your emails.",
+    "difficulty": 1
+  },
+  {
+    "english": "opt-out",
+    "vietnamese": "hủy đăng ký nhận thông tin",
+    "example": "Every marketing email needs a one-click opt-out.",
+    "difficulty": 1
+  },
+  {
+    "english": "segmentation",
+    "vietnamese": "phân nhóm khách hàng",
+    "example": "Segmentation sends the right message to the right group.",
+    "difficulty": 2
+  },
+  {
+    "english": "personalization",
+    "vietnamese": "cá nhân hóa nội dung",
+    "example": "Personalization lifts engagement dramatically.",
+    "difficulty": 2
+  },
+  {
+    "english": "retargeting",
+    "vietnamese": "nhắm lại khách hàng đã tương tác",
+    "example": "Retargeting shows ads to people who visited but did not buy.",
+    "difficulty": 2
+  },
+  {
+    "english": "churn prediction",
+    "vietnamese": "dự đoán khách hàng sắp rời bỏ",
+    "example": "Churn prediction flags at-risk customers for outreach.",
+    "difficulty": 2
+  },
+  {
+    "english": "last-mile delivery",
+    "vietnamese": "chặng giao hàng cuối cùng",
+    "example": "Last-mile delivery is the costliest leg of shipping.",
+    "difficulty": 2
+  },
+  {
+    "english": "warehouse management",
+    "vietnamese": "quản lý kho",
+    "example": "Warehouse management optimizes picking and packing.",
+    "difficulty": 2
+  },
+  {
+    "english": "order fulfillment",
+    "vietnamese": "hoàn tất đơn hàng từ kho đến tay khách",
+    "example": "Order fulfillment speed drives customer satisfaction.",
+    "difficulty": 2
+  },
+  {
+    "english": "return rate",
+    "vietnamese": "tỷ lệ trả hàng",
+    "example": "A high return rate erodes e-commerce margins.",
+    "difficulty": 2
+  },
+  {
+    "english": "shipping cost",
+    "vietnamese": "chi phí vận chuyển",
+    "example": "Free shipping costs money but boosts conversion.",
+    "difficulty": 1
+  },
+  {
+    "english": "inventory shrinkage",
+    "vietnamese": "hao hụt tồn kho (mất mát, trộm)",
+    "example": "Inventory shrinkage from theft eats into profit.",
+    "difficulty": 3
+  },
+  {
+    "english": "stockout",
+    "vietnamese": "hết hàng trong kho",
+    "example": "A stockout of a bestseller costs lost sales.",
+    "difficulty": 2
+  },
+  {
+    "english": "overstock",
+    "vietnamese": "tồn kho quá nhiều",
+    "example": "Overstock ties up capital in unsold goods.",
+    "difficulty": 2
+  },
+  {
+    "english": "reorder point",
+    "vietnamese": "điểm đặt hàng lại",
+    "example": "Set a reorder point to trigger restocking automatically.",
+    "difficulty": 2
+  },
+  {
+    "english": "safety stock",
+    "vietnamese": "hàng dự trữ an toàn",
+    "example": "Safety stock protects against sudden demand spikes.",
+    "difficulty": 2
+  },
+  {
+    "english": "bulk discount",
+    "vietnamese": "chiết khấu mua số lượng lớn",
+    "example": "A bulk discount lowers the per-unit cost.",
+    "difficulty": 1
+  },
+  {
+    "english": "onboard",
+    "vietnamese": "tiếp nhận (khách/nhân viên mới)",
+    "example": "We onboard new clients within one business day.",
+    "difficulty": 1
+  },
+  {
+    "english": "source",
+    "vietnamese": "tìm nguồn cung cấp",
+    "example": "We source materials from three different suppliers.",
+    "difficulty": 1
+  },
+  {
+    "english": "procure",
+    "vietnamese": "mua sắm, thu mua chính thức",
+    "example": "Procure equipment before the quarter ends.",
+    "difficulty": 2
+  },
+  {
+    "english": "onboard a vendor",
+    "vietnamese": "đưa nhà cung cấp vào hệ thống",
+    "example": "Onboarding a vendor takes a week of paperwork.",
+    "difficulty": 2
+  },
+  {
+    "english": "disburse",
+    "vietnamese": "giải ngân, chi trả",
+    "example": "The grant is disbursed in four installments.",
+    "difficulty": 3
+  },
+  {
+    "english": "accrue",
+    "vietnamese": "tích lũy, dồn lại",
+    "example": "Interest accrues daily on the loan.",
+    "difficulty": 2
+  },
+  {
+    "english": "liquidate",
+    "vietnamese": "thanh lý tài sản",
+    "example": "They liquidated inventory at a loss to raise cash.",
+    "difficulty": 2
+  },
+  {
+    "english": "outsource a function",
+    "vietnamese": "thuê ngoài một bộ phận",
+    "example": "We outsource the payroll function to a specialist.",
+    "difficulty": 2
+  },
+  {
+    "english": "insource",
+    "vietnamese": "đưa công việc về nội bộ",
+    "example": "They insourced IT support to improve control.",
+    "difficulty": 2
+  },
+  {
+    "english": "restructure",
+    "vietnamese": "tái cấu trúc",
+    "example": "The company restructured to cut three departments.",
+    "difficulty": 2
+  },
+  {
+    "english": "spin off",
+    "vietnamese": "tách công ty con độc lập",
+    "example": "They spun off the payments unit into a separate firm.",
+    "difficulty": 2
+  },
+  {
+    "english": "carve out",
+    "vietnamese": "tách một phần doanh nghiệp",
+    "example": "The carve-out sold the non-core division.",
+    "difficulty": 3
+  },
+  {
+    "english": "divest",
+    "vietnamese": "bán bớt tài sản, thoái vốn",
+    "example": "They divested their stake in the struggling subsidiary.",
+    "difficulty": 3
+  },
+  {
+    "english": "acquire",
+    "vietnamese": "mua lại, thâu tóm",
+    "example": "They acquired a rival to expand regionally.",
+    "difficulty": 1
+  },
+  {
+    "english": "merge",
+    "vietnamese": "sáp nhập",
+    "example": "The two banks merged to form a regional giant.",
+    "difficulty": 1
+  },
+  {
+    "english": "integrate",
+    "vietnamese": "hợp nhất, tích hợp sau sáp nhập",
+    "example": "Post-merger, integrating the two cultures is the hard part.",
+    "difficulty": 2
+  },
+  {
+    "english": "streamline",
+    "vietnamese": "tinh gọn quy trình",
+    "example": "Streamline the approval process to cut waste.",
+    "difficulty": 2
+  },
+  {
+    "english": "optimize",
+    "vietnamese": "tối ưu hóa",
+    "example": "Optimize pricing based on demand data.",
+    "difficulty": 1
+  },
+  {
+    "english": "fintech",
+    "vietnamese": "công nghệ tài chính",
+    "example": "Fintech startups disrupt traditional banking.",
+    "difficulty": 1
+  },
+  {
+    "english": "edtech",
+    "vietnamese": "công nghệ giáo dục",
+    "example": "Edtech platforms made learning accessible anywhere.",
+    "difficulty": 2
+  },
+  {
+    "english": "healthtech",
+    "vietnamese": "công nghệ y tế",
+    "example": "Healthtech improves patient care through data.",
+    "difficulty": 2
+  },
+  {
+    "english": "agritech",
+    "vietnamese": "công nghệ nông nghiệp",
+    "example": "Agritech uses sensors to boost crop yields.",
+    "difficulty": 3
+  },
+  {
+    "english": "proptech",
+    "vietnamese": "công nghệ bất động sản",
+    "example": "Proptech simplifies buying and managing property.",
+    "difficulty": 3
+  },
+  {
+    "english": "insurtech",
+    "vietnamese": "công nghệ bảo hiểm",
+    "example": "Insurtech lets you buy a policy in minutes.",
+    "difficulty": 3
+  },
+  {
+    "english": "cleantech",
+    "vietnamese": "công nghệ sạch",
+    "example": "Cleantech companies build renewable energy solutions.",
+    "difficulty": 3
+  },
+  {
+    "english": "manufacturing sector",
+    "vietnamese": "ngành sản xuất",
+    "example": "The manufacturing sector employs millions nationwide.",
+    "difficulty": 1
+  },
+  {
+    "english": "service industry",
+    "vietnamese": "ngành dịch vụ",
+    "example": "The service industry dominates the modern economy.",
+    "difficulty": 1
+  },
+  {
+    "english": "retail sector",
+    "vietnamese": "ngành bán lẻ",
+    "example": "The retail sector is racing to go digital.",
+    "difficulty": 1
+  },
+  {
+    "english": "hospitality",
+    "vietnamese": "ngành khách sạn - nhà hàng",
+    "example": "Hospitality thrives or dies on customer service.",
+    "difficulty": 1
+  },
+  {
+    "english": "logistics sector",
+    "vietnamese": "ngành hậu cần vận chuyển",
+    "example": "The logistics sector boomed with e-commerce.",
+    "difficulty": 2
+  },
+  {
+    "english": "pharmaceutical",
+    "vietnamese": "ngành dược phẩm",
+    "example": "The pharmaceutical industry invests billions in R&D.",
+    "difficulty": 2
+  },
+  {
+    "english": "aerospace",
+    "vietnamese": "ngành hàng không vũ trụ",
+    "example": "Aerospace firms build aircraft and satellites.",
+    "difficulty": 2
+  },
+  {
+    "english": "automotive",
+    "vietnamese": "ngành ô tô",
+    "example": "The automotive industry shifts toward electric vehicles.",
+    "difficulty": 2
+  },
+  {
+    "english": "energy sector",
+    "vietnamese": "ngành năng lượng",
+    "example": "The energy sector moves from oil to renewables.",
+    "difficulty": 1
+  },
+  {
+    "english": "telecommunications",
+    "vietnamese": "ngành viễn thông",
+    "example": "Telecommunications companies race to roll out 5G.",
+    "difficulty": 2
+  },
+  {
+    "english": "media industry",
+    "vietnamese": "ngành truyền thông",
+    "example": "The media industry is being reshaped by streaming.",
+    "difficulty": 1
+  },
+  {
+    "english": "defense industry",
+    "vietnamese": "ngành quốc phòng",
+    "example": "The defense industry supplies governments worldwide.",
+    "difficulty": 2
+  },
+  {
+    "english": "key metric",
+    "vietnamese": "chỉ số then chốt",
+    "example": "Customer lifetime value is our key metric.",
+    "difficulty": 1
+  },
+  {
+    "english": "benchmark against",
+    "vietnamese": "đối chiếu với chuẩn ngành",
+    "example": "Benchmark against competitors to spot gaps.",
+    "difficulty": 2
+  },
+  {
+    "english": "year-over-year",
+    "vietnamese": "so với cùng kỳ năm trước (YoY)",
+    "example": "Revenue grew twenty percent year-over-year.",
+    "difficulty": 2
+  },
+  {
+    "english": "quarter-over-quarter",
+    "vietnamese": "so với quý trước (QoQ)",
+    "example": "Costs fell five percent quarter-over-quarter.",
+    "difficulty": 2
+  },
+  {
+    "english": "month-over-month",
+    "vietnamese": "so với tháng trước (MoM)",
+    "example": "Signups rose steadily month-over-month.",
+    "difficulty": 2
+  },
+  {
+    "english": "trailing twelve months",
+    "vietnamese": "12 tháng gần nhất (TTM)",
+    "example": "The trailing twelve months show steady growth.",
+    "difficulty": 3
+  },
+  {
+    "english": "run-rate",
+    "vietnamese": "tốc độ ngoại suy (doanh thu/tháng × 12)",
+    "example": "The run-rate puts annual revenue near a million.",
+    "difficulty": 2
+  },
+  {
+    "english": "top line",
+    "vietnamese": "doanh thu (dòng trên báo cáo)",
+    "example": "Top line growth matters but so does the bottom line.",
+    "difficulty": 2
+  },
+  {
+    "english": "middle line",
+    "vietnamese": "biên lợi nhuận hoạt động",
+    "example": "The middle line shows operating efficiency.",
+    "difficulty": 2
+  },
+  {
+    "english": "single source of truth",
+    "vietnamese": "nguồn dữ liệu chuẩn duy nhất",
+    "example": "One dashboard should be the single source of truth.",
+    "difficulty": 2
+  },
+  {
+    "english": "data silo",
+    "vietnamese": "kho dữ liệu biệt lập không chia sẻ",
+    "example": "Data silos block a unified view of the customer.",
+    "difficulty": 2
+  },
+  {
+    "english": "data warehouse",
+    "vietnamese": "kho dữ liệu tập trung",
+    "example": "The data warehouse consolidates every source.",
+    "difficulty": 2
+  },
+  {
+    "english": "business intelligence",
+    "vietnamese": "kinh doanh thông minh (BI)",
+    "example": "Business intelligence turns raw data into decisions.",
+    "difficulty": 2
+  },
+  {
+    "english": "forecasting",
+    "vietnamese": "dự báo doanh thu/cầu",
+    "example": "Accurate forecasting prevents overbuying inventory.",
+    "difficulty": 2
+  },
+  {
+    "english": "budget variance",
+    "vietnamese": "chênh lệch so với ngân sách",
+    "example": "Budget variance analysis shows where spending drifted.",
+    "difficulty": 3
+  },
+  {
+    "english": "actuals",
+    "vietnamese": "số liệu thực tế",
+    "example": "Compare forecast against actuals each quarter.",
+    "difficulty": 2
+  },
+  {
+    "english": "white-collar",
+    "vietnamese": "công việc văn phòng",
+    "example": "White-collar jobs dominate the city economy.",
+    "difficulty": 2
+  },
+  {
+    "english": "blue-collar",
+    "vietnamese": "công việc lao động chân tay",
+    "example": "Blue-collar workers keep the supply chain moving.",
+    "difficulty": 2
+  },
+  {
+    "english": "pink-collar",
+    "vietnamese": "công việc chăm sóc/dịch vụ (truyền thống nữ)",
+    "example": "Pink-collar jobs include nursing and teaching.",
+    "difficulty": 3
+  },
+  {
+    "english": "six figures",
+    "vietnamese": "thu nhập sáu chữ số (trăm nghìn đô)",
+    "example": "She crossed into six figures after the promotion.",
+    "difficulty": 1
+  },
+  {
+    "english": "overtime",
+    "vietnamese": "làm thêm giờ",
+    "example": "Unpaid overtime is common in startups.",
+    "difficulty": 1
+  },
+  {
+    "english": "compensation package",
+    "vietnamese": "gói lương thưởng tổng thể",
+    "example": "Consider the whole compensation package, not just salary.",
+    "difficulty": 2
+  },
+  {
+    "english": "signing bonus",
+    "vietnamese": "thưởng ký hợp đồng",
+    "example": "The signing bonus sweetened the job offer.",
+    "difficulty": 2
+  },
+  {
+    "english": "stock options package",
+    "vietnamese": "gói quyền mua cổ phiếu",
+    "example": "The stock options package aligned his interest with the firm.",
+    "difficulty": 2
+  },
+  {
+    "english": "golden parachute",
+    "vietnamese": "gói bồi thường lớn cho lãnh đạo khi rời đi",
+    "example": "The CEO's golden parachute was worth thirty million.",
+    "difficulty": 3
+  },
+  {
+    "english": "severance package",
+    "vietnamese": "gói trợ cấp thôi việc",
+    "example": "The severance package included three months of pay.",
+    "difficulty": 2
+  },
+  {
+    "english": "exit interview",
+    "vietnamese": "phỏng vấn nhân viên nghỉ việc",
+    "example": "The exit interview revealed why people were leaving.",
+    "difficulty": 2
+  },
+  {
+    "english": "retention bonus",
+    "vietnamese": "thưởng giữ chân nhân viên",
+    "example": "The retention bonus kept key staff through the merger.",
+    "difficulty": 2
+  },
+  {
+    "english": "key employee",
+    "vietnamese": "nhân viên then chốt",
+    "example": "Losing a key employee can stall a whole project.",
+    "difficulty": 1
+  },
+  {
+    "english": "headcount",
+    "vietnamese": "số lượng nhân sự",
+    "example": "The hiring freeze froze the headcount at current levels.",
+    "difficulty": 2
+  },
+  {
+    "english": "org chart",
+    "vietnamese": "sơ đồ tổ chức",
+    "example": "The org chart shows who reports to whom.",
+    "difficulty": 1
+  },
+  {
+    "english": "reporting line",
+    "vietnamese": "tuyến báo cáo (quản lý trực tiếp)",
+    "example": "Her reporting line changed after the reorganization.",
+    "difficulty": 2
+  },
+  {
+    "english": "matrix organization",
+    "vietnamese": "tổ chức ma trận (báo cáo nhiều sếp)",
+    "example": "A matrix organization reports to both function and project leads.",
+    "difficulty": 3
+  },
+  {
+    "english": "flat organization",
+    "vietnamese": "tổ chức phẳng (ít cấp quản lý)",
+    "example": "A flat organization removes layers of middle management.",
+    "difficulty": 2
+  },
+  {
+    "english": "top-down",
+    "vietnamese": "ra quyết định từ trên xuống",
+    "example": "Top-down directives can feel disconnected from reality.",
+    "difficulty": 2
+  },
+  {
+    "english": "bottom-up",
+    "vietnamese": "đề xuất từ dưới lên",
+    "example": "Bottom-up input surfaces ground-level insights.",
+    "difficulty": 2
+  },
+  {
+    "english": "consensus-driven",
+    "vietnamese": "theo hướng đồng thuận",
+    "example": "A consensus-driven culture is slow but inclusive.",
+    "difficulty": 2
+  },
+  {
+    "english": "pricing strategy",
+    "vietnamese": "chiến lược định giá",
+    "example": "A pricing strategy balances margin and volume.",
+    "difficulty": 2
+  },
+  {
+    "english": "penetration pricing",
+    "vietnamese": "định giá thâm nhập (giá thấp để chiếm thị trường)",
+    "example": "Penetration pricing undercuts rivals to win share fast.",
+    "difficulty": 3
+  },
+  {
+    "english": "skimming",
+    "vietnamese": "định giá hớt váng (giá cao cho người sẵn sàng trả)",
+    "example": "Price skimming launches high and drops over time.",
+    "difficulty": 3
+  },
+  {
+    "english": "value-based pricing",
+    "vietnamese": "định giá theo giá trị mang lại",
+    "example": "Value-based pricing charges what the outcome is worth.",
+    "difficulty": 2
+  },
+  {
+    "english": "cost-plus pricing",
+    "vietnamese": "định giá cộng chi phí",
+    "example": "Cost-plus pricing adds a fixed markup to cost.",
+    "difficulty": 2
+  },
+  {
+    "english": "dynamic pricing",
+    "vietnamese": "định giá linh hoạt theo cầu",
+    "example": "Dynamic pricing raises fares during peak demand.",
+    "difficulty": 2
+  },
+  {
+    "english": "loss leader",
+    "vietnamese": "sản phẩm bán lỗ để kéo khách",
+    "example": "The cheap milk is a loss leader drawing shoppers in.",
+    "difficulty": 2
+  },
+  {
+    "english": "bundling",
+    "vietnamese": "gói sản phẩm bán chung",
+    "example": "Bundling products lifts the average order value.",
+    "difficulty": 2
+  },
+  {
+    "english": "subscription model",
+    "vietnamese": "mô hình thuê bao",
+    "example": "The subscription model creates predictable revenue.",
+    "difficulty": 1
+  },
+  {
+    "english": "freemium model",
+    "vietnamese": "mô hình miễn phí kèm tính năng trả phí",
+    "example": "The freemium model converts free users to paid plans.",
+    "difficulty": 2
+  },
+  {
+    "english": "paywall",
+    "vietnamese": "tường phí chặn nội dung",
+    "example": "The paywall blocks articles after three free reads.",
+    "difficulty": 2
+  },
+  {
+    "english": "royalty payment",
+    "vietnamese": "trả phí bản quyền",
+    "example": "The author earns royalty payments on every sale.",
+    "difficulty": 2
+  },
+  {
+    "english": "licensing fee",
+    "vietnamese": "phí cấp phép sử dụng",
+    "example": "The licensing fee covers use of the software.",
+    "difficulty": 2
+  },
+  {
+    "english": "retention marketing",
+    "vietnamese": "tiếp thị giữ chân khách hàng",
+    "example": "Retention marketing targets existing customers.",
+    "difficulty": 2
+  },
+  {
+    "english": "acquisition campaign",
+    "vietnamese": "chiến dịch thu hút khách mới",
+    "example": "The acquisition campaign aimed at first-time buyers.",
+    "difficulty": 2
+  },
+  {
+    "english": "referral program",
+    "vietnamese": "chương trình giới thiệu bạn bè",
+    "example": "The referral program rewards users for bringing friends.",
+    "difficulty": 1
+  },
+  {
+    "english": "loyalty points",
+    "vietnamese": "điểm tích lũy khách hàng thân thiết",
+    "example": "Loyalty points keep customers coming back.",
+    "difficulty": 1
+  },
+  {
+    "english": "cashback",
+    "vietnamese": "hoàn tiền khi mua",
+    "example": "The card offers five percent cashback on groceries.",
+    "difficulty": 1
+  },
+  {
+    "english": "promotional offer",
+    "vietnamese": "ưu đãi khuyến mãi",
+    "example": "The promotional offer ends midnight tonight.",
+    "difficulty": 1
+  },
+  {
+    "english": "limited-time offer",
+    "vietnamese": "ưu đãi có thời hạn",
+    "example": "A limited-time offer creates urgency to buy.",
+    "difficulty": 1
+  },
+  {
+    "english": "early-bird discount",
+    "vietnamese": "giảm giá cho người đăng ký sớm",
+    "example": "The early-bird discount ends this week.",
+    "difficulty": 1
+  },
+  {
+    "english": "volume discount",
+    "vietnamese": "chiết khấu theo số lượng",
+    "example": "A volume discount rewards larger orders.",
+    "difficulty": 2
+  },
+  {
+    "english": "trade-in",
+    "vietnamese": "đổi cũ lấy mới",
+    "example": "The trade-in credited the old phone toward the new one.",
+    "difficulty": 1
+  },
+  {
+    "english": "buy now pay later",
+    "vietnamese": "mua trả góp (mua ngay trả sau)",
+    "example": "Buy now, pay later splits the cost into installments.",
+    "difficulty": 2
+  },
+  {
+    "english": "invoice financing",
+    "vietnamese": "tài trợ qua hóa đơn chưa thu",
+    "example": "Invoice financing unlocks cash tied in unpaid invoices.",
+    "difficulty": 3
+  },
+  {
+    "english": "cash conversion cycle",
+    "vietnamese": "chu kỳ chuyển đổi tiền mặt",
+    "example": "A short cash conversion cycle frees up working capital.",
+    "difficulty": 3
+  },
+  {
+    "english": "days sales outstanding",
+    "vietnamese": "số ngày thu hồi công nợ (DSO)",
+    "example": "Lower DSO means cash arrives faster.",
+    "difficulty": 3
+  },
+  {
+    "english": "days payable outstanding",
+    "vietnamese": "số ngày trả nợ nhà cung cấp (DPO)",
+    "example": "A longer DPO keeps cash in the business longer.",
+    "difficulty": 3
+  },
+  {
+    "english": "inventory days",
+    "vietnamese": "số ngày tồn kho",
+    "example": "Lower inventory days mean faster turnover.",
+    "difficulty": 3
+  },
+  {
+    "english": "economic order quantity",
+    "vietnamese": "lượng đặt hàng tối ưu (EOQ)",
+    "example": "EOQ minimizes total ordering and holding costs.",
+    "difficulty": 3
+  },
+  {
+    "english": "break-even analysis",
+    "vietnamese": "phân tích điểm hòa vốn",
+    "example": "Break-even analysis shows how many units to sell to cover costs.",
+    "difficulty": 2
+  },
+  {
+    "english": "contribution margin",
+    "vietnamese": "biên góp (doanh thu trừ biến phí)",
+    "example": "Contribution margin reveals product-level profitability.",
+    "difficulty": 3
+  },
+  {
+    "english": "operating leverage",
+    "vietnamese": "đòn bẩy hoạt động (tỷ trọng định phí)",
+    "example": "High operating leverage magnifies profits in good times.",
+    "difficulty": 3
+  },
+  {
+    "english": "financial leverage",
+    "vietnamese": "đòn bẩy tài chính (dùng nợ)",
+    "example": "Financial leverage amplifies both gains and losses.",
+    "difficulty": 3
+  },
+  {
+    "english": "cost center",
+    "vietnamese": "trung tâm chi phí (bộ phận chỉ chi)",
+    "example": "IT is often seen as a cost center, not revenue.",
+    "difficulty": 2
+  },
+  {
+    "english": "profit center",
+    "vietnamese": "trung tâm lợi nhuận",
+    "example": "Each product line is run as a profit center.",
+    "difficulty": 2
+  },
+  {
+    "english": "make or buy",
+    "vietnamese": "quyết định tự làm hay mua ngoài",
+    "example": "The make-or-buy analysis favored outsourcing.",
+    "difficulty": 2
+  },
+  {
+    "english": "vertical integration",
+    "vietnamese": "tích hợp dọc chuỗi",
+    "example": "Vertical integration controls suppliers and distributors.",
+    "difficulty": 3
+  },
+  {
+    "english": "horizontal integration",
+    "vietnamese": "tích hợp ngang (mua đối thủ)",
+    "example": "Horizontal integration consolidates competitors.",
+    "difficulty": 3
+  },
+  {
+    "english": "synergy effect",
+    "vietnamese": "hiệu ứng cộng hưởng",
+    "example": "The merger promised a synergy effect of cost savings.",
+    "difficulty": 2
+  },
+  {
+    "english": "diseconomies of scale",
+    "vietnamese": "phi kinh tế theo quy mô (quá lớn thành kém hiệu quả)",
+    "example": "Diseconomies of scale set in when the company got too big.",
+    "difficulty": 3
+  },
+  {
+    "english": "network externalities",
+    "vietnamese": "ngoại ứng mạng lưới",
+    "example": "Network externalities make big platforms unstoppable.",
+    "difficulty": 3
+  },
+  {
+    "english": "first mover",
+    "vietnamese": "người tiên phong",
+    "example": "The first mover captured the brand before rivals.",
+    "difficulty": 2
+  },
+  {
+    "english": "fast follower",
+    "vietnamese": "kẻ đi sau nhanh (học từ lỗi của người tiên phong)",
+    "example": "A fast follower copies and improves on the original.",
+    "difficulty": 2
+  },
+  {
+    "english": "disruptor",
+    "vietnamese": "kẻ phá vỡ thị trường",
+    "example": "The disruptor upended an industry with a simpler product.",
+    "difficulty": 2
+  },
+  {
+    "english": "incumbent",
+    "vietnamese": "doanh nghiệp đương nhiệm, lâu đời",
+    "example": "Incumbents struggle to match startup agility.",
+    "difficulty": 2
+  },
+  {
+    "english": "challenger brand",
+    "vietnamese": "thương hiệu thách thức kẻ dẫn đầu",
+    "example": "A challenger brand positions itself against the market leader.",
+    "difficulty": 2
+  },
+  {
+    "english": "market leader",
+    "vietnamese": "doanh nghiệp dẫn đầu thị trường",
+    "example": "The market leader sets the pricing benchmark.",
+    "difficulty": 1
+  },
+  {
+    "english": "market challenger",
+    "vietnamese": "doanh nghiệp thách thức thứ hai",
+    "example": "The market challenger undercuts the leader on price.",
+    "difficulty": 2
+  },
+  {
+    "english": "niche player",
+    "vietnamese": "doanh nghiệp chuyên phân khúc hẹp",
+    "example": "A niche player dominates a small but loyal market.",
+    "difficulty": 2
+  },
+  {
+    "english": "conglomerate",
+    "vietnamese": "tập đoàn đa ngành",
+    "example": "The conglomerate spans media, retail, and finance.",
+    "difficulty": 2
+  },
+  {
+    "english": "multinational",
+    "vietnamese": "công ty đa quốc gia",
+    "example": "The multinational operates in forty countries.",
+    "difficulty": 1
+  },
+  {
+    "english": "SME",
+    "vietnamese": "doanh nghiệp vừa và nhỏ",
+    "example": "SMEs are the backbone of the local economy.",
+    "difficulty": 2
+  },
+  {
+    "english": "sole trader",
+    "vietnamese": "hộ kinh doanh cá thể (Anh)",
+    "example": "A sole trader runs the business as an individual.",
+    "difficulty": 2
+  },
+  {
+    "english": "limited company",
+    "vietnamese": "công ty trách nhiệm hữu hạn",
+    "example": "A limited company separates owner and business assets.",
+    "difficulty": 2
+  },
+  {
+    "english": "public company",
+    "vietnamese": "công ty đại chúng niêm yết",
+    "example": "A public company trades its shares on the exchange.",
+    "difficulty": 2
+  },
+  {
+    "english": "private company",
+    "vietnamese": "công ty tư nhân chưa niêm yết",
+    "example": "A private company has no public shareholders.",
+    "difficulty": 1
+  },
+  {
+    "english": "holding structure",
+    "vietnamese": "cấu trúc công ty mẹ - con",
+    "example": "The holding structure isolates risk in each subsidiary.",
+    "difficulty": 2
+  },
+  {
+    "english": "parent company",
+    "vietnamese": "công ty mẹ",
+    "example": "The parent company owns several subsidiaries.",
+    "difficulty": 1
+  },
+  {
+    "english": "affiliate",
+    "vietnamese": "công ty liên kết",
+    "example": "The affiliate shares branding with its parent.",
+    "difficulty": 2
+  },
+  {
+    "english": "franchise agreement",
+    "vietnamese": "hợp đồng nhượng quyền",
+    "example": "The franchise agreement sets the royalty terms.",
+    "difficulty": 2
+  },
+  {
+    "english": "master franchise",
+    "vietnamese": "quyền nhượng quyền toàn lãnh thổ",
+    "example": "The master franchise covers the whole region.",
+    "difficulty": 3
+  },
+  {
+    "english": "endorsement deal",
+    "vietnamese": "hợp đồng đại diện thương hiệu",
+    "example": "The endorsement deal paired the athlete with the brand.",
+    "difficulty": 2
+  },
+  {
+    "english": "sponsorship",
+    "vietnamese": "tài trợ (đổi lấy quảng bá)",
+    "example": "The sponsorship puts the logo on the stadium.",
+    "difficulty": 1
+  },
+  {
+    "english": "product placement",
+    "vietnamese": "lồng sản phẩm vào nội dung",
+    "example": "Product placement subtly shows the car in the movie.",
+    "difficulty": 2
+  },
+  {
+    "english": "celebrity endorsement",
+    "vietnamese": "người nổi tiếng đại diện thương hiệu",
+    "example": "Celebrity endorsement lifts trust instantly.",
+    "difficulty": 2
+  },
+  {
+    "english": "annual meeting",
+    "vietnamese": "đại hội thường niên",
+    "example": "Shareholders vote at the annual meeting.",
+    "difficulty": 1
+  },
+  {
+    "english": "proxy vote",
+    "vietnamese": "bỏ phiếu ủy quyền",
+    "example": "A proxy vote lets shareholders vote without attending.",
+    "difficulty": 3
+  },
+  {
+    "english": "quorum",
+    "vietnamese": "số đại biểu tối thiểu để họp hợp lệ",
+    "example": "A quorum is required to open the meeting.",
+    "difficulty": 3
+  },
+  {
+    "english": "resolution",
+    "vietnamese": "nghị quyết được thông qua",
+    "example": "The resolution to expand passed unanimously.",
+    "difficulty": 2
+  },
+  {
+    "english": "lieu of notice",
+    "vietnamese": "thay cho báo trước (payment in lieu)",
+    "example": "He received pay in lieu of notice when let go.",
+    "difficulty": 3
   }
 ]
