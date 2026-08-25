@@ -1930,5 +1930,473 @@
     "vietnamese": "truyền miệng",
     "example": "Word of mouth is our best marketing.",
     "difficulty": 2
+  },
+  {
+    "english": "annual general meeting",
+    "vietnamese": "đại hội cổ đông thường niên",
+    "example": "The AGM votes on the board.",
+    "difficulty": 3
+  },
+  {
+    "english": "assemble",
+    "vietnamese": "lắp ráp, tập hợp",
+    "example": "The factory assembles phones.",
+    "difficulty": 2
+  },
+  {
+    "english": "asset allocation",
+    "vietnamese": "phân bổ tài sản",
+    "example": "Asset allocation balances risk and return.",
+    "difficulty": 3
+  },
+  {
+    "english": "automation",
+    "vietnamese": "tự động hóa",
+    "example": "Automation replaced many manual tasks.",
+    "difficulty": 2
+  },
+  {
+    "english": "balance of payments",
+    "vietnamese": "cán cân thanh toán",
+    "example": "The balance of payments swung into deficit.",
+    "difficulty": 3
+  },
+  {
+    "english": "bank loan",
+    "vietnamese": "khoản vay ngân hàng",
+    "example": "They secured a bank loan to expand.",
+    "difficulty": 1
+  },
+  {
+    "english": "bargain",
+    "vietnamese": "món hời, mặc cả",
+    "example": "The merger was a bargain at that price.",
+    "difficulty": 1
+  },
+  {
+    "english": "bear market",
+    "vietnamese": "thị trường giá xuống",
+    "example": "Investors pulled back in the bear market.",
+    "difficulty": 2
+  },
+  {
+    "english": "bill",
+    "vietnamese": "hóa đơn",
+    "example": "Settle the bill by Friday.",
+    "difficulty": 1
+  },
+  {
+    "english": "blue chip",
+    "vietnamese": "cổ phiếu lớn, ổn định",
+    "example": "Blue chip stocks are low risk.",
+    "difficulty": 2
+  },
+  {
+    "english": "book value",
+    "vietnamese": "giá trị sổ sách",
+    "example": "The stock trades below book value.",
+    "difficulty": 3
+  },
+  {
+    "english": "bull market",
+    "vietnamese": "thị trường giá lên",
+    "example": "A bull market lifted all stocks.",
+    "difficulty": 2
+  },
+  {
+    "english": "business model",
+    "vietnamese": "mô hình kinh doanh",
+    "example": "Their business model relies on ads.",
+    "difficulty": 2
+  },
+  {
+    "english": "capital expenditure",
+    "vietnamese": "chi tiêu vốn (CAPEX)",
+    "example": "CAPEX went to new machinery.",
+    "difficulty": 3
+  },
+  {
+    "english": "cash reserve",
+    "vietnamese": "dự trữ tiền mặt",
+    "example": "Cash reserves cushion tough times.",
+    "difficulty": 2
+  },
+  {
+    "english": "chain of command",
+    "vietnamese": "hệ thống cấp bậc",
+    "example": "Follow the chain of command.",
+    "difficulty": 2
+  },
+  {
+    "english": "competitive pricing",
+    "vietnamese": "định giá cạnh tranh",
+    "example": "Competitive pricing won us clients.",
+    "difficulty": 2
+  },
+  {
+    "english": "consumer confidence",
+    "vietnamese": "niềm tin người tiêu dùng",
+    "example": "Consumer confidence is rising.",
+    "difficulty": 2
+  },
+  {
+    "english": "cost analysis",
+    "vietnamese": "phân tích chi phí",
+    "example": "A cost analysis justified the switch.",
+    "difficulty": 2
+  },
+  {
+    "english": "credit line",
+    "vietnamese": "hạn mức tín dụng",
+    "example": "The bank extended our credit line.",
+    "difficulty": 2
+  },
+  {
+    "english": "currency",
+    "vietnamese": "tiền tệ",
+    "example": "The local currency weakened.",
+    "difficulty": 1
+  },
+  {
+    "english": "database",
+    "vietnamese": "cơ sở dữ liệu",
+    "example": "Customer data lives in a database.",
+    "difficulty": 1
+  },
+  {
+    "english": "demand",
+    "vietnamese": "nhu cầu, cầu",
+    "example": "Demand for the product soared.",
+    "difficulty": 1
+  },
+  {
+    "english": "distribution channel",
+    "vietnamese": "kênh phân phối",
+    "example": "We added an online distribution channel.",
+    "difficulty": 2
+  },
+  {
+    "english": "dividend yield",
+    "vietnamese": "tỷ suất cổ tức",
+    "example": "The dividend yield is 4%.",
+    "difficulty": 3
+  },
+  {
+    "english": "economic growth",
+    "vietnamese": "tăng trưởng kinh tế",
+    "example": "Economic growth slowed this quarter.",
+    "difficulty": 2
+  },
+  {
+    "english": "endorsement",
+    "vietnamese": "chứng thực, quảng cáo",
+    "example": "A celebrity endorsement boosted sales.",
+    "difficulty": 2
+  },
+  {
+    "english": "equity financing",
+    "vietnamese": "tài trợ bằng cổ phần",
+    "example": "Equity financing dilutes ownership.",
+    "difficulty": 3
+  },
+  {
+    "english": "exchange",
+    "vietnamese": "trao đổi, sàn giao dịch",
+    "example": "The stock trades on the exchange.",
+    "difficulty": 1
+  },
+  {
+    "english": "fixed cost",
+    "vietnamese": "chi phí cố định",
+    "example": "Rent is a fixed cost.",
+    "difficulty": 1
+  },
+  {
+    "english": "variable cost",
+    "vietnamese": "chi phí biến đổi",
+    "example": "Materials are a variable cost.",
+    "difficulty": 2
+  },
+  {
+    "english": "float",
+    "vietnamese": "IPO, cổ phần lưu hành",
+    "example": "The company floated on the exchange.",
+    "difficulty": 3
+  },
+  {
+    "english": "foreign exchange",
+    "vietnamese": "ngoại hối",
+    "example": "Foreign exchange rates fluctuated.",
+    "difficulty": 2
+  },
+  {
+    "english": "free cash flow",
+    "vietnamese": "dòng tiền tự do",
+    "example": "Free cash flow funds new projects.",
+    "difficulty": 3
+  },
+  {
+    "english": "fundraising",
+    "vietnamese": "gọi vốn",
+    "example": "The fundraising round closed last week.",
+    "difficulty": 2
+  },
+  {
+    "english": "gain",
+    "vietnamese": "lợi nhuận, khoản lãi",
+    "example": "The trade netted a large gain.",
+    "difficulty": 1
+  },
+  {
+    "english": "goodwill",
+    "vietnamese": "lợi thế thương mại",
+    "example": "Goodwill reflects brand value.",
+    "difficulty": 3
+  },
+  {
+    "english": "gross domestic product",
+    "vietnamese": "tổng sản phẩm quốc nội (GDP)",
+    "example": "GDP grew 3% last year.",
+    "difficulty": 2
+  },
+  {
+    "english": "holding company",
+    "vietnamese": "công ty mẹ, holding",
+    "example": "The holding company owns several firms.",
+    "difficulty": 2
+  },
+  {
+    "english": "inflation",
+    "vietnamese": "lạm phát",
+    "example": "Inflation eroded purchasing power.",
+    "difficulty": 2
+  },
+  {
+    "english": "insider trading",
+    "vietnamese": "giao dịch nội gián",
+    "example": "Insider trading is illegal.",
+    "difficulty": 2
+  },
+  {
+    "english": "inventory management",
+    "vietnamese": "quản lý tồn kho",
+    "example": "Good inventory management cuts waste.",
+    "difficulty": 2
+  },
+  {
+    "english": "investor",
+    "vietnamese": "nhà đầu tư",
+    "example": "Investors backed the new venture.",
+    "difficulty": 1
+  },
+  {
+    "english": "kPI",
+    "vietnamese": "chỉ số hiệu suất (KPI)",
+    "example": "Track your KPIs monthly.",
+    "difficulty": 2
+  },
+  {
+    "english": "labor cost",
+    "vietnamese": "chi phí nhân công",
+    "example": "Labor costs rose after the wage hike.",
+    "difficulty": 2
+  },
+  {
+    "english": "legal entity",
+    "vietnamese": "pháp nhân",
+    "example": "Register a legal entity for the branch.",
+    "difficulty": 3
+  },
+  {
+    "english": "line of credit",
+    "vietnamese": "hạn mức tín dụng",
+    "example": "We tapped our line of credit.",
+    "difficulty": 2
+  },
+  {
+    "english": "listing",
+    "vietnamese": "niêm yết chứng khoán",
+    "example": "The listing raised fresh capital.",
+    "difficulty": 2
+  },
+  {
+    "english": "loss",
+    "vietnamese": "khoản lỗ",
+    "example": "The quarter ended in a loss.",
+    "difficulty": 1
+  },
+  {
+    "english": "macroeconomic",
+    "vietnamese": "kinh tế vĩ mô",
+    "example": "Macroeconomic trends affect demand.",
+    "difficulty": 3
+  },
+  {
+    "english": "management",
+    "vietnamese": "quản lý, ban quản trị",
+    "example": "Management approved the plan.",
+    "difficulty": 1
+  },
+  {
+    "english": "market research firm",
+    "vietnamese": "công ty nghiên cứu thị trường",
+    "example": "A market research firm ran the survey.",
+    "difficulty": 2
+  },
+  {
+    "english": "market saturation",
+    "vietnamese": "bão hòa thị trường",
+    "example": "Market saturation limits growth.",
+    "difficulty": 3
+  },
+  {
+    "english": "minimum order quantity",
+    "vietnamese": "số lượng đặt tối thiểu",
+    "example": "The MOQ is 500 units.",
+    "difficulty": 3
+  },
+  {
+    "english": "mutual fund",
+    "vietnamese": "quỹ tương hỗ",
+    "example": "Mutual funds pool investor money.",
+    "difficulty": 2
+  },
+  {
+    "english": "net worth",
+    "vietnamese": "giá trị tài sản ròng",
+    "example": "His net worth topped a million.",
+    "difficulty": 2
+  },
+  {
+    "english": "operating income",
+    "vietnamese": "thu nhập hoạt động",
+    "example": "Operating income rose 12%.",
+    "difficulty": 2
+  },
+  {
+    "english": "organizational chart",
+    "vietnamese": "sơ đồ tổ chức",
+    "example": "The org chart shows reporting lines.",
+    "difficulty": 2
+  },
+  {
+    "english": "ownership",
+    "vietnamese": "quyền sở hữu",
+    "example": "Ownership of the land is disputed.",
+    "difficulty": 2
+  },
+  {
+    "english": "pension fund",
+    "vietnamese": "quỹ hưu trí",
+    "example": "Pension funds invest long-term.",
+    "difficulty": 2
+  },
+  {
+    "english": "price war",
+    "vietnamese": "cuộc chiến giá",
+    "example": "A price war hurt profit margins.",
+    "difficulty": 2
+  },
+  {
+    "english": "principle",
+    "vietnamese": "tiền gốc, nguyên tắc",
+    "example": "The loan principal is due next year.",
+    "difficulty": 2
+  },
+  {
+    "english": "pro forma",
+    "vietnamese": "dự kiến, dự toán",
+    "example": "Review the pro forma financials.",
+    "difficulty": 3
+  },
+  {
+    "english": "production line",
+    "vietnamese": "dây chuyền sản xuất",
+    "example": "The production line runs all day.",
+    "difficulty": 2
+  },
+  {
+    "english": "profit and loss",
+    "vietnamese": "lãi lỗ",
+    "example": "The P&L shows a healthy profit.",
+    "difficulty": 2
+  },
+  {
+    "english": "raw material",
+    "vietnamese": "nguyên liệu thô",
+    "example": "Raw material prices climbed.",
+    "difficulty": 1
+  },
+  {
+    "english": "rebate",
+    "vietnamese": "khoản hoàn lại",
+    "example": "Suppliers offered a volume rebate.",
+    "difficulty": 3
+  },
+  {
+    "english": "record",
+    "vietnamese": "hồ sơ, kỷ lục",
+    "example": "Sales hit a record high.",
+    "difficulty": 1
+  },
+  {
+    "english": "recovery",
+    "vietnamese": "sự phục hồi",
+    "example": "The market showed signs of recovery.",
+    "difficulty": 2
+  },
+  {
+    "english": "regulation",
+    "vietnamese": "quy định",
+    "example": "New regulations raise compliance costs.",
+    "difficulty": 2
+  },
+  {
+    "english": "restructuring",
+    "vietnamese": "tái cơ cấu",
+    "example": "The firm is restructuring its debt.",
+    "difficulty": 3
+  },
+  {
+    "english": "return on equity",
+    "vietnamese": "tỷ suất lợi nhuận trên vốn (ROE)",
+    "example": "ROE measures shareholder returns.",
+    "difficulty": 3
+  },
+  {
+    "english": "risk management",
+    "vietnamese": "quản trị rủi ro",
+    "example": "Risk management prevents big losses.",
+    "difficulty": 2
+  },
+  {
+    "english": "sales volume",
+    "vietnamese": "khối lượng bán",
+    "example": "Sales volume doubled in June.",
+    "difficulty": 2
+  },
+  {
+    "english": "sector",
+    "vietnamese": "ngành, khu vực",
+    "example": "The tech sector is booming.",
+    "difficulty": 1
+  },
+  {
+    "english": "sell-off",
+    "vietnamese": "bán tháo",
+    "example": "The sell-off wiped out gains.",
+    "difficulty": 2
+  },
+  {
+    "english": "shareholder meeting",
+    "vietnamese": "họp cổ đông",
+    "example": "The shareholder meeting is next month.",
+    "difficulty": 2
+  },
+  {
+    "english": "sole proprietorship",
+    "vietnamese": "doanh nghiệp tư nhân",
+    "example": "He runs a sole proprietorship.",
+    "difficulty": 3
   }
 ]

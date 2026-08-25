@@ -1810,5 +1810,587 @@
     "vietnamese": "trích dẫn",
     "example": "He quoted a famous poet.",
     "difficulty": 1
+  },
+  {
+    "english": "acquaintance",
+    "vietnamese": "người quen sơ",
+    "example": "She's only an acquaintance, not a close friend.",
+    "difficulty": 2
+  },
+  {
+    "english": "closeness",
+    "vietnamese": "sự gần gũi, thân thiết",
+    "example": "Years of friendship created real closeness.",
+    "difficulty": 2
+  },
+  {
+    "english": "companion",
+    "vietnamese": "bạn đồng hành",
+    "example": "My dog is my constant companion.",
+    "difficulty": 2
+  },
+  {
+    "english": "confidant",
+    "vietnamese": "người tâm giao",
+    "example": "He's my confidant - I tell him everything.",
+    "difficulty": 3
+  },
+  {
+    "english": "courtship",
+    "vietnamese": "tán tỉnh, theo đuổi",
+    "example": "Their courtship lasted two years.",
+    "difficulty": 3
+  },
+  {
+    "english": "crush",
+    "vietnamese": "thích thầm",
+    "example": "She has a crush on her classmate.",
+    "difficulty": 1
+  },
+  {
+    "english": "date",
+    "vietnamese": "hẹn hò",
+    "example": "They went on their first date.",
+    "difficulty": 1
+  },
+  {
+    "english": "engagement",
+    "vietnamese": "đính hôn",
+    "example": "They announced their engagement.",
+    "difficulty": 2
+  },
+  {
+    "english": "fiancé",
+    "vietnamese": "chồng sắp cưới",
+    "example": "Her fiancé is a doctor.",
+    "difficulty": 2
+  },
+  {
+    "english": "flirt",
+    "vietnamese": "tán tỉnh, thả thính",
+    "example": "He likes to flirt at parties.",
+    "difficulty": 1
+  },
+  {
+    "english": "friend",
+    "vietnamese": "bạn bè",
+    "example": "A good friend listens without judging.",
+    "difficulty": 1
+  },
+  {
+    "english": "friendship",
+    "vietnamese": "tình bạn",
+    "example": "Their friendship lasted a lifetime.",
+    "difficulty": 1
+  },
+  {
+    "english": "kinship",
+    "vietnamese": "tình thân, họ hàng",
+    "example": "They felt an instant kinship.",
+    "difficulty": 3
+  },
+  {
+    "english": "mate",
+    "vietnamese": "bạn, đồng nghiệp",
+    "example": "He's my old school mate.",
+    "difficulty": 1
+  },
+  {
+    "english": "partnership",
+    "vietnamese": "mối quan hệ đối tác",
+    "example": "Marriage is a lifelong partnership.",
+    "difficulty": 2
+  },
+  {
+    "english": "relationship",
+    "vietnamese": "mối quan hệ",
+    "example": "They have a healthy relationship.",
+    "difficulty": 1
+  },
+  {
+    "english": "romance",
+    "vietnamese": "sự lãng mạn",
+    "example": "The novel is a classic romance.",
+    "difficulty": 2
+  },
+  {
+    "english": "soulmate",
+    "vietnamese": "bạn đời tâm giao",
+    "example": "She believes he's her soulmate.",
+    "difficulty": 2
+  },
+  {
+    "english": "companionship",
+    "vietnamese": "sự bầu bạn",
+    "example": "Pets offer simple companionship.",
+    "difficulty": 3
+  },
+  {
+    "english": "fellowship",
+    "vietnamese": "tình đồng đội",
+    "example": "The team shared a sense of fellowship.",
+    "difficulty": 3
+  },
+  {
+    "english": "antipathy",
+    "vietnamese": "sự ác cảm",
+    "example": "There's mutual antipathy between them.",
+    "difficulty": 3
+  },
+  {
+    "english": "hatred",
+    "vietnamese": "lòng căm ghét",
+    "example": "Hatred only breeds more hatred.",
+    "difficulty": 2
+  },
+  {
+    "english": "devotion",
+    "vietnamese": "sự tận tụy",
+    "example": "His devotion to his wife never wavered.",
+    "difficulty": 2
+  },
+  {
+    "english": "admiration",
+    "vietnamese": "sự ngưỡng mộ",
+    "example": "I have great admiration for her courage.",
+    "difficulty": 2
+  },
+  {
+    "english": "betrayal",
+    "vietnamese": "sự phản bội",
+    "example": "The betrayal hurt more than the loss.",
+    "difficulty": 2
+  },
+  {
+    "english": "forgiveness",
+    "vietnamese": "sự tha thứ",
+    "example": "Forgiveness sets you free.",
+    "difficulty": 2
+  },
+  {
+    "english": "reconciliation",
+    "vietnamese": "sự hòa giải",
+    "example": "Peace talks led to reconciliation.",
+    "difficulty": 3
+  },
+  {
+    "english": "jealousy",
+    "vietnamese": "sự ghen tuông",
+    "example": "Jealousy can destroy trust.",
+    "difficulty": 2
+  },
+  {
+    "english": "cherish",
+    "vietnamese": "nâng niu, trân trọng",
+    "example": "He cherishes the moments with his kids.",
+    "difficulty": 2
+  },
+  {
+    "english": "treasure",
+    "vietnamese": "quý trọng",
+    "example": "I treasure our friendship.",
+    "difficulty": 2
+  },
+  {
+    "english": "value",
+    "vietnamese": "coi trọng",
+    "example": "I value your honest opinion.",
+    "difficulty": 1
+  },
+  {
+    "english": "honor",
+    "vietnamese": "vinh dự, tôn kính",
+    "example": "It's an honor to meet you.",
+    "difficulty": 1
+  },
+  {
+    "english": "gratitude",
+    "vietnamese": "lòng biết ơn",
+    "example": "She expressed her gratitude in a letter.",
+    "difficulty": 2
+  },
+  {
+    "english": "thankful",
+    "vietnamese": "biết ơn",
+    "example": "I'm thankful for every opportunity.",
+    "difficulty": 1
+  },
+  {
+    "english": "criticism",
+    "vietnamese": "sự chỉ trích",
+    "example": "Constructive criticism helps you grow.",
+    "difficulty": 2
+  },
+  {
+    "english": "blame",
+    "vietnamese": "đổ lỗi, trách",
+    "example": "Don't blame others for your mistakes.",
+    "difficulty": 1
+  },
+  {
+    "english": "accuse",
+    "vietnamese": "buộc tội",
+    "example": "They accused him of cheating.",
+    "difficulty": 2
+  },
+  {
+    "english": "defend",
+    "vietnamese": "bào chữa, bảo vệ",
+    "example": "She defended her decision firmly.",
+    "difficulty": 1
+  },
+  {
+    "english": "justify",
+    "vietnamese": "biện minh",
+    "example": "He tried to justify his actions.",
+    "difficulty": 2
+  },
+  {
+    "english": "excuse",
+    "vietnamese": "cái cớ, bào chữa",
+    "example": "That's just an excuse for laziness.",
+    "difficulty": 1
+  },
+  {
+    "english": "entrust",
+    "vietnamese": "giao phó",
+    "example": "I entrusted the task to my assistant.",
+    "difficulty": 3
+  },
+  {
+    "english": "confide",
+    "vietnamese": "tâm sự, thổ lộ",
+    "example": "She confided her fears to me.",
+    "difficulty": 3
+  },
+  {
+    "english": "unveil",
+    "vietnamese": "công bố, hé lộ",
+    "example": "The company unveiled its new logo.",
+    "difficulty": 3
+  },
+  {
+    "english": "announce",
+    "vietnamese": "thông báo",
+    "example": "They announced their engagement.",
+    "difficulty": 1
+  },
+  {
+    "english": "declare",
+    "vietnamese": "tuyên bố",
+    "example": "He declared his love for her.",
+    "difficulty": 2
+  },
+  {
+    "english": "proclaim",
+    "vietnamese": "tuyên cáo, long trọng tuyên bố",
+    "example": "The king proclaimed a holiday.",
+    "difficulty": 3
+  },
+  {
+    "english": "utter",
+    "vietnamese": "thốt ra",
+    "example": "He uttered not a single word.",
+    "difficulty": 2
+  },
+  {
+    "english": "state",
+    "vietnamese": "phát biểu, nêu ra",
+    "example": "She stated her position clearly.",
+    "difficulty": 1
+  },
+  {
+    "english": "sidestep",
+    "vietnamese": "né tránh",
+    "example": "He sidestepped the difficult question.",
+    "difficulty": 3
+  },
+  {
+    "english": "evade",
+    "vietnamese": "lảng tránh",
+    "example": "Stop evading the real issue.",
+    "difficulty": 3
+  },
+  {
+    "english": "dodge",
+    "vietnamese": "né tránh",
+    "example": "He dodged every question about money.",
+    "difficulty": 2
+  },
+  {
+    "english": "allude",
+    "vietnamese": "ám chỉ gián tiếp",
+    "example": "He alluded to problems at work.",
+    "difficulty": 3
+  },
+  {
+    "english": "elaborate",
+    "vietnamese": "giải thích chi tiết",
+    "example": "Could you elaborate on that point?",
+    "difficulty": 2
+  },
+  {
+    "english": "specify",
+    "vietnamese": "nêu rõ",
+    "example": "Please specify your requirements.",
+    "difficulty": 2
+  },
+  {
+    "english": "define",
+    "vietnamese": "định nghĩa",
+    "example": "Define the problem before solving it.",
+    "difficulty": 1
+  },
+  {
+    "english": "describe",
+    "vietnamese": "mô tả",
+    "example": "Describe what you saw.",
+    "difficulty": 1
+  },
+  {
+    "english": "illustrate",
+    "vietnamese": "minh họa",
+    "example": "Let me illustrate with an example.",
+    "difficulty": 2
+  },
+  {
+    "english": "demonstrate",
+    "vietnamese": "chứng minh, minh họa",
+    "example": "He demonstrated how it works.",
+    "difficulty": 2
+  },
+  {
+    "english": "emphasize",
+    "vietnamese": "nhấn mạnh",
+    "example": "She emphasized the importance of honesty.",
+    "difficulty": 2
+  },
+  {
+    "english": "highlight",
+    "vietnamese": "làm nổi bật, nhấn mạnh",
+    "example": "The report highlights key risks.",
+    "difficulty": 1
+  },
+  {
+    "english": "underline",
+    "vietnamese": "nhấn mạnh",
+    "example": "This case underlines the need for change.",
+    "difficulty": 2
+  },
+  {
+    "english": "stress",
+    "vietnamese": "nhấn mạnh",
+    "example": "I cannot stress this enough.",
+    "difficulty": 1
+  },
+  {
+    "english": "reiterate",
+    "vietnamese": "nhắc lại",
+    "example": "Let me reiterate my main point.",
+    "difficulty": 3
+  },
+  {
+    "english": "restate",
+    "vietnamese": "trình bày lại",
+    "example": "Restate the question in your own words.",
+    "difficulty": 2
+  },
+  {
+    "english": "paraphrase",
+    "vietnamese": "diễn giải lại",
+    "example": "Paraphrase the paragraph for me.",
+    "difficulty": 3
+  },
+  {
+    "english": "opine",
+    "vietnamese": "nêu ý kiến (trang trọng)",
+    "example": "He opined that the plan was doomed.",
+    "difficulty": 3
+  },
+  {
+    "english": "remark",
+    "vietnamese": "nhận xét",
+    "example": "She made a remark about my hair.",
+    "difficulty": 2
+  },
+  {
+    "english": "observe",
+    "vietnamese": "quan sát, nhận xét",
+    "example": "He observed that sales were slowing.",
+    "difficulty": 1
+  },
+  {
+    "english": "note",
+    "vietnamese": "ghi chú, lưu ý",
+    "example": "Note the change in schedule.",
+    "difficulty": 1
+  },
+  {
+    "english": "comment",
+    "vietnamese": "bình luận",
+    "example": "Feel free to comment on the draft.",
+    "difficulty": 1
+  },
+  {
+    "english": "express",
+    "vietnamese": "bày tỏ",
+    "example": "Express your ideas clearly.",
+    "difficulty": 1
+  },
+  {
+    "english": "voice",
+    "vietnamese": "nói lên, bày tỏ",
+    "example": "She voiced her concerns at the meeting.",
+    "difficulty": 2
+  },
+  {
+    "english": "whine",
+    "vietnamese": "than vãn",
+    "example": "Stop whining and do something.",
+    "difficulty": 2
+  },
+  {
+    "english": "complain",
+    "vietnamese": "phàn nàn",
+    "example": "He always complains about the weather.",
+    "difficulty": 1
+  },
+  {
+    "english": "grumble",
+    "vietnamese": "càu nhàu",
+    "example": "She grumbled about the long wait.",
+    "difficulty": 2
+  },
+  {
+    "english": "remarks",
+    "vietnamese": "lời phát biểu",
+    "example": "His opening remarks set the tone.",
+    "difficulty": 2
+  },
+  {
+    "english": "testimony",
+    "vietnamese": "lời khai, lời chứng",
+    "example": "The witness gave testimony in court.",
+    "difficulty": 3
+  },
+  {
+    "english": "confession",
+    "vietnamese": "lời thú nhận",
+    "example": "His confession shocked everyone.",
+    "difficulty": 2
+  },
+  {
+    "english": "disclosure",
+    "vietnamese": "sự tiết lộ",
+    "example": "Full disclosure is required here.",
+    "difficulty": 3
+  },
+  {
+    "english": "revelation",
+    "vietnamese": "sự tiết lộ bất ngờ",
+    "example": "The revelation changed everything.",
+    "difficulty": 2
+  },
+  {
+    "english": "pleasantries",
+    "vietnamese": "lời xã giao lịch sự",
+    "example": "We exchanged pleasantries before the meeting.",
+    "difficulty": 3
+  },
+  {
+    "english": "greeting",
+    "vietnamese": "lời chào",
+    "example": "A warm greeting makes guests welcome.",
+    "difficulty": 1
+  },
+  {
+    "english": "farewell",
+    "vietnamese": "lời chào tạm biệt",
+    "example": "They said an emotional farewell.",
+    "difficulty": 2
+  },
+  {
+    "english": "salutation",
+    "vietnamese": "lời chào mở đầu",
+    "example": "Start the email with a proper salutation.",
+    "difficulty": 3
+  },
+  {
+    "english": "pleasantry",
+    "vietnamese": "lời xã giao",
+    "example": "They traded pleasantries for a while.",
+    "difficulty": 3
+  },
+  {
+    "english": "etiquette",
+    "vietnamese": "phép tắc giao tiếp",
+    "example": "Email etiquette matters at work.",
+    "difficulty": 2
+  },
+  {
+    "english": "courtesy",
+    "vietnamese": "sự lịch sự",
+    "example": "Replying promptly is common courtesy.",
+    "difficulty": 2
+  },
+  {
+    "english": "decorum",
+    "vietnamese": "phép lịch sự, nghi thức",
+    "example": "Maintain decorum at the formal dinner.",
+    "difficulty": 3
+  },
+  {
+    "english": "protocol",
+    "vietnamese": "nghi thức, quy trình",
+    "example": "Diplomats follow strict protocol.",
+    "difficulty": 3
+  },
+  {
+    "english": "formality",
+    "vietnamese": "tính trang trọng",
+    "example": "The interview had an air of formality.",
+    "difficulty": 2
+  },
+  {
+    "english": "informal",
+    "vietnamese": "thân mật, không trang trọng",
+    "example": "The meeting had an informal tone.",
+    "difficulty": 1
+  },
+  {
+    "english": "tone",
+    "vietnamese": "giọng điệu",
+    "example": "Watch your tone when you speak.",
+    "difficulty": 1
+  },
+  {
+    "english": "register",
+    "vietnamese": "mức độ trang trọng của ngôn ngữ",
+    "example": "Adjust your register to the audience.",
+    "difficulty": 3
+  },
+  {
+    "english": "pitch",
+    "vietnamese": "cao độ giọng nói",
+    "example": "Her pitch rose when she got excited.",
+    "difficulty": 2
+  },
+  {
+    "english": "volume",
+    "vietnamese": "âm lượng",
+    "example": "Lower your volume in the library.",
+    "difficulty": 1
+  },
+  {
+    "english": "pace",
+    "vietnamese": "nhịp nói",
+    "example": "Slow your pace when explaining.",
+    "difficulty": 1
+  },
+  {
+    "english": "lisp",
+    "vietnamese": "nói ngọng âm s",
+    "example": "She has a slight lisp.",
+    "difficulty": 3
   }
 ]
