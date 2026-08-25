@@ -598,5 +598,617 @@
     "vietnamese": "mở hành lý, dỡ đồ",
     "example": "I will unpack after I take a shower.",
     "difficulty": 1
+  },
+  {
+    "english": "checked baggage",
+    "vietnamese": "hành lý ký gửi",
+    "example": "Checked baggage is limited to 23kg.",
+    "difficulty": 1
+  },
+  {
+    "english": "customs declaration",
+    "vietnamese": "tờ khai hải quan",
+    "example": "Fill out the customs declaration form.",
+    "difficulty": 2
+  },
+  {
+    "english": "runway",
+    "vietnamese": "đường băng",
+    "example": "The plane taxied down the runway.",
+    "difficulty": 1
+  },
+  {
+    "english": "red-eye flight",
+    "vietnamese": "chuyến bay đêm",
+    "example": "We took a red-eye flight to save money.",
+    "difficulty": 2
+  },
+  {
+    "english": "domestic flight",
+    "vietnamese": "chuyến bay nội địa",
+    "example": "Domestic flights are usually shorter.",
+    "difficulty": 1
+  },
+  {
+    "english": "international flight",
+    "vietnamese": "chuyến bay quốc tế",
+    "example": "International flights need a passport.",
+    "difficulty": 1
+  },
+  {
+    "english": "business class",
+    "vietnamese": "hạng thương gia",
+    "example": "Business class seats recline fully.",
+    "difficulty": 1
+  },
+  {
+    "english": "passport",
+    "vietnamese": "hộ chiếu",
+    "example": "Your passport expires next month.",
+    "difficulty": 1
+  },
+  {
+    "english": "consulate",
+    "vietnamese": "lãnh sự quán",
+    "example": "The consulate issues travel visas.",
+    "difficulty": 2
+  },
+  {
+    "english": "travel insurance",
+    "vietnamese": "bảo hiểm du lịch",
+    "example": "Travel insurance covered my hospital bill.",
+    "difficulty": 1
+  },
+  {
+    "english": "local currency",
+    "vietnamese": "tiền địa phương",
+    "example": "Carry some local currency in cash.",
+    "difficulty": 1
+  },
+  {
+    "english": "withdrawal",
+    "vietnamese": "rút tiền",
+    "example": "There's a small fee per ATM withdrawal.",
+    "difficulty": 2
+  },
+  {
+    "english": "check-in",
+    "vietnamese": "nhận phòng",
+    "example": "Check-in starts at 2 PM.",
+    "difficulty": 1
+  },
+  {
+    "english": "check-out",
+    "vietnamese": "trả phòng",
+    "example": "Check-out is at 11 AM.",
+    "difficulty": 1
+  },
+  {
+    "english": "hiking",
+    "vietnamese": "đi bộ đường dài",
+    "example": "We went hiking in the national park.",
+    "difficulty": 1
+  },
+  {
+    "english": "trekking",
+    "vietnamese": "trekking, leo đường trường",
+    "example": "Trekking the hills took three days.",
+    "difficulty": 2
+  },
+  {
+    "english": "backpacking",
+    "vietnamese": "du lịch bụi",
+    "example": "Backpacking is cheap but tiring.",
+    "difficulty": 1
+  },
+  {
+    "english": "journey",
+    "vietnamese": "hành trình",
+    "example": "The journey was long but worth it.",
+    "difficulty": 1
+  },
+  {
+    "english": "adventure",
+    "vietnamese": "cuộc phiêu lưu",
+    "example": "Traveling alone was a real adventure.",
+    "difficulty": 1
+  },
+  {
+    "english": "culture shock",
+    "vietnamese": "sốc văn hóa",
+    "example": "He experienced culture shock in Japan.",
+    "difficulty": 2
+  },
+  {
+    "english": "etiquette",
+    "vietnamese": "nghi thức, phép lịch sự",
+    "example": "Learning local etiquette shows respect.",
+    "difficulty": 2
+  },
+  {
+    "english": "custom",
+    "vietnamese": "phong tục",
+    "example": "Respect the local customs.",
+    "difficulty": 1
+  },
+  {
+    "english": "tradition",
+    "vietnamese": "truyền thống",
+    "example": "The festival is an ancient tradition.",
+    "difficulty": 1
+  },
+  {
+    "english": "tip",
+    "vietnamese": "tiền boa",
+    "example": "Tipping is expected in the US.",
+    "difficulty": 1
+  },
+  {
+    "english": "one-way ticket",
+    "vietnamese": "vé một chiều",
+    "example": "I need a one-way ticket to London.",
+    "difficulty": 1
+  },
+  {
+    "english": "delay",
+    "vietnamese": "hoãn, chậm trễ",
+    "example": "The flight was delayed by two hours.",
+    "difficulty": 1
+  },
+  {
+    "english": "breathtaking",
+    "vietnamese": "ngoạn mục, đẹp ngỡ ngàng",
+    "example": "The view from the summit was breathtaking.",
+    "difficulty": 2
+  },
+  {
+    "english": "stunning",
+    "vietnamese": "tuyệt đẹp, lộng lẫy",
+    "example": "The beach had stunning turquoise water.",
+    "difficulty": 1
+  },
+  {
+    "english": "remote",
+    "vietnamese": "hẻo lánh, xa xôi",
+    "example": "They live in a remote mountain village.",
+    "difficulty": 1
+  },
+  {
+    "english": "outskirts",
+    "vietnamese": "vùng ngoại ô",
+    "example": "The airport is on the outskirts of town.",
+    "difficulty": 2
+  },
+  {
+    "english": "downtown",
+    "vietnamese": "trung tâm thành phố",
+    "example": "We stayed downtown near the sights.",
+    "difficulty": 1
+  },
+  {
+    "english": "public transport",
+    "vietnamese": "giao thông công cộng",
+    "example": "Public transport is cheap and efficient here.",
+    "difficulty": 1
+  },
+  {
+    "english": "rent a car",
+    "vietnamese": "thuê xe",
+    "example": "We rented a car to explore the coast.",
+    "difficulty": 1
+  },
+  {
+    "english": "scooter",
+    "vietnamese": "xe máy nhỏ, xe tay ga",
+    "example": "Renting a scooter is popular in Asia.",
+    "difficulty": 1
+  },
+  {
+    "english": "ferry",
+    "vietnamese": "phà",
+    "example": "We took a ferry to the island.",
+    "difficulty": 1
+  },
+  {
+    "english": "cruise",
+    "vietnamese": "du thuyền",
+    "example": "The cruise stopped at three ports.",
+    "difficulty": 1
+  },
+  {
+    "english": "mileage",
+    "vietnamese": "quãng đường đã đi",
+    "example": "My mileage points earned a free flight.",
+    "difficulty": 2
+  },
+  {
+    "english": "frequent flyer",
+    "vietnamese": "khách bay thường xuyên",
+    "example": "Frequent flyers get lounge access.",
+    "difficulty": 2
+  },
+  {
+    "english": "campsite",
+    "vietnamese": "khu cắm trại",
+    "example": "We set up at a campsite by the lake.",
+    "difficulty": 1
+  },
+  {
+    "english": "lodge",
+    "vietnamese": "nhà nghỉ trên núi/rừng",
+    "example": "The safari lodge overlooks the savanna.",
+    "difficulty": 2
+  },
+  {
+    "english": "villa",
+    "vietnamese": "biệt thự nghỉ dưỡng",
+    "example": "They rented a villa with a private pool.",
+    "difficulty": 1
+  },
+  {
+    "english": "viewpoint",
+    "vietnamese": "điểm ngắm cảnh",
+    "example": "The viewpoint offers a full panorama.",
+    "difficulty": 1
+  },
+  {
+    "english": "hidden gem",
+    "vietnamese": "địa điểm ít người biết đến",
+    "example": "That café is a hidden gem.",
+    "difficulty": 2
+  },
+  {
+    "english": "day trip",
+    "vietnamese": "chuyến đi trong ngày",
+    "example": "The island is perfect for a day trip.",
+    "difficulty": 1
+  },
+  {
+    "english": "overland",
+    "vietnamese": "đi đường bộ",
+    "example": "We traveled overland from Hanoi to Saigon.",
+    "difficulty": 2
+  },
+  {
+    "english": "solo travel",
+    "vietnamese": "du lịch một mình",
+    "example": "Solo travel taught her independence.",
+    "difficulty": 1
+  },
+  {
+    "english": "group tour",
+    "vietnamese": "tour theo đoàn",
+    "example": "A group tour is easiest for first-timers.",
+    "difficulty": 1
+  },
+  {
+    "english": "locals",
+    "vietnamese": "người dân địa phương",
+    "example": "Ask locals for hidden gem advice.",
+    "difficulty": 1
+  },
+  {
+    "english": "tourist",
+    "vietnamese": "khách du lịch",
+    "example": "The city is packed with tourists in summer.",
+    "difficulty": 1
+  },
+  {
+    "english": "souvenir shop",
+    "vietnamese": "cửa hàng lưu niệm",
+    "example": "The souvenir shop is overpriced.",
+    "difficulty": 1
+  },
+  {
+    "english": "postcard",
+    "vietnamese": "bưu thiếp",
+    "example": "She sent postcards from every city.",
+    "difficulty": 1
+  },
+  {
+    "english": "travel journal",
+    "vietnamese": "nhật ký du lịch",
+    "example": "He kept a travel journal of his adventures.",
+    "difficulty": 1
+  },
+  {
+    "english": "photographer",
+    "vietnamese": "nhiếp ảnh gia",
+    "example": "Travel photographers visit at sunrise.",
+    "difficulty": 1
+  },
+  {
+    "english": "selfie stick",
+    "vietnamese": "gậy tự sướng",
+    "example": "He brought a selfie stick to the summit.",
+    "difficulty": 1
+  },
+  {
+    "english": "backpack",
+    "vietnamese": "ba lô",
+    "example": "Pack light in a sturdy backpack.",
+    "difficulty": 1
+  },
+  {
+    "english": "suitcase",
+    "vietnamese": "vali",
+    "example": "A hard-shell suitcase protects valuables.",
+    "difficulty": 1
+  },
+  {
+    "english": "packing list",
+    "vietnamese": "danh sách đồ cần mang",
+    "example": "Make a packing list to avoid forgetting things.",
+    "difficulty": 1
+  },
+  {
+    "english": "passport photo",
+    "vietnamese": "ảnh hộ chiếu",
+    "example": "You need two passport photos for the visa.",
+    "difficulty": 1
+  },
+  {
+    "english": "travel size",
+    "vietnamese": "cỡ nhỏ tiện mang đi",
+    "example": "Buy travel size toiletries.",
+    "difficulty": 1
+  },
+  {
+    "english": "neck pillow",
+    "vietnamese": "gối cổ",
+    "example": "A neck pillow helps on long flights.",
+    "difficulty": 1
+  },
+  {
+    "english": "earplugs",
+    "vietnamese": "nút tai",
+    "example": "Earplugs block noise on the plane.",
+    "difficulty": 1
+  },
+  {
+    "english": "charger adapter",
+    "vietnamese": "bộ chuyển đổi sạc",
+    "example": "Bring a charger adapter for foreign outlets.",
+    "difficulty": 1
+  },
+  {
+    "english": "first-aid kit",
+    "vietnamese": "bộ sơ cứu",
+    "example": "A small first-aid kit is essential for hiking.",
+    "difficulty": 1
+  },
+  {
+    "english": "sunscreen",
+    "vietnamese": "kem chống nắng",
+    "example": "Apply sunscreen every two hours.",
+    "difficulty": 1
+  },
+  {
+    "english": "insect repellent",
+    "vietnamese": "thuốc chống côn trùng",
+    "example": "Insect repellent keeps mosquitoes away.",
+    "difficulty": 2
+  },
+  {
+    "english": "water bottle",
+    "vietnamese": "bình nước",
+    "example": "Carry a refillable water bottle.",
+    "difficulty": 1
+  },
+  {
+    "english": "map",
+    "vietnamese": "bản đồ",
+    "example": "Download an offline map before you go.",
+    "difficulty": 1
+  },
+  {
+    "english": "SIM card",
+    "vietnamese": "thẻ SIM",
+    "example": "Buy a local SIM card for cheap data.",
+    "difficulty": 1
+  },
+  {
+    "english": "roaming",
+    "vietnamese": "chuyển vùng",
+    "example": "Turn off roaming to avoid high charges.",
+    "difficulty": 2
+  },
+  {
+    "english": "translation app",
+    "vietnamese": "ứng dụng dịch",
+    "example": "A translation app helps with menus.",
+    "difficulty": 1
+  },
+  {
+    "english": "currency converter",
+    "vietnamese": "công cụ quy đổi tiền",
+    "example": "Use a currency converter to check prices.",
+    "difficulty": 1
+  },
+  {
+    "english": "time difference",
+    "vietnamese": "chênh lệch múi giờ",
+    "example": "There's a 7-hour time difference.",
+    "difficulty": 1
+  },
+  {
+    "english": "time zone",
+    "vietnamese": "múi giờ",
+    "example": "We crossed three time zones yesterday.",
+    "difficulty": 1
+  },
+  {
+    "english": "sunrise",
+    "vietnamese": "bình minh",
+    "example": "We woke early for the sunrise.",
+    "difficulty": 1
+  },
+  {
+    "english": "sunset",
+    "vietnamese": "hoàng hôn",
+    "example": "The sunset over the bay was stunning.",
+    "difficulty": 1
+  },
+  {
+    "english": "beach",
+    "vietnamese": "bãi biển",
+    "example": "The beach was quiet in the morning.",
+    "difficulty": 1
+  },
+  {
+    "english": "coast",
+    "vietnamese": "bờ biển, duyên hải",
+    "example": "The coast stretches for miles.",
+    "difficulty": 1
+  },
+  {
+    "english": "island",
+    "vietnamese": "hòn đảo",
+    "example": "The island is only reachable by boat.",
+    "difficulty": 1
+  },
+  {
+    "english": "mountain",
+    "vietnamese": "núi",
+    "example": "The mountain range is snow-capped.",
+    "difficulty": 1
+  },
+  {
+    "english": "valley",
+    "vietnamese": "thung lũng",
+    "example": "The valley is lush and green.",
+    "difficulty": 1
+  },
+  {
+    "english": "waterfall",
+    "vietnamese": "thác nước",
+    "example": "The waterfall is hidden in the forest.",
+    "difficulty": 1
+  },
+  {
+    "english": "desert",
+    "vietnamese": "sa mạc",
+    "example": "Crossing the desert took a full day.",
+    "difficulty": 1
+  },
+  {
+    "english": "rainforest",
+    "vietnamese": "rừng mưa nhiệt đới",
+    "example": "The rainforest is full of wildlife.",
+    "difficulty": 2
+  },
+  {
+    "english": "national park",
+    "vietnamese": "vườn quốc gia",
+    "example": "The national park charges an entry fee.",
+    "difficulty": 1
+  },
+  {
+    "english": "temple",
+    "vietnamese": "ngôi đền",
+    "example": "The ancient temple dates back centuries.",
+    "difficulty": 1
+  },
+  {
+    "english": "museum",
+    "vietnamese": "bảo tàng",
+    "example": "The national museum is free on Sundays.",
+    "difficulty": 1
+  },
+  {
+    "english": "market",
+    "vietnamese": "chợ",
+    "example": "The night market buzzes with activity.",
+    "difficulty": 1
+  },
+  {
+    "english": "old town",
+    "vietnamese": "khu phố cổ",
+    "example": "The old town is full of narrow streets.",
+    "difficulty": 1
+  },
+  {
+    "english": "beach resort",
+    "vietnamese": "khu nghỉ dưỡng biển",
+    "example": "The beach resort was fully booked.",
+    "difficulty": 2
+  },
+  {
+    "english": "sightsee",
+    "vietnamese": "tham quan",
+    "example": "We sightsee in the morning, relax after.",
+    "difficulty": 1
+  },
+  {
+    "english": "explore",
+    "vietnamese": "khám phá",
+    "example": "We explored the city on foot.",
+    "difficulty": 1
+  },
+  {
+    "english": "unwind",
+    "vietnamese": "thư giãn",
+    "example": "The beach is perfect to unwind.",
+    "difficulty": 2
+  },
+  {
+    "english": "refresh",
+    "vietnamese": "làm mới tinh thần",
+    "example": "A short trip was just what I needed to refresh.",
+    "difficulty": 1
+  },
+  {
+    "english": "memorable",
+    "vietnamese": "đáng nhớ",
+    "example": "It was the most memorable trip of my life.",
+    "difficulty": 2
+  },
+  {
+    "english": "arrival",
+    "vietnamese": "sự đến, hạ cánh",
+    "example": "Our arrival in Hanoi was delayed.",
+    "difficulty": 1
+  },
+  {
+    "english": "boarding",
+    "vietnamese": "lên máy bay",
+    "example": "Boarding begins in ten minutes.",
+    "difficulty": 1
+  },
+  {
+    "english": "takeoff",
+    "vietnamese": "cất cánh",
+    "example": "The takeoff was smooth.",
+    "difficulty": 1
+  },
+  {
+    "english": "landing",
+    "vietnamese": "hạ cánh",
+    "example": "The landing was a bit rough.",
+    "difficulty": 1
+  },
+  {
+    "english": "customs officer",
+    "vietnamese": "nhân viên hải quan",
+    "example": "The customs officer checked my passport.",
+    "difficulty": 2
+  },
+  {
+    "english": "security check",
+    "vietnamese": "kiểm tra an ninh",
+    "example": "The security check was quick.",
+    "difficulty": 1
+  },
+  {
+    "english": "baggage claim",
+    "vietnamese": "khu lấy hành lý",
+    "example": "Meet me at baggage claim.",
+    "difficulty": 1
+  },
+  {
+    "english": "ground transportation",
+    "vietnamese": "phương tiện mặt đất",
+    "example": "Ground transportation is on level 2.",
+    "difficulty": 2
   }
 ]
