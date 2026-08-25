@@ -1,0 +1,602 @@
+[
+  {
+    "english": "awkward",
+    "vietnamese": "ngượng ngùng, lúng túng",
+    "example": "It was an awkward silence after the argument.",
+    "difficulty": 2
+  },
+  {
+    "english": "blunt",
+    "vietnamese": "thẳng thừng, không vòng vo",
+    "example": "He was blunt about the project's failure.",
+    "difficulty": 2
+  },
+  {
+    "english": "boundary",
+    "vietnamese": "ranh giới, giới hạn",
+    "example": "You need to set clear boundaries with your coworkers.",
+    "difficulty": 2
+  },
+  {
+    "english": "clingy",
+    "vietnamese": "bám dính, quá phụ thuộc",
+    "example": "She became clingy after they started dating.",
+    "difficulty": 2
+  },
+  {
+    "english": "compromise",
+    "vietnamese": "thỏa hiệp, nhượng bộ",
+    "example": "A good relationship requires compromise from both sides.",
+    "difficulty": 2
+  },
+  {
+    "english": "condescending",
+    "vietnamese": "trịch thượng, hạ cố",
+    "example": "His condescending tone made everyone uncomfortable.",
+    "difficulty": 3
+  },
+  {
+    "english": "confront",
+    "vietnamese": "đối mặt, đối chất",
+    "example": "I need to confront him about the missed deadline.",
+    "difficulty": 2
+  },
+  {
+    "english": "curious",
+    "vietnamese": "tò mò, ham học hỏi",
+    "example": "She is curious about different cultures.",
+    "difficulty": 1
+  },
+  {
+    "english": "discreet",
+    "vietnamese": "kín đáo, tế nhị",
+    "example": "Please be discreet about the salary discussion.",
+    "difficulty": 2
+  },
+  {
+    "english": "dismissive",
+    "vietnamese": "gạt đi, coi thường",
+    "example": "He was dismissive of my concerns.",
+    "difficulty": 3
+  },
+  {
+    "english": "eloquent",
+    "vietnamese": "hùng biện, lưu loát",
+    "example": "She gave an eloquent speech at the wedding.",
+    "difficulty": 2
+  },
+  {
+    "english": "empathy",
+    "vietnamese": "sự đồng cảm",
+    "example": "A good leader shows empathy toward their team.",
+    "difficulty": 2
+  },
+  {
+    "english": "engage",
+    "vietnamese": "tham gia, tương tác",
+    "example": "Try to engage with your audience during the presentation.",
+    "difficulty": 1
+  },
+  {
+    "english": "flatter",
+    "vietnamese": "nịnh nọt, tâng bốc",
+    "example": "He tried to flatter the boss before asking for a raise.",
+    "difficulty": 2
+  },
+  {
+    "english": "genuine",
+    "vietnamese": "chân thành, thật lòng",
+    "example": "Her apology seemed genuine.",
+    "difficulty": 1
+  },
+  {
+    "english": "gossip",
+    "vietnamese": "ngồi lê đôi mách, chuyện phiếm",
+    "example": "Office gossip can damage your reputation.",
+    "difficulty": 1
+  },
+  {
+    "english": "grateful",
+    "vietnamese": "biết ơn",
+    "example": "I am grateful for your support.",
+    "difficulty": 1
+  },
+  {
+    "english": "hostile",
+    "vietnamese": "thù địch, hung hăng",
+    "example": "The meeting turned hostile after the budget was cut.",
+    "difficulty": 2
+  },
+  {
+    "english": "interrupt",
+    "vietnamese": "ngắt lời, chen ngang",
+    "example": "Please don't interrupt when someone is speaking.",
+    "difficulty": 1
+  },
+  {
+    "english": "intimate",
+    "vietnamese": "thân mật, riêng tư",
+    "example": "They had an intimate conversation over dinner.",
+    "difficulty": 2
+  },
+  {
+    "english": "offend",
+    "vietnamese": "xúc phạm, làm tổn thương",
+    "example": "I didn't mean to offend you with that comment.",
+    "difficulty": 1
+  },
+  {
+    "english": "patronize",
+    "vietnamese": "đối xử trịch thượng",
+    "example": "Don't patronize me — I know what I'm doing.",
+    "difficulty": 3
+  },
+  {
+    "english": "persuade",
+    "vietnamese": "thuyết phục",
+    "example": "She persuaded the client to sign the contract.",
+    "difficulty": 1
+  },
+  {
+    "english": "resent",
+    "vietnamese": "phẫn uất, oán giận",
+    "example": "He resents being passed over for promotion.",
+    "difficulty": 2
+  },
+  {
+    "english": "sarcastic",
+    "vietnamese": "mỉa mai, châm biếm",
+    "example": "His sarcastic remarks were not appreciated.",
+    "difficulty": 2
+  },
+  {
+    "english": "sensitive",
+    "vietnamese": "nhạy cảm, tế nhị",
+    "example": "Be sensitive when discussing personal matters.",
+    "difficulty": 1
+  },
+  {
+    "english": "small talk",
+    "vietnamese": "nói chuyện xã giao",
+    "example": "I'm terrible at small talk at parties.",
+    "difficulty": 1
+  },
+  {
+    "english": "subtle",
+    "vietnamese": "tinh tế, khó nhận ra",
+    "example": "There was a subtle hint of sarcasm in her voice.",
+    "difficulty": 2
+  },
+  {
+    "english": "sympathy",
+    "vietnamese": "sự cảm thông, thương cảm",
+    "example": "I have sympathy for what you're going through.",
+    "difficulty": 1
+  },
+  {
+    "english": "tactful",
+    "vietnamese": "khéo léo, lịch thiệp",
+    "example": "She gave a tactful response to the difficult question.",
+    "difficulty": 2
+  },
+  {
+    "english": "vulnerable",
+    "vietnamese": "dễ bị tổn thương, yếu thế",
+    "example": "Being vulnerable with someone takes trust.",
+    "difficulty": 2
+  },
+  {
+    "english": "witty",
+    "vietnamese": "hóm hỉnh, dí dỏm",
+    "example": "He is known for his witty comebacks.",
+    "difficulty": 2
+  },
+  {
+    "english": "accountability",
+    "vietnamese": "trách nhiệm giải trình",
+    "example": "Accountability means owning your mistakes.",
+    "difficulty": 3
+  },
+  {
+    "english": "backfire",
+    "vietnamese": "phản tác dụng",
+    "example": "His plan to get sympathy backfired.",
+    "difficulty": 2
+  },
+  {
+    "english": "catch up",
+    "vietnamese": "hẹn gặp để nói chuyện, cập nhật",
+    "example": "Let's catch up over coffee this weekend.",
+    "difficulty": 1
+  },
+  {
+    "english": "admire",
+    "vietnamese": "ngưỡng mộ, khâm phục",
+    "example": "I really admire her ability to stay calm under pressure.",
+    "difficulty": 1
+  },
+  {
+    "english": "affection",
+    "vietnamese": "tình cảm, sự yêu mến",
+    "example": "He showed affection by remembering small details.",
+    "difficulty": 2
+  },
+  {
+    "english": "apologize",
+    "vietnamese": "xin lỗi",
+    "example": "You should apologize for what you said.",
+    "difficulty": 1
+  },
+  {
+    "english": "appreciate",
+    "vietnamese": "trân trọng, đánh giá cao",
+    "example": "I appreciate you taking the time to explain.",
+    "difficulty": 1
+  },
+  {
+    "english": "assertive",
+    "vietnamese": "quyết đoán, tự tin",
+    "example": "Being assertive is not the same as being aggressive.",
+    "difficulty": 2
+  },
+  {
+    "english": "bond",
+    "vietnamese": "gắn kết, mối quan hệ",
+    "example": "Traveling together helped them bond.",
+    "difficulty": 1
+  },
+  {
+    "english": "break the ice",
+    "vietnamese": "phá vỡ không khí ngượng ngùng",
+    "example": "He told a joke to break the ice.",
+    "difficulty": 2
+  },
+  {
+    "english": "convince",
+    "vietnamese": "thuyết phục",
+    "example": "It took me an hour to convince him to join.",
+    "difficulty": 1
+  },
+  {
+    "english": "criticize",
+    "vietnamese": "chỉ trích, phê bình",
+    "example": "Don't criticize her in front of the team.",
+    "difficulty": 1
+  },
+  {
+    "english": "defensive",
+    "vietnamese": "phòng thủ, dễ tự ái",
+    "example": "He gets defensive every time someone questions his work.",
+    "difficulty": 2
+  },
+  {
+    "english": "disappointed",
+    "vietnamese": "thất vọng",
+    "example": "I was disappointed that he didn't show up.",
+    "difficulty": 1
+  },
+  {
+    "english": "embarrassed",
+    "vietnamese": "xấu hổ, ngại ngùng",
+    "example": "She felt embarrassed after tripping in public.",
+    "difficulty": 1
+  },
+  {
+    "english": "encourage",
+    "vietnamese": "khuyến khích, động viên",
+    "example": "My mentor encouraged me to apply for the role.",
+    "difficulty": 1
+  },
+  {
+    "english": "envy",
+    "vietnamese": "ghen tị, đố kỵ",
+    "example": "There is a difference between envy and admiration.",
+    "difficulty": 2
+  },
+  {
+    "english": "forgive",
+    "vietnamese": "tha thứ",
+    "example": "It takes strength to forgive someone who hurt you.",
+    "difficulty": 1
+  },
+  {
+    "english": "frankly",
+    "vietnamese": "thẳng thắn mà nói",
+    "example": "Frankly, I don't think this plan will work.",
+    "difficulty": 1
+  },
+  {
+    "english": "grudge",
+    "vietnamese": "mối hận, ác cảm",
+    "example": "She still holds a grudge from five years ago.",
+    "difficulty": 2
+  },
+  {
+    "english": "hesitate",
+    "vietnamese": "do dự, ngập ngừng",
+    "example": "Don't hesitate to ask if you need help.",
+    "difficulty": 1
+  },
+  {
+    "english": "hint",
+    "vietnamese": "gợi ý, ám chỉ",
+    "example": "She dropped a hint about what she wanted for her birthday.",
+    "difficulty": 1
+  },
+  {
+    "english": "impress",
+    "vietnamese": "gây ấn tượng",
+    "example": "He tried too hard to impress the interviewers.",
+    "difficulty": 1
+  },
+  {
+    "english": "insecure",
+    "vietnamese": "tự ti, thiếu tự tin",
+    "example": "She is insecure about her English pronunciation.",
+    "difficulty": 2
+  },
+  {
+    "english": "inspire",
+    "vietnamese": "truyền cảm hứng",
+    "example": "His story inspired me to start my own business.",
+    "difficulty": 1
+  },
+  {
+    "english": "intention",
+    "vietnamese": "ý định, chủ đích",
+    "example": "I had no intention of hurting your feelings.",
+    "difficulty": 2
+  },
+  {
+    "english": "jealous",
+    "vietnamese": "ghen tuông, đố kỵ",
+    "example": "He gets jealous when she talks to other guys.",
+    "difficulty": 1
+  },
+  {
+    "english": "judge",
+    "vietnamese": "đánh giá, phán xét",
+    "example": "Try not to judge people too quickly.",
+    "difficulty": 1
+  },
+  {
+    "english": "listener",
+    "vietnamese": "người biết lắng nghe",
+    "example": "She is a great listener — everyone confides in her.",
+    "difficulty": 1
+  },
+  {
+    "english": "manipulate",
+    "vietnamese": "thao túng, điều khiển",
+    "example": "He tried to manipulate the situation to his advantage.",
+    "difficulty": 3
+  },
+  {
+    "english": "misunderstand",
+    "vietnamese": "hiểu lầm",
+    "example": "I think you misunderstood what I meant.",
+    "difficulty": 1
+  },
+  {
+    "english": "mood",
+    "vietnamese": "tâm trạng",
+    "example": "I'm not in the mood to argue right now.",
+    "difficulty": 1
+  },
+  {
+    "english": "neglect",
+    "vietnamese": "bỏ bê, sao nhãng",
+    "example": "He neglected his friendships after starting the new job.",
+    "difficulty": 2
+  },
+  {
+    "english": "nervous",
+    "vietnamese": "lo lắng, hồi hộp",
+    "example": "I always get nervous before public speaking.",
+    "difficulty": 1
+  },
+  {
+    "english": "open-minded",
+    "vietnamese": "cởi mở, sẵn sàng tiếp thu",
+    "example": "She is very open-minded about different lifestyles.",
+    "difficulty": 2
+  },
+  {
+    "english": "outgoing",
+    "vietnamese": "hướng ngoại, hòa đồng",
+    "example": "He is outgoing and makes friends easily.",
+    "difficulty": 1
+  },
+  {
+    "english": "overwhelmed",
+    "vietnamese": "choáng ngợp, quá tải",
+    "example": "I felt overwhelmed by all the wedding preparations.",
+    "difficulty": 2
+  },
+  {
+    "english": "passive-aggressive",
+    "vietnamese": "công kích thụ động, xỏ xiên",
+    "example": "Her passive-aggressive comments are exhausting.",
+    "difficulty": 3
+  },
+  {
+    "english": "perception",
+    "vietnamese": "nhận thức, cách nhìn nhận",
+    "example": "Your perception of the situation might be different from reality.",
+    "difficulty": 3
+  },
+  {
+    "english": "praise",
+    "vietnamese": "khen ngợi, tán dương",
+    "example": "A little praise goes a long way in motivating people.",
+    "difficulty": 1
+  },
+  {
+    "english": "prejudice",
+    "vietnamese": "định kiến, thành kiến",
+    "example": "We need to overcome our prejudices about other cultures.",
+    "difficulty": 3
+  },
+  {
+    "english": "reassure",
+    "vietnamese": "trấn an, làm yên lòng",
+    "example": "He reassured her that everything would be fine.",
+    "difficulty": 2
+  },
+  {
+    "english": "reconcile",
+    "vietnamese": "hòa giải, làm lành",
+    "example": "They reconciled after not speaking for two years.",
+    "difficulty": 3
+  },
+  {
+    "english": "regret",
+    "vietnamese": "hối hận, tiếc nuối",
+    "example": "I regret not staying in touch with old friends.",
+    "difficulty": 1
+  },
+  {
+    "english": "reluctant",
+    "vietnamese": "miễn cưỡng, do dự",
+    "example": "She was reluctant to share her opinion at first.",
+    "difficulty": 2
+  },
+  {
+    "english": "respectful",
+    "vietnamese": "tôn trọng, lễ phép",
+    "example": "He is always respectful even when he disagrees.",
+    "difficulty": 1
+  },
+  {
+    "english": "reveal",
+    "vietnamese": "tiết lộ, bộc lộ",
+    "example": "She revealed her true feelings during the argument.",
+    "difficulty": 1
+  },
+  {
+    "english": "rumor",
+    "vietnamese": "tin đồn",
+    "example": "There is a rumor that the company is laying people off.",
+    "difficulty": 1
+  },
+  {
+    "english": "sincerely",
+    "vietnamese": "chân thành",
+    "example": "I sincerely hope things work out for you.",
+    "difficulty": 1
+  },
+  {
+    "english": "stand up for",
+    "vietnamese": "bênh vực, đứng về phía",
+    "example": "She always stands up for her friends when they are treated unfairly.",
+    "difficulty": 2
+  },
+  {
+    "english": "stereotype",
+    "vietnamese": "rập khuôn, khuôn mẫu",
+    "example": "Don't stereotype people based on where they come from.",
+    "difficulty": 3
+  },
+  {
+    "english": "stubborn",
+    "vietnamese": "bướng bỉnh, cứng đầu",
+    "example": "He is too stubborn to admit he was wrong.",
+    "difficulty": 1
+  },
+  {
+    "english": "supportive",
+    "vietnamese": "ủng hộ, hỗ trợ",
+    "example": "She has been very supportive throughout my career change.",
+    "difficulty": 1
+  },
+  {
+    "english": "suspicious",
+    "vietnamese": "nghi ngờ, khả nghi",
+    "example": "I'm suspicious of people who are too nice too quickly.",
+    "difficulty": 2
+  },
+  {
+    "english": "talk behind one's back",
+    "vietnamese": "nói xấu sau lưng",
+    "example": "I hate it when people talk behind my back.",
+    "difficulty": 2
+  },
+  {
+    "english": "thoughtful",
+    "vietnamese": "chu đáo, ân cần",
+    "example": "It was thoughtful of him to bring you soup when you were sick.",
+    "difficulty": 1
+  },
+  {
+    "english": "tolerate",
+    "vietnamese": "chịu đựng, khoan dung",
+    "example": "I won't tolerate disrespect in this workplace.",
+    "difficulty": 2
+  },
+  {
+    "english": "trustworthy",
+    "vietnamese": "đáng tin cậy",
+    "example": "She is the most trustworthy person I know.",
+    "difficulty": 2
+  },
+  {
+    "english": "uncomfortable",
+    "vietnamese": "khó chịu, không thoải mái",
+    "example": "The conversation made everyone uncomfortable.",
+    "difficulty": 1
+  },
+  {
+    "english": "upset",
+    "vietnamese": "buồn bực, khó chịu",
+    "example": "He was upset about being left out of the meeting.",
+    "difficulty": 1
+  },
+  {
+    "english": "validate",
+    "vietnamese": "công nhận, xác nhận giá trị",
+    "example": "Sometimes people just want you to validate their feelings.",
+    "difficulty": 2
+  },
+  {
+    "english": "vent",
+    "vietnamese": "trút bầu tâm sự, xả",
+    "example": "She just needed to vent about her terrible day.",
+    "difficulty": 2
+  },
+  {
+    "english": "warm",
+    "vietnamese": "ấm áp, thân thiện",
+    "example": "He gave us a warm welcome when we arrived.",
+    "difficulty": 1
+  },
+  {
+    "english": "acknowledge",
+    "vietnamese": "công nhận, thừa nhận",
+    "example": "He refused to acknowledge his mistake.",
+    "difficulty": 1
+  },
+  {
+    "english": "assume",
+    "vietnamese": "cho rằng, giả định",
+    "example": "Don't assume people know what you are thinking.",
+    "difficulty": 1
+  },
+  {
+    "english": "belittle",
+    "vietnamese": "coi thường, xem nhẹ",
+    "example": "He belittles everyone's ideas in meetings.",
+    "difficulty": 3
+  },
+  {
+    "english": "condone",
+    "vietnamese": "tha thứ, bỏ qua cho hành vi sai",
+    "example": "I don't condone lying, even with good intentions.",
+    "difficulty": 3
+  },
+  {
+    "english": "self-conscious",
+    "vietnamese": "tự ti, e ngại về bản thân",
+    "example": "He is self-conscious about his accent.",
+    "difficulty": 2
+  }
+]

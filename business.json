@@ -1,0 +1,602 @@
+[
+  {
+    "english": "acquisition",
+    "vietnamese": "thâu tóm, mua lại",
+    "example": "The acquisition of the startup cost $50 million.",
+    "difficulty": 3
+  },
+  {
+    "english": "agenda",
+    "vietnamese": "chương trình nghị sự",
+    "example": "What is on the agenda for today's meeting?",
+    "difficulty": 1
+  },
+  {
+    "english": "allocate",
+    "vietnamese": "phân bổ",
+    "example": "We need to allocate more resources to marketing.",
+    "difficulty": 2
+  },
+  {
+    "english": "assets",
+    "vietnamese": "tài sản",
+    "example": "The company's total assets exceed $1 billion.",
+    "difficulty": 1
+  },
+  {
+    "english": "benchmark",
+    "vietnamese": "tiêu chuẩn so sánh, điểm chuẩn",
+    "example": "Our performance is below the industry benchmark.",
+    "difficulty": 2
+  },
+  {
+    "english": "break even",
+    "vietnamese": "hòa vốn",
+    "example": "We expect to break even by the third quarter.",
+    "difficulty": 2
+  },
+  {
+    "english": "cash flow",
+    "vietnamese": "dòng tiền",
+    "example": "Positive cash flow is more important than profit on paper.",
+    "difficulty": 2
+  },
+  {
+    "english": "clientele",
+    "vietnamese": "tệp khách hàng",
+    "example": "The restaurant attracts a wealthy clientele.",
+    "difficulty": 2
+  },
+  {
+    "english": "collaborate",
+    "vietnamese": "hợp tác",
+    "example": "We collaborate with three overseas partners.",
+    "difficulty": 1
+  },
+  {
+    "english": "compliance",
+    "vietnamese": "sự tuân thủ quy định",
+    "example": "The new policy ensures compliance with GDPR.",
+    "difficulty": 3
+  },
+  {
+    "english": "consensus",
+    "vietnamese": "đồng thuận",
+    "example": "The team reached a consensus after two hours.",
+    "difficulty": 2
+  },
+  {
+    "english": "consolidate",
+    "vietnamese": "củng cố, hợp nhất",
+    "example": "Let's consolidate all reports into one document.",
+    "difficulty": 3
+  },
+  {
+    "english": "delegate",
+    "vietnamese": "ủy quyền, giao việc",
+    "example": "A good manager knows when to delegate tasks.",
+    "difficulty": 2
+  },
+  {
+    "english": "depreciation",
+    "vietnamese": "khấu hao",
+    "example": "Equipment depreciation reduces taxable income.",
+    "difficulty": 3
+  },
+  {
+    "english": "disruptive",
+    "vietnamese": "đột phá, phá vỡ thị trường",
+    "example": "Their technology is disruptive to the banking industry.",
+    "difficulty": 2
+  },
+  {
+    "english": "equity",
+    "vietnamese": "vốn chủ sở hữu, cổ phần",
+    "example": "He owns 30% equity in the company.",
+    "difficulty": 2
+  },
+  {
+    "english": "feasible",
+    "vietnamese": "khả thi",
+    "example": "Is this timeline actually feasible?",
+    "difficulty": 2
+  },
+  {
+    "english": "forecast",
+    "vietnamese": "dự báo",
+    "example": "The revenue forecast for Q4 looks strong.",
+    "difficulty": 1
+  },
+  {
+    "english": "franchise",
+    "vietnamese": "nhượng quyền thương hiệu",
+    "example": "They expanded through a franchise model.",
+    "difficulty": 2
+  },
+  {
+    "english": "incentive",
+    "vietnamese": "động lực, ưu đãi",
+    "example": "We offer a performance bonus as an incentive.",
+    "difficulty": 2
+  },
+  {
+    "english": "inventory",
+    "vietnamese": "hàng tồn kho",
+    "example": "Excess inventory is tying up our cash flow.",
+    "difficulty": 2
+  },
+  {
+    "english": "leverage",
+    "vietnamese": "đòn bẩy, tận dụng",
+    "example": "We leverage our brand reputation to enter new markets.",
+    "difficulty": 2
+  },
+  {
+    "english": "liability",
+    "vietnamese": "khoản nợ, trách nhiệm pháp lý",
+    "example": "The lawsuit represents a significant liability.",
+    "difficulty": 2
+  },
+  {
+    "english": "margin",
+    "vietnamese": "biên lợi nhuận",
+    "example": "Our profit margin improved by 3% this quarter.",
+    "difficulty": 1
+  },
+  {
+    "english": "merger",
+    "vietnamese": "sáp nhập",
+    "example": "The merger between the two airlines was approved.",
+    "difficulty": 2
+  },
+  {
+    "english": "negotiate",
+    "vietnamese": "đàm phán",
+    "example": "We are negotiating the terms of the partnership.",
+    "difficulty": 1
+  },
+  {
+    "english": "overhead",
+    "vietnamese": "chi phí vận hành",
+    "example": "Cutting overhead is our top priority.",
+    "difficulty": 2
+  },
+  {
+    "english": "pitch",
+    "vietnamese": "bài thuyết trình bán hàng",
+    "example": "She nailed the investor pitch.",
+    "difficulty": 2
+  },
+  {
+    "english": "procurement",
+    "vietnamese": "mua sắm, thu mua",
+    "example": "The procurement team is sourcing new suppliers.",
+    "difficulty": 3
+  },
+  {
+    "english": "profitability",
+    "vietnamese": "khả năng sinh lời",
+    "example": "Profitability matters more than growth at this stage.",
+    "difficulty": 2
+  },
+  {
+    "english": "recession",
+    "vietnamese": "suy thoái kinh tế",
+    "example": "Many startups failed during the recession.",
+    "difficulty": 2
+  },
+  {
+    "english": "reimburse",
+    "vietnamese": "hoàn tiền",
+    "example": "The company will reimburse your travel expenses.",
+    "difficulty": 2
+  },
+  {
+    "english": "retainer",
+    "vietnamese": "phí giữ chỗ, phí duy trì",
+    "example": "We pay a monthly retainer to our legal firm.",
+    "difficulty": 3
+  },
+  {
+    "english": "scalable",
+    "vietnamese": "có thể mở rộng",
+    "example": "Investors want to see a scalable business model.",
+    "difficulty": 2
+  },
+  {
+    "english": "stakeholder",
+    "vietnamese": "bên liên quan",
+    "example": "All stakeholders must approve the decision.",
+    "difficulty": 2
+  },
+  {
+    "english": "arbitrage",
+    "vietnamese": "kinh doanh chênh lệch giá",
+    "example": "Crypto arbitrage opportunities exist across exchanges.",
+    "difficulty": 3
+  },
+  {
+    "english": "audit",
+    "vietnamese": "kiểm toán",
+    "example": "The company undergoes an annual audit.",
+    "difficulty": 2
+  },
+  {
+    "english": "bankruptcy",
+    "vietnamese": "phá sản",
+    "example": "The firm filed for bankruptcy after losing its biggest client.",
+    "difficulty": 3
+  },
+  {
+    "english": "bottleneck",
+    "vietnamese": "nút thắt cổ chai, điểm tắc nghẽn",
+    "example": "The approval process is the biggest bottleneck.",
+    "difficulty": 3
+  },
+  {
+    "english": "branding",
+    "vietnamese": "xây dựng thương hiệu",
+    "example": "Good branding creates trust before the first sale.",
+    "difficulty": 2
+  },
+  {
+    "english": "budget",
+    "vietnamese": "ngân sách",
+    "example": "We need to stay within budget this quarter.",
+    "difficulty": 1
+  },
+  {
+    "english": "buyout",
+    "vietnamese": "mua đứt, mua toàn bộ",
+    "example": "The founders accepted a buyout offer from a larger company.",
+    "difficulty": 3
+  },
+  {
+    "english": "commission",
+    "vietnamese": "hoa hồng",
+    "example": "Sales reps earn a 10% commission on every deal.",
+    "difficulty": 1
+  },
+  {
+    "english": "convert",
+    "vietnamese": "chuyển đổi",
+    "example": "We need to convert more website visitors into customers.",
+    "difficulty": 1
+  },
+  {
+    "english": "deadline",
+    "vietnamese": "hạn chót",
+    "example": "The deadline for the proposal is Friday.",
+    "difficulty": 1
+  },
+  {
+    "english": "default",
+    "vietnamese": "vỡ nợ, không trả được nợ",
+    "example": "The borrower went into default after missing three payments.",
+    "difficulty": 3
+  },
+  {
+    "english": "deliverable",
+    "vietnamese": "sản phẩm bàn giao, đầu ra",
+    "example": "What are the key deliverables for this sprint?",
+    "difficulty": 2
+  },
+  {
+    "english": "demographics",
+    "vietnamese": "nhân khẩu học, đối tượng khách hàng",
+    "example": "Our target demographic is 25-40 year old professionals.",
+    "difficulty": 3
+  },
+  {
+    "english": "diversify",
+    "vietnamese": "đa dạng hóa",
+    "example": "We should diversify our revenue streams.",
+    "difficulty": 2
+  },
+  {
+    "english": "dividend",
+    "vietnamese": "cổ tức",
+    "example": "The company pays a quarterly dividend to shareholders.",
+    "difficulty": 2
+  },
+  {
+    "english": "downsize",
+    "vietnamese": "cắt giảm nhân sự, thu hẹp",
+    "example": "The company had to downsize after losing the contract.",
+    "difficulty": 2
+  },
+  {
+    "english": "enterprise",
+    "vietnamese": "doanh nghiệp",
+    "example": "Their software targets enterprise clients, not individuals.",
+    "difficulty": 2
+  },
+  {
+    "english": "exit strategy",
+    "vietnamese": "chiến lược thoái vốn",
+    "example": "Every investor asks about your exit strategy.",
+    "difficulty": 3
+  },
+  {
+    "english": "fiscal year",
+    "vietnamese": "năm tài chính",
+    "example": "Our fiscal year ends in March.",
+    "difficulty": 2
+  },
+  {
+    "english": "freelance",
+    "vietnamese": "làm tự do, làm nghề tự do",
+    "example": "She quit her job to freelance full-time.",
+    "difficulty": 1
+  },
+  {
+    "english": "gross income",
+    "vietnamese": "tổng thu nhập",
+    "example": "Your gross income is before taxes and deductions.",
+    "difficulty": 2
+  },
+  {
+    "english": "hedge",
+    "vietnamese": "phòng ngừa rủi ro",
+    "example": "They hedged their investment with gold.",
+    "difficulty": 3
+  },
+  {
+    "english": "invoice",
+    "vietnamese": "hóa đơn",
+    "example": "Please send the invoice by the end of the month.",
+    "difficulty": 1
+  },
+  {
+    "english": "kickback",
+    "vietnamese": "tiền lại quả, hối lộ",
+    "example": "Accepting kickbacks from suppliers is illegal.",
+    "difficulty": 3
+  },
+  {
+    "english": "layoff",
+    "vietnamese": "sa thải hàng loạt",
+    "example": "The tech industry saw massive layoffs in 2023.",
+    "difficulty": 2
+  },
+  {
+    "english": "logistics",
+    "vietnamese": "hậu cần, vận chuyển",
+    "example": "The logistics of shipping internationally are complex.",
+    "difficulty": 3
+  },
+  {
+    "english": "market share",
+    "vietnamese": "thị phần",
+    "example": "We captured 15% market share in the first year.",
+    "difficulty": 2
+  },
+  {
+    "english": "milestone",
+    "vietnamese": "cột mốc quan trọng",
+    "example": "Reaching 10,000 users was a major milestone.",
+    "difficulty": 2
+  },
+  {
+    "english": "monopoly",
+    "vietnamese": "độc quyền",
+    "example": "The company was accused of maintaining a monopoly.",
+    "difficulty": 3
+  },
+  {
+    "english": "net profit",
+    "vietnamese": "lợi nhuận ròng",
+    "example": "Net profit after taxes was $2.3 million.",
+    "difficulty": 2
+  },
+  {
+    "english": "outsource",
+    "vietnamese": "thuê ngoài",
+    "example": "We outsource our customer support to a firm in Manila.",
+    "difficulty": 2
+  },
+  {
+    "english": "overdue",
+    "vietnamese": "quá hạn",
+    "example": "The payment is two months overdue.",
+    "difficulty": 1
+  },
+  {
+    "english": "partnership",
+    "vietnamese": "quan hệ đối tác",
+    "example": "The partnership with the Japanese firm opened new doors.",
+    "difficulty": 2
+  },
+  {
+    "english": "patent",
+    "vietnamese": "bằng sáng chế",
+    "example": "They filed a patent for their new algorithm.",
+    "difficulty": 2
+  },
+  {
+    "english": "payroll",
+    "vietnamese": "bảng lương",
+    "example": "We have 45 employees on payroll this month.",
+    "difficulty": 1
+  },
+  {
+    "english": "penetration",
+    "vietnamese": "sự thâm nhập thị trường",
+    "example": "Market penetration in Southeast Asia has been slow.",
+    "difficulty": 3
+  },
+  {
+    "english": "pivot",
+    "vietnamese": "xoay trục, chuyển hướng chiến lược",
+    "example": "The startup pivoted from B2C to B2B after six months.",
+    "difficulty": 2
+  },
+  {
+    "english": "proposal",
+    "vietnamese": "đề xuất, bản đề nghị",
+    "example": "I submitted a proposal for the new project.",
+    "difficulty": 1
+  },
+  {
+    "english": "prospect",
+    "vietnamese": "khách hàng tiềm năng",
+    "example": "We have 20 qualified prospects in the pipeline.",
+    "difficulty": 2
+  },
+  {
+    "english": "quote",
+    "vietnamese": "báo giá",
+    "example": "Can you send me a quote for the website redesign?",
+    "difficulty": 1
+  },
+  {
+    "english": "rebrand",
+    "vietnamese": "đổi thương hiệu",
+    "example": "The company rebranded after the scandal.",
+    "difficulty": 2
+  },
+  {
+    "english": "renewal",
+    "vietnamese": "gia hạn",
+    "example": "Our contract is up for renewal next month.",
+    "difficulty": 1
+  },
+  {
+    "english": "retail",
+    "vietnamese": "bán lẻ",
+    "example": "Retail sales dropped 5% during the off-season.",
+    "difficulty": 1
+  },
+  {
+    "english": "retention",
+    "vietnamese": "giữ chân khách hàng",
+    "example": "Customer retention is cheaper than acquisition.",
+    "difficulty": 2
+  },
+  {
+    "english": "revenue",
+    "vietnamese": "doanh thu",
+    "example": "Annual revenue exceeded $10 million for the first time.",
+    "difficulty": 1
+  },
+  {
+    "english": "royalty",
+    "vietnamese": "tiền bản quyền, phí tác quyền",
+    "example": "The author earns royalties from every book sold.",
+    "difficulty": 2
+  },
+  {
+    "english": "saturation",
+    "vietnamese": "bão hòa",
+    "example": "The market is approaching saturation.",
+    "difficulty": 3
+  },
+  {
+    "english": "seed funding",
+    "vietnamese": "vốn mồi, vòng gọi vốn đầu tiên",
+    "example": "They raised $2 million in seed funding.",
+    "difficulty": 2
+  },
+  {
+    "english": "solvent",
+    "vietnamese": "có khả năng trả nợ",
+    "example": "The company remains solvent despite the losses.",
+    "difficulty": 3
+  },
+  {
+    "english": "subsidiary",
+    "vietnamese": "công ty con",
+    "example": "The subsidiary operates independently from the parent company.",
+    "difficulty": 3
+  },
+  {
+    "english": "surplus",
+    "vietnamese": "thặng dư, dư thừa",
+    "example": "A budget surplus gives us room to invest.",
+    "difficulty": 2
+  },
+  {
+    "english": "tender",
+    "vietnamese": "đấu thầu",
+    "example": "We won the tender to supply the new airport.",
+    "difficulty": 3
+  },
+  {
+    "english": "turnover",
+    "vietnamese": "doanh thu, tỷ lệ nghỉ việc",
+    "example": "Staff turnover has been high this year.",
+    "difficulty": 2
+  },
+  {
+    "english": "undercut",
+    "vietnamese": "hạ giá để cạnh tranh",
+    "example": "They undercut our prices by 30%.",
+    "difficulty": 2
+  },
+  {
+    "english": "valuation",
+    "vietnamese": "định giá",
+    "example": "The startup's valuation reached $1 billion.",
+    "difficulty": 2
+  },
+  {
+    "english": "vendor",
+    "vietnamese": "nhà cung cấp",
+    "example": "We need to find a reliable vendor for raw materials.",
+    "difficulty": 1
+  },
+  {
+    "english": "venture capital",
+    "vietnamese": "vốn đầu tư mạo hiểm",
+    "example": "Venture capital firms are looking for high-growth startups.",
+    "difficulty": 3
+  },
+  {
+    "english": "warehouse",
+    "vietnamese": "kho hàng",
+    "example": "The warehouse can store up to 10,000 units.",
+    "difficulty": 1
+  },
+  {
+    "english": "warranty",
+    "vietnamese": "bảo hành",
+    "example": "The product comes with a 2-year warranty.",
+    "difficulty": 1
+  },
+  {
+    "english": "wholesale",
+    "vietnamese": "bán buôn, sỉ",
+    "example": "We buy raw materials at wholesale prices.",
+    "difficulty": 1
+  },
+  {
+    "english": "accredited",
+    "vietnamese": "được công nhận, được ủy quyền",
+    "example": "Only accredited investors can participate.",
+    "difficulty": 3
+  },
+  {
+    "english": "backlog",
+    "vietnamese": "tồn đọng công việc",
+    "example": "We have a three-month backlog of orders.",
+    "difficulty": 2
+  },
+  {
+    "english": "capital",
+    "vietnamese": "vốn",
+    "example": "They need more capital to expand operations.",
+    "difficulty": 1
+  },
+  {
+    "english": "infringe",
+    "vietnamese": "vi phạm bản quyền, xâm phạm",
+    "example": "The design infringes on our patent.",
+    "difficulty": 3
+  },
+  {
+    "english": "turnkey",
+    "vietnamese": "chìa khóa trao tay, giải pháp trọn gói",
+    "example": "They offer a turnkey solution for e-commerce businesses.",
+    "difficulty": 3
+  }
+]
