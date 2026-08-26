@@ -1,0 +1,6 @@
+[
+  {"id": "communication", "displayName": "Communication", "icon": "bubble.left.and.bubble.right.fill", "color": "blue"},
+  {"id": "business", "displayName": "Business", "icon": "briefcase.fill", "color": "orange"},
+  {"id": "travel", "displayName": "Travel", "icon": "airplane.circle.fill", "color": "green"},
+  {"id": "daily_life", "displayName": "Daily Life", "icon": "house.fill", "color": "purple"}
+]
