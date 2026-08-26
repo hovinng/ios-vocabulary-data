@@ -6016,5 +6016,983 @@
     "vietnamese": "lời từ biệt (cuối thư/phát biểu)",
     "example": "The letter ended with a formal valediction: Yours faithfully.",
     "difficulty": 3
+  },
+  {
+    "english": "describe symptoms",
+    "vietnamese": "mô tả triệu chứng",
+    "example": "Can you describe your symptoms in detail?",
+    "difficulty": 2
+  },
+  {
+    "english": "pain scale",
+    "vietnamese": "thang đo đau",
+    "example": "On a pain scale of zero to ten, it's a seven.",
+    "difficulty": 2
+  },
+  {
+    "english": "break bad news",
+    "vietnamese": "thông báo tin xấu",
+    "example": "Learning to break bad news is part of medical training.",
+    "difficulty": 3
+  },
+  {
+    "english": "noncompliant patient",
+    "vietnamese": "bệnh nhân không tuân thủ điều trị",
+    "example": "A noncompliant patient needs a different communication approach.",
+    "difficulty": 3
+  },
+  {
+    "english": "leading question",
+    "vietnamese": "câu hỏi gợi ý (bị cấm)",
+    "example": "Objection, that's a leading question.",
+    "difficulty": 3
+  },
+  {
+    "english": "perjury",
+    "vietnamese": "khai man trước tòa",
+    "example": "Lying under oath is perjury and carries jail time.",
+    "difficulty": 3
+  },
+  {
+    "english": "no comment policy",
+    "vietnamese": "chính sách không bình luận",
+    "example": "The company's no comment policy frustrated reporters.",
+    "difficulty": 2
+  },
+  {
+    "english": "age-appropriate language",
+    "vietnamese": "ngôn ngữ phù hợp lứa tuổi",
+    "example": "Use age-appropriate language when explaining to children.",
+    "difficulty": 3
+  },
+  {
+    "english": "respectful eldercare talk",
+    "vietnamese": "nói chuyện tôn trọng với người già",
+    "example": "Avoid baby talk, use respectful eldercare talk instead.",
+    "difficulty": 3
+  },
+  {
+    "english": "plain language summary",
+    "vietnamese": "tóm tắt ngôn ngữ đơn giản",
+    "example": "A plain language summary helps non-experts understand.",
+    "difficulty": 3
+  },
+  {
+    "english": "lip reading cues",
+    "vietnamese": "tín hiệu đọc khẩu hình",
+    "example": "In loud clubs, people rely on lip reading cues.",
+    "difficulty": 3
+  },
+  {
+    "english": "hand signal system",
+    "vietnamese": "hệ thống tín hiệu tay",
+    "example": "The crane operator used a hand signal system with the ground crew.",
+    "difficulty": 3
+  },
+  {
+    "english": "shout over the noise",
+    "vietnamese": "hét át tiếng ồn",
+    "example": "We had to shout over the noise of the factory floor.",
+    "difficulty": 2
+  },
+  {
+    "english": "de-escalation technique",
+    "vietnamese": "kỹ thuật giảm leo thang",
+    "example": "De-escalation techniques cooled down the angry customer.",
+    "difficulty": 3
+  },
+  {
+    "english": "empathetic listening",
+    "vietnamese": "lắng nghe đồng cảm",
+    "example": "Empathetic listening means feeling what they feel as they speak.",
+    "difficulty": 3
+  },
+  {
+    "english": "call-out culture",
+    "vietnamese": "văn hóa vạch trần công khai",
+    "example": "Call-out culture on social media can ruin reputations instantly.",
+    "difficulty": 3
+  },
+  {
+    "english": "JAQ-ing off",
+    "vietnamese": "giả vờ chỉ đang đặt câu hỏi",
+    "example": "JAQ-ing off means pushing an agenda under the guise of questions.",
+    "difficulty": 3
+  },
+  {
+    "english": "microexpression analysis",
+    "vietnamese": "phân tích biểu cảm vi mô",
+    "example": "Microexpression analysis reveals emotions people try to hide.",
+    "difficulty": 3
+  },
+  {
+    "english": "paralinguistic cue",
+    "vietnamese": "tín hiệu cận ngôn ngữ",
+    "example": "Paralinguistic cues like pitch and speed convey more than words.",
+    "difficulty": 3
+  },
+  {
+    "english": "verbal tic",
+    "vietnamese": "thói quen nói lặp từ",
+    "example": "His verbal tic was ending every sentence with 'you know'.",
+    "difficulty": 3
+  },
+  {
+    "english": "happiness",
+    "vietnamese": "hạnh phúc",
+    "example": "Happiness is a skill you practice, not a destination you reach.",
+    "difficulty": 1
+  },
+  {
+    "english": "sadness",
+    "vietnamese": "nỗi buồn",
+    "example": "It's okay to sit with sadness instead of numbing it.",
+    "difficulty": 1
+  },
+  {
+    "english": "anger management",
+    "vietnamese": "kiểm soát cơn giận",
+    "example": "Anger management teaches you to pause before reacting.",
+    "difficulty": 2
+  },
+  {
+    "english": "fear response",
+    "vietnamese": "phản ứng sợ hãi",
+    "example": "The fear response flooded her body with adrenaline.",
+    "difficulty": 2
+  },
+  {
+    "english": "disgust reaction",
+    "vietnamese": "phản ứng ghê tởm",
+    "example": "A disgust reaction is hardwired to protect us from toxins.",
+    "difficulty": 3
+  },
+  {
+    "english": "awe",
+    "vietnamese": "sự kinh ngạc, ngưỡng mộ",
+    "example": "Standing before the waterfall filled her with awe.",
+    "difficulty": 2
+  },
+  {
+    "english": "ecstasy",
+    "vietnamese": "cực kỳ hạnh phúc, ngây ngất",
+    "example": "Winning the award was pure ecstasy.",
+    "difficulty": 3
+  },
+  {
+    "english": "agony",
+    "vietnamese": "đau đớn tột cùng",
+    "example": "The agony of losing a child never fully goes away.",
+    "difficulty": 2
+  },
+  {
+    "english": "dread",
+    "vietnamese": "sự sợ hãi, kinh hãi trước điều sắp đến",
+    "example": "She felt dread before every performance review.",
+    "difficulty": 2
+  },
+  {
+    "english": "wonderment",
+    "vietnamese": "sự thán phục, ngạc nhiên",
+    "example": "A child's sense of wonderment is something we should protect.",
+    "difficulty": 3
+  },
+  {
+    "english": "guilt trip",
+    "vietnamese": "làm cho cảm thấy có lỗi",
+    "example": "She laid a guilt trip on him for missing her birthday.",
+    "difficulty": 2
+  },
+  {
+    "english": "shame spiral",
+    "vietnamese": "vòng xoáy xấu hổ",
+    "example": "One mistake sent her into a shame spiral for days.",
+    "difficulty": 3
+  },
+  {
+    "english": "envy vs jealousy",
+    "vietnamese": "phân biệt ghen tị và ghen tuông",
+    "example": "Envy is wanting what they have, jealousy is fearing they'll take yours.",
+    "difficulty": 3
+  },
+  {
+    "english": "pride before fall",
+    "vietnamese": "kiêu ngạo trước khi vấp ngã",
+    "example": "His pride before the fall blinded him to the risks.",
+    "difficulty": 3
+  },
+  {
+    "english": "Schadenfreude",
+    "vietnamese": "vui trên nỗi đau người khác",
+    "example": "Schadenfreude is the guilty pleasure of watching rivals fail.",
+    "difficulty": 3
+  },
+  {
+    "english": "tall poppy syndrome",
+    "vietnamese": "hội chứng bông hoa cao (ghét người nổi bật)",
+    "example": "Tall poppy syndrome means successful people get cut down by peers.",
+    "difficulty": 3
+  },
+  {
+    "english": "survivor guilt",
+    "vietnamese": "tội lỗi của người sống sót",
+    "example": "Survivor guilt haunted him after the layoffs spared his job.",
+    "difficulty": 3
+  },
+  {
+    "english": "imposter syndrome",
+    "vietnamese": "hội chứng kẻ giả mạo",
+    "example": "Imposter syndrome made her feel unworthy despite three promotions.",
+    "difficulty": 2
+  },
+  {
+    "english": "compassion fatigue",
+    "vietnamese": "mệt mỏi vì quá đồng cảm",
+    "example": "Nurses face compassion fatigue after years in the ICU.",
+    "difficulty": 3
+  },
+  {
+    "english": "mood swing",
+    "vietnamese": "thay đổi tâm trạng đột ngột",
+    "example": "Mood swings made her unpredictable during the treatment.",
+    "difficulty": 2
+  },
+  {
+    "english": "emotional numbness",
+    "vietnamese": "tê liệt cảm xúc",
+    "example": "Emotional numbness after trauma can last for months.",
+    "difficulty": 3
+  },
+  {
+    "english": "manic episode",
+    "vietnamese": "cơn hưng cảm",
+    "example": "A manic episode meant she didn't sleep for three days.",
+    "difficulty": 3
+  },
+  {
+    "english": "depressive episode",
+    "vietnamese": "giai đoạn trầm cảm",
+    "example": "A depressive episode drained all color from his world.",
+    "difficulty": 3
+  },
+  {
+    "english": "high-functioning anxiety",
+    "vietnamese": "lo âu nhưng vẫn hoạt động tốt",
+    "example": "High-functioning anxiety looks like success from the outside.",
+    "difficulty": 3
+  },
+  {
+    "english": "emotional dysregulation",
+    "vietnamese": "rối loạn điều hòa cảm xúc",
+    "example": "Emotional dysregulation causes outbursts over minor triggers.",
+    "difficulty": 3
+  },
+  {
+    "english": "languishing",
+    "vietnamese": "cảm giác trì trệ, không vui không buồn",
+    "example": "Languishing is the middle ground between depression and thriving.",
+    "difficulty": 3
+  },
+  {
+    "english": "flourishing",
+    "vietnamese": "phát triển rực rỡ, hưng thịnh",
+    "example": "Flourishing means thriving, not just surviving.",
+    "difficulty": 3
+  },
+  {
+    "english": "resting bitch face",
+    "vietnamese": "mặt lạnh tự nhiên (bị hiểu nhầm là khó chịu)",
+    "example": "Resting bitch face made her seem angry when she was fine.",
+    "difficulty": 3
+  },
+  {
+    "english": "coping mechanism",
+    "vietnamese": "cơ chế đối phó",
+    "example": "Shopping was her coping mechanism for stress.",
+    "difficulty": 2
+  },
+  {
+    "english": "grieving process",
+    "vietnamese": "quá trình để tang",
+    "example": "The grieving process has five stages, but they don't go in order.",
+    "difficulty": 3
+  },
+  {
+    "english": "acceptance stage",
+    "vietnamese": "giai đoạn chấp nhận",
+    "example": "Reaching the acceptance stage took her two years.",
+    "difficulty": 2
+  },
+  {
+    "english": "denial stage",
+    "vietnamese": "giai đoạn phủ nhận",
+    "example": "The denial stage kept him from facing the diagnosis.",
+    "difficulty": 2
+  },
+  {
+    "english": "bargaining stage",
+    "vietnamese": "giai đoạn mặc cả",
+    "example": "In the bargaining stage, she promised to change if things went back.",
+    "difficulty": 3
+  },
+  {
+    "english": "anger stage",
+    "vietnamese": "giai đoạn giận dữ",
+    "example": "The anger stage had him lashing out at everyone who tried to help.",
+    "difficulty": 2
+  },
+  {
+    "english": "radical acceptance",
+    "vietnamese": "chấp nhận triệt để",
+    "example": "Radical acceptance means stopping the fight against reality.",
+    "difficulty": 3
+  },
+  {
+    "english": "tear up",
+    "vietnamese": "rưng rưng nước mắt",
+    "example": "She teared up during the wedding vows.",
+    "difficulty": 2
+  },
+  {
+    "english": "break down crying",
+    "vietnamese": "bật khóc nức nở",
+    "example": "He broke down crying after holding it together all week.",
+    "difficulty": 2
+  },
+  {
+    "english": "welling up",
+    "vietnamese": "trào nước mắt",
+    "example": "Eyes welling up, she couldn't finish the sentence.",
+    "difficulty": 2
+  },
+  {
+    "english": "tight chest",
+    "vietnamese": "tức ngực (do cảm xúc)",
+    "example": "A tight chest signaled the anxiety was returning.",
+    "difficulty": 2
+  },
+  {
+    "english": "butterflies in stomach",
+    "vietnamese": "bồn chồn trong bụng",
+    "example": "Butterflies in her stomach meant the nerves were kicking in.",
+    "difficulty": 2
+  },
+  {
+    "english": "lump in throat",
+    "vietnamese": "nghẹn ở cổ",
+    "example": "A lump in her throat stopped the words from coming out.",
+    "difficulty": 2
+  },
+  {
+    "english": "goosebumps",
+    "vietnamese": "nổi da gà",
+    "example": "The speech was so powerful everyone got goosebumps.",
+    "difficulty": 2
+  },
+  {
+    "english": "gratitude journal",
+    "vietnamese": "nhật ký biết ơn",
+    "example": "Writing a gratitude journal rewired his outlook in three weeks.",
+    "difficulty": 2
+  },
+  {
+    "english": "savoring the moment",
+    "vietnamese": "tận hưởng khoảnh khắc",
+    "example": "Savoring the moment made the vacation feel twice as long.",
+    "difficulty": 3
+  },
+  {
+    "english": "flow state",
+    "vietnamese": "trạng thái dòng chảy (tập trung cao độ)",
+    "example": "In flow state, hours passed without noticing.",
+    "difficulty": 2
+  },
+  {
+    "english": "resilience building",
+    "vietnamese": "xây dựng khả năng phục hồi",
+    "example": "Resilience building turns setbacks into comebacks.",
+    "difficulty": 3
+  },
+  {
+    "english": "self-compassion practice",
+    "vietnamese": "thực hành tự trắc ẩn",
+    "example": "Self-compassion practice means treating yourself like a friend.",
+    "difficulty": 3
+  },
+  {
+    "english": "emotional unavailability",
+    "vietnamese": "sự không sẵn sàng về mặt cảm xúc",
+    "example": "Emotional unavailability kept him at arm's length in relationships.",
+    "difficulty": 3
+  },
+  {
+    "english": "attachment style",
+    "vietnamese": "kiểu gắn bó (tâm lý)",
+    "example": "An anxious attachment style craves closeness but fears abandonment.",
+    "difficulty": 3
+  },
+  {
+    "english": "emotional hangover",
+    "vietnamese": "dư âm cảm xúc (sau sự kiện lớn)",
+    "example": "After the fight, an emotional hangover lingered for days.",
+    "difficulty": 3
+  },
+  {
+    "english": "love-bombing",
+    "vietnamese": "dội bom tình cảm (thao túng)",
+    "example": "Love-bombing early in dating is often a manipulation tactic.",
+    "difficulty": 3
+  },
+  {
+    "english": "emotional dumping",
+    "vietnamese": "trút cảm xúc lên người khác",
+    "example": "Emotional dumping without asking permission exhausts friendships.",
+    "difficulty": 3
+  },
+  {
+    "english": "emotional contagion",
+    "vietnamese": "lây lan cảm xúc",
+    "example": "Emotional contagion spread panic through the office.",
+    "difficulty": 3
+  },
+  {
+    "english": "affective forecasting",
+    "vietnamese": "dự báo cảm xúc (tâm lý học)",
+    "example": "Affective forecasting shows we're bad at predicting our future feelings.",
+    "difficulty": 3
+  },
+  {
+    "english": "emotional granularity",
+    "vietnamese": "độ chi tiết của từ vựng cảm xúc",
+    "example": "High emotional granularity means you can name emotions with precision.",
+    "difficulty": 3
+  },
+  {
+    "english": "alexithymia",
+    "vietnamese": "chứng mù cảm xúc (không nhận biết được)",
+    "example": "Alexithymia meant he couldn't name what he was feeling.",
+    "difficulty": 3
+  },
+  {
+    "english": "emotional flashback",
+    "vietnamese": "hồi tưởng cảm xúc (PTSD)",
+    "example": "An emotional flashback transported her back to the childhood fear.",
+    "difficulty": 3
+  },
+  {
+    "english": "trigger warning",
+    "vietnamese": "cảnh báo nội dung nhạy cảm",
+    "example": "The article included a trigger warning for abuse survivors.",
+    "difficulty": 2
+  },
+  {
+    "english": "emotional bandwidth",
+    "vietnamese": "dung lượng cảm xúc",
+    "example": "I don't have the emotional bandwidth for drama right now.",
+    "difficulty": 2
+  },
+  {
+    "english": "toxic positivity",
+    "vietnamese": "tích cực độc hại",
+    "example": "Toxic positivity dismisses real pain with 'just think positive'.",
+    "difficulty": 3
+  },
+  {
+    "english": "emotional invalidation",
+    "vietnamese": "phủ nhận cảm xúc của người khác",
+    "example": "Emotional invalidation sounds like 'you're overreacting'.",
+    "difficulty": 3
+  },
+  {
+    "english": "difficult conversation framework",
+    "vietnamese": "khung đối thoại khó",
+    "example": "A difficult conversation framework helps you stay calm and clear.",
+    "difficulty": 3
+  },
+  {
+    "english": "I-statement technique",
+    "vietnamese": "kỹ thuật dùng câu 'tôi'",
+    "example": "I-statements reduce defensiveness: 'I feel hurt when...' not 'You always...'",
+    "difficulty": 2
+  },
+  {
+    "english": "nonviolent communication",
+    "vietnamese": "giao tiếp phi bạo lực",
+    "example": "Nonviolent communication focuses on needs, not blame.",
+    "difficulty": 3
+  },
+  {
+    "english": "flooding response",
+    "vietnamese": "phản ứng ngập lụt (tâm lý)",
+    "example": "During flooding, your heart races and thinking shuts down.",
+    "difficulty": 3
+  },
+  {
+    "english": "defensiveness loop",
+    "vietnamese": "vòng lặp phòng thủ",
+    "example": "The defensiveness loop meant every critique was met with counter-attack.",
+    "difficulty": 3
+  },
+  {
+    "english": "high-context culture",
+    "vietnamese": "văn hóa ngữ cảnh cao",
+    "example": "In high-context cultures like Japan, meaning comes from what's unsaid.",
+    "difficulty": 3
+  },
+  {
+    "english": "low-context culture",
+    "vietnamese": "văn hóa ngữ cảnh thấp",
+    "example": "Low-context cultures like Germany expect everything spelled out.",
+    "difficulty": 3
+  },
+  {
+    "english": "monochronic time",
+    "vietnamese": "quan niệm thời gian tuyến tính",
+    "example": "Monochronic time cultures value punctuality and one thing at a time.",
+    "difficulty": 3
+  },
+  {
+    "english": "polychronic time",
+    "vietnamese": "quan niệm thời gian đa nhiệm",
+    "example": "Polychronic time cultures juggle many things and value relationships.",
+    "difficulty": 3
+  },
+  {
+    "english": "saving face",
+    "vietnamese": "giữ thể diện",
+    "example": "In many cultures, saving face matters more than being right.",
+    "difficulty": 2
+  },
+  {
+    "english": "direct vs indirect communication",
+    "vietnamese": "giao tiếp trực tiếp vs gián tiếp",
+    "example": "Direct communication says 'no', indirect says 'maybe later'.",
+    "difficulty": 2
+  },
+  {
+    "english": "character arc",
+    "vietnamese": "hành trình nhân vật",
+    "example": "Every good story has a character arc of growth or fall.",
+    "difficulty": 3
+  },
+  {
+    "english": "unreliable narrator",
+    "vietnamese": "người kể chuyện không đáng tin",
+    "example": "An unreliable narrator makes the reader question everything.",
+    "difficulty": 3
+  },
+  {
+    "english": "show don't tell",
+    "vietnamese": "cho thấy, đừng kể",
+    "example": "Show don't tell means 'his hands shook' not 'he was nervous'.",
+    "difficulty": 2
+  },
+  {
+    "english": "framing device",
+    "vietnamese": "thiết bị khung (cách kể)",
+    "example": "A framing device wraps the story in a larger context.",
+    "difficulty": 3
+  },
+  {
+    "english": "call to adventure",
+    "vietnamese": "tiếng gọi phiêu lưu",
+    "example": "The call to adventure is the moment everything changes.",
+    "difficulty": 3
+  },
+  {
+    "english": "vocal fry",
+    "vietnamese": "giọng khàn cuối câu",
+    "example": "Vocal fry at the end of sentences can sound unconfident.",
+    "difficulty": 3
+  },
+  {
+    "english": "uptalk",
+    "vietnamese": "lên giọng cuối câu",
+    "example": "Uptalk makes statements sound like questions.",
+    "difficulty": 3
+  },
+  {
+    "english": "power posing",
+    "vietnamese": "tạo dáng quyền lực",
+    "example": "Power posing before a talk boosts confidence temporarily.",
+    "difficulty": 3
+  },
+  {
+    "english": "impromptu speaking",
+    "vietnamese": "nói ứng khẩu",
+    "example": "Impromptu speaking is a skill you build with practice.",
+    "difficulty": 3
+  },
+  {
+    "english": "reply time etiquette",
+    "vietnamese": "phép tắc về thời gian trả lời",
+    "example": "Reply time etiquette varies: some expect minutes, others days.",
+    "difficulty": 3
+  },
+  {
+    "english": "panic attack",
+    "vietnamese": "cơn hoảng loạn",
+    "example": "A panic attack can feel like a heart attack.",
+    "difficulty": 2
+  },
+  {
+    "english": "grounding technique",
+    "vietnamese": "kỹ thuật tiếp đất (giảm lo âu)",
+    "example": "A grounding technique like naming five things you see calms panic.",
+    "difficulty": 3
+  },
+  {
+    "english": "mindfulness meditation",
+    "vietnamese": "thiền chánh niệm",
+    "example": "Mindfulness meditation trains you to observe thoughts without judgment.",
+    "difficulty": 3
+  },
+  {
+    "english": "cognitive distortion",
+    "vietnamese": "méo mó nhận thức",
+    "example": "Cognitive distortions like catastrophizing warp reality.",
+    "difficulty": 3
+  },
+  {
+    "english": "catastrophizing",
+    "vietnamese": "thổi phồng thảm họa (suy nghĩ)",
+    "example": "Catastrophizing turns a small mistake into total failure in your mind.",
+    "difficulty": 3
+  },
+  {
+    "english": "black-and-white thinking",
+    "vietnamese": "tư duy trắng đen",
+    "example": "Black-and-white thinking sees people as all good or all bad.",
+    "difficulty": 3
+  },
+  {
+    "english": "emotional literacy",
+    "vietnamese": "hiểu biết về cảm xúc",
+    "example": "Emotional literacy means being fluent in the language of feelings.",
+    "difficulty": 3
+  },
+  {
+    "english": "vent session",
+    "vietnamese": "buổi xả cảm xúc",
+    "example": "A vent session with a friend cleared her head.",
+    "difficulty": 2
+  },
+  {
+    "english": "taking accountability",
+    "vietnamese": "nhận trách nhiệm (không đổ lỗi)",
+    "example": "Taking accountability is the first step in a genuine apology.",
+    "difficulty": 2
+  },
+  {
+    "english": "holding space",
+    "vietnamese": "giữ không gian (lắng nghe không phán xét)",
+    "example": "Holding space for someone means listening without fixing.",
+    "difficulty": 3
+  },
+  {
+    "english": "repair conversation",
+    "vietnamese": "cuộc trò chuyện hàn gắn",
+    "example": "A repair conversation after a fight rebuilds trust.",
+    "difficulty": 3
+  },
+  {
+    "english": "rupture and repair",
+    "vietnamese": "đứt gãy và hàn gắn (quan hệ)",
+    "example": "Rupture and repair cycles actually strengthen close bonds.",
+    "difficulty": 3
+  },
+  {
+    "english": "taking the high road",
+    "vietnamese": "chọn cách ứng xử cao thượng",
+    "example": "Taking the high road means not sinking to their level.",
+    "difficulty": 2
+  },
+  {
+    "english": "vocal range",
+    "vietnamese": "âm vực giọng nói",
+    "example": "A wide vocal range keeps the audience engaged.",
+    "difficulty": 3
+  },
+  {
+    "english": "articulation clarity",
+    "vietnamese": "sự rõ ràng trong phát âm",
+    "example": "Articulation clarity matters more than vocabulary in public speaking.",
+    "difficulty": 3
+  },
+  {
+    "english": "breath control",
+    "vietnamese": "kiểm soát hơi thở (khi nói)",
+    "example": "Breath control stops you from running out of air mid-sentence.",
+    "difficulty": 3
+  },
+  {
+    "english": "speaking rate",
+    "vietnamese": "tốc độ nói",
+    "example": "A speaking rate of 150 words per minute is ideal.",
+    "difficulty": 3
+  },
+  {
+    "english": "ghost mode",
+    "vietnamese": "chế độ ẩn, không phản hồi",
+    "example": "Going into ghost mode during a crisis is a coping strategy.",
+    "difficulty": 2
+  },
+  {
+    "english": "oversharing boundary",
+    "vietnamese": "ranh giới chia sẻ quá mức",
+    "example": "The oversharing boundary blurs on social media.",
+    "difficulty": 3
+  },
+  {
+    "english": "performative activism",
+    "vietnamese": "hoạt động xã hội trình diễn",
+    "example": "Performative activism posts a black square and calls it done.",
+    "difficulty": 3
+  },
+  {
+    "english": "doomscrolling",
+    "vietnamese": "lướt tin xấu không ngừng",
+    "example": "Doomscrolling at 2 am feeds anxiety.",
+    "difficulty": 3
+  },
+  {
+    "english": "online disinhibition effect",
+    "vietnamese": "hiệu ứng mất ức chế khi online",
+    "example": "The online disinhibition effect makes people crueler online than in person.",
+    "difficulty": 3
+  },
+  {
+    "english": "algorithmic echo chamber",
+    "vietnamese": "buồng vọng âm thuật toán",
+    "example": "An algorithmic echo chamber only shows content you already agree with.",
+    "difficulty": 3
+  },
+  {
+    "english": "friendship drift",
+    "vietnamese": "tình bạn phai nhạt dần",
+    "example": "Friendship drift happens naturally when lives move apart.",
+    "difficulty": 2
+  },
+  {
+    "english": "rekindle a friendship",
+    "vietnamese": "nối lại tình bạn",
+    "example": "A simple text can rekindle a friendship after years.",
+    "difficulty": 2
+  },
+  {
+    "english": "set a boundary",
+    "vietnamese": "đặt ranh giới",
+    "example": "Learning to set a boundary is key to healthy relationships.",
+    "difficulty": 2
+  },
+  {
+    "english": "people pleaser",
+    "vietnamese": "người luôn muốn làm vừa lòng",
+    "example": "A people pleaser says yes when they desperately want to say no.",
+    "difficulty": 2
+  },
+  {
+    "english": "emotional vampire",
+    "vietnamese": "ma cà rồng cảm xúc (hút cạn năng lượng)",
+    "example": "An emotional vampire drains you dry with constant drama.",
+    "difficulty": 3
+  },
+  {
+    "english": "parasocial relationship",
+    "vietnamese": "mối quan hệ một chiều (với người nổi tiếng)",
+    "example": "A parasocial relationship makes you feel you know a stranger.",
+    "difficulty": 3
+  },
+  {
+    "english": "friend breakup",
+    "vietnamese": "chia tay tình bạn",
+    "example": "A friend breakup hurts differently than romantic ones.",
+    "difficulty": 2
+  },
+  {
+    "english": "verbal judo",
+    "vietnamese": "nhu đạo ngôn từ (kỹ năng hóa giải)",
+    "example": "Verbal judo redirects aggression with words instead of force.",
+    "difficulty": 3
+  },
+  {
+    "english": "elephant in the room",
+    "vietnamese": "vấn đề hiển nhiên nhưng bị né tránh",
+    "example": "Nobody mentioned the elephant in the room: the failed launch.",
+    "difficulty": 2
+  },
+  {
+    "english": "double bind",
+    "vietnamese": "tình huống tiến thoái lưỡng nan (giao tiếp)",
+    "example": "A double bind traps you: speak up and you're aggressive, stay quiet and you're weak.",
+    "difficulty": 3
+  },
+  {
+    "english": "meta-communication",
+    "vietnamese": "giao tiếp về cách giao tiếp",
+    "example": "Meta-communication means discussing how you talk to each other.",
+    "difficulty": 3
+  },
+  {
+    "english": "pathological jealousy",
+    "vietnamese": "ghen tuông bệnh lý",
+    "example": "Pathological jealousy involves constant suspicion without cause.",
+    "difficulty": 3
+  },
+  {
+    "english": "chronic loneliness",
+    "vietnamese": "cô đơn mãn tính",
+    "example": "Chronic loneliness is a health risk comparable to smoking.",
+    "difficulty": 3
+  },
+  {
+    "english": "grief brain",
+    "vietnamese": "não bộ trong tang chế",
+    "example": "Grief brain makes you forgetful and foggy for months.",
+    "difficulty": 3
+  },
+  {
+    "english": "emotional sobriety",
+    "vietnamese": "sự tỉnh táo về cảm xúc",
+    "example": "Emotional sobriety means handling feelings without numbing them.",
+    "difficulty": 3
+  },
+  {
+    "english": "compersion",
+    "vietnamese": "niềm vui khi thấy người mình yêu hạnh phúc (với người khác)",
+    "example": "Compersion is the opposite of jealousy in open relationships.",
+    "difficulty": 3
+  },
+  {
+    "english": "eudaimonia",
+    "vietnamese": "hạnh phúc ý nghĩa (triết học)",
+    "example": "Eudaimonia is happiness from a life well-lived, not pleasure.",
+    "difficulty": 3
+  },
+  {
+    "english": "weltschmerz",
+    "vietnamese": "nỗi buồn thế giới",
+    "example": "Weltschmerz is the sadness that the world can never match your ideals.",
+    "difficulty": 3
+  },
+  {
+    "english": "saudade",
+    "vietnamese": "nỗi nhớ da diết (tiếng Bồ Đào Nha)",
+    "example": "Saudade is a deep longing for something absent or lost.",
+    "difficulty": 3
+  },
+  {
+    "english": "project your voice",
+    "vietnamese": "phóng giọng ra xa",
+    "example": "Project your voice from your diaphragm, not your throat.",
+    "difficulty": 2
+  },
+  {
+    "english": "vocal coaching",
+    "vietnamese": "huấn luyện giọng nói",
+    "example": "Vocal coaching helped him speak without straining.",
+    "difficulty": 3
+  },
+  {
+    "english": "cadence pattern",
+    "vietnamese": "nhịp điệu giọng nói",
+    "example": "A varied cadence pattern prevents monotone delivery.",
+    "difficulty": 3
+  },
+  {
+    "english": "sotto voce",
+    "vietnamese": "nói nhỏ, thì thầm cố ý",
+    "example": "He added a sotto voce aside that only the front row heard.",
+    "difficulty": 3
+  },
+  {
+    "english": "active presence",
+    "vietnamese": "sự hiện diện chủ động",
+    "example": "Active presence means being fully here, not planning your reply.",
+    "difficulty": 3
+  },
+  {
+    "english": "back-channeling",
+    "vietnamese": "phản hồi ngắn khi nghe (ừ, à)",
+    "example": "Back-channeling with 'mmhmm' shows you're following along.",
+    "difficulty": 3
+  },
+  {
+    "english": "therapeutic silence",
+    "vietnamese": "im lặng trị liệu",
+    "example": "Therapeutic silence gives the speaker space to go deeper.",
+    "difficulty": 3
+  },
+  {
+    "english": "compassionate inquiry",
+    "vietnamese": "truy vấn từ bi",
+    "example": "Compassionate inquiry asks 'what happened to you' not 'what's wrong with you'.",
+    "difficulty": 3
+  },
+  {
+    "english": "coaching conversation",
+    "vietnamese": "đối thoại coaching",
+    "example": "A coaching conversation draws out solutions, it doesn't give them.",
+    "difficulty": 3
+  },
+  {
+    "english": "water cooler talk",
+    "vietnamese": "chuyện phiếm chỗ mát nước",
+    "example": "Water cooler talk builds bonds that meetings never can.",
+    "difficulty": 2
+  },
+  {
+    "english": "verbal volume control",
+    "vietnamese": "kiểm soát âm lượng lời nói",
+    "example": "Verbal volume control adjusts to the room size.",
+    "difficulty": 3
+  },
+  {
+    "english": "opening line",
+    "vietnamese": "câu mở đầu (để bắt chuyện)",
+    "example": "A good opening line is more about tone than words.",
+    "difficulty": 2
+  },
+  {
+    "english": "closing statement impact",
+    "vietnamese": "sức nặng của câu kết",
+    "example": "The closing statement impact makes or breaks a speech.",
+    "difficulty": 3
+  },
+  {
+    "english": "warm handoff",
+    "vietnamese": "chuyển giao ấm áp (giới thiệu)",
+    "example": "A warm handoff emails both people so nobody's left cold.",
+    "difficulty": 2
+  },
+  {
+    "english": "de-escalation training",
+    "vietnamese": "huấn luyện giảm leo thang",
+    "example": "De-escalation training teaches you to calm an agitated person.",
+    "difficulty": 3
+  },
+  {
+    "english": "exception question",
+    "vietnamese": "câu hỏi ngoại lệ (therapy)",
+    "example": "An exception question asks: when was this problem NOT happening?",
+    "difficulty": 3
+  },
+  {
+    "english": "scaling question",
+    "vietnamese": "câu hỏi thang điểm",
+    "example": "A scaling question: on a scale of one to ten, how confident are you?",
+    "difficulty": 3
+  },
+  {
+    "english": "miracle question",
+    "vietnamese": "câu hỏi phép màu (therapy)",
+    "example": "The miracle question imagines your problem solved overnight.",
+    "difficulty": 3
+  },
+  {
+    "english": "validation statement",
+    "vietnamese": "câu xác nhận cảm xúc",
+    "example": "A validation statement sounds like 'that makes total sense'.",
+    "difficulty": 2
   }
 ]

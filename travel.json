@@ -6766,5 +6766,209 @@
     "vietnamese": "hộ chiếu sinh trắc (có chip)",
     "example": "A biometric passport lets you use the automated gates.",
     "difficulty": 3
+  },
+  {
+    "english": "free solo climbing",
+    "vietnamese": "leo núi không dây bảo hộ",
+    "example": "Free solo climbing is the most dangerous form of rock climbing.",
+    "difficulty": 3
+  },
+  {
+    "english": "bouldering gym",
+    "vietnamese": "phòng tập leo khối đá thấp",
+    "example": "We trained at a bouldering gym before the outdoor trip.",
+    "difficulty": 2
+  },
+  {
+    "english": "whitewater rafting",
+    "vietnamese": "chèo thuyền vượt thác",
+    "example": "Whitewater rafting through the Grand Canyon took five days.",
+    "difficulty": 3
+  },
+  {
+    "english": "rapids class V",
+    "vietnamese": "thác ghềnh cấp 5",
+    "example": "Only experienced rafters attempt class V rapids.",
+    "difficulty": 3
+  },
+  {
+    "english": "slacklining",
+    "vietnamese": "đi dây chùng (trên cao)",
+    "example": "Slacklining between two cliffs requires perfect balance.",
+    "difficulty": 3
+  },
+  {
+    "english": "snowkiting",
+    "vietnamese": "trượt tuyết bằng diều",
+    "example": "Snowkiting across the frozen lake felt like flying.",
+    "difficulty": 3
+  },
+  {
+    "english": "sandboarding",
+    "vietnamese": "trượt cát",
+    "example": "Sandboarding down the dune was faster than any snow slope.",
+    "difficulty": 3
+  },
+  {
+    "english": "kitesurfing",
+    "vietnamese": "lướt sóng bằng diều",
+    "example": "Kitesurfing lessons start with kite control on the beach.",
+    "difficulty": 3
+  },
+  {
+    "english": "deep-water solo",
+    "vietnamese": "leo vách đá trên nước sâu",
+    "example": "Deep-water solo means falling safely into the sea.",
+    "difficulty": 3
+  },
+  {
+    "english": "skydiving tandem",
+    "vietnamese": "nhảy dù đôi",
+    "example": "My first skydiving tandem jump was from fourteen thousand feet.",
+    "difficulty": 2
+  },
+  {
+    "english": "BASE jumping",
+    "vietnamese": "nhảy từ điểm cố định (cầu/vách)",
+    "example": "BASE jumping from the cliff required a permit.",
+    "difficulty": 3
+  },
+  {
+    "english": "downhill mountain biking",
+    "vietnamese": "đạp xe đổ đèo",
+    "example": "Downhill mountain biking at the ski resort was a summer thrill.",
+    "difficulty": 3
+  },
+  {
+    "english": "safari lodge",
+    "vietnamese": "nhà nghỉ safari",
+    "example": "The safari lodge overlooked a waterhole with elephants.",
+    "difficulty": 2
+  },
+  {
+    "english": "walking safari",
+    "vietnamese": "safari đi bộ",
+    "example": "A walking safari gave us a ground-level view of the bush.",
+    "difficulty": 2
+  },
+  {
+    "english": "ranger patrol",
+    "vietnamese": "đội tuần tra kiểm lâm",
+    "example": "The ranger patrol tracked a lion pride for three days.",
+    "difficulty": 3
+  },
+  {
+    "english": "hide photography blind",
+    "vietnamese": "lều ẩn nấp chụp động vật",
+    "example": "We spent hours in a hide photography blind waiting for leopards.",
+    "difficulty": 3
+  },
+  {
+    "english": "migration river crossing",
+    "vietnamese": "cuộc vượt sông di cư",
+    "example": "The wildebeest migration river crossing was chaotic and loud.",
+    "difficulty": 3
+  },
+  {
+    "english": "bush breakfast",
+    "vietnamese": "bữa sáng giữa đồng hoang",
+    "example": "A bush breakfast was set up under an acacia tree.",
+    "difficulty": 3
+  },
+  {
+    "english": "anti-poaching unit",
+    "vietnamese": "đội chống săn trộm",
+    "example": "The anti-poaching unit uses drones to track illegal hunters.",
+    "difficulty": 3
+  },
+  {
+    "english": "animal tracking",
+    "vietnamese": "theo dấu động vật",
+    "example": "Learning animal tracking revealed how close lions had passed.",
+    "difficulty": 2
+  },
+  {
+    "english": "coliving space",
+    "vietnamese": "không gian sống chung cho dân du mục",
+    "example": "A coliving space in Chiang Mai caters to digital nomads.",
+    "difficulty": 2
+  },
+  {
+    "english": "coworking day pass",
+    "vietnamese": "vé ngày không gian làm việc chung",
+    "example": "A coworking day pass costs five dollars here.",
+    "difficulty": 2
+  },
+  {
+    "english": "visa run destination",
+    "vietnamese": "điểm đến chạy visa",
+    "example": "Penang is a popular visa run destination from Thailand.",
+    "difficulty": 3
+  },
+  {
+    "english": "slow travel lifestyle",
+    "vietnamese": "lối sống du lịch chậm",
+    "example": "The slow travel lifestyle means spending months in each place.",
+    "difficulty": 2
+  },
+  {
+    "english": "location-independent career",
+    "vietnamese": "sự nghiệp không phụ thuộc địa điểm",
+    "example": "A location-independent career let him work from beach cafes.",
+    "difficulty": 3
+  },
+  {
+    "english": "timezone arbitrage",
+    "vietnamese": "chênh lệch múi giờ (trong công việc)",
+    "example": "Timezone arbitrage meant working nights but surfing days.",
+    "difficulty": 3
+  },
+  {
+    "english": "nomad insurance",
+    "vietnamese": "bảo hiểm cho dân du mục số",
+    "example": "Nomad insurance covers you across multiple countries.",
+    "difficulty": 3
+  },
+  {
+    "english": "community meetup",
+    "vietnamese": "gặp mặt cộng đồng du mục",
+    "example": "The weekly community meetup connects nomads in town.",
+    "difficulty": 2
+  },
+  {
+    "english": "composition rule of thirds",
+    "vietnamese": "quy tắc bố cục 1/3",
+    "example": "The composition rule of thirds created a more dynamic shot.",
+    "difficulty": 3
+  },
+  {
+    "english": "shallow depth of field",
+    "vietnamese": "độ sâu trường ảnh nông",
+    "example": "Shallow depth of field blurred the background beautifully.",
+    "difficulty": 3
+  },
+  {
+    "english": "time-lapse sunset",
+    "vietnamese": "chụp tua nhanh hoàng hôn",
+    "example": "I set up a time-lapse sunset over the ruins.",
+    "difficulty": 2
+  },
+  {
+    "english": "drone aerial footage",
+    "vietnamese": "quay phim trên không bằng drone",
+    "example": "Drone aerial footage showed how remote the island was.",
+    "difficulty": 2
+  },
+  {
+    "english": "light pollution map",
+    "vietnamese": "bản đồ ô nhiễm ánh sáng",
+    "example": "We used a light pollution map to find the darkest sky.",
+    "difficulty": 3
+  },
+  {
+    "english": "photo release form",
+    "vietnamese": "giấy đồng ý chụp ảnh",
+    "example": "Get a photo release form signed for street portraits.",
+    "difficulty": 3
   }
 ]

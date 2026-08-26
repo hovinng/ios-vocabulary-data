@@ -6022,5 +6022,401 @@
     "vietnamese": "thay cho báo trước (payment in lieu)",
     "example": "He received pay in lieu of notice when let go.",
     "difficulty": 3
+  },
+  {
+    "english": "distributed team",
+    "vietnamese": "đội ngũ phân tán",
+    "example": "A distributed team spans three continents and five time zones.",
+    "difficulty": 2
+  },
+  {
+    "english": "WFH policy",
+    "vietnamese": "chính sách làm việc từ xa",
+    "example": "The new WFH policy allows two days remote per week.",
+    "difficulty": 2
+  },
+  {
+    "english": "hot desking",
+    "vietnamese": "bàn làm việc linh hoạt (không cố định)",
+    "example": "Hot desking means you grab any available desk each morning.",
+    "difficulty": 3
+  },
+  {
+    "english": "digital presenteeism",
+    "vietnamese": "văn hóa phải online liên tục",
+    "example": "Digital presenteeism pressures staff to stay green on Slack all day.",
+    "difficulty": 3
+  },
+  {
+    "english": "sync meeting",
+    "vietnamese": "họp đồng bộ",
+    "example": "The daily sync meeting keeps the remote team aligned.",
+    "difficulty": 2
+  },
+  {
+    "english": "async communication",
+    "vietnamese": "giao tiếp không đồng bộ",
+    "example": "Async communication via recorded updates respects everyone's time.",
+    "difficulty": 3
+  },
+  {
+    "english": "overemployment",
+    "vietnamese": "làm nhiều việc cùng lúc (bí mật)",
+    "example": "Overemployment is a growing trend among remote workers.",
+    "difficulty": 3
+  },
+  {
+    "english": "virtual onboarding",
+    "vietnamese": "đào tạo nhân viên mới từ xa",
+    "example": "Virtual onboarding took two weeks of video calls.",
+    "difficulty": 2
+  },
+  {
+    "english": "home office stipend",
+    "vietnamese": "trợ cấp văn phòng tại nhà",
+    "example": "The company provides a one-time home office stipend.",
+    "difficulty": 2
+  },
+  {
+    "english": "camera fatigue",
+    "vietnamese": "mệt mỏi do phải bật camera",
+    "example": "Camera fatigue sets in after six hours of video meetings.",
+    "difficulty": 3
+  },
+  {
+    "english": "core working hours",
+    "vietnamese": "khung giờ làm việc chính",
+    "example": "Core working hours are 10 to 3, the rest is flexible.",
+    "difficulty": 2
+  },
+  {
+    "english": "cross-timezone scheduling",
+    "vietnamese": "xếp lịch xuyên múi giờ",
+    "example": "Cross-timezone scheduling is a daily puzzle for global teams.",
+    "difficulty": 3
+  },
+  {
+    "english": "remote stand-up",
+    "vietnamese": "họp nhanh từ xa",
+    "example": "Our remote stand-up takes ten minutes on Slack each morning.",
+    "difficulty": 2
+  },
+  {
+    "english": "quiet quitting",
+    "vietnamese": "chỉ làm đúng việc, không hơn",
+    "example": "Quiet quitting means doing the bare minimum and logging off.",
+    "difficulty": 3
+  },
+  {
+    "english": "productivity paranoia",
+    "vietnamese": "hoang tưởng về năng suất",
+    "example": "Productivity paranoia led managers to install tracking software.",
+    "difficulty": 3
+  },
+  {
+    "english": "operational risk",
+    "vietnamese": "rủi ro vận hành",
+    "example": "Operational risk spiked when the main supplier went bankrupt.",
+    "difficulty": 3
+  },
+  {
+    "english": "credit default swap",
+    "vietnamese": "hoán đổi rủi ro tín dụng",
+    "example": "Credit default swaps triggered the 2008 financial crisis.",
+    "difficulty": 3
+  },
+  {
+    "english": "force majeure event",
+    "vietnamese": "sự kiện bất khả kháng",
+    "example": "The pandemic was declared a force majeure event in all contracts.",
+    "difficulty": 3
+  },
+  {
+    "english": "actuarial modeling",
+    "vietnamese": "mô hình định phí bảo hiểm",
+    "example": "Actuarial modeling predicted the flood risk for the region.",
+    "difficulty": 3
+  },
+  {
+    "english": "key person risk",
+    "vietnamese": "rủi ro mất người chủ chốt",
+    "example": "Key person risk is high when only one engineer knows the codebase.",
+    "difficulty": 3
+  },
+  {
+    "english": "reputational risk",
+    "vietnamese": "rủi ro danh tiếng",
+    "example": "A viral scandal turned into a reputational risk overnight.",
+    "difficulty": 3
+  },
+  {
+    "english": "hedge fund strategy",
+    "vietnamese": "chiến lược quỹ phòng hộ",
+    "example": "The hedge fund strategy combines long and short positions.",
+    "difficulty": 3
+  },
+  {
+    "english": "business interruption insurance",
+    "vietnamese": "bảo hiểm gián đoạn kinh doanh",
+    "example": "Business interruption insurance covered the lost revenue during repairs.",
+    "difficulty": 3
+  },
+  {
+    "english": "risk appetite statement",
+    "vietnamese": "tuyên bố khẩu vị rủi ro",
+    "example": "The board approved a new risk appetite statement for cybersecurity.",
+    "difficulty": 3
+  },
+  {
+    "english": "black swan event",
+    "vietnamese": "sự kiện thiên nga đen",
+    "example": "A black swan event like a pandemic no model predicted.",
+    "difficulty": 3
+  },
+  {
+    "english": "fiduciary duty",
+    "vietnamese": "nghĩa vụ ủy thác",
+    "example": "Directors breached their fiduciary duty to shareholders.",
+    "difficulty": 3
+  },
+  {
+    "english": "non-solicitation clause",
+    "vietnamese": "điều khoản cấm lôi kéo",
+    "example": "A non-solicitation clause stops you from poaching former colleagues.",
+    "difficulty": 3
+  },
+  {
+    "english": "whistleblower protection",
+    "vietnamese": "bảo vệ người tố cáo",
+    "example": "Whistleblower protection laws shield employees who report fraud.",
+    "difficulty": 3
+  },
+  {
+    "english": "antitrust violation",
+    "vietnamese": "vi phạm luật chống độc quyền",
+    "example": "Price fixing between competitors is an antitrust violation.",
+    "difficulty": 3
+  },
+  {
+    "english": "data privacy regulation",
+    "vietnamese": "quy định bảo vệ dữ liệu",
+    "example": "The new data privacy regulation requires opt-in consent.",
+    "difficulty": 2
+  },
+  {
+    "english": "corporate veil",
+    "vietnamese": "bức màn pháp nhân công ty",
+    "example": "Piercing the corporate veil holds owners personally liable.",
+    "difficulty": 3
+  },
+  {
+    "english": "indemnification clause",
+    "vietnamese": "điều khoản bồi hoàn",
+    "example": "The indemnification clause covers all legal costs from lawsuits.",
+    "difficulty": 3
+  },
+  {
+    "english": "structured interview",
+    "vietnamese": "phỏng vấn có cấu trúc",
+    "example": "A structured interview asks all candidates the same set of questions.",
+    "difficulty": 2
+  },
+  {
+    "english": "behavioral interview",
+    "vietnamese": "phỏng vấn theo tình huống",
+    "example": "In a behavioral interview, they ask how you handled past challenges.",
+    "difficulty": 2
+  },
+  {
+    "english": "compensation benchmarking",
+    "vietnamese": "đối chiếu mức lương thị trường",
+    "example": "Compensation benchmarking showed they were underpaying engineers.",
+    "difficulty": 3
+  },
+  {
+    "english": "employee value proposition",
+    "vietnamese": "đề xuất giá trị cho nhân viên",
+    "example": "Our employee value proposition highlights flexible hours and equity.",
+    "difficulty": 3
+  },
+  {
+    "english": "headcount freeze",
+    "vietnamese": "đóng băng tuyển dụng",
+    "example": "A headcount freeze means no new hires until next quarter.",
+    "difficulty": 2
+  },
+  {
+    "english": "offboarding checklist",
+    "vietnamese": "danh sách thủ tục cho nhân viên nghỉ việc",
+    "example": "The offboarding checklist includes revoking access and exit interview.",
+    "difficulty": 2
+  },
+  {
+    "english": "blind screening",
+    "vietnamese": "sàng lọc hồ sơ ẩn danh",
+    "example": "Blind screening removes names and schools to reduce bias.",
+    "difficulty": 3
+  },
+  {
+    "english": "boomerang employee",
+    "vietnamese": "nhân viên quay lại công ty cũ",
+    "example": "Boomerang employees often bring fresh perspective from outside.",
+    "difficulty": 3
+  },
+  {
+    "english": "attrition rate",
+    "vietnamese": "tỷ lệ nghỉ việc",
+    "example": "The attrition rate hit 30 percent after the RTO mandate.",
+    "difficulty": 3
+  },
+  {
+    "english": "incoterm",
+    "vietnamese": "điều kiện giao hàng quốc tế",
+    "example": "Incoterm FOB means the buyer pays freight from the port.",
+    "difficulty": 3
+  },
+  {
+    "english": "trade embargo",
+    "vietnamese": "lệnh cấm vận thương mại",
+    "example": "The trade embargo closed their largest export market overnight.",
+    "difficulty": 3
+  },
+  {
+    "english": "free trade agreement",
+    "vietnamese": "hiệp định thương mại tự do",
+    "example": "The free trade agreement eliminated tariffs on most goods.",
+    "difficulty": 2
+  },
+  {
+    "english": "transfer pricing",
+    "vietnamese": "giá chuyển giao nội bộ",
+    "example": "Transfer pricing rules prevent shifting profits to tax havens.",
+    "difficulty": 3
+  },
+  {
+    "english": "customs brokerage",
+    "vietnamese": "môi giới hải quan",
+    "example": "A customs brokerage handles all the import paperwork.",
+    "difficulty": 3
+  },
+  {
+    "english": "export control list",
+    "vietnamese": "danh sách kiểm soát xuất khẩu",
+    "example": "The product appeared on the export control list for dual-use items.",
+    "difficulty": 3
+  },
+  {
+    "english": "moat analysis",
+    "vietnamese": "phân tích hào kinh doanh",
+    "example": "Moat analysis identified their brand loyalty as the strongest defense.",
+    "difficulty": 3
+  },
+  {
+    "english": "blue ocean strategy",
+    "vietnamese": "chiến lược đại dương xanh",
+    "example": "Blue ocean strategy means creating a market with no competitors.",
+    "difficulty": 3
+  },
+  {
+    "english": "flywheel effect",
+    "vietnamese": "hiệu ứng bánh đà",
+    "example": "The flywheel effect turns customers into the strongest marketing channel.",
+    "difficulty": 3
+  },
+  {
+    "english": "growth hacking loop",
+    "vietnamese": "vòng lặp tăng trưởng",
+    "example": "Their growth hacking loop invites users who then invite more users.",
+    "difficulty": 3
+  },
+  {
+    "english": "pivot strategy",
+    "vietnamese": "chiến lược xoay trục",
+    "example": "The pivot strategy moved them from hardware to software.",
+    "difficulty": 2
+  },
+  {
+    "english": "horizon planning",
+    "vietnamese": "kế hoạch theo chân trời thời gian",
+    "example": "Horizon planning separates next quarter from the five-year vision.",
+    "difficulty": 3
+  },
+  {
+    "english": "competitive moat",
+    "vietnamese": "hào cạnh tranh",
+    "example": "A competitive moat makes their business hard to copy.",
+    "difficulty": 3
+  },
+  {
+    "english": "investor relations",
+    "vietnamese": "quan hệ nhà đầu tư",
+    "example": "Investor relations prepared the quarterly earnings call.",
+    "difficulty": 2
+  },
+  {
+    "english": "crisis communication plan",
+    "vietnamese": "kế hoạch truyền thông khủng hoảng",
+    "example": "The crisis communication plan activated within ten minutes of the hack.",
+    "difficulty": 3
+  },
+  {
+    "english": "internal newsletter",
+    "vietnamese": "bản tin nội bộ",
+    "example": "The internal newsletter shares wins and updates every Friday.",
+    "difficulty": 2
+  },
+  {
+    "english": "town hall meeting",
+    "vietnamese": "họp toàn công ty",
+    "example": "The CEO answered tough questions at the town hall meeting.",
+    "difficulty": 2
+  },
+  {
+    "english": "all-hands email",
+    "vietnamese": "email gửi toàn bộ nhân viên",
+    "example": "An all-hands email announced the acquisition at 9 am.",
+    "difficulty": 2
+  },
+  {
+    "english": "message house framework",
+    "vietnamese": "khung cấu trúc thông điệp",
+    "example": "A message house framework keeps all PR consistent.",
+    "difficulty": 3
+  },
+  {
+    "english": "ZOPA",
+    "vietnamese": "vùng thỏa thuận khả thi",
+    "example": "The ZOPA between their max and our min was surprisingly wide.",
+    "difficulty": 3
+  },
+  {
+    "english": "walk-away point",
+    "vietnamese": "điểm dừng đàm phán",
+    "example": "Set a walk-away point before you enter the room.",
+    "difficulty": 3
+  },
+  {
+    "english": "anchoring bias",
+    "vietnamese": "thiên kiến neo giá đầu tiên",
+    "example": "The first number thrown out exploits anchoring bias.",
+    "difficulty": 3
+  },
+  {
+    "english": "concession ladder",
+    "vietnamese": "bậc thang nhượng bộ",
+    "example": "Plan a concession ladder instead of giving ground randomly.",
+    "difficulty": 3
+  },
+  {
+    "english": "deal structuring",
+    "vietnamese": "cấu trúc thỏa thuận",
+    "example": "Deal structuring matters more than the headline price.",
+    "difficulty": 3
+  },
+  {
+    "english": "earn-out clause",
+    "vietnamese": "điều khoản trả theo hiệu quả",
+    "example": "The earn-out clause pays extra if revenue targets are met.",
+    "difficulty": 3
   }
 ]
