@@ -1,0 +1,5126 @@
+[
+  {
+    "english": "wake up",
+    "vietnamese": "thức dậy",
+    "example": "I wake up at six every morning.",
+    "difficulty": 1
+  },
+  {
+    "english": "hit snooze",
+    "vietnamese": "bấm nút báo thức lại",
+    "example": "I hit snooze three times before getting up.",
+    "difficulty": 2
+  },
+  {
+    "english": "early riser",
+    "vietnamese": "người dậy sớm",
+    "example": "She's an early riser, always up by five.",
+    "difficulty": 2
+  },
+  {
+    "english": "night owl",
+    "vietnamese": "cú đêm (thức khuya)",
+    "example": "As a night owl, mornings are brutal for him.",
+    "difficulty": 2
+  },
+  {
+    "english": "morning person",
+    "vietnamese": "người thích buổi sáng",
+    "example": "I'm not a morning person until I've had coffee.",
+    "difficulty": 2
+  },
+  {
+    "english": "stretch in bed",
+    "vietnamese": "vươn vai trên giường",
+    "example": "She stretched in bed before getting up.",
+    "difficulty": 2
+  },
+  {
+    "english": "make the bed",
+    "vietnamese": "dọn giường, gấp chăn",
+    "example": "He makes the bed as soon as he gets up.",
+    "difficulty": 1
+  },
+  {
+    "english": "alarm goes off",
+    "vietnamese": "đồng hồ báo thức kêu",
+    "example": "My alarm goes off at 6:30 every day.",
+    "difficulty": 1
+  },
+  {
+    "english": "oversleep",
+    "vietnamese": "ngủ quên, ngủ quá giờ",
+    "example": "I overslept and missed the bus.",
+    "difficulty": 2
+  },
+  {
+    "english": "rush out the door",
+    "vietnamese": "vội vàng ra khỏi nhà",
+    "example": "He rushed out the door without breakfast.",
+    "difficulty": 2
+  },
+  {
+    "english": "morning coffee ritual",
+    "vietnamese": "nghi thức cà phê buổi sáng",
+    "example": "His morning coffee ritual is sacred and uninterrupted.",
+    "difficulty": 3
+  },
+  {
+    "english": "get ready",
+    "vietnamese": "chuẩn bị sẵn sàng",
+    "example": "It takes her an hour to get ready for work.",
+    "difficulty": 1
+  },
+  {
+    "english": "shower gel",
+    "vietnamese": "sữa tắm",
+    "example": "I need to buy more shower gel.",
+    "difficulty": 1
+  },
+  {
+    "english": "floss your teeth",
+    "vietnamese": "dùng chỉ nha khoa",
+    "example": "The dentist says I should floss my teeth daily.",
+    "difficulty": 2
+  },
+  {
+    "english": "brush your hair",
+    "vietnamese": "chải tóc",
+    "example": "She brushes her hair in front of the mirror.",
+    "difficulty": 1
+  },
+  {
+    "english": "get dressed",
+    "vietnamese": "mặc quần áo",
+    "example": "Get dressed quickly, we're running late.",
+    "difficulty": 1
+  },
+  {
+    "english": "put on makeup",
+    "vietnamese": "trang điểm",
+    "example": "She puts on makeup on the train to save time.",
+    "difficulty": 1
+  },
+  {
+    "english": "shave your face",
+    "vietnamese": "cạo râu/cạo mặt",
+    "example": "He shaves his face every other day.",
+    "difficulty": 1
+  },
+  {
+    "english": "trim your beard",
+    "vietnamese": "tỉa râu",
+    "example": "He trims his beard once a week.",
+    "difficulty": 2
+  },
+  {
+    "english": "morning skincare",
+    "vietnamese": "dưỡng da buổi sáng",
+    "example": "Her morning skincare routine has five steps.",
+    "difficulty": 2
+  },
+  {
+    "english": "pack your bag",
+    "vietnamese": "chuẩn bị túi đồ",
+    "example": "I pack my bag the night before to save time.",
+    "difficulty": 1
+  },
+  {
+    "english": "grab your keys",
+    "vietnamese": "cầm chìa khóa",
+    "example": "Don't forget to grab your keys on the way out.",
+    "difficulty": 1
+  },
+  {
+    "english": "check the mirror",
+    "vietnamese": "soi gương kiểm tra",
+    "example": "She checked the mirror one last time before leaving.",
+    "difficulty": 1
+  },
+  {
+    "english": "skip breakfast",
+    "vietnamese": "bỏ bữa sáng",
+    "example": "I usually skip breakfast when I'm in a hurry.",
+    "difficulty": 2
+  },
+  {
+    "english": "shampoo and conditioner",
+    "vietnamese": "dầu gội và dầu xả",
+    "example": "Use shampoo and conditioner twice a week.",
+    "difficulty": 1
+  },
+  {
+    "english": "nail clippers",
+    "vietnamese": "bấm móng tay",
+    "example": "The nail clippers are in the bathroom drawer.",
+    "difficulty": 1
+  },
+  {
+    "english": "tweezers",
+    "vietnamese": "nhíp (tỉa lông mày)",
+    "example": "She used tweezers to shape her eyebrows.",
+    "difficulty": 2
+  },
+  {
+    "english": "hair straightener",
+    "vietnamese": "máy duỗi tóc",
+    "example": "She uses a hair straightener after blow-drying.",
+    "difficulty": 2
+  },
+  {
+    "english": "curling iron",
+    "vietnamese": "máy uốn tóc",
+    "example": "She curled her hair with a curling iron for the party.",
+    "difficulty": 2
+  },
+  {
+    "english": "deodorant stick",
+    "vietnamese": "lăn khử mùi",
+    "example": "Apply deodorant after showering.",
+    "difficulty": 1
+  },
+  {
+    "english": "body lotion",
+    "vietnamese": "kem dưỡng thể",
+    "example": "The body lotion smells like vanilla.",
+    "difficulty": 1
+  },
+  {
+    "english": "facial cleanser",
+    "vietnamese": "sữa rửa mặt",
+    "example": "Use a gentle facial cleanser morning and night.",
+    "difficulty": 2
+  },
+  {
+    "english": "moisturizer",
+    "vietnamese": "kem dưỡng ẩm",
+    "example": "Apply moisturizer before makeup.",
+    "difficulty": 1
+  },
+  {
+    "english": "chapstick",
+    "vietnamese": "son dưỡng môi",
+    "example": "Her lips were dry so she put on chapstick.",
+    "difficulty": 1
+  },
+  {
+    "english": "perfume bottle",
+    "vietnamese": "chai nước hoa",
+    "example": "A small perfume bottle fits in her purse.",
+    "difficulty": 1
+  },
+  {
+    "english": "cologne spray",
+    "vietnamese": "nước hoa nam dạng xịt",
+    "example": "He gave her a cologne spray as a gift.",
+    "difficulty": 2
+  },
+  {
+    "english": "hair salon",
+    "vietnamese": "tiệm làm tóc",
+    "example": "She goes to the hair salon every two months.",
+    "difficulty": 1
+  },
+  {
+    "english": "barber shop",
+    "vietnamese": "tiệm cắt tóc nam",
+    "example": "He gets a haircut at the barber shop on Saturdays.",
+    "difficulty": 2
+  },
+  {
+    "english": "take a shower",
+    "vietnamese": "tắm vòi sen",
+    "example": "I take a shower after the gym.",
+    "difficulty": 1
+  },
+  {
+    "english": "take a bath",
+    "vietnamese": "tắm bồn",
+    "example": "She takes a long bath to relax on Sundays.",
+    "difficulty": 1
+  },
+  {
+    "english": "try on clothes",
+    "vietnamese": "thử quần áo",
+    "example": "Can I try on this dress in a size medium?",
+    "difficulty": 1
+  },
+  {
+    "english": "dress up",
+    "vietnamese": "ăn mặc đẹp, lịch sự",
+    "example": "We need to dress up for the wedding.",
+    "difficulty": 2
+  },
+  {
+    "english": "dress down",
+    "vietnamese": "ăn mặc thoải mái, thường ngày",
+    "example": "Fridays are dress-down days at the office.",
+    "difficulty": 2
+  },
+  {
+    "english": "casual wear",
+    "vietnamese": "đồ mặc thường ngày",
+    "example": "The party is casual wear, so jeans are fine.",
+    "difficulty": 2
+  },
+  {
+    "english": "business casual",
+    "vietnamese": "trang phục công sở thoải mái",
+    "example": "Business casual means no tie but no sneakers either.",
+    "difficulty": 3
+  },
+  {
+    "english": "formal attire",
+    "vietnamese": "trang phục trang trọng",
+    "example": "Formal attire is required for the gala dinner.",
+    "difficulty": 2
+  },
+  {
+    "english": "change clothes",
+    "vietnamese": "thay quần áo",
+    "example": "Let me change clothes before we go out.",
+    "difficulty": 1
+  },
+  {
+    "english": "hang up clothes",
+    "vietnamese": "treo quần áo",
+    "example": "Please hang up your coat instead of throwing it on the chair.",
+    "difficulty": 2
+  },
+  {
+    "english": "matching outfit",
+    "vietnamese": "bộ đồ hợp nhau",
+    "example": "They wore matching outfits to the party.",
+    "difficulty": 2
+  },
+  {
+    "english": "iron a shirt",
+    "vietnamese": "ủi áo sơ mi",
+    "example": "He irons a shirt every morning before work.",
+    "difficulty": 2
+  },
+  {
+    "english": "fold laundry",
+    "vietnamese": "gấp đồ giặt",
+    "example": "She folds laundry while watching TV.",
+    "difficulty": 1
+  },
+  {
+    "english": "shoe size",
+    "vietnamese": "cỡ giày",
+    "example": "Do you have this in a larger shoe size?",
+    "difficulty": 1
+  },
+  {
+    "english": "clothing rack",
+    "vietnamese": "giá treo quần áo",
+    "example": "The clothing rack in her room is always full.",
+    "difficulty": 2
+  },
+  {
+    "english": "hanger",
+    "vietnamese": "móc treo đồ",
+    "example": "I need more hangers for my shirts.",
+    "difficulty": 1
+  },
+  {
+    "english": "shoe polish",
+    "vietnamese": "xi đánh giày",
+    "example": "He uses shoe polish every Sunday night.",
+    "difficulty": 2
+  },
+  {
+    "english": "sweep the floor",
+    "vietnamese": "quét nhà",
+    "example": "I sweep the floor every morning.",
+    "difficulty": 1
+  },
+  {
+    "english": "mop the floor",
+    "vietnamese": "lau nhà",
+    "example": "She mopped the kitchen floor after cooking.",
+    "difficulty": 1
+  },
+  {
+    "english": "vacuum the carpet",
+    "vietnamese": "hút bụi thảm",
+    "example": "He vacuums the carpet twice a week.",
+    "difficulty": 2
+  },
+  {
+    "english": "dust the shelves",
+    "vietnamese": "phủi bụi kệ",
+    "example": "Don't forget to dust the shelves when you clean.",
+    "difficulty": 2
+  },
+  {
+    "english": "take out the trash",
+    "vietnamese": "đổ rác",
+    "example": "Who's turn is it to take out the trash?",
+    "difficulty": 1
+  },
+  {
+    "english": "recycling bin",
+    "vietnamese": "thùng rác tái chế",
+    "example": "Put the glass bottles in the recycling bin.",
+    "difficulty": 2
+  },
+  {
+    "english": "separate waste",
+    "vietnamese": "phân loại rác",
+    "example": "In Germany, you must separate waste into five bins.",
+    "difficulty": 3
+  },
+  {
+    "english": "wipe the counter",
+    "vietnamese": "lau mặt bàn bếp",
+    "example": "Wipe the counter after you prepare food.",
+    "difficulty": 2
+  },
+  {
+    "english": "scrub the bathtub",
+    "vietnamese": "cọ bồn tắm",
+    "example": "She scrubs the bathtub with bleach once a month.",
+    "difficulty": 2
+  },
+  {
+    "english": "clean the toilet",
+    "vietnamese": "cọ rửa bồn cầu",
+    "example": "He hates cleaning the toilet more than any chore.",
+    "difficulty": 2
+  },
+  {
+    "english": "unclog the drain",
+    "vietnamese": "thông tắc cống",
+    "example": "The sink is slow, we need to unclog the drain.",
+    "difficulty": 3
+  },
+  {
+    "english": "change the sheets",
+    "vietnamese": "thay ga giường",
+    "example": "We change the sheets every Sunday.",
+    "difficulty": 2
+  },
+  {
+    "english": "household chores list",
+    "vietnamese": "danh sách việc nhà",
+    "example": "A household chores list keeps the family on track.",
+    "difficulty": 2
+  },
+  {
+    "english": "spring cleaning",
+    "vietnamese": "tổng vệ sinh đầu năm",
+    "example": "Spring cleaning means sorting through every closet.",
+    "difficulty": 3
+  },
+  {
+    "english": "change a light bulb",
+    "vietnamese": "thay bóng đèn",
+    "example": "How many people does it take to change a light bulb?",
+    "difficulty": 2
+  },
+  {
+    "english": "tighten a screw",
+    "vietnamese": "siết ốc vít",
+    "example": "The chair is wobbly, tighten the screws.",
+    "difficulty": 2
+  },
+  {
+    "english": "hammer a nail",
+    "vietnamese": "đóng đinh",
+    "example": "He hammered a nail into the wall for the picture.",
+    "difficulty": 2
+  },
+  {
+    "english": "drill a hole",
+    "vietnamese": "khoan một lỗ",
+    "example": "We need to drill a hole for the shelf bracket.",
+    "difficulty": 2
+  },
+  {
+    "english": "leaky faucet",
+    "vietnamese": "vòi nước rò rỉ",
+    "example": "A leaky faucet can waste gallons of water.",
+    "difficulty": 2
+  },
+  {
+    "english": "blown fuse",
+    "vietnamese": "cầu chì cháy",
+    "example": "The lights went out because of a blown fuse.",
+    "difficulty": 3
+  },
+  {
+    "english": "circuit breaker",
+    "vietnamese": "cầu dao tự động",
+    "example": "Check the circuit breaker if the power goes out.",
+    "difficulty": 3
+  },
+  {
+    "english": "measure twice cut once",
+    "vietnamese": "đo hai lần cắt một lần",
+    "example": "Measure twice cut once, especially with expensive wood.",
+    "difficulty": 3
+  },
+  {
+    "english": "flat-pack furniture",
+    "vietnamese": "đồ nội thất đóng hộp tự lắp",
+    "example": "Flat-pack furniture always has one missing screw.",
+    "difficulty": 3
+  },
+  {
+    "english": "assemble a shelf",
+    "vietnamese": "lắp ráp kệ",
+    "example": "It took two hours to assemble the shelf.",
+    "difficulty": 2
+  },
+  {
+    "english": "paint a wall",
+    "vietnamese": "sơn tường",
+    "example": "We painted the bedroom wall a soft gray.",
+    "difficulty": 2
+  },
+  {
+    "english": "sandpaper grit",
+    "vietnamese": "giấy nhám (độ nhám)",
+    "example": "Start with rough sandpaper grit, then go finer.",
+    "difficulty": 3
+  },
+  {
+    "english": "caulk the gap",
+    "vietnamese": "trám khe hở bằng silicone",
+    "example": "Caulk the gap around the bathtub to prevent leaks.",
+    "difficulty": 3
+  },
+  {
+    "english": "chop vegetables",
+    "vietnamese": "thái rau củ",
+    "example": "Chop the vegetables into small cubes.",
+    "difficulty": 1
+  },
+  {
+    "english": "dice an onion",
+    "vietnamese": "thái hạt lựu hành tây",
+    "example": "Dice an onion finely for the sauce.",
+    "difficulty": 2
+  },
+  {
+    "english": "slice the bread",
+    "vietnamese": "cắt lát bánh mì",
+    "example": "Can you slice the bread while I make the soup?",
+    "difficulty": 1
+  },
+  {
+    "english": "mince garlic",
+    "vietnamese": "băm tỏi",
+    "example": "Mince two cloves of garlic for the stir fry.",
+    "difficulty": 2
+  },
+  {
+    "english": "grate cheese",
+    "vietnamese": "bào phô mai",
+    "example": "Grate fresh cheese over the pasta.",
+    "difficulty": 2
+  },
+  {
+    "english": "peel a carrot",
+    "vietnamese": "gọt vỏ cà rốt",
+    "example": "Peel the carrots before boiling them.",
+    "difficulty": 1
+  },
+  {
+    "english": "whisk eggs",
+    "vietnamese": "đánh trứng",
+    "example": "Whisk three eggs with a pinch of salt.",
+    "difficulty": 2
+  },
+  {
+    "english": "stir the pot",
+    "vietnamese": "khuấy nồi",
+    "example": "Keep stirring the pot so the soup doesn't burn.",
+    "difficulty": 1
+  },
+  {
+    "english": "simmer on low heat",
+    "vietnamese": "đun nhỏ lửa",
+    "example": "Let the stew simmer on low heat for an hour.",
+    "difficulty": 2
+  },
+  {
+    "english": "bring to a boil",
+    "vietnamese": "đun sôi",
+    "example": "Bring the water to a boil, then add the pasta.",
+    "difficulty": 2
+  },
+  {
+    "english": "preheat the oven",
+    "vietnamese": "làm nóng lò trước",
+    "example": "Preheat the oven to 180 degrees Celsius.",
+    "difficulty": 2
+  },
+  {
+    "english": "flip the pancake",
+    "vietnamese": "lật bánh kếp",
+    "example": "Flip the pancake when bubbles appear on top.",
+    "difficulty": 2
+  },
+  {
+    "english": "season with salt",
+    "vietnamese": "nêm muối",
+    "example": "Season the meat with salt and pepper before cooking.",
+    "difficulty": 1
+  },
+  {
+    "english": "taste test",
+    "vietnamese": "nếm thử",
+    "example": "Do a taste test before serving to guests.",
+    "difficulty": 2
+  },
+  {
+    "english": "marinate overnight",
+    "vietnamese": "ướp qua đêm",
+    "example": "Marinate the chicken overnight for the best flavor.",
+    "difficulty": 2
+  },
+  {
+    "english": "sous vide",
+    "vietnamese": "nấu chân không nhiệt độ thấp",
+    "example": "Sous vide cooking keeps the steak perfectly pink.",
+    "difficulty": 3
+  },
+  {
+    "english": "deep fry",
+    "vietnamese": "chiên ngập dầu",
+    "example": "Deep fry the spring rolls until golden brown.",
+    "difficulty": 2
+  },
+  {
+    "english": "steam vegetables",
+    "vietnamese": "hấp rau",
+    "example": "Steam vegetables to keep the nutrients.",
+    "difficulty": 1
+  },
+  {
+    "english": "roast a chicken",
+    "vietnamese": "nướng gà (lò)",
+    "example": "We roast a chicken every Sunday for dinner.",
+    "difficulty": 2
+  },
+  {
+    "english": "grill on the barbecue",
+    "vietnamese": "nướng trên bếp than",
+    "example": "We grilled burgers on the barbecue at the park.",
+    "difficulty": 2
+  },
+  {
+    "english": "sauté in butter",
+    "vietnamese": "xào với bơ",
+    "example": "Sauté the mushrooms in butter until soft.",
+    "difficulty": 3
+  },
+  {
+    "english": "braise short ribs",
+    "vietnamese": "hầm sườn bò",
+    "example": "Braise short ribs in red wine for three hours.",
+    "difficulty": 3
+  },
+  {
+    "english": "food processor",
+    "vietnamese": "máy xay thực phẩm",
+    "example": "A food processor makes chopping ten times faster.",
+    "difficulty": 2
+  },
+  {
+    "english": "non-stick pan",
+    "vietnamese": "nồi chống dính",
+    "example": "Use a non-stick pan for eggs.",
+    "difficulty": 2
+  },
+  {
+    "english": "measuring cup",
+    "vietnamese": "cốc đong",
+    "example": "Use a measuring cup for the flour, don't eyeball it.",
+    "difficulty": 2
+  },
+  {
+    "english": "spatula",
+    "vietnamese": "dụng cụ lật (nấu ăn)",
+    "example": "Hand me the spatula to flip the fish.",
+    "difficulty": 2
+  },
+  {
+    "english": "grocery list",
+    "vietnamese": "danh sách mua đồ ăn",
+    "example": "She writes a grocery list to avoid impulse buys.",
+    "difficulty": 1
+  },
+  {
+    "english": "shopping basket",
+    "vietnamese": "giỏ mua hàng",
+    "example": "If you're getting just a few things, take a shopping basket.",
+    "difficulty": 2
+  },
+  {
+    "english": "produce section",
+    "vietnamese": "quầy rau củ quả",
+    "example": "The produce section has fresh herbs today.",
+    "difficulty": 2
+  },
+  {
+    "english": "dairy aisle",
+    "vietnamese": "quầy sữa/đồ từ sữa",
+    "example": "Milk and yogurt are in the dairy aisle.",
+    "difficulty": 2
+  },
+  {
+    "english": "frozen foods",
+    "vietnamese": "đồ đông lạnh",
+    "example": "The frozen foods section has pizza and ice cream.",
+    "difficulty": 1
+  },
+  {
+    "english": "bulk section",
+    "vietnamese": "quầy đồ khô mua theo cân",
+    "example": "Buy rice from the bulk section, it's cheaper.",
+    "difficulty": 3
+  },
+  {
+    "english": "sell-by date",
+    "vietnamese": "ngày hết hạn bán",
+    "example": "Always check the sell-by date on milk.",
+    "difficulty": 2
+  },
+  {
+    "english": "ripe avocado",
+    "vietnamese": "bơ chín",
+    "example": "Squeeze gently to find a ripe avocado.",
+    "difficulty": 2
+  },
+  {
+    "english": "weigh the produce",
+    "vietnamese": "cân rau quả",
+    "example": "Weigh the produce before going to the checkout.",
+    "difficulty": 2
+  },
+  {
+    "english": "reusable bag",
+    "vietnamese": "túi tái sử dụng",
+    "example": "Bring a reusable bag to avoid the plastic fee.",
+    "difficulty": 2
+  },
+  {
+    "english": "checkout counter",
+    "vietnamese": "quầy thanh toán",
+    "example": "The checkout counter line was surprisingly short.",
+    "difficulty": 1
+  },
+  {
+    "english": "self-checkout machine",
+    "vietnamese": "máy tự thanh toán",
+    "example": "She prefers self-checkout to avoid small talk.",
+    "difficulty": 3
+  },
+  {
+    "english": "scan the barcode",
+    "vietnamese": "quét mã vạch",
+    "example": "Scan the barcode and place the item in the bagging area.",
+    "difficulty": 2
+  },
+  {
+    "english": "on sale",
+    "vietnamese": "đang giảm giá",
+    "example": "The cereal is on sale this week.",
+    "difficulty": 1
+  },
+  {
+    "english": "buy one get one free",
+    "vietnamese": "mua một tặng một",
+    "example": "Buy one get one free on all frozen pizzas.",
+    "difficulty": 2
+  },
+  {
+    "english": "store brand",
+    "vietnamese": "thương hiệu của cửa hàng",
+    "example": "Store brand cereal tastes the same as the expensive one.",
+    "difficulty": 2
+  },
+  {
+    "english": "expiry date",
+    "vietnamese": "hạn sử dụng",
+    "example": "Throw away anything past its expiry date.",
+    "difficulty": 1
+  },
+  {
+    "english": "shopping spree",
+    "vietnamese": "đi mua sắm thả ga",
+    "example": "She went on a shopping spree after payday.",
+    "difficulty": 3
+  },
+  {
+    "english": "set the table",
+    "vietnamese": "dọn bàn ăn",
+    "example": "Set the table with plates, forks, and glasses.",
+    "difficulty": 1
+  },
+  {
+    "english": "clear the table",
+    "vietnamese": "dọn dẹp bàn ăn",
+    "example": "Clear the table before dessert.",
+    "difficulty": 2
+  },
+  {
+    "english": "family dinner",
+    "vietnamese": "bữa tối gia đình",
+    "example": "Family dinner is at seven every night.",
+    "difficulty": 1
+  },
+  {
+    "english": "home-cooked meal",
+    "vietnamese": "bữa ăn nấu ở nhà",
+    "example": "Nothing beats a home-cooked meal.",
+    "difficulty": 2
+  },
+  {
+    "english": "leftovers container",
+    "vietnamese": "hộp đựng đồ ăn thừa",
+    "example": "Put the rest in a leftovers container for tomorrow.",
+    "difficulty": 2
+  },
+  {
+    "english": "heat up leftovers",
+    "vietnamese": "hâm đồ ăn thừa",
+    "example": "I heat up leftovers for lunch at work.",
+    "difficulty": 2
+  },
+  {
+    "english": "make coffee",
+    "vietnamese": "pha cà phê",
+    "example": "I make coffee as soon as I wake up.",
+    "difficulty": 1
+  },
+  {
+    "english": "brew tea",
+    "vietnamese": "pha trà, hãm trà",
+    "example": "Let the tea brew for three minutes.",
+    "difficulty": 2
+  },
+  {
+    "english": "rinse the dishes",
+    "vietnamese": "tráng bát đĩa",
+    "example": "Rinse the dishes before loading the dishwasher.",
+    "difficulty": 2
+  },
+  {
+    "english": "load the dishwasher",
+    "vietnamese": "xếp bát vào máy rửa",
+    "example": "Load the dishwasher, then I'll start it.",
+    "difficulty": 2
+  },
+  {
+    "english": "unload the dishwasher",
+    "vietnamese": "dọn bát ra khỏi máy rửa",
+    "example": "Unload the dishwasher and put everything away.",
+    "difficulty": 2
+  },
+  {
+    "english": "grace before meal",
+    "vietnamese": "cầu nguyện trước bữa ăn",
+    "example": "They say grace before every meal.",
+    "difficulty": 3
+  },
+  {
+    "english": "eat out",
+    "vietnamese": "đi ăn ngoài",
+    "example": "We eat out on Fridays to give the kitchen a break.",
+    "difficulty": 1
+  },
+  {
+    "english": "order takeout",
+    "vietnamese": "gọi đồ mang về",
+    "example": "Too tired to cook, they ordered takeout.",
+    "difficulty": 1
+  },
+  {
+    "english": "midnight snack",
+    "vietnamese": "ăn vặt lúc nửa đêm",
+    "example": "A bowl of cereal is his favorite midnight snack.",
+    "difficulty": 2
+  },
+  {
+    "english": "kitchen table",
+    "vietnamese": "bàn bếp",
+    "example": "They eat at the kitchen table, not the dining room.",
+    "difficulty": 1
+  },
+  {
+    "english": "weather report",
+    "vietnamese": "bản tin thời tiết",
+    "example": "The weather report says rain all week.",
+    "difficulty": 1
+  },
+  {
+    "english": "light drizzle",
+    "vietnamese": "mưa phùn nhẹ",
+    "example": "Just a light drizzle, no need for an umbrella.",
+    "difficulty": 2
+  },
+  {
+    "english": "pouring rain",
+    "vietnamese": "mưa như trút",
+    "example": "We got soaked in the pouring rain.",
+    "difficulty": 2
+  },
+  {
+    "english": "heat advisory",
+    "vietnamese": "cảnh báo nắng nóng",
+    "example": "There's a heat advisory today, stay indoors.",
+    "difficulty": 3
+  },
+  {
+    "english": "wind chill factor",
+    "vietnamese": "hệ số gió lạnh",
+    "example": "The wind chill factor makes it feel like minus ten.",
+    "difficulty": 3
+  },
+  {
+    "english": "hazy sky",
+    "vietnamese": "trời mù sương khói",
+    "example": "The hazy sky hid the mountains all afternoon.",
+    "difficulty": 2
+  },
+  {
+    "english": "clear blue sky",
+    "vietnamese": "trời xanh trong",
+    "example": "Not a cloud in the clear blue sky.",
+    "difficulty": 1
+  },
+  {
+    "english": "sunny spell",
+    "vietnamese": "đợt nắng ngắn",
+    "example": "A sunny spell broke through the gray clouds.",
+    "difficulty": 3
+  },
+  {
+    "english": "weather app",
+    "vietnamese": "app thời tiết",
+    "example": "Check the weather app before heading out.",
+    "difficulty": 1
+  },
+  {
+    "english": "thunderstorm warning",
+    "vietnamese": "cảnh báo dông bão",
+    "example": "A thunderstorm warning means stay off the golf course.",
+    "difficulty": 2
+  },
+  {
+    "english": "freezing cold",
+    "vietnamese": "lạnh cóng",
+    "example": "It's freezing cold outside, wear layers.",
+    "difficulty": 1
+  },
+  {
+    "english": "scorching hot",
+    "vietnamese": "nung nóng, nóng thiêu đốt",
+    "example": "Scorching hot pavement burns bare feet.",
+    "difficulty": 2
+  },
+  {
+    "english": "muggy afternoon",
+    "vietnamese": "chiều oi bức",
+    "example": "A muggy afternoon made everyone slow and cranky.",
+    "difficulty": 3
+  },
+  {
+    "english": "only child",
+    "vietnamese": "con một",
+    "example": "As an only child, she was used to her own space.",
+    "difficulty": 2
+  },
+  {
+    "english": "elder sibling",
+    "vietnamese": "anh/chị cả",
+    "example": "The elder sibling often takes care of the younger ones.",
+    "difficulty": 2
+  },
+  {
+    "english": "family gathering",
+    "vietnamese": "họp mặt gia đình",
+    "example": "Family gatherings at Tet are loud and chaotic.",
+    "difficulty": 2
+  },
+  {
+    "english": "family reunion",
+    "vietnamese": "đoàn tụ gia đình",
+    "example": "The family reunion brought cousins from three countries.",
+    "difficulty": 2
+  },
+  {
+    "english": "in-law",
+    "vietnamese": "thông gia, nhà vợ/chồng",
+    "example": "Dinner with the in-laws is always an event.",
+    "difficulty": 2
+  },
+  {
+    "english": "adopt a child",
+    "vietnamese": "nhận con nuôi",
+    "example": "They decided to adopt a child after ten years of marriage.",
+    "difficulty": 2
+  },
+  {
+    "english": "babysit the kids",
+    "vietnamese": "trông trẻ",
+    "example": "Can you babysit the kids on Saturday night?",
+    "difficulty": 2
+  },
+  {
+    "english": "raise children",
+    "vietnamese": "nuôi dạy con cái",
+    "example": "Raising children takes patience and a good sense of humor.",
+    "difficulty": 2
+  },
+  {
+    "english": "stay-at-home parent",
+    "vietnamese": "cha mẹ ở nhà nội trợ",
+    "example": "Being a stay-at-home parent is a full-time job.",
+    "difficulty": 3
+  },
+  {
+    "english": "family heirloom",
+    "vietnamese": "đồ gia truyền",
+    "example": "This ring is a family heirloom from my great-grandmother.",
+    "difficulty": 3
+  },
+  {
+    "english": "ground rules",
+    "vietnamese": "quy tắc cơ bản",
+    "example": "No phones at the table is one of our ground rules.",
+    "difficulty": 2
+  },
+  {
+    "english": "family feud",
+    "vietnamese": "bất hòa gia đình",
+    "example": "A family feud over inheritance lasted two decades.",
+    "difficulty": 3
+  },
+  {
+    "english": "quality time",
+    "vietnamese": "thời gian chất lượng bên nhau",
+    "example": "Saturday mornings are quality time with the kids.",
+    "difficulty": 2
+  },
+  {
+    "english": "empty nest",
+    "vietnamese": "tổ trống (con lớn rời nhà)",
+    "example": "Empty nest syndrome hit hard after the youngest left for college.",
+    "difficulty": 3
+  },
+  {
+    "english": "take after your parents",
+    "vietnamese": "giống cha mẹ",
+    "example": "You take after your father in so many ways.",
+    "difficulty": 2
+  },
+  {
+    "english": "family values",
+    "vietnamese": "giá trị gia đình",
+    "example": "Family values like honesty shaped how they raised us.",
+    "difficulty": 2
+  },
+  {
+    "english": "adopt a pet",
+    "vietnamese": "nhận nuôi thú cưng",
+    "example": "They adopted a pet from the shelter.",
+    "difficulty": 1
+  },
+  {
+    "english": "walk the dog",
+    "vietnamese": "dắt chó đi dạo",
+    "example": "He walks the dog twice a day.",
+    "difficulty": 1
+  },
+  {
+    "english": "dog leash",
+    "vietnamese": "dây dắt chó",
+    "example": "Always use a dog leash in public areas.",
+    "difficulty": 1
+  },
+  {
+    "english": "cat litter box",
+    "vietnamese": "khay vệ sinh cho mèo",
+    "example": "Clean the cat litter box every day.",
+    "difficulty": 2
+  },
+  {
+    "english": "feed the fish",
+    "vietnamese": "cho cá ăn",
+    "example": "Don't overfeed the fish, a pinch is enough.",
+    "difficulty": 1
+  },
+  {
+    "english": "bird cage",
+    "vietnamese": "lồng chim",
+    "example": "The bird cage needs cleaning once a week.",
+    "difficulty": 2
+  },
+  {
+    "english": "vet appointment",
+    "vietnamese": "lịch hẹn bác sĩ thú y",
+    "example": "The dog has a vet appointment for his shots.",
+    "difficulty": 1
+  },
+  {
+    "english": "flea treatment",
+    "vietnamese": "điều trị bọ chét",
+    "example": "Monthly flea treatment keeps the dog comfortable.",
+    "difficulty": 2
+  },
+  {
+    "english": "pet grooming",
+    "vietnamese": "tỉa lông, chăm sóc thú",
+    "example": "Pet grooming at the salon costs forty dollars.",
+    "difficulty": 2
+  },
+  {
+    "english": "litter of puppies",
+    "vietnamese": "một lứa chó con",
+    "example": "A litter of puppies was born under the porch.",
+    "difficulty": 2
+  },
+  {
+    "english": "house-trained",
+    "vietnamese": "đã dạy biết đi vệ sinh đúng chỗ",
+    "example": "The puppy is almost fully house-trained.",
+    "difficulty": 2
+  },
+  {
+    "english": "scratching post",
+    "vietnamese": "trụ cào móng cho mèo",
+    "example": "A scratching post saved the sofa from the cat.",
+    "difficulty": 2
+  },
+  {
+    "english": "pet carrier",
+    "vietnamese": "túi/lồng vận chuyển thú",
+    "example": "Put the cat in a pet carrier for the trip.",
+    "difficulty": 2
+  },
+  {
+    "english": "microchip your pet",
+    "vietnamese": "gắn chip cho thú cưng",
+    "example": "Microchip your pet in case it gets lost.",
+    "difficulty": 3
+  },
+  {
+    "english": "animal shelter",
+    "vietnamese": "trại cứu hộ động vật",
+    "example": "We got both cats from the animal shelter.",
+    "difficulty": 2
+  },
+  {
+    "english": "hang out with friends",
+    "vietnamese": "đi chơi với bạn bè",
+    "example": "I hang out with friends at the park on weekends.",
+    "difficulty": 1
+  },
+  {
+    "english": "throw a party",
+    "vietnamese": "tổ chức tiệc",
+    "example": "They threw a huge party for her graduation.",
+    "difficulty": 2
+  },
+  {
+    "english": "potluck dinner",
+    "vietnamese": "bữa tối mỗi người góp món",
+    "example": "Bring a dish to share for the potluck dinner.",
+    "difficulty": 3
+  },
+  {
+    "english": "movie night",
+    "vietnamese": "tối xem phim",
+    "example": "Saturday is movie night with the family.",
+    "difficulty": 1
+  },
+  {
+    "english": "game night",
+    "vietnamese": "tối chơi board game",
+    "example": "Game night gets very competitive at our house.",
+    "difficulty": 2
+  },
+  {
+    "english": "housewarming party",
+    "vietnamese": "tiệc tân gia",
+    "example": "We hosted a housewarming party after moving in.",
+    "difficulty": 2
+  },
+  {
+    "english": "bring a plus one",
+    "vietnamese": "mang theo một người đi cùng",
+    "example": "The invitation says you can bring a plus one.",
+    "difficulty": 2
+  },
+  {
+    "english": "RSVP",
+    "vietnamese": "xác nhận tham dự (répondez s'il vous plaît)",
+    "example": "Please RSVP by Friday so we can plan the food.",
+    "difficulty": 2
+  },
+  {
+    "english": "birthday surprise",
+    "vietnamese": "bất ngờ sinh nhật",
+    "example": "A birthday surprise party caught her completely off guard.",
+    "difficulty": 2
+  },
+  {
+    "english": "cookout",
+    "vietnamese": "tiệc nướng ngoài trời",
+    "example": "A summer cookout with burgers and corn on the cob.",
+    "difficulty": 2
+  },
+  {
+    "english": "night out",
+    "vietnamese": "tối đi chơi",
+    "example": "A night out at the pub with old friends.",
+    "difficulty": 1
+  },
+  {
+    "english": "catch up over coffee",
+    "vietnamese": "gặp nhau uống cà phê trò chuyện",
+    "example": "Let's catch up over coffee sometime next week.",
+    "difficulty": 2
+  },
+  {
+    "english": "dinner party",
+    "vietnamese": "tiệc tối tại nhà",
+    "example": "A dinner party with six close friends felt intimate.",
+    "difficulty": 2
+  },
+  {
+    "english": "playdate",
+    "vietnamese": "hẹn cho trẻ con chơi chung",
+    "example": "The kids have a playdate at the park at three.",
+    "difficulty": 2
+  },
+  {
+    "english": "double date",
+    "vietnamese": "hẹn hò hai cặp đôi",
+    "example": "A double date with another couple made it less awkward.",
+    "difficulty": 2
+  },
+  {
+    "english": "phone screen cracked",
+    "vietnamese": "màn hình điện thoại nứt",
+    "example": "Her phone screen cracked after it fell off the table.",
+    "difficulty": 2
+  },
+  {
+    "english": "low battery warning",
+    "vietnamese": "cảnh báo pin yếu",
+    "example": "The low battery warning popped up during the call.",
+    "difficulty": 2
+  },
+  {
+    "english": "phone charger cord",
+    "vietnamese": "dây sạc điện thoại",
+    "example": "My phone charger cord is frayed at the end.",
+    "difficulty": 2
+  },
+  {
+    "english": "restart the computer",
+    "vietnamese": "khởi động lại máy tính",
+    "example": "Have you tried restarting the computer?",
+    "difficulty": 1
+  },
+  {
+    "english": "forgot my password",
+    "vietnamese": "quên mật khẩu",
+    "example": "I forgot my password and had to reset it.",
+    "difficulty": 1
+  },
+  {
+    "english": "WiFi keeps dropping",
+    "vietnamese": "WiFi cứ ngắt kết nối",
+    "example": "The WiFi keeps dropping during video calls.",
+    "difficulty": 2
+  },
+  {
+    "english": "software update",
+    "vietnamese": "cập nhật phần mềm",
+    "example": "A software update restarted the phone overnight.",
+    "difficulty": 2
+  },
+  {
+    "english": "app crashed",
+    "vietnamese": "ứng dụng bị sập",
+    "example": "The app crashed right before I saved my work.",
+    "difficulty": 2
+  },
+  {
+    "english": "clear browser cache",
+    "vietnamese": "xóa bộ nhớ đệm trình duyệt",
+    "example": "Clear the browser cache if the site isn't loading.",
+    "difficulty": 3
+  },
+  {
+    "english": "autocorrect fail",
+    "vietnamese": "lỗi tự sửa chính tả",
+    "example": "An autocorrect fail turned 'dinner' into 'divorce'.",
+    "difficulty": 2
+  },
+  {
+    "english": "screen time limit",
+    "vietnamese": "giới hạn thời gian dùng màn hình",
+    "example": "Set a screen time limit for the kids' tablets.",
+    "difficulty": 2
+  },
+  {
+    "english": "bluetooth pairing",
+    "vietnamese": "ghép nối bluetooth",
+    "example": "Bluetooth pairing with the speaker took forever.",
+    "difficulty": 2
+  },
+  {
+    "english": "out of storage",
+    "vietnamese": "hết dung lượng lưu trữ",
+    "example": "My phone says out of storage, I need to delete photos.",
+    "difficulty": 2
+  },
+  {
+    "english": "back up to the cloud",
+    "vietnamese": "sao lưu lên đám mây",
+    "example": "Back up your files to the cloud before the repair.",
+    "difficulty": 2
+  },
+  {
+    "english": "spam email",
+    "vietnamese": "email rác",
+    "example": "Spam emails filled the inbox overnight.",
+    "difficulty": 2
+  },
+  {
+    "english": "morning commute",
+    "vietnamese": "đi làm buổi sáng",
+    "example": "His morning commute takes forty-five minutes.",
+    "difficulty": 2
+  },
+  {
+    "english": "beat the traffic",
+    "vietnamese": "tránh tắc đường",
+    "example": "Leave early to beat the traffic.",
+    "difficulty": 2
+  },
+  {
+    "english": "bus pass",
+    "vietnamese": "vé xe buýt tháng",
+    "example": "A monthly bus pass saves money for regular commuters.",
+    "difficulty": 1
+  },
+  {
+    "english": "train platform number",
+    "vietnamese": "số sân ga",
+    "example": "Check the train platform number on the screen.",
+    "difficulty": 2
+  },
+  {
+    "english": "missed the bus",
+    "vietnamese": "lỡ xe buýt",
+    "example": "I missed the bus and had to walk.",
+    "difficulty": 1
+  },
+  {
+    "english": "metro line",
+    "vietnamese": "tuyến tàu điện ngầm",
+    "example": "Take the red metro line to the city center.",
+    "difficulty": 2
+  },
+  {
+    "english": "car breakdown",
+    "vietnamese": "xe hỏng giữa đường",
+    "example": "A car breakdown on the highway ruined the morning.",
+    "difficulty": 2
+  },
+  {
+    "english": "flat tire",
+    "vietnamese": "lốp xẹp",
+    "example": "A flat tire forced him to pull over.",
+    "difficulty": 2
+  },
+  {
+    "english": "fill up the tank",
+    "vietnamese": "đổ đầy xăng",
+    "example": "Don't forget to fill up the tank before the road trip.",
+    "difficulty": 2
+  },
+  {
+    "english": "traffic light",
+    "vietnamese": "đèn giao thông",
+    "example": "Stop at the red traffic light.",
+    "difficulty": 1
+  },
+  {
+    "english": "yield sign",
+    "vietnamese": "biển báo nhường đường",
+    "example": "The yield sign means you must let other cars go first.",
+    "difficulty": 3
+  },
+  {
+    "english": "parallel parking",
+    "vietnamese": "đỗ xe song song",
+    "example": "Parallel parking on this street is a nightmare.",
+    "difficulty": 3
+  },
+  {
+    "english": "car maintenance",
+    "vietnamese": "bảo dưỡng ô tô",
+    "example": "Regular car maintenance prevents costly repairs.",
+    "difficulty": 2
+  },
+  {
+    "english": "oil change",
+    "vietnamese": "thay dầu (xe)",
+    "example": "An oil change is needed every five thousand miles.",
+    "difficulty": 2
+  },
+  {
+    "english": "bike lane",
+    "vietnamese": "làn đường xe đạp",
+    "example": "The city added a new bike lane on Main Street.",
+    "difficulty": 2
+  },
+  {
+    "english": "public transport strike",
+    "vietnamese": "đình công giao thông công cộng",
+    "example": "A public transport strike means chaos on the roads.",
+    "difficulty": 3
+  },
+  {
+    "english": "open a bank account",
+    "vietnamese": "mở tài khoản ngân hàng",
+    "example": "You need ID to open a bank account.",
+    "difficulty": 1
+  },
+  {
+    "english": "deposit a check",
+    "vietnamese": "gửi séc vào tài khoản",
+    "example": "Deposit a check using the mobile banking app.",
+    "difficulty": 2
+  },
+  {
+    "english": "withdraw cash",
+    "vietnamese": "rút tiền mặt",
+    "example": "Where can I withdraw cash near here?",
+    "difficulty": 1
+  },
+  {
+    "english": "check your balance",
+    "vietnamese": "kiểm tra số dư",
+    "example": "Check your balance before making a big purchase.",
+    "difficulty": 1
+  },
+  {
+    "english": "overdraft fee",
+    "vietnamese": "phí thấu chi",
+    "example": "An overdraft fee of thirty dollars hit the account.",
+    "difficulty": 3
+  },
+  {
+    "english": "pay bills online",
+    "vietnamese": "thanh toán hóa đơn trực tuyến",
+    "example": "I pay all my bills online now.",
+    "difficulty": 1
+  },
+  {
+    "english": "utility bill",
+    "vietnamese": "hóa đơn điện nước",
+    "example": "The utility bill was higher this month with the AC on.",
+    "difficulty": 2
+  },
+  {
+    "english": "split the rent",
+    "vietnamese": "chia tiền thuê nhà",
+    "example": "They split the rent equally between four roommates.",
+    "difficulty": 2
+  },
+  {
+    "english": "household budget",
+    "vietnamese": "ngân sách gia đình",
+    "example": "Stick to the household budget to save for vacation.",
+    "difficulty": 2
+  },
+  {
+    "english": "monthly installment",
+    "vietnamese": "trả góp hàng tháng",
+    "example": "The sofa is twelve monthly installments of fifty dollars.",
+    "difficulty": 3
+  },
+  {
+    "english": "joint account",
+    "vietnamese": "tài khoản chung (vợ chồng)",
+    "example": "They opened a joint account after getting married.",
+    "difficulty": 2
+  },
+  {
+    "english": "general checkup",
+    "vietnamese": "khám sức khỏe tổng quát",
+    "example": "A general checkup once a year catches problems early.",
+    "difficulty": 2
+  },
+  {
+    "english": "make a doctor's appointment",
+    "vietnamese": "đặt lịch khám bác sĩ",
+    "example": "I need to make a doctor's appointment for my back pain.",
+    "difficulty": 2
+  },
+  {
+    "english": "runny nose",
+    "vietnamese": "chảy nước mũi",
+    "example": "A runny nose and a cough meant he had a cold.",
+    "difficulty": 1
+  },
+  {
+    "english": "stuffy nose",
+    "vietnamese": "nghẹt mũi",
+    "example": "A stuffy nose made it hard to sleep.",
+    "difficulty": 2
+  },
+  {
+    "english": "sore throat",
+    "vietnamese": "đau họng",
+    "example": "A sore throat was the first sign of the flu.",
+    "difficulty": 1
+  },
+  {
+    "english": "upset stomach",
+    "vietnamese": "đau bụng khó chịu",
+    "example": "An upset stomach kept him home from work.",
+    "difficulty": 2
+  },
+  {
+    "english": "sneeze and cough",
+    "vietnamese": "hắt hơi và ho",
+    "example": "Cover your mouth when you sneeze and cough.",
+    "difficulty": 1
+  },
+  {
+    "english": "take your temperature",
+    "vietnamese": "đo nhiệt độ cơ thể",
+    "example": "Take your temperature to see if you have a fever.",
+    "difficulty": 2
+  },
+  {
+    "english": "over-the-counter medicine",
+    "vietnamese": "thuốc không cần kê đơn",
+    "example": "You can get painkillers as over-the-counter medicine.",
+    "difficulty": 2
+  },
+  {
+    "english": "stay hydrated",
+    "vietnamese": "uống đủ nước (khi ốm)",
+    "example": "When you're sick, the first rule is stay hydrated.",
+    "difficulty": 2
+  },
+  {
+    "english": "call in sick",
+    "vietnamese": "gọi báo ốm",
+    "example": "She called in sick with a fever.",
+    "difficulty": 2
+  },
+  {
+    "english": "blood test results",
+    "vietnamese": "kết quả xét nghiệm máu",
+    "example": "The blood test results came back normal.",
+    "difficulty": 2
+  },
+  {
+    "english": "take vitamins",
+    "vietnamese": "uống vitamin",
+    "example": "He takes vitamins every morning with breakfast.",
+    "difficulty": 1
+  },
+  {
+    "english": "stomach flu",
+    "vietnamese": "cúm dạ dày",
+    "example": "Stomach flu wiped out the entire office.",
+    "difficulty": 2
+  },
+  {
+    "english": "do homework",
+    "vietnamese": "làm bài tập về nhà",
+    "example": "The kids do homework right after school.",
+    "difficulty": 1
+  },
+  {
+    "english": "study for an exam",
+    "vietnamese": "ôn thi",
+    "example": "I study for exams better with flashcards.",
+    "difficulty": 1
+  },
+  {
+    "english": "take a test",
+    "vietnamese": "làm bài kiểm tra",
+    "example": "We take a test at the end of each chapter.",
+    "difficulty": 1
+  },
+  {
+    "english": "pass with flying colors",
+    "vietnamese": "đậu với điểm cao",
+    "example": "She passed the exam with flying colors.",
+    "difficulty": 3
+  },
+  {
+    "english": "fail a class",
+    "vietnamese": "trượt một môn",
+    "example": "He failed a class and had to retake it.",
+    "difficulty": 2
+  },
+  {
+    "english": "language course",
+    "vietnamese": "khóa học ngôn ngữ",
+    "example": "She enrolled in a Spanish language course.",
+    "difficulty": 2
+  },
+  {
+    "english": "online course",
+    "vietnamese": "khóa học trực tuyến",
+    "example": "An online course let her study at her own pace.",
+    "difficulty": 2
+  },
+  {
+    "english": "private tutor",
+    "vietnamese": "gia sư riêng",
+    "example": "A private tutor helped him with math.",
+    "difficulty": 2
+  },
+  {
+    "english": "learn a new skill",
+    "vietnamese": "học kỹ năng mới",
+    "example": "He decided to learn a new skill: woodworking.",
+    "difficulty": 2
+  },
+  {
+    "english": "lifelong learning",
+    "vietnamese": "học tập suốt đời",
+    "example": "Lifelong learning keeps the mind sharp in old age.",
+    "difficulty": 2
+  },
+  {
+    "english": "night school",
+    "vietnamese": "lớp học buổi tối",
+    "example": "She went to night school for a business degree.",
+    "difficulty": 2
+  },
+  {
+    "english": "school supplies",
+    "vietnamese": "đồ dùng học tập",
+    "example": "Buying school supplies before the semester starts.",
+    "difficulty": 1
+  },
+  {
+    "english": "textbook",
+    "vietnamese": "sách giáo khoa",
+    "example": "The textbook for that class costs a hundred dollars.",
+    "difficulty": 1
+  },
+  {
+    "english": "next-door neighbor",
+    "vietnamese": "hàng xóm liền kề",
+    "example": "The next-door neighbor has a dog that barks all night.",
+    "difficulty": 2
+  },
+  {
+    "english": "nosy neighbor",
+    "vietnamese": "hàng xóm tò mò",
+    "example": "A nosy neighbor watches everyone's comings and goings.",
+    "difficulty": 2
+  },
+  {
+    "english": "neighborhood watch",
+    "vietnamese": "đội dân phòng khu phố",
+    "example": "The neighborhood watch patrols the streets at night.",
+    "difficulty": 3
+  },
+  {
+    "english": "apartment lease",
+    "vietnamese": "hợp đồng thuê căn hộ",
+    "example": "The apartment lease runs for twelve months.",
+    "difficulty": 2
+  },
+  {
+    "english": "landlord and tenant",
+    "vietnamese": "chủ nhà và người thuê",
+    "example": "The landlord and tenant agreed on the repair timeline.",
+    "difficulty": 2
+  },
+  {
+    "english": "maintenance request",
+    "vietnamese": "yêu cầu sửa chữa (căn hộ)",
+    "example": "Put in a maintenance request for the broken heater.",
+    "difficulty": 3
+  },
+  {
+    "english": "elevator out of order",
+    "vietnamese": "thang máy hỏng",
+    "example": "Elevator out of order meant climbing eight floors.",
+    "difficulty": 2
+  },
+  {
+    "english": "community garden",
+    "vietnamese": "vườn chung cộng đồng",
+    "example": "The community garden has tomatoes and basil for everyone.",
+    "difficulty": 2
+  },
+  {
+    "english": "street parking permit",
+    "vietnamese": "giấy phép đỗ xe đường phố",
+    "example": "Without a street parking permit, you'll get a fine.",
+    "difficulty": 3
+  },
+  {
+    "english": "neighborhood cafe",
+    "vietnamese": "quán cafe trong khu phố",
+    "example": "The neighborhood cafe knows my order by heart.",
+    "difficulty": 2
+  },
+  {
+    "english": "binge-watch a series",
+    "vietnamese": "xem liền tù tì một serie",
+    "example": "We binge-watched the whole season in one weekend.",
+    "difficulty": 2
+  },
+  {
+    "english": "trash TV",
+    "vietnamese": "truyền hình rác (giải trí vô bổ)",
+    "example": "Sometimes trash TV is exactly what you need.",
+    "difficulty": 3
+  },
+  {
+    "english": "action movie",
+    "vietnamese": "phim hành động",
+    "example": "An action movie with explosions and car chases.",
+    "difficulty": 1
+  },
+  {
+    "english": "romantic comedy",
+    "vietnamese": "phim hài lãng mạn",
+    "example": "A romantic comedy on a rainy evening is perfect.",
+    "difficulty": 2
+  },
+  {
+    "english": "read a novel",
+    "vietnamese": "đọc tiểu thuyết",
+    "example": "She reads a novel a week on her commute.",
+    "difficulty": 1
+  },
+  {
+    "english": "page-turner",
+    "vietnamese": "sách khó bỏ xuống",
+    "example": "This thriller is a real page-turner, I couldn't sleep.",
+    "difficulty": 3
+  },
+  {
+    "english": "listen to a podcast",
+    "vietnamese": "nghe podcast",
+    "example": "I listen to a podcast while doing chores.",
+    "difficulty": 1
+  },
+  {
+    "english": "documentary film",
+    "vietnamese": "phim tài liệu",
+    "example": "A documentary film about ocean life opened his eyes.",
+    "difficulty": 2
+  },
+  {
+    "english": "board game night",
+    "vietnamese": "đêm chơi board game",
+    "example": "Board game night got intense over Monopoly.",
+    "difficulty": 2
+  },
+  {
+    "english": "build a puzzle",
+    "vietnamese": "xếp hình",
+    "example": "Building a thousand-piece puzzle took the whole family.",
+    "difficulty": 2
+  },
+  {
+    "english": "home karaoke",
+    "vietnamese": "karaoke tại nhà",
+    "example": "Home karaoke on New Year's Eve got very loud.",
+    "difficulty": 2
+  },
+  {
+    "english": "set an alarm",
+    "vietnamese": "đặt báo thức",
+    "example": "Set an alarm for 6 am or you'll miss the flight.",
+    "difficulty": 1
+  },
+  {
+    "english": "running late",
+    "vietnamese": "đang trễ",
+    "example": "I'm running late, start the meeting without me.",
+    "difficulty": 1
+  },
+  {
+    "english": "tight schedule",
+    "vietnamese": "lịch trình dày đặc",
+    "example": "A tight schedule left no time for lunch.",
+    "difficulty": 2
+  },
+  {
+    "english": "move an appointment",
+    "vietnamese": "dời lịch hẹn",
+    "example": "Can we move the appointment to Friday instead?",
+    "difficulty": 2
+  },
+  {
+    "english": "day planner",
+    "vietnamese": "sổ kế hoạch ngày",
+    "example": "She writes everything in her day planner.",
+    "difficulty": 2
+  },
+  {
+    "english": "to-do list",
+    "vietnamese": "danh sách việc cần làm",
+    "example": "A to-do list keeps me from forgetting anything.",
+    "difficulty": 1
+  },
+  {
+    "english": "check off a task",
+    "vietnamese": "đánh dấu xong việc",
+    "example": "Nothing feels better than checking off the last task.",
+    "difficulty": 2
+  },
+  {
+    "english": "deadline pressure",
+    "vietnamese": "áp lực hạn chót",
+    "example": "Deadline pressure makes her work twice as fast.",
+    "difficulty": 2
+  },
+  {
+    "english": "time flies",
+    "vietnamese": "thời gian trôi nhanh",
+    "example": "Time flies when you're having fun.",
+    "difficulty": 2
+  },
+  {
+    "english": "time drags",
+    "vietnamese": "thời gian trôi chậm",
+    "example": "Time drags in a boring meeting.",
+    "difficulty": 2
+  },
+  {
+    "english": "go to church",
+    "vietnamese": "đi nhà thờ",
+    "example": "They go to church every Sunday morning.",
+    "difficulty": 1
+  },
+  {
+    "english": "morning prayer",
+    "vietnamese": "cầu nguyện buổi sáng",
+    "example": "Morning prayer grounds her before the day starts.",
+    "difficulty": 2
+  },
+  {
+    "english": "light incense",
+    "vietnamese": "thắp nhang",
+    "example": "They light incense at the family altar.",
+    "difficulty": 2
+  },
+  {
+    "english": "offering tray",
+    "vietnamese": "mâm cúng",
+    "example": "An offering tray with fruit and flowers for the ancestors.",
+    "difficulty": 3
+  },
+  {
+    "english": "religious festival",
+    "vietnamese": "lễ hội tôn giáo",
+    "example": "The religious festival draws pilgrims from far away.",
+    "difficulty": 2
+  },
+  {
+    "english": "blessing ceremony",
+    "vietnamese": "lễ ban phước",
+    "example": "A blessing ceremony was held for the new home.",
+    "difficulty": 3
+  },
+  {
+    "english": "spiritual retreat",
+    "vietnamese": "khóa tu tâm linh",
+    "example": "A spiritual retreat in the mountains gave her clarity.",
+    "difficulty": 3
+  },
+  {
+    "english": "sacred text",
+    "vietnamese": "kinh sách thiêng liêng",
+    "example": "Reading the sacred text is a daily practice for many.",
+    "difficulty": 3
+  },
+  {
+    "english": "monk and nun",
+    "vietnamese": "nhà sư và nữ tu",
+    "example": "A monk and nun walked silently through the garden.",
+    "difficulty": 2
+  },
+  {
+    "english": "layperson",
+    "vietnamese": "tín đồ thường (không phải tu sĩ)",
+    "example": "As a layperson, he volunteered at the temple on weekends.",
+    "difficulty": 3
+  },
+  {
+    "english": "alms giving",
+    "vietnamese": "bố thí, làm phước",
+    "example": "Alms giving to monks at dawn is a sacred ritual.",
+    "difficulty": 3
+  },
+  {
+    "english": "overtime pay",
+    "vietnamese": "tiền làm thêm giờ",
+    "example": "Overtime pay is double the normal rate.",
+    "difficulty": 2
+  },
+  {
+    "english": "take a day off",
+    "vietnamese": "xin nghỉ một ngày",
+    "example": "I need to take a day off for a dentist appointment.",
+    "difficulty": 1
+  },
+  {
+    "english": "clock out",
+    "vietnamese": "quẹt thẻ tan làm",
+    "example": "She clocks out at five sharp every day.",
+    "difficulty": 2
+  },
+  {
+    "english": "lunch break",
+    "vietnamese": "nghỉ trưa",
+    "example": "A lunch break gives you a mental reset.",
+    "difficulty": 2
+  },
+  {
+    "english": "paid time off",
+    "vietnamese": "nghỉ phép có lương",
+    "example": "Paid time off includes vacation and sick days.",
+    "difficulty": 2
+  },
+  {
+    "english": "commute home",
+    "vietnamese": "đi làm về nhà",
+    "example": "The commute home was worse than the morning.",
+    "difficulty": 2
+  },
+  {
+    "english": "switch off work mode",
+    "vietnamese": "tắt chế độ làm việc",
+    "example": "He struggles to switch off work mode at home.",
+    "difficulty": 3
+  },
+  {
+    "english": "Sunday scaries",
+    "vietnamese": "nỗi sợ chiều Chủ nhật trước thứ Hai",
+    "example": "Sunday scaries hit around 4 pm every week.",
+    "difficulty": 3
+  },
+  {
+    "english": "hit the snooze button",
+    "vietnamese": "bấm nút hoãn báo thức",
+    "example": "I hit the snooze button at least twice every morning.",
+    "difficulty": 2
+  },
+  {
+    "english": "morning rush",
+    "vietnamese": "vội vàng buổi sáng",
+    "example": "The morning rush means skipping breakfast and running.",
+    "difficulty": 2
+  },
+  {
+    "english": "eye drops",
+    "vietnamese": "thuốc nhỏ mắt",
+    "example": "Eye drops help with dry eyes in the morning.",
+    "difficulty": 2
+  },
+  {
+    "english": "mouthwash",
+    "vietnamese": "nước súc miệng",
+    "example": "Mouthwash after brushing for fresh breath.",
+    "difficulty": 1
+  },
+  {
+    "english": "dental floss",
+    "vietnamese": "chỉ nha khoa",
+    "example": "Dental floss reaches where brushing cannot.",
+    "difficulty": 2
+  },
+  {
+    "english": "ironing board",
+    "vietnamese": "bàn ủi đồ",
+    "example": "Set up the ironing board in the bedroom.",
+    "difficulty": 2
+  },
+  {
+    "english": "dish drying rack",
+    "vietnamese": "giá phơi bát đĩa",
+    "example": "Put the clean plates on the dish drying rack.",
+    "difficulty": 2
+  },
+  {
+    "english": "laundry basket",
+    "vietnamese": "giỏ đồ bẩn",
+    "example": "The laundry basket is overflowing.",
+    "difficulty": 1
+  },
+  {
+    "english": "fabric softener",
+    "vietnamese": "nước xả vải",
+    "example": "Fabric softener gives the towels a fresh scent.",
+    "difficulty": 2
+  },
+  {
+    "english": "dust bunnies",
+    "vietnamese": "bụi mịn dưới gầm đồ",
+    "example": "Dust bunnies collected under the bed.",
+    "difficulty": 3
+  },
+  {
+    "english": "clutter",
+    "vietnamese": "đồ đạc bừa bộn",
+    "example": "Too much clutter makes the room feel small.",
+    "difficulty": 2
+  },
+  {
+    "english": "declutter the house",
+    "vietnamese": "dọn dẹp bớt đồ đạc",
+    "example": "Declutter the house before the movers come.",
+    "difficulty": 3
+  },
+  {
+    "english": "cutting board",
+    "vietnamese": "thớt",
+    "example": "Use a wooden cutting board for vegetables.",
+    "difficulty": 1
+  },
+  {
+    "english": "colander",
+    "vietnamese": "rổ lọc, rá",
+    "example": "Drain the pasta in a colander.",
+    "difficulty": 3
+  },
+  {
+    "english": "ladle",
+    "vietnamese": "môi múc canh",
+    "example": "A ladle of soup for each bowl.",
+    "difficulty": 2
+  },
+  {
+    "english": "rolling pin",
+    "vietnamese": "cây cán bột",
+    "example": "Roll out the dough with a rolling pin.",
+    "difficulty": 2
+  },
+  {
+    "english": "kitchen scale",
+    "vietnamese": "cân bếp",
+    "example": "A kitchen scale is more accurate than measuring cups.",
+    "difficulty": 2
+  },
+  {
+    "english": "burnt the toast",
+    "vietnamese": "làm cháy bánh mì nướng",
+    "example": "I burnt the toast and set off the smoke alarm.",
+    "difficulty": 2
+  },
+  {
+    "english": "undercooked chicken",
+    "vietnamese": "gà chưa chín kỹ",
+    "example": "Never eat undercooked chicken, it's dangerous.",
+    "difficulty": 2
+  },
+  {
+    "english": "dog bed",
+    "vietnamese": "giường cho chó",
+    "example": "The dog bed takes up half the living room.",
+    "difficulty": 1
+  },
+  {
+    "english": "catnip",
+    "vietnamese": "cỏ bạc hà mèo",
+    "example": "Catnip sends the cat into a frenzy.",
+    "difficulty": 3
+  },
+  {
+    "english": "puppy training",
+    "vietnamese": "dạy chó con",
+    "example": "Puppy training classes started next Saturday.",
+    "difficulty": 2
+  },
+  {
+    "english": "shedding season",
+    "vietnamese": "mùa rụng lông",
+    "example": "Shedding season means hair everywhere.",
+    "difficulty": 3
+  },
+  {
+    "english": "pet sitter",
+    "vietnamese": "người trông thú cưng (khi đi vắng)",
+    "example": "A pet sitter comes twice a day when we travel.",
+    "difficulty": 3
+  },
+  {
+    "english": "diaper change",
+    "vietnamese": "thay tã",
+    "example": "Diaper change duty rotated between parents.",
+    "difficulty": 2
+  },
+  {
+    "english": "teething baby",
+    "vietnamese": "em bé mọc răng",
+    "example": "A teething baby cries through the night.",
+    "difficulty": 3
+  },
+  {
+    "english": "pick up the kids",
+    "vietnamese": "đón con",
+    "example": "I pick up the kids from school at three.",
+    "difficulty": 1
+  },
+  {
+    "english": "drop off at daycare",
+    "vietnamese": "gửi con ở nhà trẻ",
+    "example": "Drop off at daycare is before nine.",
+    "difficulty": 2
+  },
+  {
+    "english": "family portrait",
+    "vietnamese": "ảnh chân dung gia đình",
+    "example": "A family portrait hung above the fireplace.",
+    "difficulty": 2
+  },
+  {
+    "english": "birth order",
+    "vietnamese": "thứ tự sinh",
+    "example": "Birth order theory says the youngest is the rebel.",
+    "difficulty": 3
+  },
+  {
+    "english": "bike helmet",
+    "vietnamese": "mũ bảo hiểm xe đạp",
+    "example": "Always wear a bike helmet, even on short rides.",
+    "difficulty": 2
+  },
+  {
+    "english": "pedestrian crossing",
+    "vietnamese": "lối qua đường cho người đi bộ",
+    "example": "Wait for the green light at the pedestrian crossing.",
+    "difficulty": 2
+  },
+  {
+    "english": "jaywalking",
+    "vietnamese": "băng qua đường trái phép",
+    "example": "Jaywalking gets you a fine in this city.",
+    "difficulty": 3
+  },
+  {
+    "english": "speed bump",
+    "vietnamese": "gờ giảm tốc",
+    "example": "A speed bump slowed down the neighborhood traffic.",
+    "difficulty": 2
+  },
+  {
+    "english": "car wash",
+    "vietnamese": "rửa xe",
+    "example": "The car wash took fifteen minutes.",
+    "difficulty": 1
+  },
+  {
+    "english": "dead battery",
+    "vietnamese": "pin cạn sạch",
+    "example": "A dead battery meant no music for the run.",
+    "difficulty": 1
+  },
+  {
+    "english": "plug in the charger",
+    "vietnamese": "cắm sạc",
+    "example": "Plug in the charger overnight.",
+    "difficulty": 1
+  },
+  {
+    "english": "power outlet",
+    "vietnamese": "ổ cắm điện",
+    "example": "Is there a power outlet near the bed?",
+    "difficulty": 1
+  },
+  {
+    "english": "laptop overheating",
+    "vietnamese": "máy tính quá nóng",
+    "example": "Laptop overheating when you have too many tabs open.",
+    "difficulty": 2
+  },
+  {
+    "english": "frozen screen",
+    "vietnamese": "màn hình đơ",
+    "example": "A frozen screen required a hard restart.",
+    "difficulty": 2
+  },
+  {
+    "english": "scary movie",
+    "vietnamese": "phim kinh dị",
+    "example": "A scary movie before bed gave her nightmares.",
+    "difficulty": 1
+  },
+  {
+    "english": "stand-up comedy",
+    "vietnamese": "hài độc thoại",
+    "example": "Stand-up comedy on Netflix made the evening fly by.",
+    "difficulty": 2
+  },
+  {
+    "english": "jigsaw puzzle",
+    "vietnamese": "tranh xếp hình ghép",
+    "example": "A jigsaw puzzle covered the dining table for weeks.",
+    "difficulty": 2
+  },
+  {
+    "english": "video game console",
+    "vietnamese": "máy chơi game",
+    "example": "A video game console under the TV gathered dust.",
+    "difficulty": 2
+  },
+  {
+    "english": "garbage collection day",
+    "vietnamese": "ngày thu gom rác",
+    "example": "Tuesday is garbage collection day on our street.",
+    "difficulty": 2
+  },
+  {
+    "english": "recycling bin colors",
+    "vietnamese": "màu thùng rác tái chế",
+    "example": "Learn the recycling bin colors for your area.",
+    "difficulty": 3
+  },
+  {
+    "english": "block party",
+    "vietnamese": "tiệc cả khu phố",
+    "example": "The annual block party shut down the whole street.",
+    "difficulty": 3
+  },
+  {
+    "english": "barking dog next door",
+    "vietnamese": "chó sủa nhà hàng xóm",
+    "example": "A barking dog next door kept everyone awake.",
+    "difficulty": 2
+  },
+  {
+    "english": "groggy morning",
+    "vietnamese": "sáng uể oải, lờ đờ",
+    "example": "A groggy morning after only four hours of sleep.",
+    "difficulty": 3
+  },
+  {
+    "english": "sleep inertia",
+    "vietnamese": "trạng thái lơ mơ sau khi thức dậy",
+    "example": "Sleep inertia made him stumble to the coffee machine.",
+    "difficulty": 3
+  },
+  {
+    "english": "morning stretch routine",
+    "vietnamese": "bài vươn vai buổi sáng",
+    "example": "A morning stretch routine loosens up stiff muscles.",
+    "difficulty": 2
+  },
+  {
+    "english": "splash water on your face",
+    "vietnamese": "vỗ nước lên mặt",
+    "example": "Splash cold water on your face to wake up.",
+    "difficulty": 2
+  },
+  {
+    "english": "wash your face",
+    "vietnamese": "rửa mặt",
+    "example": "Wash your face with warm water first.",
+    "difficulty": 1
+  },
+  {
+    "english": "towel off",
+    "vietnamese": "lau khô bằng khăn",
+    "example": "Towel off after the shower.",
+    "difficulty": 2
+  },
+  {
+    "english": "comb your hair",
+    "vietnamese": "chải tóc",
+    "example": "Comb your hair before putting on the helmet.",
+    "difficulty": 1
+  },
+  {
+    "english": "tie your hair",
+    "vietnamese": "buộc tóc",
+    "example": "Tie your hair back while cooking.",
+    "difficulty": 1
+  },
+  {
+    "english": "put on deodorant",
+    "vietnamese": "thoa lăn khử mùi",
+    "example": "Put on deodorant after showering.",
+    "difficulty": 1
+  },
+  {
+    "english": "get changed",
+    "vietnamese": "thay đồ",
+    "example": "Get changed into something comfortable.",
+    "difficulty": 1
+  },
+  {
+    "english": "pick out an outfit",
+    "vietnamese": "chọn đồ để mặc",
+    "example": "Pick out an outfit the night before to save time.",
+    "difficulty": 2
+  },
+  {
+    "english": "button up the shirt",
+    "vietnamese": "cài nút áo sơ mi",
+    "example": "Button up the shirt all the way for the meeting.",
+    "difficulty": 2
+  },
+  {
+    "english": "zip up the jacket",
+    "vietnamese": "kéo khóa áo khoác",
+    "example": "Zip up the jacket, it's cold outside.",
+    "difficulty": 1
+  },
+  {
+    "english": "tie your shoelaces",
+    "vietnamese": "buộc dây giày",
+    "example": "Tie your shoelaces before you trip.",
+    "difficulty": 1
+  },
+  {
+    "english": "grab a quick bite",
+    "vietnamese": "ăn vội cái gì đó",
+    "example": "Grab a quick bite before the meeting.",
+    "difficulty": 2
+  },
+  {
+    "english": "on the way out",
+    "vietnamese": "trên đường ra ngoài",
+    "example": "On the way out, he grabbed an umbrella.",
+    "difficulty": 2
+  },
+  {
+    "english": "lock the front door",
+    "vietnamese": "khóa cửa trước",
+    "example": "Don't forget to lock the front door.",
+    "difficulty": 1
+  },
+  {
+    "english": "check if the stove is off",
+    "vietnamese": "kiểm tra bếp đã tắt chưa",
+    "example": "Check if the stove is off before leaving.",
+    "difficulty": 2
+  },
+  {
+    "english": "house key",
+    "vietnamese": "chìa khóa nhà",
+    "example": "Where did I put the house key?",
+    "difficulty": 1
+  },
+  {
+    "english": "dandruff shampoo",
+    "vietnamese": "dầu gội trị gàu",
+    "example": "Dandruff shampoo cleared his scalp in a week.",
+    "difficulty": 3
+  },
+  {
+    "english": "conditioner rinse",
+    "vietnamese": "xả với dầu xả",
+    "example": "Let the conditioner rinse sit for two minutes.",
+    "difficulty": 2
+  },
+  {
+    "english": "towel dry your hair",
+    "vietnamese": "lau khô tóc bằng khăn",
+    "example": "Towel dry your hair before using the straightener.",
+    "difficulty": 2
+  },
+  {
+    "english": "blow dry your hair",
+    "vietnamese": "sấy tóc",
+    "example": "Blow dry your hair from root to tip.",
+    "difficulty": 2
+  },
+  {
+    "english": "apply skincare",
+    "vietnamese": "thoa dưỡng da",
+    "example": "Apply skincare before makeup for a smooth base.",
+    "difficulty": 2
+  },
+  {
+    "english": "face serum",
+    "vietnamese": "tinh chất dưỡng da",
+    "example": "A face serum goes on before moisturizer.",
+    "difficulty": 2
+  },
+  {
+    "english": "eye cream",
+    "vietnamese": "kem dưỡng mắt",
+    "example": "Eye cream reduces puffiness in the morning.",
+    "difficulty": 2
+  },
+  {
+    "english": "lip balm",
+    "vietnamese": "son dưỡng môi",
+    "example": "Lip balm in winter prevents cracking.",
+    "difficulty": 1
+  },
+  {
+    "english": "face mask",
+    "vietnamese": "mặt nạ dưỡng da",
+    "example": "A face mask once a week keeps her skin glowing.",
+    "difficulty": 2
+  },
+  {
+    "english": "pimple cream",
+    "vietnamese": "kem trị mụn",
+    "example": "Pimple cream dried out the spot overnight.",
+    "difficulty": 2
+  },
+  {
+    "english": "sunscreen daily",
+    "vietnamese": "kem chống nắng hàng ngày",
+    "example": "Sunscreen daily, even on cloudy days.",
+    "difficulty": 2
+  },
+  {
+    "english": "cotton swab",
+    "vietnamese": "tăm bông",
+    "example": "Clean your ears gently with a cotton swab.",
+    "difficulty": 2
+  },
+  {
+    "english": "razor blade",
+    "vietnamese": "lưỡi dao cạo",
+    "example": "Replace the razor blade when it gets dull.",
+    "difficulty": 2
+  },
+  {
+    "english": "shaving cream",
+    "vietnamese": "kem cạo râu",
+    "example": "Shaving cream makes the razor glide smoothly.",
+    "difficulty": 1
+  },
+  {
+    "english": "aftershave lotion",
+    "vietnamese": "nước thơm sau cạo râu",
+    "example": "Aftershave lotion stings on fresh cuts.",
+    "difficulty": 2
+  },
+  {
+    "english": "nail file",
+    "vietnamese": "dũa móng tay",
+    "example": "Use a nail file instead of biting your nails.",
+    "difficulty": 2
+  },
+  {
+    "english": "cut your nails",
+    "vietnamese": "cắt móng tay",
+    "example": "Cut your nails before they get too long.",
+    "difficulty": 1
+  },
+  {
+    "english": "pluck your eyebrows",
+    "vietnamese": "tỉa lông mày",
+    "example": "She plucks her eyebrows every two weeks.",
+    "difficulty": 2
+  },
+  {
+    "english": "tweeze stray hairs",
+    "vietnamese": "nhổ lông thừa",
+    "example": "Tweeze stray hairs for a clean look.",
+    "difficulty": 3
+  },
+  {
+    "english": "body wash scent",
+    "vietnamese": "mùi sữa tắm",
+    "example": "The body wash scent lingered all morning.",
+    "difficulty": 2
+  },
+  {
+    "english": "wardrobe",
+    "vietnamese": "tủ quần áo",
+    "example": "Her wardrobe is full but she has nothing to wear.",
+    "difficulty": 2
+  },
+  {
+    "english": "walk-in closet",
+    "vietnamese": "phòng để đồ đi bộ vào được",
+    "example": "A walk-in closet was her dream home feature.",
+    "difficulty": 3
+  },
+  {
+    "english": "shoe rack",
+    "vietnamese": "kệ giày",
+    "example": "A shoe rack by the door keeps things tidy.",
+    "difficulty": 2
+  },
+  {
+    "english": "sort laundry",
+    "vietnamese": "phân loại đồ giặt",
+    "example": "Sort laundry into whites, colors, and delicates.",
+    "difficulty": 2
+  },
+  {
+    "english": "hand-wash only",
+    "vietnamese": "chỉ giặt tay",
+    "example": "The label says hand-wash only.",
+    "difficulty": 2
+  },
+  {
+    "english": "dry clean required",
+    "vietnamese": "cần giặt khô",
+    "example": "Dry clean required means don't put it in the washer.",
+    "difficulty": 2
+  },
+  {
+    "english": "shrink in the dryer",
+    "vietnamese": "co lại trong máy sấy",
+    "example": "Wool sweaters shrink in the dryer.",
+    "difficulty": 2
+  },
+  {
+    "english": "stain remover",
+    "vietnamese": "chất tẩy vết bẩn",
+    "example": "Stain remover got the coffee out of the shirt.",
+    "difficulty": 2
+  },
+  {
+    "english": "patch a hole",
+    "vietnamese": "vá lỗ thủng",
+    "example": "Patch a hole in the jeans with an iron-on patch.",
+    "difficulty": 2
+  },
+  {
+    "english": "sew on a button",
+    "vietnamese": "đơm khuy áo",
+    "example": "Can you sew on a button that fell off?",
+    "difficulty": 3
+  },
+  {
+    "english": "broken zipper",
+    "vietnamese": "khóa kéo hỏng",
+    "example": "A broken zipper ruined the jacket.",
+    "difficulty": 2
+  },
+  {
+    "english": "loose thread",
+    "vietnamese": "chỉ bung",
+    "example": "Pull a loose thread and the whole hem unravels.",
+    "difficulty": 2
+  },
+  {
+    "english": "try a size smaller",
+    "vietnamese": "thử cỡ nhỏ hơn",
+    "example": "Try a size smaller, this one is too baggy.",
+    "difficulty": 2
+  },
+  {
+    "english": "too tight",
+    "vietnamese": "quá chật",
+    "example": "These shoes are too tight, I need a bigger size.",
+    "difficulty": 1
+  },
+  {
+    "english": "too loose",
+    "vietnamese": "quá rộng",
+    "example": "The belt is too loose on the last hole.",
+    "difficulty": 1
+  },
+  {
+    "english": "fits perfectly",
+    "vietnamese": "vừa khít",
+    "example": "This dress fits perfectly, no alterations needed.",
+    "difficulty": 2
+  },
+  {
+    "english": "mix and match",
+    "vietnamese": "phối đồ (từ nhiều món)",
+    "example": "Mix and match basics for different outfits.",
+    "difficulty": 2
+  },
+  {
+    "english": "kitchen timer",
+    "vietnamese": "đồng hồ hẹn giờ bếp",
+    "example": "Set the kitchen timer for twenty minutes.",
+    "difficulty": 2
+  },
+  {
+    "english": "taste as you go",
+    "vietnamese": "nếm trong lúc nấu",
+    "example": "Taste as you go so the seasoning stays balanced.",
+    "difficulty": 2
+  },
+  {
+    "english": "too salty",
+    "vietnamese": "quá mặn",
+    "example": "The soup is too salty, add some water.",
+    "difficulty": 1
+  },
+  {
+    "english": "too bland",
+    "vietnamese": "quá nhạt",
+    "example": "The sauce is too bland, it needs more garlic.",
+    "difficulty": 2
+  },
+  {
+    "english": "pinch of salt",
+    "vietnamese": "một nhúm muối",
+    "example": "Add a pinch of salt to the boiling water.",
+    "difficulty": 2
+  },
+  {
+    "english": "dash of pepper",
+    "vietnamese": "một ít tiêu",
+    "example": "A dash of pepper wakes up the flavor.",
+    "difficulty": 2
+  },
+  {
+    "english": "clove of garlic",
+    "vietnamese": "tép tỏi",
+    "example": "Peel a clove of garlic before mincing.",
+    "difficulty": 2
+  },
+  {
+    "english": "onion tears",
+    "vietnamese": "chảy nước mắt vì thái hành",
+    "example": "Onion tears got her every single time.",
+    "difficulty": 3
+  },
+  {
+    "english": "sizzling pan",
+    "vietnamese": "chảo xèo xèo",
+    "example": "A sizzling pan means the oil is ready.",
+    "difficulty": 2
+  },
+  {
+    "english": "golden brown crust",
+    "vietnamese": "lớp vỏ vàng nâu",
+    "example": "Cook until a golden brown crust forms on the bottom.",
+    "difficulty": 3
+  },
+  {
+    "english": "fluffy rice",
+    "vietnamese": "cơm tơi, xốp",
+    "example": "Fluffy rice is the secret to a good stir fry.",
+    "difficulty": 2
+  },
+  {
+    "english": "al dente pasta",
+    "vietnamese": "mì vừa chín tới (còn hơi cứng)",
+    "example": "Boil the pasta until al dente, about eight minutes.",
+    "difficulty": 3
+  },
+  {
+    "english": "stirring constantly",
+    "vietnamese": "khuấy liên tục",
+    "example": "Keep stirring constantly so the sauce doesn't stick.",
+    "difficulty": 2
+  },
+  {
+    "english": "cover and simmer",
+    "vietnamese": "đậy nắp nấu nhỏ lửa",
+    "example": "Cover and simmer for thirty minutes.",
+    "difficulty": 2
+  },
+  {
+    "english": "batch cooking",
+    "vietnamese": "nấu ăn số lượng lớn cho cả tuần",
+    "example": "Batch cooking on Sundays saves time during the week.",
+    "difficulty": 3
+  },
+  {
+    "english": "meal prep containers",
+    "vietnamese": "hộp chia bữa ăn",
+    "example": "Fill the meal prep containers for the next three days.",
+    "difficulty": 3
+  },
+  {
+    "english": "grocery run",
+    "vietnamese": "đi mua thực phẩm",
+    "example": "We need a grocery run, the fridge is empty.",
+    "difficulty": 2
+  },
+  {
+    "english": "stock the pantry",
+    "vietnamese": "dự trữ đồ khô",
+    "example": "Stock the pantry with rice, pasta, and canned goods.",
+    "difficulty": 2
+  },
+  {
+    "english": "expired milk",
+    "vietnamese": "sữa hết hạn",
+    "example": "Smell the milk first, it might be expired.",
+    "difficulty": 2
+  },
+  {
+    "english": "rummage through the fridge",
+    "vietnamese": "lục tung tủ lạnh",
+    "example": "Rummaging through the fridge for something to eat.",
+    "difficulty": 3
+  },
+  {
+    "english": "dish soap",
+    "vietnamese": "nước rửa chén",
+    "example": "Add more dish soap, the pan is greasy.",
+    "difficulty": 1
+  },
+  {
+    "english": "sponge and scrubber",
+    "vietnamese": "bọt biển và miếng chà",
+    "example": "A sponge and scrubber for the dishes.",
+    "difficulty": 2
+  },
+  {
+    "english": "greasy pan",
+    "vietnamese": "chảo dính dầu mỡ",
+    "example": "A greasy pan needs hot water and soap.",
+    "difficulty": 2
+  },
+  {
+    "english": "skip a meal",
+    "vietnamese": "bỏ bữa",
+    "example": "Don't skip meals, it slows your metabolism.",
+    "difficulty": 2
+  },
+  {
+    "english": "eat in moderation",
+    "vietnamese": "ăn uống điều độ",
+    "example": "Eat in moderation, enjoy everything but not too much.",
+    "difficulty": 2
+  },
+  {
+    "english": "comfort food",
+    "vietnamese": "món ăn quê nhà, an ủi",
+    "example": "Mac and cheese is the ultimate comfort food.",
+    "difficulty": 2
+  },
+  {
+    "english": "food coma nap",
+    "vietnamese": "ngủ trưa sau khi ăn quá no",
+    "example": "A food coma nap on the couch after Thanksgiving dinner.",
+    "difficulty": 3
+  },
+  {
+    "english": "second helping",
+    "vietnamese": "gắp thêm đĩa thứ hai",
+    "example": "Can I have a second helping of the potatoes?",
+    "difficulty": 2
+  },
+  {
+    "english": "eat your vegetables",
+    "vietnamese": "ăn rau đi",
+    "example": "Eat your vegetables before dessert.",
+    "difficulty": 1
+  },
+  {
+    "english": "drink plenty of water",
+    "vietnamese": "uống nhiều nước",
+    "example": "Drink plenty of water in this heat.",
+    "difficulty": 1
+  },
+  {
+    "english": "caffeine boost",
+    "vietnamese": "tăng lực bằng caffeine",
+    "example": "A caffeine boost at 3 pm gets through the afternoon slump.",
+    "difficulty": 3
+  },
+  {
+    "english": "tea steep time",
+    "vietnamese": "thời gian hãm trà",
+    "example": "Green tea has a shorter steep time than black.",
+    "difficulty": 3
+  },
+  {
+    "english": "boil water",
+    "vietnamese": "đun sôi nước",
+    "example": "Boil water for the pasta.",
+    "difficulty": 1
+  },
+  {
+    "english": "iced drink",
+    "vietnamese": "đồ uống đá",
+    "example": "An iced drink on a hot afternoon.",
+    "difficulty": 1
+  },
+  {
+    "english": "warm milk",
+    "vietnamese": "sữa ấm",
+    "example": "Warm milk before bed helps with sleep.",
+    "difficulty": 2
+  },
+  {
+    "english": "freshly squeezed juice",
+    "vietnamese": "nước ép tươi",
+    "example": "Freshly squeezed orange juice for breakfast.",
+    "difficulty": 2
+  },
+  {
+    "english": "packed lunch",
+    "vietnamese": "cơm hộp mang đi",
+    "example": "A packed lunch saves money and is healthier.",
+    "difficulty": 2
+  },
+  {
+    "english": "empty fridge syndrome",
+    "vietnamese": "hội chứng tủ lạnh trống",
+    "example": "Empty fridge syndrome means ordering pizza again.",
+    "difficulty": 3
+  },
+  {
+    "english": "restock the fridge",
+    "vietnamese": "mua đầy lại tủ lạnh",
+    "example": "We need to restock the fridge after the trip.",
+    "difficulty": 2
+  },
+  {
+    "english": "bulk buy",
+    "vietnamese": "mua số lượng lớn",
+    "example": "Bulk buy toilet paper when it's on sale.",
+    "difficulty": 3
+  },
+  {
+    "english": "impulse buy",
+    "vietnamese": "mua ngẫu hứng (không có kế hoạch)",
+    "example": "Impulse buys at the checkout add up fast.",
+    "difficulty": 3
+  },
+  {
+    "english": "price per unit",
+    "vietnamese": "giá trên một đơn vị",
+    "example": "Compare the price per unit, not the sticker price.",
+    "difficulty": 3
+  },
+  {
+    "english": "shopping bag",
+    "vietnamese": "túi mua hàng",
+    "example": "His shopping bag ripped on the way home.",
+    "difficulty": 1
+  },
+  {
+    "english": "washing machine load",
+    "vietnamese": "mẻ giặt",
+    "example": "One more washing machine load and we're done.",
+    "difficulty": 2
+  },
+  {
+    "english": "detergent cap",
+    "vietnamese": "nắp nước giặt (đong)",
+    "example": "Fill the detergent cap to the line.",
+    "difficulty": 2
+  },
+  {
+    "english": "spin cycle",
+    "vietnamese": "chu trình vắt",
+    "example": "The spin cycle shakes the whole apartment.",
+    "difficulty": 3
+  },
+  {
+    "english": "hang clothes to dry",
+    "vietnamese": "phơi đồ",
+    "example": "Hang clothes to dry on the balcony.",
+    "difficulty": 2
+  },
+  {
+    "english": "clothesline and clothespins",
+    "vietnamese": "dây phơi và kẹp quần áo",
+    "example": "A clothesline and clothespins on the balcony.",
+    "difficulty": 3
+  },
+  {
+    "english": "wrinkled shirt",
+    "vietnamese": "áo bị nhăn",
+    "example": "A wrinkled shirt needs ironing before work.",
+    "difficulty": 2
+  },
+  {
+    "english": "fold fitted sheets",
+    "vietnamese": "gấp ga bọc đệm",
+    "example": "Nobody knows how to fold fitted sheets properly.",
+    "difficulty": 3
+  },
+  {
+    "english": "scrub the grout",
+    "vietnamese": "cọ khe gạch",
+    "example": "Scrub the grout with an old toothbrush.",
+    "difficulty": 3
+  },
+  {
+    "english": "squeaky clean",
+    "vietnamese": "sạch bong",
+    "example": "The kitchen was squeaky clean after three hours.",
+    "difficulty": 3
+  },
+  {
+    "english": "clogged sink",
+    "vietnamese": "bồn rửa bị tắc",
+    "example": "A clogged sink meant dishes piled up.",
+    "difficulty": 2
+  },
+  {
+    "english": "plumber's snake",
+    "vietnamese": "dây thông tắc (dụng cụ)",
+    "example": "He used a plumber's snake to clear the drain.",
+    "difficulty": 3
+  },
+  {
+    "english": "wobbly table leg",
+    "vietnamese": "chân bàn lung lay",
+    "example": "A wobbly table leg needs a folded napkin underneath.",
+    "difficulty": 2
+  },
+  {
+    "english": "squeaky door hinge",
+    "vietnamese": "bản lề cửa kêu cọt kẹt",
+    "example": "Oil the squeaky door hinge.",
+    "difficulty": 2
+  },
+  {
+    "english": "patch drywall",
+    "vietnamese": "vá tường thạch cao",
+    "example": "Patch drywall where the doorknob punched a hole.",
+    "difficulty": 3
+  },
+  {
+    "english": "paint touch-up",
+    "vietnamese": "sơn dặm lại",
+    "example": "A quick paint touch-up hid the scratch.",
+    "difficulty": 3
+  },
+  {
+    "english": "tape measure",
+    "vietnamese": "thước dây",
+    "example": "Use a tape measure to check the width.",
+    "difficulty": 2
+  },
+  {
+    "english": "toolbox",
+    "vietnamese": "hộp dụng cụ",
+    "example": "His toolbox has everything except the right screwdriver.",
+    "difficulty": 2
+  },
+  {
+    "english": "Allen wrench",
+    "vietnamese": "chìa lục giác",
+    "example": "IKEA furniture always needs an Allen wrench.",
+    "difficulty": 3
+  },
+  {
+    "english": "dog poop bag",
+    "vietnamese": "túi đựng phân chó",
+    "example": "Always carry a dog poop bag on walks.",
+    "difficulty": 2
+  },
+  {
+    "english": "dog park",
+    "vietnamese": "công viên cho chó",
+    "example": "The dog park is full of wagging tails.",
+    "difficulty": 2
+  },
+  {
+    "english": "cat tower",
+    "vietnamese": "tháp mèo (đồ chơi)",
+    "example": "A cat tower by the window for bird watching.",
+    "difficulty": 2
+  },
+  {
+    "english": "litter scoop",
+    "vietnamese": "xẻng xúc phân mèo",
+    "example": "A litter scoop makes cleaning the box less gross.",
+    "difficulty": 3
+  },
+  {
+    "english": "obedience training",
+    "vietnamese": "huấn luyện vâng lời",
+    "example": "Obedience training taught the dog to sit and stay.",
+    "difficulty": 3
+  },
+  {
+    "english": "pet allergy",
+    "vietnamese": "dị ứng thú cưng",
+    "example": "Pet allergy meant he could never have a cat.",
+    "difficulty": 2
+  },
+  {
+    "english": "rescue dog",
+    "vietnamese": "chó được giải cứu",
+    "example": "A rescue dog from the shelter turned out to be the sweetest.",
+    "difficulty": 2
+  },
+  {
+    "english": "purebred puppy",
+    "vietnamese": "chó con thuần chủng",
+    "example": "A purebred puppy costs thousands.",
+    "difficulty": 2
+  },
+  {
+    "english": "eldest child",
+    "vietnamese": "con cả",
+    "example": "The eldest child often becomes the second parent.",
+    "difficulty": 2
+  },
+  {
+    "english": "middle child syndrome",
+    "vietnamese": "hội chứng con giữa",
+    "example": "Middle child syndrome means feeling invisible.",
+    "difficulty": 3
+  },
+  {
+    "english": "only child perks",
+    "vietnamese": "lợi thế con một",
+    "example": "Only child perks include never sharing a room.",
+    "difficulty": 3
+  },
+  {
+    "english": "sibling rivalry",
+    "vietnamese": "ganh đua anh chị em",
+    "example": "Sibling rivalry faded as they grew older.",
+    "difficulty": 3
+  },
+  {
+    "english": "grandparents babysit",
+    "vietnamese": "ông bà trông cháu",
+    "example": "Grandparents babysit the kids every Thursday.",
+    "difficulty": 2
+  },
+  {
+    "english": "filial piety",
+    "vietnamese": "lòng hiếu thảo",
+    "example": "Filial piety is a core value in many Asian cultures.",
+    "difficulty": 3
+  },
+  {
+    "english": "belated birthday wish",
+    "vietnamese": "chúc mừng sinh nhật muộn",
+    "example": "A belated birthday wish is better than none.",
+    "difficulty": 2
+  },
+  {
+    "english": "host a dinner party",
+    "vietnamese": "tổ chức tiệc tối",
+    "example": "Host a dinner party for six close friends.",
+    "difficulty": 2
+  },
+  {
+    "english": "bring a bottle",
+    "vietnamese": "mang theo chai rượu",
+    "example": "The invitation says bring a bottle.",
+    "difficulty": 2
+  },
+  {
+    "english": "surprise guest",
+    "vietnamese": "khách bất ngờ",
+    "example": "A surprise guest showed up at the door.",
+    "difficulty": 2
+  },
+  {
+    "english": "overstay your welcome",
+    "vietnamese": "ở lại quá lâu",
+    "example": "Don't overstay your welcome, leave by eleven.",
+    "difficulty": 3
+  },
+  {
+    "english": "rain check",
+    "vietnamese": "hẹn lúc khác",
+    "example": "I can't make it tonight, can I take a rain check?",
+    "difficulty": 3
+  },
+  {
+    "english": "waiting room magazine",
+    "vietnamese": "tạp chí trong phòng chờ",
+    "example": "Waiting room magazines are always outdated.",
+    "difficulty": 2
+  },
+  {
+    "english": "sick day policy",
+    "vietnamese": "chính sách nghỉ ốm",
+    "example": "The sick day policy allows five paid days per year.",
+    "difficulty": 3
+  },
+  {
+    "english": "feel under the weather",
+    "vietnamese": "cảm thấy không khỏe",
+    "example": "Feeling under the weather, she stayed in bed.",
+    "difficulty": 2
+  },
+  {
+    "english": "back pain",
+    "vietnamese": "đau lưng",
+    "example": "Back pain from sitting at a desk all day.",
+    "difficulty": 1
+  },
+  {
+    "english": "eye strain",
+    "vietnamese": "mỏi mắt",
+    "example": "Eye strain from staring at screens all day.",
+    "difficulty": 2
+  },
+  {
+    "english": "cram for an exam",
+    "vietnamese": "nhồi nhét để thi",
+    "example": "Cramming for an exam the night before never works.",
+    "difficulty": 3
+  },
+  {
+    "english": "pull an all-nighter",
+    "vietnamese": "thức trắng đêm học",
+    "example": "Pulling an all-nighter before the final.",
+    "difficulty": 3
+  },
+  {
+    "english": "grade curve",
+    "vietnamese": "hệ thống chấm điểm theo phân phối",
+    "example": "A grade curve saved everyone in that tough class.",
+    "difficulty": 3
+  },
+  {
+    "english": "skip class",
+    "vietnamese": "trốn học, cúp tiết",
+    "example": "Skipping class to sleep in seemed worth it at the time.",
+    "difficulty": 2
+  },
+  {
+    "english": "summer break",
+    "vietnamese": "nghỉ hè",
+    "example": "Summer break felt endless when we were kids.",
+    "difficulty": 1
+  },
+  {
+    "english": "sunny with a breeze",
+    "vietnamese": "nắng nhẹ có gió",
+    "example": "Sunny with a breeze, perfect for a walk.",
+    "difficulty": 1
+  },
+  {
+    "english": "overcast and gloomy",
+    "vietnamese": "trời u ám, ảm đạm",
+    "example": "Overcast and gloomy all week, need some sun.",
+    "difficulty": 2
+  },
+  {
+    "english": "sudden downpour",
+    "vietnamese": "mưa lớn bất chợt",
+    "example": "A sudden downpour soaked everyone on the street.",
+    "difficulty": 2
+  },
+  {
+    "english": "humid and sticky",
+    "vietnamese": "ẩm ướt và dính nhớp",
+    "example": "Humid and sticky weather makes everything uncomfortable.",
+    "difficulty": 2
+  },
+  {
+    "english": "cold snap",
+    "vietnamese": "đợt lạnh đột ngột",
+    "example": "A cold snap froze the pipes overnight.",
+    "difficulty": 3
+  },
+  {
+    "english": "UV index high",
+    "vietnamese": "chỉ số UV cao",
+    "example": "UV index high today, wear sunscreen.",
+    "difficulty": 2
+  },
+  {
+    "english": "bus schedule app",
+    "vietnamese": "app lịch xe buýt",
+    "example": "Check the bus schedule app for the next arrival.",
+    "difficulty": 2
+  },
+  {
+    "english": "missed your stop",
+    "vietnamese": "lỡ bến",
+    "example": "Fell asleep and missed my stop.",
+    "difficulty": 2
+  },
+  {
+    "english": "backseat driver",
+    "vietnamese": "người ngồi sau chỉ đạo liên tục",
+    "example": "A backseat driver yelling directions from the rear.",
+    "difficulty": 3
+  },
+  {
+    "english": "honk the horn",
+    "vietnamese": "bấm còi xe",
+    "example": "Don't honk the horn, it's a quiet neighborhood.",
+    "difficulty": 2
+  },
+  {
+    "english": "seatbelt reminder",
+    "vietnamese": "nhắc thắt dây an toàn",
+    "example": "The seatbelt reminder beeps until everyone buckles up.",
+    "difficulty": 2
+  },
+  {
+    "english": "rush hour crush",
+    "vietnamese": "chen chúc giờ cao điểm",
+    "example": "The rush hour crush on the metro is suffocating.",
+    "difficulty": 2
+  },
+  {
+    "english": "two-factor authentication",
+    "vietnamese": "xác thực hai yếu tố",
+    "example": "Two-factor authentication sent a code to her phone.",
+    "difficulty": 3
+  },
+  {
+    "english": "phone notification overload",
+    "vietnamese": "quá tải thông báo",
+    "example": "Phone notification overload made her turn off everything.",
+    "difficulty": 3
+  },
+  {
+    "english": "airplane mode",
+    "vietnamese": "chế độ máy bay",
+    "example": "Switch to airplane mode during the flight.",
+    "difficulty": 2
+  },
+  {
+    "english": "dark mode",
+    "vietnamese": "chế độ nền tối",
+    "example": "Dark mode is easier on the eyes at night.",
+    "difficulty": 2
+  },
+  {
+    "english": "factory reset",
+    "vietnamese": "khôi phục cài đặt gốc",
+    "example": "A factory reset wiped everything from the phone.",
+    "difficulty": 3
+  },
+  {
+    "english": "monthly statement",
+    "vietnamese": "sao kê hàng tháng",
+    "example": "Check the monthly statement for any strange charges.",
+    "difficulty": 2
+  },
+  {
+    "english": "budget spreadsheep",
+    "vietnamese": "bảng tính ngân sách",
+    "example": "A budget spreadsheet tracking every dollar.",
+    "difficulty": 3
+  },
+  {
+    "english": "living paycheck to paycheck",
+    "vietnamese": "sống từ lương này đến lương kia",
+    "example": "Living paycheck to paycheck is exhausting.",
+    "difficulty": 3
+  },
+  {
+    "english": "movie marathon",
+    "vietnamese": "xem phim liên tục",
+    "example": "A movie marathon of Lord of the Rings took all day.",
+    "difficulty": 2
+  },
+  {
+    "english": "spoiler alert",
+    "vietnamese": "cảnh báo tiết lộ nội dung",
+    "example": "Spoiler alert: don't read if you haven't seen the finale.",
+    "difficulty": 3
+  },
+  {
+    "english": "cinema popcorn",
+    "vietnamese": "bỏng ngô rạp chiếu phim",
+    "example": "Cinema popcorn tastes better than homemade.",
+    "difficulty": 2
+  },
+  {
+    "english": "bookworm",
+    "vietnamese": "mọt sách",
+    "example": "A bookworm finishes a novel every week.",
+    "difficulty": 2
+  },
+  {
+    "english": "light a candle",
+    "vietnamese": "thắp nến (cầu nguyện)",
+    "example": "Light a candle in memory of someone lost.",
+    "difficulty": 2
+  },
+  {
+    "english": "say a prayer",
+    "vietnamese": "đọc một lời cầu nguyện",
+    "example": "Say a prayer before the meal.",
+    "difficulty": 2
+  },
+  {
+    "english": "holy day",
+    "vietnamese": "ngày thánh lễ",
+    "example": "A holy day of rest and reflection.",
+    "difficulty": 2
+  },
+  {
+    "english": "parking space battle",
+    "vietnamese": "tranh chỗ đỗ xe",
+    "example": "A parking space battle every evening at six.",
+    "difficulty": 3
+  },
+  {
+    "english": "noisy upstairs neighbor",
+    "vietnamese": "hàng xóm tầng trên ồn ào",
+    "example": "A noisy upstairs neighbor who stomps at 2 am.",
+    "difficulty": 2
+  },
+  {
+    "english": "neighborhood watch sign",
+    "vietnamese": "biển dân phòng khu phố",
+    "example": "A neighborhood watch sign on every lamppost.",
+    "difficulty": 3
+  },
+  {
+    "english": "clock in late",
+    "vietnamese": "chấm công muộn",
+    "example": "Clock in late three times and it's a warning.",
+    "difficulty": 2
+  },
+  {
+    "english": "end-of-day routine",
+    "vietnamese": "thói quen cuối ngày",
+    "example": "An end-of-day routine of tea and a book.",
+    "difficulty": 2
+  },
+  {
+    "english": "weekend recharge",
+    "vietnamese": "nạp năng lượng cuối tuần",
+    "example": "Weekend recharge before another Monday.",
+    "difficulty": 3
+  },
+  {
+    "english": "lose track of time",
+    "vietnamese": "quên mất thời gian",
+    "example": "Lost track of time scrolling through videos.",
+    "difficulty": 2
+  },
+  {
+    "english": "waste time",
+    "vietnamese": "lãng phí thời gian",
+    "example": "Wasting time on social media again.",
+    "difficulty": 1
+  },
+  {
+    "english": "make up for lost time",
+    "vietnamese": "bù đắp thời gian đã mất",
+    "example": "Making up for lost time with the family.",
+    "difficulty": 2
+  },
+  {
+    "english": "in the nick of time",
+    "vietnamese": "vừa kịp lúc",
+    "example": "Caught the train in the nick of time.",
+    "difficulty": 3
+  },
+  {
+    "english": "light sleeper",
+    "vietnamese": "người ngủ dễ thức giấc",
+    "example": "A light sleeper wakes up at the smallest noise.",
+    "difficulty": 2
+  },
+  {
+    "english": "heavy sleeper",
+    "vietnamese": "người ngủ say",
+    "example": "A heavy sleeper could sleep through an earthquake.",
+    "difficulty": 2
+  },
+  {
+    "english": "toss and turn",
+    "vietnamese": "trằn trọc, trở mình",
+    "example": "Tossing and turning all night thinking about the deadline.",
+    "difficulty": 2
+  },
+  {
+    "english": "fall asleep",
+    "vietnamese": "ngủ thiếp đi",
+    "example": "Fell asleep on the couch watching TV.",
+    "difficulty": 1
+  },
+  {
+    "english": "sleep through the alarm",
+    "vietnamese": "ngủ quên không nghe báo thức",
+    "example": "Slept through the alarm and missed the meeting.",
+    "difficulty": 2
+  },
+  {
+    "english": "groggy",
+    "vietnamese": "lờ đờ, uể oải",
+    "example": "Still groggy after the nap.",
+    "difficulty": 2
+  },
+  {
+    "english": "wide awake",
+    "vietnamese": "tỉnh như sáo",
+    "example": "At 3 am, I was suddenly wide awake.",
+    "difficulty": 2
+  },
+  {
+    "english": "crawl out of bed",
+    "vietnamese": "lết ra khỏi giường",
+    "example": "Crawling out of bed on a cold winter morning.",
+    "difficulty": 2
+  },
+  {
+    "english": "bedhead hair",
+    "vietnamese": "tóc rối bù sau khi ngủ dậy",
+    "example": "Bedhead hair that no comb could fix.",
+    "difficulty": 3
+  },
+  {
+    "english": "morning breath",
+    "vietnamese": "hơi thở buổi sáng",
+    "example": "Morning breath before brushing your teeth.",
+    "difficulty": 2
+  },
+  {
+    "english": "marathon sleeper",
+    "vietnamese": "người ngủ rất nhiều",
+    "example": "A marathon sleeper who can do twelve hours straight.",
+    "difficulty": 3
+  },
+  {
+    "english": "burning the candle at both ends",
+    "vietnamese": "làm việc quá sức ngày đêm",
+    "example": "Burning the candle at both ends will catch up with you.",
+    "difficulty": 3
+  },
+  {
+    "english": "drag yourself out of bed",
+    "vietnamese": "lết mình ra khỏi giường",
+    "example": "Dragging yourself out of bed on a Monday.",
+    "difficulty": 2
+  },
+  {
+    "english": "run a brush through your hair",
+    "vietnamese": "chải vội mái tóc",
+    "example": "Run a brush through your hair and go.",
+    "difficulty": 2
+  },
+  {
+    "english": "rinse your mouth",
+    "vietnamese": "súc miệng",
+    "example": "Rinse your mouth with mouthwash.",
+    "difficulty": 1
+  },
+  {
+    "english": "trim your nails",
+    "vietnamese": "cắt móng tay",
+    "example": "Trim your nails before they snag.",
+    "difficulty": 2
+  },
+  {
+    "english": "pluck a gray hair",
+    "vietnamese": "nhổ một sợi tóc bạc",
+    "example": "Plucking a gray hair only makes two more grow.",
+    "difficulty": 3
+  },
+  {
+    "english": "bath towel",
+    "vietnamese": "khăn tắm",
+    "example": "A fresh bath towel after the shower.",
+    "difficulty": 1
+  },
+  {
+    "english": "bath mat",
+    "vietnamese": "thảm chùi chân phòng tắm",
+    "example": "Water dripped onto the bath mat.",
+    "difficulty": 2
+  },
+  {
+    "english": "bad hair day",
+    "vietnamese": "ngày tóc xấu, ngày đen đủi",
+    "example": "It's a bad hair day, just wear a hat.",
+    "difficulty": 3
+  },
+  {
+    "english": "split ends",
+    "vietnamese": "tóc chẻ ngọn",
+    "example": "Split ends mean it's time for a trim.",
+    "difficulty": 2
+  },
+  {
+    "english": "dandruff flakes",
+    "vietnamese": "gàu rụng trắng",
+    "example": "Dandruff flakes on a black shirt are so obvious.",
+    "difficulty": 2
+  },
+  {
+    "english": "five o'clock shadow",
+    "vietnamese": "râu lún phún chiều",
+    "example": "A five o'clock shadow by 3 pm.",
+    "difficulty": 3
+  },
+  {
+    "english": "clean-shaven look",
+    "vietnamese": "vẻ ngoài cạo nhẵn",
+    "example": "A clean-shaven look for the job interview.",
+    "difficulty": 3
+  },
+  {
+    "english": "nail polish",
+    "vietnamese": "sơn móng tay",
+    "example": "Nail polish chipped after one day of dishes.",
+    "difficulty": 2
+  },
+  {
+    "english": "nail polish remover",
+    "vietnamese": "dung dịch tẩy sơn móng",
+    "example": "Nail polish remover smells like chemicals.",
+    "difficulty": 2
+  },
+  {
+    "english": "skincare routine",
+    "vietnamese": "quy trình dưỡng da",
+    "example": "Her ten-step skincare routine is almost a ritual.",
+    "difficulty": 2
+  },
+  {
+    "english": "break out in pimples",
+    "vietnamese": "nổi mụn",
+    "example": "Breaking out in pimples before a big event.",
+    "difficulty": 2
+  },
+  {
+    "english": "facial scrub",
+    "vietnamese": "kem tẩy tế bào chết mặt",
+    "example": "A facial scrub twice a week for smooth skin.",
+    "difficulty": 2
+  },
+  {
+    "english": "dress sharply",
+    "vietnamese": "ăn mặc bảnh bao",
+    "example": "Dress sharply for the first day at the new job.",
+    "difficulty": 2
+  },
+  {
+    "english": "smart casual",
+    "vietnamese": "lịch sự thoải mái (dress code)",
+    "example": "Smart casual means blazer with jeans.",
+    "difficulty": 3
+  },
+  {
+    "english": "dress to impress",
+    "vietnamese": "ăn mặc để gây ấn tượng",
+    "example": "Dress to impress at the networking event.",
+    "difficulty": 2
+  },
+  {
+    "english": "the outfit makes the man",
+    "vietnamese": "quần áo làm nên con người",
+    "example": "The outfit makes the man, or so they say.",
+    "difficulty": 3
+  },
+  {
+    "english": "moth hole",
+    "vietnamese": "lỗ thủng do con nhậy",
+    "example": "A moth hole in his favorite sweater.",
+    "difficulty": 3
+  },
+  {
+    "english": "faded jeans",
+    "vietnamese": "quần jeans bạc màu",
+    "example": "Faded jeans with holes in the knees.",
+    "difficulty": 2
+  },
+  {
+    "english": "stretchy fabric",
+    "vietnamese": "vải co giãn",
+    "example": "Stretchy fabric makes these pants so comfortable.",
+    "difficulty": 2
+  },
+  {
+    "english": "breatheable cotton",
+    "vietnamese": "cotton thoáng khí",
+    "example": "Breathable cotton for the hot summer days.",
+    "difficulty": 2
+  },
+  {
+    "english": "wool sweater itch",
+    "vietnamese": "áo len gây ngứa",
+    "example": "A wool sweater itch that wouldn't go away.",
+    "difficulty": 3
+  },
+  {
+    "english": "mismatched socks",
+    "vietnamese": "tất không cùng đôi",
+    "example": "Mismatched socks, but nobody noticed.",
+    "difficulty": 2
+  },
+  {
+    "english": "spring cleaning frenzy",
+    "vietnamese": "cơn sốt dọn dẹp đầu năm",
+    "example": "A spring cleaning frenzy hit the whole family.",
+    "difficulty": 3
+  },
+  {
+    "english": "chore chart",
+    "vietnamese": "bảng phân công việc nhà",
+    "example": "A chore chart on the fridge for the kids.",
+    "difficulty": 2
+  },
+  {
+    "english": "dish rack",
+    "vietnamese": "giá úp bát",
+    "example": "Put the clean plates in the dish rack.",
+    "difficulty": 2
+  },
+  {
+    "english": "scrub the stove",
+    "vietnamese": "cọ bếp",
+    "example": "Scrub the stove after frying fish.",
+    "difficulty": 2
+  },
+  {
+    "english": "grease splatter",
+    "vietnamese": "dầu mỡ bắn tung tóe",
+    "example": "Grease splatter all over the backsplash.",
+    "difficulty": 3
+  },
+  {
+    "english": "dust mites",
+    "vietnamese": "mạt bụi (trong nhà)",
+    "example": "Dust mites thrive in pillows and mattresses.",
+    "difficulty": 3
+  },
+  {
+    "english": "lint trap",
+    "vietnamese": "lưới lọc xơ vải (máy sấy)",
+    "example": "Clean the lint trap after every dryer cycle.",
+    "difficulty": 3
+  },
+  {
+    "english": "bleach stain",
+    "vietnamese": "vết tẩy",
+    "example": "A bleach stain ruined the dark towel.",
+    "difficulty": 2
+  },
+  {
+    "english": "dripping tap",
+    "vietnamese": "vòi nước nhỏ giọt",
+    "example": "A dripping tap kept him awake all night.",
+    "difficulty": 2
+  },
+  {
+    "english": "flickering light",
+    "vietnamese": "đèn nhấp nháy",
+    "example": "A flickering light means the bulb is dying.",
+    "difficulty": 2
+  },
+  {
+    "english": "creaky floorboard",
+    "vietnamese": "sàn gỗ kêu cọt kẹt",
+    "example": "A creaky floorboard gives away your midnight snack run.",
+    "difficulty": 3
+  },
+  {
+    "english": "drafty window",
+    "vietnamese": "cửa sổ lọt gió",
+    "example": "A drafty window made the heating bill skyrocket.",
+    "difficulty": 3
+  },
+  {
+    "english": "wall hook",
+    "vietnamese": "móc treo tường",
+    "example": "A wall hook for the keys by the door.",
+    "difficulty": 2
+  },
+  {
+    "english": "duct tape",
+    "vietnamese": "băng dính vải (siêu dính)",
+    "example": "Duct tape fixes everything temporarily.",
+    "difficulty": 2
+  },
+  {
+    "english": "WD-40",
+    "vietnamese": "dầu chống rỉ WD-40",
+    "example": "Spray WD-40 on the squeaky hinge.",
+    "difficulty": 3
+  },
+  {
+    "english": "recipe calls for",
+    "vietnamese": "công thức yêu cầu",
+    "example": "The recipe calls for two cups of flour.",
+    "difficulty": 2
+  },
+  {
+    "english": "improvise with what you have",
+    "vietnamese": "ứng biến với đồ có sẵn",
+    "example": "Improvise with what you have instead of running to the store.",
+    "difficulty": 3
+  },
+  {
+    "english": "eyeball the measurements",
+    "vietnamese": "ước lượng bằng mắt",
+    "example": "After years of cooking, she eyeballs all measurements.",
+    "difficulty": 3
+  },
+  {
+    "english": "set off the smoke alarm",
+    "vietnamese": "làm chuông báo khói kêu",
+    "example": "Searing the steak set off the smoke alarm.",
+    "difficulty": 2
+  },
+  {
+    "english": "kitchen tongs",
+    "vietnamese": "kẹp gắp bếp",
+    "example": "Kitchen tongs for flipping the chicken.",
+    "difficulty": 2
+  },
+  {
+    "english": "whisk in the flour",
+    "vietnamese": "đánh bột vào (làm mịn)",
+    "example": "Whisk in the flour until there are no lumps.",
+    "difficulty": 3
+  },
+  {
+    "english": "fold in the egg whites",
+    "vietnamese": "trộn nhẹ lòng trắng trứng",
+    "example": "Carefully fold in the egg whites to keep them fluffy.",
+    "difficulty": 3
+  },
+  {
+    "english": "kitchen shears",
+    "vietnamese": "kéo bếp",
+    "example": "Kitchen shears snip herbs straight into the pot.",
+    "difficulty": 2
+  },
+  {
+    "english": "parchment paper",
+    "vietnamese": "giấy nến nướng",
+    "example": "Line the tray with parchment paper to prevent sticking.",
+    "difficulty": 3
+  },
+  {
+    "english": "aluminum foil",
+    "vietnamese": "giấy bạc",
+    "example": "Wrap the potato in aluminum foil before baking.",
+    "difficulty": 2
+  },
+  {
+    "english": "plastic wrap",
+    "vietnamese": "màng bọc thực phẩm",
+    "example": "Cover the bowl with plastic wrap overnight.",
+    "difficulty": 2
+  },
+  {
+    "english": "tupperware container",
+    "vietnamese": "hộp nhựa đựng đồ",
+    "example": "A tupperware container for tomorrow's lunch.",
+    "difficulty": 2
+  },
+  {
+    "english": "messy kitchen",
+    "vietnamese": "bếp bừa bộn",
+    "example": "A messy kitchen after a big cooking session.",
+    "difficulty": 1
+  },
+  {
+    "english": "clean as you go",
+    "vietnamese": "vừa nấu vừa dọn",
+    "example": "Clean as you go so there's no mountain of dishes at the end.",
+    "difficulty": 3
+  },
+  {
+    "english": "eat breakfast on the go",
+    "vietnamese": "ăn sáng trên đường đi",
+    "example": "Eating breakfast on the go, a granola bar in hand.",
+    "difficulty": 2
+  },
+  {
+    "english": "sit-down meal",
+    "vietnamese": "bữa ăn ngồi đàng hoàng",
+    "example": "A proper sit-down meal instead of eating over the sink.",
+    "difficulty": 2
+  },
+  {
+    "english": "stir the coffee",
+    "vietnamese": "khuấy cà phê",
+    "example": "Stir the coffee until the sugar dissolves.",
+    "difficulty": 1
+  },
+  {
+    "english": "burnt the dinner",
+    "vietnamese": "làm cháy bữa tối",
+    "example": "Burnt the dinner and had to order pizza.",
+    "difficulty": 2
+  },
+  {
+    "english": "save room for dessert",
+    "vietnamese": "chừa bụng ăn tráng miệng",
+    "example": "Save room for dessert, I made tiramisu.",
+    "difficulty": 2
+  },
+  {
+    "english": "wolf down your food",
+    "vietnamese": "ăn ngấu nghiến",
+    "example": "Wolfing down your food gives you indigestion.",
+    "difficulty": 3
+  },
+  {
+    "english": "nibble at a snack",
+    "vietnamese": "gặm nhấm đồ ăn vặt",
+    "example": "Nibbling at a snack while watching a movie.",
+    "difficulty": 2
+  },
+  {
+    "english": "shopping list on the fridge",
+    "vietnamese": "danh sách mua đồ dán tủ lạnh",
+    "example": "A shopping list on the fridge, add items as you run out.",
+    "difficulty": 2
+  },
+  {
+    "english": "weekly grocery haul",
+    "vietnamese": "đồ mua sắm hàng tuần",
+    "example": "The weekly grocery haul filled three bags.",
+    "difficulty": 2
+  },
+  {
+    "english": "paper or plastic",
+    "vietnamese": "túi giấy hay túi nhựa",
+    "example": "Paper or plastic? Paper, please.",
+    "difficulty": 2
+  },
+  {
+    "english": "farmers market fresh",
+    "vietnamese": "đồ tươi từ chợ nông sản",
+    "example": "Farmers market fresh vegetables every Saturday.",
+    "difficulty": 3
+  },
+  {
+    "english": "take the dog out",
+    "vietnamese": "dắt chó ra ngoài",
+    "example": "Take the dog out before bed.",
+    "difficulty": 1
+  },
+  {
+    "english": "cat hair on everything",
+    "vietnamese": "lông mèo ở khắp mọi nơi",
+    "example": "Cat hair on everything you own.",
+    "difficulty": 2
+  },
+  {
+    "english": "feed the cat",
+    "vietnamese": "cho mèo ăn",
+    "example": "Feed the cat at six or she'll wake you up.",
+    "difficulty": 1
+  },
+  {
+    "english": "clean the fish tank",
+    "vietnamese": "dọn bể cá",
+    "example": "Clean the fish tank every two weeks.",
+    "difficulty": 2
+  },
+  {
+    "english": "dog treats",
+    "vietnamese": "bánh thưởng cho chó",
+    "example": "Dog treats for good behavior.",
+    "difficulty": 2
+  },
+  {
+    "english": "wag its tail",
+    "vietnamese": "vẫy đuôi",
+    "example": "The dog wagged its tail when she came home.",
+    "difficulty": 2
+  },
+  {
+    "english": "purr loudly",
+    "vietnamese": "kêu gừ gừ to",
+    "example": "The cat purred loudly on her lap.",
+    "difficulty": 2
+  },
+  {
+    "english": "shed fur everywhere",
+    "vietnamese": "rụng lông khắp nơi",
+    "example": "Shedding fur everywhere, vacuuming daily now.",
+    "difficulty": 2
+  },
+  {
+    "english": "gather around the table",
+    "vietnamese": "quây quần quanh bàn",
+    "example": "Gathering around the table for Sunday dinner.",
+    "difficulty": 2
+  },
+  {
+    "english": "tell the kids a bedtime story",
+    "vietnamese": "kể chuyện trước khi ngủ cho con",
+    "example": "Telling the kids a bedtime story every night.",
+    "difficulty": 2
+  },
+  {
+    "english": "watch the baby",
+    "vietnamese": "trông em bé",
+    "example": "Can you watch the baby for five minutes?",
+    "difficulty": 1
+  },
+  {
+    "english": "mom's cooking",
+    "vietnamese": "cơm mẹ nấu",
+    "example": "Nothing beats mom's cooking.",
+    "difficulty": 2
+  },
+  {
+    "english": "peace and quiet",
+    "vietnamese": "yên bình và tĩnh lặng",
+    "example": "Peace and quiet after the kids went to bed.",
+    "difficulty": 2
+  },
+  {
+    "english": "come over for dinner",
+    "vietnamese": "ghé qua ăn tối",
+    "example": "Come over for dinner this Friday.",
+    "difficulty": 1
+  },
+  {
+    "english": "bring dessert",
+    "vietnamese": "mang món tráng miệng",
+    "example": "I'll bring dessert if you handle the main course.",
+    "difficulty": 2
+  },
+  {
+    "english": "good company",
+    "vietnamese": "bạn tốt, người hợp cạ",
+    "example": "Good food and good company, what more do you need?",
+    "difficulty": 2
+  },
+  {
+    "english": "was a blast",
+    "vietnamese": "vui hết sức",
+    "example": "The party was a blast, we stayed till 2 am.",
+    "difficulty": 3
+  },
+  {
+    "english": "low-key hangout",
+    "vietnamese": "gặp gỡ nhẹ nhàng, không cầu kỳ",
+    "example": "A low-key hangout with pizza and a movie.",
+    "difficulty": 3
+  },
+  {
+    "english": "headache pill",
+    "vietnamese": "thuốc đau đầu",
+    "example": "A headache pill and a glass of water.",
+    "difficulty": 1
+  },
+  {
+    "english": "cough drop",
+    "vietnamese": "kẹo ngậm ho",
+    "example": "A cough drop to soothe the throat.",
+    "difficulty": 2
+  },
+  {
+    "english": "band-aid box",
+    "vietnamese": "hộp băng cá nhân",
+    "example": "A band-aid box in the bathroom cabinet.",
+    "difficulty": 1
+  },
+  {
+    "english": "thermometer reading",
+    "vietnamese": "chỉ số nhiệt kế",
+    "example": "The thermometer reading was 38.5 degrees.",
+    "difficulty": 2
+  },
+  {
+    "english": "sick as a dog",
+    "vietnamese": "ốm thập tử nhất sinh",
+    "example": "Sick as a dog with the flu all week.",
+    "difficulty": 3
+  },
+  {
+    "english": "nurse back to health",
+    "vietnamese": "chăm sóc đến khi khỏe lại",
+    "example": "Nursing him back to health with soup and tea.",
+    "difficulty": 3
+  },
+  {
+    "english": "side effect warning",
+    "vietnamese": "cảnh báo tác dụng phụ",
+    "example": "The side effect warning listed drowsiness.",
+    "difficulty": 3
+  },
+  {
+    "english": "turn it off and on again",
+    "vietnamese": "tắt đi bật lại",
+    "example": "First rule of tech support: turn it off and on again.",
+    "difficulty": 2
+  },
+  {
+    "english": "blue screen of death",
+    "vietnamese": "màn hình xanh chết chóc",
+    "example": "The blue screen of death appeared mid-presentation.",
+    "difficulty": 3
+  },
+  {
+    "english": "force quit",
+    "vietnamese": "thoát cưỡng bức",
+    "example": "Force quit the frozen app.",
+    "difficulty": 2
+  },
+  {
+    "english": "mute notifications",
+    "vietnamese": "tắt thông báo",
+    "example": "Mute notifications during dinner.",
+    "difficulty": 2
+  },
+  {
+    "english": "optimize battery life",
+    "vietnamese": "tối ưu thời lượng pin",
+    "example": "Optimize battery life by closing background apps.",
+    "difficulty": 3
+  },
+  {
+    "english": "run to catch the bus",
+    "vietnamese": "chạy để bắt xe buýt",
+    "example": "Running to catch the bus in the rain.",
+    "difficulty": 2
+  },
+  {
+    "english": "stand on the bus",
+    "vietnamese": "đứng trên xe buýt",
+    "example": "Standing on a packed bus for forty minutes.",
+    "difficulty": 1
+  },
+  {
+    "english": "give up your seat",
+    "vietnamese": "nhường ghế",
+    "example": "Give up your seat for the elderly.",
+    "difficulty": 2
+  },
+  {
+    "english": "missed the train by seconds",
+    "vietnamese": "trễ tàu trong gang tấc",
+    "example": "Missed the train by seconds, now waiting twenty minutes.",
+    "difficulty": 2
+  },
+  {
+    "english": "gridlock traffic",
+    "vietnamese": "tắc đường cứng",
+    "example": "Gridlock traffic, not moving an inch.",
+    "difficulty": 3
+  },
+  {
+    "english": "find a parking spot",
+    "vietnamese": "tìm chỗ đỗ xe",
+    "example": "Finding a parking spot on a Saturday is impossible.",
+    "difficulty": 2
+  },
+  {
+    "english": "gas station snack run",
+    "vietnamese": "ghé trạm xăng mua đồ ăn vặt",
+    "example": "A gas station snack run for road trip supplies.",
+    "difficulty": 3
+  },
+  {
+    "english": "check your bank statement",
+    "vietnamese": "kiểm tra sao kê ngân hàng",
+    "example": "Check your bank statement for errors.",
+    "difficulty": 2
+  },
+  {
+    "english": "online banking login",
+    "vietnamese": "đăng nhập ngân hàng trực tuyến",
+    "example": "Online banking login with a secure password.",
+    "difficulty": 2
+  },
+  {
+    "english": "bounced check",
+    "vietnamese": "séc bị trả lại (không đủ tiền)",
+    "example": "A bounced check fee of thirty-five dollars.",
+    "difficulty": 3
+  },
+  {
+    "english": "automatic bill pay",
+    "vietnamese": "thanh toán hóa đơn tự động",
+    "example": "Set up automatic bill pay to never miss a due date.",
+    "difficulty": 2
+  },
+  {
+    "english": "bundle up warm",
+    "vietnamese": "mặc ấm nhiều lớp",
+    "example": "Bundle up warm, it's freezing outside.",
+    "difficulty": 2
+  },
+  {
+    "english": "dress in layers",
+    "vietnamese": "mặc nhiều lớp",
+    "example": "Dress in layers, the morning is cold but afternoon is warm.",
+    "difficulty": 2
+  },
+  {
+    "english": "check the forecast",
+    "vietnamese": "kiểm tra dự báo thời tiết",
+    "example": "Check the forecast before planning the picnic.",
+    "difficulty": 1
+  },
+  {
+    "english": "muddy puddles",
+    "vietnamese": "vũng nước bùn",
+    "example": "Muddy puddles everywhere after the downpour.",
+    "difficulty": 2
+  },
+  {
+    "english": "Netflix and chill",
+    "vietnamese": "xem Netflix và thư giãn",
+    "example": "Friday night is Netflix and chill night.",
+    "difficulty": 2
+  },
+  {
+    "english": "binge-watch a show",
+    "vietnamese": "cày phim liên tục",
+    "example": "Binge-watching a show until 4 am.",
+    "difficulty": 2
+  },
+  {
+    "english": "scroll through TikTok",
+    "vietnamese": "lướt TikTok",
+    "example": "Scrolling through TikTok for hours without noticing.",
+    "difficulty": 2
+  },
+  {
+    "english": "listen to an audiobook",
+    "vietnamese": "nghe sách nói",
+    "example": "Listening to an audiobook during the commute.",
+    "difficulty": 2
+  },
+  {
+    "english": "pop quiz",
+    "vietnamese": "bài kiểm tra bất ngờ",
+    "example": "A pop quiz on Monday morning.",
+    "difficulty": 3
+  },
+  {
+    "english": "report card",
+    "vietnamese": "phiếu điểm, học bạ",
+    "example": "Report card day, the most stressful day of the semester.",
+    "difficulty": 2
+  },
+  {
+    "english": "top of the class",
+    "vietnamese": "đứng đầu lớp",
+    "example": "Top of the class in math.",
+    "difficulty": 2
+  },
+  {
+    "english": "hit the books",
+    "vietnamese": "cắm đầu vào học",
+    "example": "Time to hit the books, finals are next week.",
+    "difficulty": 3
+  },
+  {
+    "english": "attend a service",
+    "vietnamese": "tham dự buổi lễ",
+    "example": "Attending a Sunday service with family.",
+    "difficulty": 2
+  },
+  {
+    "english": "holy water",
+    "vietnamese": "nước thánh",
+    "example": "Holy water at the entrance of the church.",
+    "difficulty": 2
+  },
+  {
+    "english": "fasting period",
+    "vietnamese": "thời gian ăn chay",
+    "example": "A fasting period observed by the whole community.",
+    "difficulty": 3
+  },
+  {
+    "english": "borrow a cup of sugar",
+    "vietnamese": "mượn ít đường (hàng xóm)",
+    "example": "Borrowing a cup of sugar from the next-door neighbor.",
+    "difficulty": 2
+  },
+  {
+    "english": "collect the mail",
+    "vietnamese": "lấy thư",
+    "example": "Collect the mail on your way upstairs.",
+    "difficulty": 1
+  },
+  {
+    "english": "package delivery",
+    "vietnamese": "giao hàng, chuyển phát",
+    "example": "A package delivery left at the front door.",
+    "difficulty": 2
+  },
+  {
+    "english": "ring the doorbell",
+    "vietnamese": "bấm chuông cửa",
+    "example": "Ring the doorbell and wait.",
+    "difficulty": 1
+  },
+  {
+    "english": "feel burnt out",
+    "vietnamese": "cảm thấy kiệt sức",
+    "example": "Feeling burnt out after months of overtime.",
+    "difficulty": 2
+  },
+  {
+    "english": "leave work at work",
+    "vietnamese": "không mang việc về nhà",
+    "example": "Learning to leave work at work.",
+    "difficulty": 3
+  },
+  {
+    "english": "me time",
+    "vietnamese": "thời gian cho bản thân",
+    "example": "Me time on Sunday mornings with a book.",
+    "difficulty": 2
+  },
+  {
+    "english": "kill time",
+    "vietnamese": "giết thời gian",
+    "example": "Killing time at the airport with a magazine.",
+    "difficulty": 2
+  },
+  {
+    "english": "take your time",
+    "vietnamese": "cứ từ từ, không vội",
+    "example": "Take your time, there's no rush.",
+    "difficulty": 2
+  },
+  {
+    "english": "race against time",
+    "vietnamese": "chạy đua với thời gian",
+    "example": "A race against time to finish the project.",
+    "difficulty": 3
+  },
+  {
+    "english": "on the dot",
+    "vietnamese": "đúng giờ chính xác",
+    "example": "She arrives at 8 am on the dot every day.",
+    "difficulty": 3
+  },
+  {
+    "english": "hit the sack",
+    "vietnamese": "đi ngủ (thành ngữ)",
+    "example": "I'm exhausted, time to hit the sack.",
+    "difficulty": 3
+  },
+  {
+    "english": "catch some Zs",
+    "vietnamese": "ngủ một giấc",
+    "example": "I need to catch some Zs before the night shift.",
+    "difficulty": 3
+  },
+  {
+    "english": "sleep like a log",
+    "vietnamese": "ngủ say như chết",
+    "example": "After the hike, he slept like a log.",
+    "difficulty": 3
+  },
+  {
+    "english": "insomnia struggle",
+    "vietnamese": "vật lộn với chứng mất ngủ",
+    "example": "An insomnia struggle that keeps her up till 4 am.",
+    "difficulty": 3
+  },
+  {
+    "english": "power nap",
+    "vietnamese": "giấc ngủ ngắn lấy sức",
+    "example": "A twenty-minute power nap resets the brain.",
+    "difficulty": 2
+  },
+  {
+    "english": "lie in on weekends",
+    "vietnamese": "nằm nướng cuối tuần",
+    "example": "Nothing beats lying in on a Sunday morning.",
+    "difficulty": 2
+  },
+  {
+    "english": "tuck yourself in",
+    "vietnamese": "đắp chăn, cuộn mình vào giường",
+    "example": "Tuck yourself in with a good book.",
+    "difficulty": 2
+  },
+  {
+    "english": "pull the covers over your head",
+    "vietnamese": "trùm chăn kín đầu",
+    "example": "Pulling the covers over your head when the alarm goes off.",
+    "difficulty": 2
+  },
+  {
+    "english": "sleep deprivation",
+    "vietnamese": "thiếu ngủ",
+    "example": "Sleep deprivation affects your mood and judgment.",
+    "difficulty": 2
+  },
+  {
+    "english": "count sheep",
+    "vietnamese": "đếm cừu (để dễ ngủ)",
+    "example": "Counting sheep never actually works.",
+    "difficulty": 3
+  },
+  {
+    "english": "wash behind your ears",
+    "vietnamese": "rửa sau tai",
+    "example": "Mom always said wash behind your ears.",
+    "difficulty": 2
+  },
+  {
+    "english": "scrub your back",
+    "vietnamese": "kỳ lưng",
+    "example": "Use a loofah to scrub your back.",
+    "difficulty": 2
+  },
+  {
+    "english": "pumice stone",
+    "vietnamese": "đá mài chân (chai sần)",
+    "example": "A pumice stone for rough heels.",
+    "difficulty": 3
+  },
+  {
+    "english": "foot soak",
+    "vietnamese": "ngâm chân",
+    "example": "A warm foot soak after a long day.",
+    "difficulty": 2
+  },
+  {
+    "english": "cuticle care",
+    "vietnamese": "chăm sóc da quanh móng",
+    "example": "Cuticle care keeps nails looking neat.",
+    "difficulty": 3
+  },
+  {
+    "english": "clean your ears",
+    "vietnamese": "ráy tai, vệ sinh tai",
+    "example": "Clean your ears gently, don't push too deep.",
+    "difficulty": 1
+  },
+  {
+    "english": "clip your toenails",
+    "vietnamese": "cắt móng chân",
+    "example": "Clip your toenails before they tear your socks.",
+    "difficulty": 2
+  },
+  {
+    "english": "sort by color",
+    "vietnamese": "phân loại theo màu",
+    "example": "Sort the laundry by color: whites, darks, and colors.",
+    "difficulty": 2
+  },
+  {
+    "english": "cold wash cycle",
+    "vietnamese": "giặt bằng nước lạnh",
+    "example": "Use a cold wash cycle to save energy.",
+    "difficulty": 2
+  },
+  {
+    "english": "tumble dry low",
+    "vietnamese": "sấy ở nhiệt độ thấp",
+    "example": "Tumble dry low to prevent shrinking.",
+    "difficulty": 3
+  },
+  {
+    "english": "air dry on the rack",
+    "vietnamese": "phơi khô tự nhiên trên giá",
+    "example": "Air dry on the rack, the dryer ruins elastic.",
+    "difficulty": 2
+  },
+  {
+    "english": "pop it in the hamper",
+    "vietnamese": "ném vào giỏ đồ bẩn",
+    "example": "Don't leave socks on the floor, pop them in the hamper.",
+    "difficulty": 2
+  },
+  {
+    "english": "fold and put away",
+    "vietnamese": "gấp và cất đi",
+    "example": "Fold and put away the laundry before it wrinkles.",
+    "difficulty": 2
+  },
+  {
+    "english": "clothes moth infestation",
+    "vietnamese": "con nhậy quần áo",
+    "example": "A clothes moth infestation ruined the wool sweaters.",
+    "difficulty": 3
+  },
+  {
+    "english": "cedar blocks",
+    "vietnamese": "gỗ tuyết tùng chống nhậy",
+    "example": "Cedar blocks in the closet keep moths away.",
+    "difficulty": 3
+  },
+  {
+    "english": "sear the meat",
+    "vietnamese": "áp chảo thịt (cho vàng nhanh)",
+    "example": "Sear the meat on high heat to lock in the juices.",
+    "difficulty": 3
+  },
+  {
+    "english": "deglaze the pan",
+    "vietnamese": "rượu khử đáy chảo (làm sốt)",
+    "example": "Deglaze the pan with white wine for the sauce.",
+    "difficulty": 3
+  },
+  {
+    "english": "render the fat",
+    "vietnamese": "rán chảy mỡ ra",
+    "example": "Render the bacon fat before adding the onions.",
+    "difficulty": 3
+  },
+  {
+    "english": "caramelize the onions",
+    "vietnamese": "thắng đường cho hành chuyển nâu",
+    "example": "Caramelize the onions low and slow for sweetness.",
+    "difficulty": 3
+  },
+  {
+    "english": "blanch the vegetables",
+    "vietnamese": "chần rau (nước sôi rồi nước đá)",
+    "example": "Blanch the green beans for that bright color.",
+    "difficulty": 3
+  },
+  {
+    "english": "proof the yeast",
+    "vietnamese": "kích hoạt men nở",
+    "example": "Proof the yeast in warm water with a pinch of sugar.",
+    "difficulty": 3
+  },
+  {
+    "english": "knead the dough",
+    "vietnamese": "nhào bột",
+    "example": "Knead the dough for ten minutes until smooth.",
+    "difficulty": 3
+  },
+  {
+    "english": "let it rest",
+    "vietnamese": "để bột nghỉ",
+    "example": "Let the dough rest for an hour to rise.",
+    "difficulty": 2
+  },
+  {
+    "english": "thumb-sized piece of ginger",
+    "vietnamese": "miếng gừng cỡ ngón tay cái",
+    "example": "Finely grate a thumb-sized piece of ginger.",
+    "difficulty": 2
+  },
+  {
+    "english": "sprinkle of fresh herbs",
+    "vietnamese": "rắc rau thơm tươi",
+    "example": "A sprinkle of fresh herbs brightens any dish.",
+    "difficulty": 2
+  },
+  {
+    "english": "pick up the kids from school",
+    "vietnamese": "đón con tan học",
+    "example": "Picking up the kids from school at 3:30.",
+    "difficulty": 2
+  },
+  {
+    "english": "after-school activity",
+    "vietnamese": "hoạt động sau giờ học",
+    "example": "After-school activities like soccer and piano.",
+    "difficulty": 2
+  },
+  {
+    "english": "school run",
+    "vietnamese": "việc đưa đón con đi học",
+    "example": "The school run every morning is chaos.",
+    "difficulty": 2
+  },
+  {
+    "english": "pack the kids' lunch",
+    "vietnamese": "chuẩn bị cơm trưa cho con",
+    "example": "Packing the kids' lunch boxes each night.",
+    "difficulty": 2
+  },
+  {
+    "english": "change a diaper",
+    "vietnamese": "thay tã",
+    "example": "Change a diaper every two hours with a newborn.",
+    "difficulty": 2
+  },
+  {
+    "english": "rock the baby to sleep",
+    "vietnamese": "đung đưa bé ngủ",
+    "example": "Rocking the baby to sleep in the nursery.",
+    "difficulty": 2
+  },
+  {
+    "english": "give a piggyback ride",
+    "vietnamese": "cõng trên lưng",
+    "example": "Giving a piggyback ride to a giggling toddler.",
+    "difficulty": 2
+  },
+  {
+    "english": "tuck the kids into bed",
+    "vietnamese": "đắp chăn cho con đi ngủ",
+    "example": "Tucking the kids into bed with a kiss.",
+    "difficulty": 2
+  },
+  {
+    "english": "family game night",
+    "vietnamese": "tối chơi game gia đình",
+    "example": "Family game night with Monopoly always ends in tears.",
+    "difficulty": 2
+  },
+  {
+    "english": "generation gap",
+    "vietnamese": "khoảng cách thế hệ",
+    "example": "The generation gap means they don't get each other's music.",
+    "difficulty": 3
+  },
+  {
+    "english": "scoop the litter box",
+    "vietnamese": "xúc khay vệ sinh mèo",
+    "example": "Scoop the litter box every morning.",
+    "difficulty": 2
+  },
+  {
+    "english": "fill the water bowl",
+    "vietnamese": "đổ nước vào bát cho thú",
+    "example": "Fill the water bowl for the dog.",
+    "difficulty": 1
+  },
+  {
+    "english": "let the dog out",
+    "vietnamese": "thả chó ra ngoài",
+    "example": "Let the dog out to do its business.",
+    "difficulty": 2
+  },
+  {
+    "english": "dog chew toy",
+    "vietnamese": "đồ chơi gặm cho chó",
+    "example": "A dog chew toy keeps him busy for hours.",
+    "difficulty": 2
+  },
+  {
+    "english": "cat scratches the sofa",
+    "vietnamese": "mèo cào ghế sofa",
+    "example": "Cat scratches the sofa no matter what I do.",
+    "difficulty": 2
+  },
+  {
+    "english": "pet hair roller",
+    "vietnamese": "cây lăn lông thú",
+    "example": "A pet hair roller before leaving the house.",
+    "difficulty": 2
+  },
+  {
+    "english": "give the dog a bath",
+    "vietnamese": "tắm cho chó",
+    "example": "Giving the dog a bath in the backyard.",
+    "difficulty": 2
+  },
+  {
+    "english": "make small talk",
+    "vietnamese": "nói chuyện xã giao",
+    "example": "Making small talk at a party you didn't want to attend.",
+    "difficulty": 2
+  },
+  {
+    "english": "liven up the party",
+    "vietnamese": "khuấy động bữa tiệc",
+    "example": "A few drinks livened up the party.",
+    "difficulty": 3
+  },
+  {
+    "english": "wallflower at a party",
+    "vietnamese": "người đứng nép góc tiệc",
+    "example": "She was a wallflower at her own birthday party.",
+    "difficulty": 3
+  },
+  {
+    "english": "party pooper",
+    "vietnamese": "người phá đám vui",
+    "example": "Don't be a party pooper, stay for one more drink.",
+    "difficulty": 3
+  },
+  {
+    "english": "casual get-together",
+    "vietnamese": "gặp gỡ thân mật, giản dị",
+    "example": "A casual get-together, no need to dress up.",
+    "difficulty": 2
+  },
+  {
+    "english": "move into a new place",
+    "vietnamese": "chuyển vào nhà mới",
+    "example": "Moving into a new place meant meeting the neighbors.",
+    "difficulty": 2
+  },
+  {
+    "english": "welcome basket",
+    "vietnamese": "giỏ quà chào mừng hàng xóm mới",
+    "example": "A welcome basket from the neighbors.",
+    "difficulty": 3
+  },
+  {
+    "english": "keep the noise down",
+    "vietnamese": "giữ yên lặng, đừng ồn",
+    "example": "Keep the noise down after 10 pm.",
+    "difficulty": 2
+  },
+  {
+    "english": "neighbor dispute",
+    "vietnamese": "tranh chấp hàng xóm",
+    "example": "A neighbor dispute over a fence that's two inches over the line.",
+    "difficulty": 3
+  },
+  {
+    "english": "community notice board",
+    "vietnamese": "bảng thông báo cộng đồng",
+    "example": "The community notice board had a lost cat poster.",
+    "difficulty": 3
+  },
+  {
+    "english": "local convenience store",
+    "vietnamese": "tiệm tạp hóa gần nhà",
+    "example": "The local convenience store for a late-night snack.",
+    "difficulty": 2
+  },
+  {
+    "english": "know everyone on the street",
+    "vietnamese": "biết hết mọi người trong phố",
+    "example": "Knowing everyone on the street, nodding and waving.",
+    "difficulty": 2
+  },
+  {
+    "english": "quiet cul-de-sac",
+    "vietnamese": "ngõ cụt yên tĩnh",
+    "example": "A quiet cul-de-sac where kids play on the street.",
+    "difficulty": 3
+  },
+  {
+    "english": "run a fever",
+    "vietnamese": "bị sốt",
+    "example": "Running a fever of 39 degrees.",
+    "difficulty": 2
+  },
+  {
+    "english": "ache all over",
+    "vietnamese": "đau nhức khắp người",
+    "example": "Aching all over with the flu.",
+    "difficulty": 2
+  },
+  {
+    "english": "waiting room full",
+    "vietnamese": "phòng chờ đông",
+    "example": "A waiting room full of coughing patients.",
+    "difficulty": 2
+  },
+  {
+    "english": "get a shot",
+    "vietnamese": "tiêm",
+    "example": "Getting a flu shot at the pharmacy.",
+    "difficulty": 1
+  },
+  {
+    "english": "cough syrup",
+    "vietnamese": "siro ho",
+    "example": "A spoonful of cough syrup before bed.",
+    "difficulty": 2
+  },
+  {
+    "english": "home remedy",
+    "vietnamese": "bài thuốc dân gian",
+    "example": "A home remedy of honey and lemon for a sore throat.",
+    "difficulty": 3
+  },
+  {
+    "english": "bed rest",
+    "vietnamese": "nghỉ ngơi trên giường",
+    "example": "The doctor prescribed bed rest for three days.",
+    "difficulty": 2
+  },
+  {
+    "english": "rain check on the picnic",
+    "vietnamese": "hoãn picnic vì mưa",
+    "example": "Rain check on the picnic, it's pouring.",
+    "difficulty": 3
+  },
+  {
+    "english": "melt in the heat",
+    "vietnamese": "tan chảy trong nắng nóng",
+    "example": "Melting in the heat without air conditioning.",
+    "difficulty": 2
+  },
+  {
+    "english": "patch of ice",
+    "vietnamese": "mảng băng trên đường",
+    "example": "Watch for a patch of ice on the steps.",
+    "difficulty": 2
+  },
+  {
+    "english": "shiver in the cold",
+    "vietnamese": "rùng mình vì lạnh",
+    "example": "Shivering in the cold waiting for the bus.",
+    "difficulty": 2
+  },
+  {
+    "english": "sun peeking through clouds",
+    "vietnamese": "mặt trời ló qua mây",
+    "example": "Sun peeking through the clouds after a week of rain.",
+    "difficulty": 3
+  },
+  {
+    "english": "phone battery dying",
+    "vietnamese": "pin điện thoại sắp hết",
+    "example": "Phone battery dying at 3 percent.",
+    "difficulty": 1
+  },
+  {
+    "english": "phone auto-correct fail",
+    "vietnamese": "lỗi tự sửa trên điện thoại",
+    "example": "An auto-correct fail that sent 'duck' instead of something else.",
+    "difficulty": 3
+  },
+  {
+    "english": "delete old photos",
+    "vietnamese": "xóa ảnh cũ",
+    "example": "Deleting old photos to free up space.",
+    "difficulty": 2
+  },
+  {
+    "english": "free up storage space",
+    "vietnamese": "giải phóng dung lượng",
+    "example": "Free up storage space by deleting unused apps.",
+    "difficulty": 3
+  },
+  {
+    "english": "password reset link",
+    "vietnamese": "đường dẫn đặt lại mật khẩu",
+    "example": "The password reset link expired before I clicked it.",
+    "difficulty": 3
+  },
+  {
+    "english": "unread messages badge",
+    "vietnamese": "huy hiệu tin nhắn chưa đọc",
+    "example": "An unread messages badge with 200+ notifications.",
+    "difficulty": 3
+  },
+  {
+    "english": "swipe the card",
+    "vietnamese": "quẹt thẻ",
+    "example": "Swipe the card and enter your PIN.",
+    "difficulty": 1
+  },
+  {
+    "english": "tap to pay",
+    "vietnamese": "chạm để thanh toán",
+    "example": "Tap to pay with your phone.",
+    "difficulty": 2
+  },
+  {
+    "english": "cash back at checkout",
+    "vietnamese": "rút tiền mặt khi thanh toán",
+    "example": "Cash back at checkout saved a trip to the ATM.",
+    "difficulty": 3
+  },
+  {
+    "english": "bank teller line",
+    "vietnamese": "hàng chờ giao dịch viên ngân hàng",
+    "example": "A bank teller line that moved at a crawl.",
+    "difficulty": 3
+  },
+  {
+    "english": "bike chain came off",
+    "vietnamese": "xích xe đạp tuột",
+    "example": "The bike chain came off halfway to work.",
+    "difficulty": 2
+  },
+  {
+    "english": "pump the tires",
+    "vietnamese": "bơm lốp xe",
+    "example": "Pump the tires before a long ride.",
+    "difficulty": 2
+  },
+  {
+    "english": "Uber surge pricing",
+    "vietnamese": "Uber tăng giá giờ cao điểm",
+    "example": "Uber surge pricing made the ride triple the cost.",
+    "difficulty": 3
+  },
+  {
+    "english": "backseat full of stuff",
+    "vietnamese": "ghế sau đầy đồ đạc",
+    "example": "A backseat full of groceries and gym bags.",
+    "difficulty": 2
+  },
+  {
+    "english": "garage door opener",
+    "vietnamese": "thiết bị mở cửa gara",
+    "example": "The garage door opener battery died.",
+    "difficulty": 3
+  },
+  {
+    "english": "detention after school",
+    "vietnamese": "bị giữ lại sau giờ học",
+    "example": "Detention after school for talking in class.",
+    "difficulty": 3
+  },
+  {
+    "english": "parent-teacher conference",
+    "vietnamese": "họp phụ huynh",
+    "example": "A parent-teacher conference about his grades.",
+    "difficulty": 3
+  },
+  {
+    "english": "college application essay",
+    "vietnamese": "bài luận xin vào đại học",
+    "example": "The college application essay took two months to write.",
+    "difficulty": 3
+  },
+  {
+    "english": "student loan debt",
+    "vietnamese": "nợ vay sinh viên",
+    "example": "Student loan debt hanging over her head.",
+    "difficulty": 3
+  },
+  {
+    "english": "scrolling addiction",
+    "vietnamese": "nghiện lướt điện thoại",
+    "example": "A scrolling addiction that eats three hours a day.",
+    "difficulty": 3
+  },
+  {
+    "english": "YouTube rabbit hole",
+    "vietnamese": "sa vào hố thỏ YouTube",
+    "example": "Fell into a YouTube rabbit hole of cat videos.",
+    "difficulty": 3
+  },
+  {
+    "english": "Netflix autoplay trap",
+    "vietnamese": "bẫy tự động phát Netflix",
+    "example": "The Netflix autoplay trap got him watching five episodes.",
+    "difficulty": 3
+  },
+  {
+    "english": "scroll mindlessly",
+    "vietnamese": "lướt vô thức",
+    "example": "Scrolling mindlessly before bed.",
+    "difficulty": 2
+  },
+  {
+    "english": "watch a classic film",
+    "vietnamese": "xem một bộ phim kinh điển",
+    "example": "Watching a classic film from the 70s.",
+    "difficulty": 2
+  },
+  {
+    "english": "console gaming session",
+    "vietnamese": "buổi chơi game trên máy console",
+    "example": "A console gaming session that lasted till dawn.",
+    "difficulty": 2
+  },
+  {
+    "english": "bow at the altar",
+    "vietnamese": "cúi lạy trước bàn thờ",
+    "example": "Bowing at the family altar every morning.",
+    "difficulty": 2
+  },
+  {
+    "english": "offer fruit to ancestors",
+    "vietnamese": "cúng trái cây cho tổ tiên",
+    "example": "Offering fruit to the ancestors on the ancestral altar.",
+    "difficulty": 2
+  },
+  {
+    "english": "burn joss paper",
+    "vietnamese": "đốt vàng mã",
+    "example": "Burning joss paper for the ancestors.",
+    "difficulty": 3
+  },
+  {
+    "english": "chanting session",
+    "vietnamese": "buổi tụng kinh",
+    "example": "A chanting session at the temple on Sunday.",
+    "difficulty": 3
+  },
+  {
+    "english": "fold hands in prayer",
+    "vietnamese": "chắp tay cầu nguyện",
+    "example": "Folding hands in prayer before the meal.",
+    "difficulty": 2
+  },
+  {
+    "english": "religious observance",
+    "vietnamese": "lễ nghi tôn giáo",
+    "example": "A religious observance that the whole family follows.",
+    "difficulty": 3
+  },
+  {
+    "english": "wake up on the wrong side of the bed",
+    "vietnamese": "thức dậy với tâm trạng xấu",
+    "example": "Woke up on the wrong side of the bed today.",
+    "difficulty": 3
+  },
+  {
+    "english": "in a bad mood",
+    "vietnamese": "tâm trạng không tốt",
+    "example": "In a bad mood for no reason.",
+    "difficulty": 1
+  },
+  {
+    "english": "cheer up",
+    "vietnamese": "vui lên",
+    "example": "Come on, cheer up, things aren't that bad.",
+    "difficulty": 2
+  },
+  {
+    "english": "snap at someone",
+    "vietnamese": "cáu gắt với ai đó",
+    "example": "Snapping at your partner because you're tired.",
+    "difficulty": 2
+  },
+  {
+    "english": "feeling down",
+    "vietnamese": "cảm thấy buồn, chán nản",
+    "example": "Feeling down for no particular reason.",
+    "difficulty": 2
+  },
+  {
+    "english": "bored out of my mind",
+    "vietnamese": "chán muốn chết",
+    "example": "Bored out of my mind in this meeting.",
+    "difficulty": 3
+  },
+  {
+    "english": "grin from ear to ear",
+    "vietnamese": "cười tươi từ tai này đến tai kia",
+    "example": "Grinned from ear to ear at the surprise.",
+    "difficulty": 3
+  },
+  {
+    "english": "potter around the house",
+    "vietnamese": "lọ mọ làm việc lặt vặt trong nhà",
+    "example": "Pottering around the house on a lazy Sunday.",
+    "difficulty": 3
+  },
+  {
+    "english": "knit a scarf",
+    "vietnamese": "đan khăn quàng",
+    "example": "Knitting a scarf while watching TV.",
+    "difficulty": 2
+  },
+  {
+    "english": "scrapbook photos",
+    "vietnamese": "làm album ảnh thủ công",
+    "example": "Scrapbooking photos from the trip.",
+    "difficulty": 3
+  },
+  {
+    "english": "paint by numbers",
+    "vietnamese": "tô tranh theo số",
+    "example": "Painting by numbers to relax after work.",
+    "difficulty": 2
+  },
+  {
+    "english": "collect stamps",
+    "vietnamese": "sưu tầm tem",
+    "example": "Collecting stamps from around the world.",
+    "difficulty": 2
+  },
+  {
+    "english": "model airplane kit",
+    "vietnamese": "bộ ráp mô hình máy bay",
+    "example": "A model airplane kit that took a month to complete.",
+    "difficulty": 3
+  },
+  {
+    "english": "run errands",
+    "vietnamese": "chạy việc vặt",
+    "example": "Running errands all Saturday morning.",
+    "difficulty": 2
+  },
+  {
+    "english": "drop off the dry cleaning",
+    "vietnamese": "gửi đồ giặt khô",
+    "example": "Drop off the dry cleaning on the way to work.",
+    "difficulty": 3
+  },
+  {
+    "english": "pick up a prescription",
+    "vietnamese": "lấy thuốc theo đơn",
+    "example": "Pick up a prescription at the pharmacy.",
+    "difficulty": 2
+  },
+  {
+    "english": "post a letter",
+    "vietnamese": "gửi thư",
+    "example": "Post a letter at the mailbox on the corner.",
+    "difficulty": 2
+  },
+  {
+    "english": "return an item",
+    "vietnamese": "trả lại hàng",
+    "example": "Returning an item that didn't fit.",
+    "difficulty": 2
+  },
+  {
+    "english": "drop by the bank",
+    "vietnamese": "ghé qua ngân hàng",
+    "example": "Drop by the bank during lunch break.",
+    "difficulty": 2
+  },
+  {
+    "english": "filling station",
+    "vietnamese": "trạm xăng",
+    "example": "Stop at the filling station before the highway.",
+    "difficulty": 2
+  },
+  {
+    "english": "Monday blues",
+    "vietnamese": "nỗi buồn thứ Hai",
+    "example": "Monday blues hitting hard this morning.",
+    "difficulty": 3
+  },
+  {
+    "english": "Friday feeling",
+    "vietnamese": "cảm giác ngày thứ Sáu",
+    "example": "That Friday feeling, the weekend is here.",
+    "difficulty": 3
+  },
+  {
+    "english": "grind through the day",
+    "vietnamese": "cày qua ngày dài",
+    "example": "Grinding through the day on autopilot.",
+    "difficulty": 2
+  },
+  {
+    "english": "catch up on sleep",
+    "vietnamese": "ngủ bù",
+    "example": "Catching up on sleep over the weekend.",
+    "difficulty": 2
+  },
+  {
+    "english": "lazy Sunday afternoon",
+    "vietnamese": "chiều Chủ nhật lười biếng",
+    "example": "A lazy Sunday afternoon on the couch.",
+    "difficulty": 2
+  },
+  {
+    "english": "ahead of schedule",
+    "vietnamese": "trước tiến độ",
+    "example": "Actually ahead of schedule for once.",
+    "difficulty": 2
+  },
+  {
+    "english": "last-minute panic",
+    "vietnamese": "hoảng loạn phút cuối",
+    "example": "Last-minute panic before the deadline.",
+    "difficulty": 2
+  },
+  {
+    "english": "the day dragged on",
+    "vietnamese": "ngày trôi chậm chạp",
+    "example": "The day dragged on endlessly.",
+    "difficulty": 2
+  },
+  {
+    "english": "where did the time go",
+    "vietnamese": "thời gian đi đâu mất rồi",
+    "example": "Where did the time go, it's midnight already.",
+    "difficulty": 2
+  },
+  {
+    "english": "against the clock",
+    "vietnamese": "chạy đua với đồng hồ",
+    "example": "Working against the clock to finish.",
+    "difficulty": 3
+  },
+  {
+    "english": "missed call",
+    "vietnamese": "cuộc gọi nhỡ",
+    "example": "Three missed calls from Mom.",
+    "difficulty": 1
+  },
+  {
+    "english": "call you back later",
+    "vietnamese": "gọi lại sau",
+    "example": "Can't talk now, I'll call you back later.",
+    "difficulty": 1
+  },
+  {
+    "english": "bad reception area",
+    "vietnamese": "khu vực sóng yếu",
+    "example": "A bad reception area, the call kept dropping.",
+    "difficulty": 2
+  },
+  {
+    "english": "speakerphone call",
+    "vietnamese": "gọi bằng loa ngoài",
+    "example": "On speakerphone while cooking dinner.",
+    "difficulty": 2
+  },
+  {
+    "english": "screen the call",
+    "vietnamese": "nghe máy chọn lọc",
+    "example": "Screening the call before picking up.",
+    "difficulty": 3
+  },
+  {
+    "english": "cluttered desk",
+    "vietnamese": "bàn làm việc bừa bộn",
+    "example": "A cluttered desk, a cluttered mind.",
+    "difficulty": 2
+  },
+  {
+    "english": "give the house a quick tidy",
+    "vietnamese": "dọn dẹp nhà nhanh",
+    "example": "Give the house a quick tidy before guests arrive.",
+    "difficulty": 2
+  },
+  {
+    "english": "make everything spotless",
+    "vietnamese": "làm mọi thứ sạch bong",
+    "example": "Making everything spotless for the inspection.",
+    "difficulty": 3
+  },
+  {
+    "english": "wipe down the surfaces",
+    "vietnamese": "lau sạch các bề mặt",
+    "example": "Wipe down all surfaces with disinfectant.",
+    "difficulty": 2
+  },
+  {
+    "english": "grab a coffee",
+    "vietnamese": "mua vội ly cà phê",
+    "example": "Grabbing a coffee on the way to the office.",
+    "difficulty": 1
+  },
+  {
+    "english": "brew a fresh pot",
+    "vietnamese": "pha bình cà phê mới",
+    "example": "Brewing a fresh pot for the meeting.",
+    "difficulty": 2
+  },
+  {
+    "english": "eat in front of the TV",
+    "vietnamese": "ăn trước TV",
+    "example": "Eating dinner in front of the TV.",
+    "difficulty": 2
+  },
+  {
+    "english": "sit at the dining table",
+    "vietnamese": "ngồi vào bàn ăn",
+    "example": "Sitting at the dining table as a family.",
+    "difficulty": 2
+  },
+  {
+    "english": "coffee table",
+    "vietnamese": "bàn uống cà phê (phòng khách)",
+    "example": "A coffee table cluttered with magazines.",
+    "difficulty": 1
+  },
+  {
+    "english": "nightstand drawer",
+    "vietnamese": "ngăn kéo tủ đầu giường",
+    "example": "In the nightstand drawer, a book and a charger.",
+    "difficulty": 2
+  },
+  {
+    "english": "coat rack",
+    "vietnamese": "móc treo áo khoác",
+    "example": "A coat rack by the front door.",
+    "difficulty": 2
+  },
+  {
+    "english": "throw pillow",
+    "vietnamese": "gối tựa sofa",
+    "example": "Throw pillows making the couch cozy.",
+    "difficulty": 2
+  },
+  {
+    "english": "welcome mat",
+    "vietnamese": "thảm chùi chân trước cửa",
+    "example": "A welcome mat that says 'Go Away'.",
+    "difficulty": 2
+  }
+]
