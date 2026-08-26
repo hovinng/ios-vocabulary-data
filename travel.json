@@ -6028,5 +6028,743 @@
     "vietnamese": "bao đựng hộ chiếu",
     "example": "A leather passport holder protects your documents.",
     "difficulty": 2
+  },
+  {
+    "english": "tailwind",
+    "vietnamese": "gió xuôi (giúp bay nhanh hơn)",
+    "example": "A strong tailwind cut our flight time by forty minutes.",
+    "difficulty": 3
+  },
+  {
+    "english": "headwind",
+    "vietnamese": "gió ngược (làm chậm máy bay)",
+    "example": "The headwind added an extra hour to the crossing.",
+    "difficulty": 3
+  },
+  {
+    "english": "cabin pressurization",
+    "vietnamese": "áp suất khoang máy bay",
+    "example": "Cabin pressurization failure triggered the oxygen masks.",
+    "difficulty": 3
+  },
+  {
+    "english": "deplane",
+    "vietnamese": "rời khỏi máy bay",
+    "example": "Passengers deplaned through the rear exit due to a gate issue.",
+    "difficulty": 3
+  },
+  {
+    "english": "rebook a connection",
+    "vietnamese": "đặt lại chuyến nối",
+    "example": "The airline rebooked our connection before we even landed.",
+    "difficulty": 3
+  },
+  {
+    "english": "delay ripple",
+    "vietnamese": "hiệu ứng dây chuyền do trễ chuyến",
+    "example": "One late flight caused a delay ripple across the whole network.",
+    "difficulty": 3
+  },
+  {
+    "english": "standby upgrade",
+    "vietnamese": "nâng hạng chờ ghế trống",
+    "example": "We got a standby upgrade to first class at the gate.",
+    "difficulty": 3
+  },
+  {
+    "english": "codeshare flight",
+    "vietnamese": "chuyến bay chia sẻ mã (liên danh)",
+    "example": "The ticket shows a different airline because it's a codeshare flight.",
+    "difficulty": 3
+  },
+  {
+    "english": "butler service",
+    "vietnamese": "dịch vụ quản gia riêng",
+    "example": "The suite comes with 24-hour butler service.",
+    "difficulty": 3
+  },
+  {
+    "english": "honeymoon suite",
+    "vietnamese": "phòng suite trăng mật",
+    "example": "They were upgraded to the honeymoon suite on arrival.",
+    "difficulty": 3
+  },
+  {
+    "english": "penthouse floor",
+    "vietnamese": "tầng penthouse (cao nhất)",
+    "example": "The penthouse floor has a private terrace and jacuzzi.",
+    "difficulty": 3
+  },
+  {
+    "english": "rack rate",
+    "vietnamese": "giá niêm yết (hotel)",
+    "example": "The rack rate was double what we paid online.",
+    "difficulty": 3
+  },
+  {
+    "english": "incidental deposit",
+    "vietnamese": "tiền đặt cọc phát sinh",
+    "example": "The incidental deposit was released three days after checkout.",
+    "difficulty": 3
+  },
+  {
+    "english": "overbooking bump",
+    "vietnamese": "bị đẩy ra do đặt quá số phòng",
+    "example": "We got an overbooking bump to a nicer hotel at their expense.",
+    "difficulty": 3
+  },
+  {
+    "english": "palate cleanser",
+    "vietnamese": "món làm sạch vị giác (giữa các món)",
+    "example": "The lemon sorbet served as a palate cleanser between courses.",
+    "difficulty": 3
+  },
+  {
+    "english": "sommelier",
+    "vietnamese": "chuyên gia rượu vang",
+    "example": "The sommelier recommended a local red for our main course.",
+    "difficulty": 3
+  },
+  {
+    "english": "amuse-bouche",
+    "vietnamese": "món khai vị miễn phí (Pháp)",
+    "example": "The chef sent out an amuse-bouche of truffle foam.",
+    "difficulty": 3
+  },
+  {
+    "english": "deglaze",
+    "vietnamese": "khử đáy nồi (kỹ thuật nấu ăn)",
+    "example": "Deglaze the pan with wine to capture all the flavor.",
+    "difficulty": 3
+  },
+  {
+    "english": "farmed vs wild-caught",
+    "vietnamese": "nuôi trồng so với đánh bắt tự nhiên",
+    "example": "Always ask if the salmon is farmed or wild-caught.",
+    "difficulty": 3
+  },
+  {
+    "english": "biodiversity hotspot",
+    "vietnamese": "điểm nóng đa dạng sinh học",
+    "example": "Costa Rica is a biodiversity hotspot with thousands of species.",
+    "difficulty": 3
+  },
+  {
+    "english": "endemic species",
+    "vietnamese": "loài đặc hữu",
+    "example": "The island has many endemic species found nowhere else.",
+    "difficulty": 3
+  },
+  {
+    "english": "tidal bore",
+    "vietnamese": "sóng triều (ngược dòng sông)",
+    "example": "Surfers flock to the tidal bore on the full moon.",
+    "difficulty": 3
+  },
+  {
+    "english": "karst landscape",
+    "vietnamese": "địa hình karst (đá vôi)",
+    "example": "Ha Long Bay is famous for its dramatic karst landscape.",
+    "difficulty": 3
+  },
+  {
+    "english": "permafrost",
+    "vietnamese": "lớp băng vĩnh cửu (dưới đất)",
+    "example": "The permafrost is melting and damaging roads in the Arctic.",
+    "difficulty": 3
+  },
+  {
+    "english": "maglev train",
+    "vietnamese": "tàu đệm từ",
+    "example": "The maglev train glides to the airport at four hundred kilometers per hour.",
+    "difficulty": 3
+  },
+  {
+    "english": "rideshare carpool lane",
+    "vietnamese": "làn ưu tiên xe chung",
+    "example": "Use the rideshare carpool lane to skip the toll.",
+    "difficulty": 3
+  },
+  {
+    "english": "clip a speed camera",
+    "vietnamese": "bị bắn tốc độ",
+    "example": "We clipped a speed camera just outside the tunnel.",
+    "difficulty": 3
+  },
+  {
+    "english": "scenic byway",
+    "vietnamese": "tuyến đường đẹp (chỉ định)",
+    "example": "The coastal highway is a designated scenic byway.",
+    "difficulty": 3
+  },
+  {
+    "english": "decompression sickness",
+    "vietnamese": "bệnh giảm áp (khi lặn)",
+    "example": "Divers surface slowly to avoid decompression sickness.",
+    "difficulty": 3
+  },
+  {
+    "english": "rabies immunoglobulin",
+    "vietnamese": "globulin miễn dịch dại",
+    "example": "A monkey bite meant we needed rabies immunoglobulin immediately.",
+    "difficulty": 3
+  },
+  {
+    "english": "typhoid booster",
+    "vietnamese": "mũi tiêm nhắc thương hàn",
+    "example": "Get a typhoid booster if your last one was over two years ago.",
+    "difficulty": 3
+  },
+  {
+    "english": "tick-borne encephalitis",
+    "vietnamese": "viêm não do ve",
+    "example": "Hikers in the forest belt should vaccinate against tick-borne encephalitis.",
+    "difficulty": 3
+  },
+  {
+    "english": "dynamic currency conversion",
+    "vietnamese": "đổi tiền động (tại POS)",
+    "example": "Dynamic currency conversion usually has a terrible exchange rate.",
+    "difficulty": 3
+  },
+  {
+    "english": "mid-market rate",
+    "vietnamese": "tỷ giá trung bình thị trường",
+    "example": "A good exchange booth should be close to the mid-market rate.",
+    "difficulty": 3
+  },
+  {
+    "english": "forex spread",
+    "vietnamese": "chênh lệch mua-bán ngoại tệ",
+    "example": "Airport kiosks make their money on the forex spread.",
+    "difficulty": 3
+  },
+  {
+    "english": "per diem allowance",
+    "vietnamese": "phụ cấp công tác theo ngày",
+    "example": "My per diem allowance covers meals and incidentals.",
+    "difficulty": 3
+  },
+  {
+    "english": "vernacular architecture",
+    "vietnamese": "kiến trúc bản địa",
+    "example": "The village showcases vernacular architecture with mud-brick homes.",
+    "difficulty": 3
+  },
+  {
+    "english": "intangible heritage",
+    "vietnamese": "di sản phi vật thể",
+    "example": "The dance form is protected as UNESCO intangible heritage.",
+    "difficulty": 3
+  },
+  {
+    "english": "syncretic religion",
+    "vietnamese": "tôn giáo dung hợp",
+    "example": "The local faith is a syncretic religion blending Buddhism and animism.",
+    "difficulty": 3
+  },
+  {
+    "english": "matrilineal society",
+    "vietnamese": "xã hội mẫu hệ",
+    "example": "In this matrilineal society, property passes through the mother's line.",
+    "difficulty": 3
+  },
+  {
+    "english": "caste system remnants",
+    "vietnamese": "tàn tích hệ thống đẳng cấp",
+    "example": "Caste system remnants still influence village politics.",
+    "difficulty": 3
+  },
+  {
+    "english": "colonial architecture",
+    "vietnamese": "kiến trúc thuộc địa",
+    "example": "The city's colonial architecture reflects French and British rule.",
+    "difficulty": 3
+  },
+  {
+    "english": "declared value",
+    "vietnamese": "giá trị khai báo (bảo hiểm)",
+    "example": "List the declared value of your electronics for the policy.",
+    "difficulty": 3
+  },
+  {
+    "english": "pre-existing condition exclusion",
+    "vietnamese": "loại trừ bệnh có sẵn (bảo hiểm)",
+    "example": "Check the pre-existing condition exclusion before you buy coverage.",
+    "difficulty": 3
+  },
+  {
+    "english": "force majeure clause",
+    "vietnamese": "điều khoản bất khả kháng",
+    "example": "The tour operator invoked the force majeure clause after the earthquake.",
+    "difficulty": 3
+  },
+  {
+    "english": "indemnity waiver",
+    "vietnamese": "giấy từ bỏ quyền khiếu nại",
+    "example": "You sign an indemnity waiver before the bungee jump.",
+    "difficulty": 3
+  },
+  {
+    "english": "repatriation of remains",
+    "vietnamese": "đưa thi hài về nước",
+    "example": "The insurance covers repatriation of remains in case of death abroad.",
+    "difficulty": 3
+  },
+  {
+    "english": "decompression stop",
+    "vietnamese": "điểm dừng giảm áp (lặn)",
+    "example": "We made a five-minute decompression stop at fifteen feet.",
+    "difficulty": 3
+  },
+  {
+    "english": "nitrox certification",
+    "vietnamese": "chứng chỉ lặn nitrox",
+    "example": "A nitrox certification lets you stay underwater longer.",
+    "difficulty": 3
+  },
+  {
+    "english": "buoyancy control",
+    "vietnamese": "kiểm soát độ nổi (lặn)",
+    "example": "Good buoyancy control protects the reef from fin damage.",
+    "difficulty": 3
+  },
+  {
+    "english": "surface marker buoy",
+    "vietnamese": "phao đánh dấu bề mặt",
+    "example": "Deploy a surface marker buoy before ascending in open water.",
+    "difficulty": 3
+  },
+  {
+    "english": "crevasse",
+    "vietnamese": "khe nứt sông băng",
+    "example": "A hidden crevasse made the glacier crossing dangerous.",
+    "difficulty": 3
+  },
+  {
+    "english": "alpine start",
+    "vietnamese": "khởi hành sớm (leo núi)",
+    "example": "We had an alpine start at 2 am to reach the summit by noon.",
+    "difficulty": 3
+  },
+  {
+    "english": "base camp acclimatization",
+    "vietnamese": "thích nghi độ cao tại trại nền",
+    "example": "We spent three days at base camp for acclimatization.",
+    "difficulty": 3
+  },
+  {
+    "english": "scrambling route",
+    "vietnamese": "đường trèo hỗn hợp (đi bộ + leo)",
+    "example": "The ridge is a scrambling route, not a pure hike.",
+    "difficulty": 3
+  },
+  {
+    "english": "treeline altitude",
+    "vietnamese": "độ cao giới hạn cây mọc",
+    "example": "Above treeline altitude, nothing but rocks and snow exists.",
+    "difficulty": 3
+  },
+  {
+    "english": "safari drive ethics",
+    "vietnamese": "quy tắc săn ảnh động vật",
+    "example": "Safari drive ethics require staying on marked tracks only.",
+    "difficulty": 3
+  },
+  {
+    "english": "big five sighting",
+    "vietnamese": "bắt gặp Ngũ Đại (săn ảnh)",
+    "example": "We got a big five sighting by our second day in the reserve.",
+    "difficulty": 3
+  },
+  {
+    "english": "poaching patrol",
+    "vietnamese": "đội tuần tra chống săn trộm",
+    "example": "The park funds a poaching patrol to protect the rhinos.",
+    "difficulty": 3
+  },
+  {
+    "english": "nocturnal game drive",
+    "vietnamese": "săn ảnh động vật đêm",
+    "example": "A nocturnal game drive revealed leopards and bush babies.",
+    "difficulty": 3
+  },
+  {
+    "english": "positioning flight",
+    "vietnamese": "chuyến bay định vị (đến điểm bắt đầu hành trình chính)",
+    "example": "We booked a cheap positioning flight to start the real trip in Bangkok.",
+    "difficulty": 3
+  },
+  {
+    "english": "fuel dumping",
+    "vietnamese": "thủ thuật giảm phụ phí nhiên liệu",
+    "example": "Fuel dumping tricks knocked fifty percent off the fare.",
+    "difficulty": 3
+  },
+  {
+    "english": "error fare",
+    "vietnamese": "vé lỗi giá (do hệ thống)",
+    "example": "We grabbed an error fare to Tokyo for under a hundred dollars.",
+    "difficulty": 3
+  },
+  {
+    "english": "mattress run",
+    "vietnamese": "thuê phòng ảo chỉ để tích điểm",
+    "example": "A mattress run got us to platinum status before the year ended.",
+    "difficulty": 3
+  },
+  {
+    "english": "nesting itineraries",
+    "vietnamese": "xếp chồng lịch trình (ghép nhiều vé)",
+    "example": "Nesting itineraries saved us hundreds on the multi-city trip.",
+    "difficulty": 3
+  },
+  {
+    "english": "carbon offset",
+    "vietnamese": "bù đắp carbon",
+    "example": "The flight offered a carbon offset for a few extra dollars.",
+    "difficulty": 3
+  },
+  {
+    "english": "overtourism",
+    "vietnamese": "du lịch quá tải",
+    "example": "Overtourism has damaged the lagoon's fragile ecosystem.",
+    "difficulty": 3
+  },
+  {
+    "english": "leave-no-trace principles",
+    "vietnamese": "nguyên tắc không để lại dấu vết",
+    "example": "We followed leave-no-trace principles on the backcountry trail.",
+    "difficulty": 3
+  },
+  {
+    "english": "homestay cooperative",
+    "vietnamese": "hợp tác xã homestay",
+    "example": "The profits go to the homestay cooperative, not a chain.",
+    "difficulty": 3
+  },
+  {
+    "english": "diplomatic clearance",
+    "vietnamese": "thông quan ngoại giao",
+    "example": "The crew needed diplomatic clearance to land in that country.",
+    "difficulty": 3
+  },
+  {
+    "english": "overstay penalty",
+    "vietnamese": "phạt quá hạn visa",
+    "example": "The overstay penalty was two hundred dollars at the airport.",
+    "difficulty": 3
+  },
+  {
+    "english": "secondary screening",
+    "vietnamese": "kiểm tra bổ sung (an ninh)",
+    "example": "I was pulled aside for secondary screening at immigration.",
+    "difficulty": 3
+  },
+  {
+    "english": "visa reciprocity",
+    "vietnamese": "chính sách visa có đi có lại",
+    "example": "Visa reciprocity means our citizens pay the same fee.",
+    "difficulty": 3
+  },
+  {
+    "english": "entry denial",
+    "vietnamese": "từ chối nhập cảnh",
+    "example": "An entry denial stamp in your passport complicates future travel.",
+    "difficulty": 3
+  },
+  {
+    "english": "solo dining stigma",
+    "vietnamese": "mặc cảm ăn một mình",
+    "example": "She overcame the solo dining stigma by bringing a book.",
+    "difficulty": 3
+  },
+  {
+    "english": "loneliness threshold",
+    "vietnamese": "ngưỡng cô đơn (khi đi solo)",
+    "example": "Everyone has a loneliness threshold on long solo trips.",
+    "difficulty": 3
+  },
+  {
+    "english": "safety in numbers",
+    "vietnamese": "an toàn nhờ số đông",
+    "example": "At night, safety in numbers meant joining a group to the hostel.",
+    "difficulty": 3
+  },
+  {
+    "english": "via ferrata",
+    "vietnamese": "đường leo núi có dây bảo vệ",
+    "example": "The via ferrata crosses a sheer cliff face.",
+    "difficulty": 3
+  },
+  {
+    "english": "heliskiing",
+    "vietnamese": "trượt tuyết bằng trực thăng",
+    "example": "Heliskiing drops you on untouched powder in the backcountry.",
+    "difficulty": 3
+  },
+  {
+    "english": "ice climbing",
+    "vietnamese": "leo băng",
+    "example": "Ice climbing up the frozen waterfall was terrifying and beautiful.",
+    "difficulty": 3
+  },
+  {
+    "english": "cave diving",
+    "vietnamese": "lặn hang động",
+    "example": "Cave diving requires advanced certification beyond open water.",
+    "difficulty": 3
+  },
+  {
+    "english": "wingsuit",
+    "vietnamese": "bộ cánh bay (dù lượn ngang)",
+    "example": "Wingsuit pilots glide inches from the rock face.",
+    "difficulty": 3
+  },
+  {
+    "english": "golden ratio composition",
+    "vietnamese": "bố cục tỷ lệ vàng",
+    "example": "The golden ratio composition made the landscape shot museum-quality.",
+    "difficulty": 3
+  },
+  {
+    "english": "long-exposure light trail",
+    "vietnamese": "vệt sáng phơi lâu",
+    "example": "Long-exposure light trails from traffic looked like rivers of gold.",
+    "difficulty": 3
+  },
+  {
+    "english": "bracketing for HDR",
+    "vietnamese": "chụp dải để ghép HDR",
+    "example": "Bracketing for HDR balanced the bright sky and dark canyon.",
+    "difficulty": 3
+  },
+  {
+    "english": "prime lens fixed focal",
+    "vietnamese": "ống kính cố định tiêu cự",
+    "example": "A prime lens forces you to move and frame more deliberately.",
+    "difficulty": 3
+  },
+  {
+    "english": "mooring buoy",
+    "vietnamese": "phao neo thuyền",
+    "example": "We tied off to a mooring buoy inside the reef.",
+    "difficulty": 3
+  },
+  {
+    "english": "coral bleaching",
+    "vietnamese": "tẩy trắng san hô",
+    "example": "Coral bleaching turned the vibrant reef into a white graveyard.",
+    "difficulty": 3
+  },
+  {
+    "english": "swell forecast",
+    "vietnamese": "dự báo sóng lừng",
+    "example": "The swell forecast showed perfect waves for tomorrow.",
+    "difficulty": 3
+  },
+  {
+    "english": "dead reckoning navigation",
+    "vietnamese": "định vị ước đoán (hàng hải)",
+    "example": "Before GPS, sailors relied on dead reckoning navigation.",
+    "difficulty": 3
+  },
+  {
+    "english": "digital nomad visa",
+    "vietnamese": "visa du mục số",
+    "example": "Portugal offers a digital nomad visa for remote workers.",
+    "difficulty": 3
+  },
+  {
+    "english": "co-working retreat",
+    "vietnamese": "retreat làm việc chung",
+    "example": "The co-working retreat combined deadlines with surfing sessions.",
+    "difficulty": 3
+  },
+  {
+    "english": "geo-restricted content",
+    "vietnamese": "nội dung bị chặn theo vùng",
+    "example": "A VPN bypasses geo-restricted content when traveling abroad.",
+    "difficulty": 3
+  },
+  {
+    "english": "roaming charges cap",
+    "vietnamese": "giới hạn phí roaming",
+    "example": "The EU roaming charges cap means no surprise bills.",
+    "difficulty": 3
+  },
+  {
+    "english": "cyclone shelter",
+    "vietnamese": "hầm trú bão",
+    "example": "The cyclone shelter filled up quickly as the storm approached.",
+    "difficulty": 3
+  },
+  {
+    "english": "tsunami warning siren",
+    "vietnamese": "còi cảnh báo sóng thần",
+    "example": "The tsunami warning siren wailed across the beach town.",
+    "difficulty": 3
+  },
+  {
+    "english": "wildfire evacuation route",
+    "vietnamese": "đường sơ tán cháy rừng",
+    "example": "Know your wildfire evacuation route before hiking in summer.",
+    "difficulty": 3
+  },
+  {
+    "english": "avalanche transceiver",
+    "vietnamese": "máy phát tín hiệu tuyết lở",
+    "example": "Every skier carried an avalanche transceiver in the backcountry.",
+    "difficulty": 3
+  },
+  {
+    "english": "potable water source",
+    "vietnamese": "nguồn nước uống được",
+    "example": "We marked the nearest potable water source on our map.",
+    "difficulty": 3
+  },
+  {
+    "english": "dry season ford",
+    "vietnamese": "chỗ cạn qua sông mùa khô",
+    "example": "The dry season ford was impassable after yesterday's rain.",
+    "difficulty": 3
+  },
+  {
+    "english": "satellite messenger",
+    "vietnamese": "thiết bị nhắn tin vệ tinh",
+    "example": "A satellite messenger is essential beyond cell coverage.",
+    "difficulty": 3
+  },
+  {
+    "english": "cached supplies",
+    "vietnamese": "đồ tiếp tế giấu trước",
+    "example": "We cached supplies at the halfway camp before the desert crossing.",
+    "difficulty": 3
+  },
+  {
+    "english": "topographic map",
+    "vietnamese": "bản đồ địa hình",
+    "example": "The topographic map showed contour lines every twenty meters.",
+    "difficulty": 3
+  },
+  {
+    "english": "declination adjustment",
+    "vietnamese": "hiệu chỉnh độ từ thiên (la bàn)",
+    "example": "Set the declination adjustment before navigating with a compass.",
+    "difficulty": 3
+  },
+  {
+    "english": "triangulation",
+    "vietnamese": "phương pháp tam giác đạc",
+    "example": "Triangulation from two peaks gave us our exact position.",
+    "difficulty": 3
+  },
+  {
+    "english": "interline agreement",
+    "vietnamese": "thỏa thuận liên hãng hàng không",
+    "example": "An interline agreement lets one ticket cover multiple airlines.",
+    "difficulty": 3
+  },
+  {
+    "english": "fare class bucket",
+    "vietnamese": "hạng vé ẩn (fare bucket)",
+    "example": "The fare class bucket determines upgrade priority.",
+    "difficulty": 3
+  },
+  {
+    "english": "priceline opaque bid",
+    "vietnamese": "đấu giá mù (không biết tên khách sạn)",
+    "example": "A priceline opaque bid got us a four-star hotel for half price.",
+    "difficulty": 3
+  },
+  {
+    "english": "face-saving gesture",
+    "vietnamese": "cử chỉ giữ thể diện",
+    "example": "Refusing the gift would be a face-losing gesture here.",
+    "difficulty": 3
+  },
+  {
+    "english": "indigenous land acknowledgment",
+    "vietnamese": "công nhận đất tổ tiên bản địa",
+    "example": "The tour began with an indigenous land acknowledgment.",
+    "difficulty": 3
+  },
+  {
+    "english": "expat bubble",
+    "vietnamese": "bong bóng người nước ngoài (sống tách biệt)",
+    "example": "Living in the expat bubble means never learning the local language.",
+    "difficulty": 3
+  },
+  {
+    "english": "third-culture kid",
+    "vietnamese": "đứa trẻ nền văn hóa thứ ba",
+    "example": "Growing up as a third-culture kid gave her a unique worldview.",
+    "difficulty": 3
+  },
+  {
+    "english": "thermocline layer",
+    "vietnamese": "lớp phân tầng nhiệt (dưới nước)",
+    "example": "Below the thermocline layer, the water dropped ten degrees.",
+    "difficulty": 3
+  },
+  {
+    "english": "negative entry",
+    "vietnamese": "hạ xuống nhanh (lặn)",
+    "example": "A negative entry took us straight down through the current.",
+    "difficulty": 3
+  },
+  {
+    "english": "drift dive",
+    "vietnamese": "lặn theo dòng chảy",
+    "example": "The drift dive carried us effortlessly along the wall.",
+    "difficulty": 3
+  },
+  {
+    "english": "long-tail boat",
+    "vietnamese": "thuyền đuôi dài (Đông Nam Á)",
+    "example": "A long-tail boat took us to the floating village.",
+    "difficulty": 3
+  },
+  {
+    "english": "rickshaw meter dispute",
+    "vietnamese": "tranh cãi đồng hồ xe kéo",
+    "example": "A rickshaw meter dispute ended with us walking away.",
+    "difficulty": 3
+  },
+  {
+    "english": "tourist police",
+    "vietnamese": "cảnh sát du lịch",
+    "example": "The tourist police helped us file a report in English.",
+    "difficulty": 3
+  },
+  {
+    "english": "helipad",
+    "vietnamese": "sân đỗ trực thăng",
+    "example": "The resort has a helipad for VIP arrivals.",
+    "difficulty": 3
+  },
+  {
+    "english": "funicular railway",
+    "vietnamese": "đường sắt leo núi (cáp kéo)",
+    "example": "The funicular railway climbs the steep hill in five minutes.",
+    "difficulty": 3
+  },
+  {
+    "english": "zenithal rain",
+    "vietnamese": "mưa đỉnh thiên (xích đạo)",
+    "example": "Zenithal rain hits every afternoon during the wet season.",
+    "difficulty": 3
+  },
+  {
+    "english": "visa run",
+    "vietnamese": "chạy visa (xuất cảnh để gia hạn)",
+    "example": "We did a visa run to the border and back in one day.",
+    "difficulty": 3
+  },
+  {
+    "english": "biometric passport",
+    "vietnamese": "hộ chiếu sinh trắc (có chip)",
+    "example": "A biometric passport lets you use the automated gates.",
+    "difficulty": 3
   }
 ]
